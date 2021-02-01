@@ -3,9 +3,9 @@
 # --------------------------------------------
 # This is not 100% accurte for Google
 # --------------------------------------------
-# Source: https://bgp.he.net/search?search%5Bsearch%5D=google&commit=Search
+# Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Feb  1 21:47:31 +06 2021
+# Last Update - Mon Feb  1 21:55:09 +06 2021
 # --------------------------------------------
 # Total Prefixes: 8935
 # --------------------------------------------
