@@ -2,12 +2,12 @@
 # IPv4 prefix list of AS63293 AS54115 AS32934
 # --------------------------------------------
 # This list is not 100% accurate for Facebook,
-# becase of radb whois server. Contact radb for 
+# because of radb whois server. Contact radb for 
 # further information. website: www.radb.net
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Tue Feb  2 13:50:45 +06 2021
+# Last Update - Tue Feb  2 14:02:51 +06 2021
 # --------------------------------------------
 # Total Prefixes: 233
 # --------------------------------------------
