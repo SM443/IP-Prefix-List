@@ -4,11 +4,10 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Tue Feb  2 18:00:08 +06 2021
+# Last Update - Wed Feb  3 06:00:07 +06 2021
 # --------------------------------------------
-# Total Prefixes: 1
+# Total Prefixes: 0
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=103.247.204.0/24 list=FreeFire-Garena
