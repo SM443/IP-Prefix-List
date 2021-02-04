@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Feb  3 18:00:06 +06 2021
+# Last Update - Thu Feb  4 06:00:45 +06 2021
 # --------------------------------------------
-# Total Prefixes: 170
+# Total Prefixes: 183
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -115,6 +115,14 @@ add address=157.240.6.0/24 list=FACEBOOK
 add address=157.240.7.0/24 list=FACEBOOK
 add address=157.240.8.0/24 list=FACEBOOK
 add address=157.240.9.0/24 list=FACEBOOK
+add address=163.114.128.0/20 list=FACEBOOK
+add address=163.114.128.0/24 list=FACEBOOK
+add address=163.114.129.0/24 list=FACEBOOK
+add address=163.114.130.0/24 list=FACEBOOK
+add address=163.114.131.0/24 list=FACEBOOK
+add address=163.114.132.0/24 list=FACEBOOK
+add address=163.114.133.0/24 list=FACEBOOK
+add address=163.114.134.0/24 list=FACEBOOK
 add address=173.252.64.0/18 list=FACEBOOK
 add address=173.252.64.0/19 list=FACEBOOK
 add address=173.252.88.0/21 list=FACEBOOK
@@ -133,6 +141,11 @@ add address=185.89.216.0/22 list=FACEBOOK
 add address=185.89.218.0/23 list=FACEBOOK
 add address=185.89.218.0/24 list=FACEBOOK
 add address=185.89.219.0/24 list=FACEBOOK
+add address=199.201.64.0/22 list=FACEBOOK
+add address=199.201.64.0/24 list=FACEBOOK
+add address=199.201.65.0/24 list=FACEBOOK
+add address=199.201.66.0/24 list=FACEBOOK
+add address=199.201.67.0/24 list=FACEBOOK
 add address=204.15.20.0/22 list=FACEBOOK
 add address=31.13.24.0/21 list=FACEBOOK
 add address=31.13.64.0/18 list=FACEBOOK
