@@ -1,11 +1,11 @@
 # --------------------------------------------
-# IPv4 aggregate prefix list of Facebook.
+# IPv4 aggregate prefix list of AS10122
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Feb  5 17:42:10 +06 2021
+# Last Update - Fri Feb  5 19:35:33 +06 2021
 # --------------------------------------------
-# Total Prefixes: 155
+# Total Prefixes: 151
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -155,13 +155,9 @@ add address=31.13.89.0/24 list=FACEBOOK
 add address=31.13.92.0/24 list=FACEBOOK
 add address=31.13.93.0/24 list=FACEBOOK
 add address=31.13.96.0/19 list=FACEBOOK
-add address=32934:Filter=ACCEPTAggregates list=FACEBOOK
 add address=45.64.40.0/22 list=FACEBOOK
-add address=54115:Filter=ACCEPTAggregates list=FACEBOOK
 add address=66.220.144.0/20 list=FACEBOOK
 add address=69.171.224.0/19 list=FACEBOOK
 add address=69.171.250.0/24 list=FACEBOOK
 add address=69.63.176.0/20 list=FACEBOOK
 add address=74.119.76.0/22 list=FACEBOOK
-add address===================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================== list=FACEBOOK
-add address=as-reportv4.4(gih)24/02/14 list=FACEBOOK

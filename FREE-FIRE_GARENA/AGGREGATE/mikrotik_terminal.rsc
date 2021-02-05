@@ -1,11 +1,11 @@
 # --------------------------------------------
-# IPv4 aggregate prefix list of AS10122
+# IPv4 aggregate prefix list of FreeFire-Garena
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Feb  5 17:55:00 +06 2021
+# Last Update - Fri Feb  5 19:35:40 +06 2021
 # --------------------------------------------
-# Total Prefixes: 29
+# Total Prefixes: 28
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -21,8 +21,7 @@ add address=124.158.133.0/24 list=FreeFire-Garena
 add address=124.158.134.0/23 list=FreeFire-Garena
 add address=124.158.142.0/23 list=FreeFire-Garena
 add address=143.92.112.0/23 list=FreeFire-Garena
-add address=143.92.114.0/24 list=FreeFire-Garena
-add address=143.92.115.0/24 list=FreeFire-Garena
+add address=143.92.114.0/23 list=FreeFire-Garena
 add address=143.92.120.0/22 list=FreeFire-Garena
 add address=143.92.124.0/24 list=FreeFire-Garena
 add address=143.92.125.0/24 list=FreeFire-Garena
