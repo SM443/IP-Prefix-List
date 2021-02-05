@@ -2,14 +2,14 @@
 # IPv4 prefix list of Microsoft.
 # --------------------------------------------
 # This list is not 100% accurate for Microsoft,
-# becase of radb whois server. Contact radb for 
+# because of radb whois server. Contact radb for 
 # further information. website: www.radb.net
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Tue Feb  2 13:47:34 +06 2021
+# Last Update - Fri Feb  5 12:22:34 +06 2021
 # --------------------------------------------
-# Total Prefixes: 638
+# Total Prefixes: 641
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -446,6 +446,8 @@ add address=20.47.5.0/24 list=MICROSOFT
 add address=20.47.50.0/24 list=MICROSOFT
 add address=20.47.51.0/24 list=MICROSOFT
 add address=20.47.53.0/24 list=MICROSOFT
+add address=20.47.54.0/24 list=MICROSOFT
+add address=20.47.55.0/24 list=MICROSOFT
 add address=20.47.56.0/24 list=MICROSOFT
 add address=20.47.57.0/24 list=MICROSOFT
 add address=20.47.58.0/23 list=MICROSOFT
@@ -461,6 +463,7 @@ add address=20.47.69.0/24 list=MICROSOFT
 add address=20.47.7.0/24 list=MICROSOFT
 add address=20.47.70.0/24 list=MICROSOFT
 add address=20.47.71.0/24 list=MICROSOFT
+add address=20.47.74.0/24 list=MICROSOFT
 add address=20.47.76.0/23 list=MICROSOFT
 add address=20.47.78.0/23 list=MICROSOFT
 add address=20.47.8.0/24 list=MICROSOFT
