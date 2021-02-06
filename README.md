@@ -20,7 +20,7 @@ PUBG_TENCENT: `AS58835` `AS45090` `AS137876` `AS133478` `AS132591` `AS132203` <b
 ## Which whois servers I used?
 1. `whois.apnic.net`<br>
 2. `whois.afrinic.net`<br>
-3. `whois.ripe.net`<br>
+3. `riswhois.ripe.net`<br>
 4. `whois.arin.net`<br>
 <br>
 -- Thank You.
