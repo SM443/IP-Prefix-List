@@ -13,7 +13,7 @@ Add two rules for TCP and UDP with destination ports namely ports 3478, 3479, 50
 
 The following commands are used:
 `add chain = prerouting dst-address-list =! zoom_ip dst-port = 3478,3479,5090,5091,8801-8810 
-protocol = tcp action = add-dst-to-address-list address-list = zoom_ip;
+protocol = tcp action = add-dst-to-address-list address-list = zoom_ip;`
  
-add chain = prerouting dst-address-list =! zoom_ip dst-port = 3478,3479,5090,5091,8801-8810 
+`add chain = prerouting dst-address-list =! zoom_ip dst-port = 3478,3479,5090,5091,8801-8810 
 protocol = udp action = add-dst-to-address-list address-list = zoom_ip;`
