@@ -11,7 +11,7 @@ add chain = prerouting dst-address-list =! zoom_ip dst-port = 3478,3479,5090,509
 ```
 The two rules above are used to add new IPs that are not yet registered in Address-Lists. The Address-Lists name is created the same as the import list, namely ”ZOOM” and
 will be updated automatically when there is a new connection Zoom.
-## Source
+## Set priority and Bandwidth management
 Read more at: [Technology Software Center](https://rebrand.ly/n0d)
 <br><br>
 -- Thank You.
