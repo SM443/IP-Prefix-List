@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Tue Feb  9 19:01:13 +06 2021
+# Last Update - Wed Feb 10 07:01:10 +06 2021
 # --------------------------------------------
-# Total Prefixes: 642
+# Total Prefixes: 647
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -351,6 +351,7 @@ add address=195.134.224.0/19 list=MICROSOFT
 add address=198.105.232.0/22 list=MICROSOFT
 add address=198.180.74.0/24 list=MICROSOFT
 add address=198.180.75.0/24 list=MICROSOFT
+add address=198.180.95.0/24 list=MICROSOFT
 add address=198.180.97.0/24 list=MICROSOFT
 add address=198.200.130.0/24 list=MICROSOFT
 add address=198.206.164.0/24 list=MICROSOFT
@@ -418,6 +419,7 @@ add address=20.47.118.0/24 list=MICROSOFT
 add address=20.47.119.0/24 list=MICROSOFT
 add address=20.47.12.0/24 list=MICROSOFT
 add address=20.47.120.0/23 list=MICROSOFT
+add address=20.47.122.0/24 list=MICROSOFT
 add address=20.47.124.0/23 list=MICROSOFT
 add address=20.47.126.0/23 list=MICROSOFT
 add address=20.47.13.0/24 list=MICROSOFT
@@ -436,6 +438,7 @@ add address=20.47.29.0/24 list=MICROSOFT
 add address=20.47.3.0/24 list=MICROSOFT
 add address=20.47.30.0/24 list=MICROSOFT
 add address=20.47.31.0/24 list=MICROSOFT
+add address=20.47.37.0/24 list=MICROSOFT
 add address=20.47.38.0/24 list=MICROSOFT
 add address=20.47.4.0/24 list=MICROSOFT
 add address=20.47.42.0/24 list=MICROSOFT
@@ -604,6 +607,8 @@ add address=52.125.0.0/16 list=MICROSOFT
 add address=52.126.0.0/15 list=MICROSOFT
 add address=52.136.0.0/13 list=MICROSOFT
 add address=52.136.176.0/23 list=MICROSOFT
+add address=52.140.232.0/23 list=MICROSOFT
+add address=52.140.248.0/23 list=MICROSOFT
 add address=52.146.0.0/15 list=MICROSOFT
 add address=52.148.0.0/14 list=MICROSOFT
 add address=52.152.0.0/13 list=MICROSOFT
