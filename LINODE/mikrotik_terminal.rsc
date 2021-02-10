@@ -1,13 +1,13 @@
 # --------------------------------------------
 # IPv4 prefix list of LINODE
 # --------------------------------------------
-# This list is not 100% accurate for Facebook,
+# This list is not 100% accurate for Linode,
 # because of radb whois server. Contact radb for 
 # further information. website: www.radb.net
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Thu Feb 11 04:06:56 +06 2021
+# Last Update - Thu Feb 11 04:10:40 +06 2021
 # --------------------------------------------
 # Total Prefixes: 203
 # --------------------------------------------
