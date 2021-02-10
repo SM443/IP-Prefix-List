@@ -4,8 +4,11 @@ Please note, not all IPs used by Zoom servers are in this script. To add automat
 Add two rules for TCP and UDP with destination ports namely ports 3478, 3479, 5090, 5091, 8801-8810 (in addition to 80 and 443 ).
 
 The following commands are used:<br>
-`/ ip firewall mangle
+```
+/ip firewall mangle
 add chain = prerouting dst-address-list =! zoom_ip dst-port = 3478,3479,5090,5091,8801-8810 
-protocol = tcp action = add-dst-to-address-list address-list = ZOOM;`<br>
+protocol = tcp action = add-dst-to-address-list address-list = zoom_ip;
+ 
 add chain = prerouting dst-address-list =! zoom_ip dst-port = 3478,3479,5090,5091,8801-8810 
-protocol = udp action = add-dst-to-address-list address-list = ZOOM;`
+protocol = udp action = add-dst-to-address-list address-list = zoom_ip;
+```
