@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Thu Feb 11 19:01:12 +06 2021
+# Last Update - Fri Feb 12 07:04:22 +06 2021
 # --------------------------------------------
-# Total Prefixes: 647
+# Total Prefixes: 657
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -327,6 +327,7 @@ add address=168.62.0.0/15 list=MICROSOFT
 add address=169.138.0.0/16 list=MICROSOFT
 add address=170.110.229.0/24 list=MICROSOFT
 add address=170.165.0.0/16 list=MICROSOFT
+add address=185.209.209.0/24 list=MICROSOFT
 add address=185.236.124.0/24 list=MICROSOFT
 add address=191.232.0.0/13 list=MICROSOFT
 add address=192.100.104.0/21 list=MICROSOFT
@@ -375,8 +376,11 @@ add address=20.152.0.0/16 list=MICROSOFT
 add address=20.153.0.0/16 list=MICROSOFT
 add address=20.157.0.0/16 list=MICROSOFT
 add address=20.157.2.0/24 list=MICROSOFT
+add address=20.157.32.0/24 list=MICROSOFT
+add address=20.157.34.0/23 list=MICROSOFT
 add address=20.157.36.0/23 list=MICROSOFT
 add address=20.157.43.0/24 list=MICROSOFT
+add address=20.157.96.0/24 list=MICROSOFT
 add address=20.158.0.0/15 list=MICROSOFT
 add address=20.160.0.0/12 list=MICROSOFT
 add address=20.184.0.0/13 list=MICROSOFT
@@ -394,6 +398,7 @@ add address=20.46.144.0/20 list=MICROSOFT
 add address=20.46.192.0/19 list=MICROSOFT
 add address=20.46.32.0/19 list=MICROSOFT
 add address=20.46.32.0/24 list=MICROSOFT
+add address=20.47.0.0/17 list=MICROSOFT
 add address=20.47.1.0/24 list=MICROSOFT
 add address=20.47.10.0/24 list=MICROSOFT
 add address=20.47.100.0/24 list=MICROSOFT
@@ -419,6 +424,7 @@ add address=20.47.118.0/24 list=MICROSOFT
 add address=20.47.119.0/24 list=MICROSOFT
 add address=20.47.12.0/24 list=MICROSOFT
 add address=20.47.120.0/23 list=MICROSOFT
+add address=20.47.122.0/23 list=MICROSOFT
 add address=20.47.122.0/24 list=MICROSOFT
 add address=20.47.124.0/23 list=MICROSOFT
 add address=20.47.126.0/23 list=MICROSOFT
@@ -467,6 +473,7 @@ add address=20.47.69.0/24 list=MICROSOFT
 add address=20.47.7.0/24 list=MICROSOFT
 add address=20.47.70.0/24 list=MICROSOFT
 add address=20.47.71.0/24 list=MICROSOFT
+add address=20.47.74.0/23 list=MICROSOFT
 add address=20.47.74.0/24 list=MICROSOFT
 add address=20.47.76.0/23 list=MICROSOFT
 add address=20.47.78.0/23 list=MICROSOFT
@@ -612,9 +619,12 @@ add address=52.140.248.0/23 list=MICROSOFT
 add address=52.146.0.0/15 list=MICROSOFT
 add address=52.148.0.0/14 list=MICROSOFT
 add address=52.152.0.0/13 list=MICROSOFT
+add address=52.155.174.0/23 list=MICROSOFT
 add address=52.160.0.0/11 list=MICROSOFT
 add address=52.224.0.0/11 list=MICROSOFT
 add address=52.239.232.0/24 list=MICROSOFT
+add address=52.240.232.0/23 list=MICROSOFT
+add address=52.246.86.0/23 list=MICROSOFT
 add address=52.96.0.0/12 list=MICROSOFT
 add address=52.96.0.0/14 list=MICROSOFT
 add address=52.96.38.0/24 list=MICROSOFT
