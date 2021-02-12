@@ -6,7 +6,7 @@ Every 12 Hours
 
 ## How to use?
 You can copy the contents of the mikrotik_terminal.rsc file and paste it to your  Mikrotik winbox terminal. Or you can download the mikrotik_terminal.rsc file and upload it to your routers' file manager and run the below command:<br><br>
-`import file=mikrotik_terminal.rsc`
+`import file-name=mikrotik_terminal.rsc`
 
 ## ASN information
 AKAMAI: `AS12222` `AS133103` `AS16625` `AS16702` `AS17204` `AS17334` `AS18680` `AS18717` `AS20189` `AS20940` `AS213120` `AS21342` `AS21357` `AS21399` `AS22207` `AS22452` `AS23454` `AS23455` `AS23903` `AS24319` `AS26008` `AS30675` `AS31107` `AS31108` `AS31109` `AS31110` `AS31377` `AS32787` `AS33047` `AS33905` `AS34164` `AS34850` `AS35204` `AS35993` `AS35994` `AS36029` `AS36183` `AS393234` `AS393560` `AS39836` `AS43639` `AS45700` `AS48163` `AS49249` `AS49846` `AS55409` `AS55770` <br><br>
