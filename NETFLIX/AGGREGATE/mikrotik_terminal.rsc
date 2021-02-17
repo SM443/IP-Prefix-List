@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Feb 16 19:11:12 +06 2021
+# Last Update - Wed Feb 17 07:07:35 +06 2021
 # --------------------------------------------
 # Total Prefixes: 98
 # --------------------------------------------
@@ -96,7 +96,7 @@ add address=69.53.224.0/19 list=NETFLIX
 add address=69.53.226.0/24 list=NETFLIX
 add address=69.53.227.0/24 list=NETFLIX
 add address=69.53.229.0/24 list=NETFLIX
-add address=69.53.230.0/23 list=NETFLIX
+add address=69.53.231.0/24 list=NETFLIX
 add address=69.53.232.0/24 list=NETFLIX
 add address=69.53.233.0/24 list=NETFLIX
 add address=69.53.234.0/24 list=NETFLIX
