@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Thu Feb 18 19:00:37 +06 2021
+# Last Update - Fri Feb 19 07:05:05 +06 2021
 # --------------------------------------------
-# Total Prefixes: 8942
+# Total Prefixes: 8937
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -3092,10 +3092,7 @@ add address=108.59.94.0/24 list=GOOGLE
 add address=108.59.95.0/24 list=GOOGLE
 add address=109.235.99.0/24 list=GOOGLE
 add address=109.68.56.0/21 list=GOOGLE
-add address=113.197.104.0/24 list=GOOGLE
-add address=113.197.105.0/24 list=GOOGLE
 add address=113.197.106.0/24 list=GOOGLE
-add address=113.197.107.0/24 list=GOOGLE
 add address=117.120.16.0/21 list=GOOGLE
 add address=12.216.80.0/24 list=GOOGLE
 add address=13.109.176.0/22 list=GOOGLE
@@ -6971,7 +6968,6 @@ add address=199.36.155.0/24 list=GOOGLE
 add address=199.36.156.0/23 list=GOOGLE
 add address=199.36.156.0/24 list=GOOGLE
 add address=199.36.157.0/24 list=GOOGLE
-add address=199.36.158.0/23 list=GOOGLE
 add address=199.47.186.0/24 list=GOOGLE
 add address=199.47.187.0/24 list=GOOGLE
 add address=199.91.151.0/24 list=GOOGLE
@@ -8059,7 +8055,6 @@ add address=35.243.32.0/19 list=GOOGLE
 add address=35.243.64.0/19 list=GOOGLE
 add address=35.243.96.0/19 list=GOOGLE
 add address=35.244.0.0/14 list=GOOGLE
-add address=38.97.108.0/24 list=GOOGLE
 add address=43.229.32.0/22 list=GOOGLE
 add address=43.229.32.0/23 list=GOOGLE
 add address=43.229.34.0/23 list=GOOGLE
