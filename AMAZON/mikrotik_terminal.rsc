@@ -7,16 +7,15 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Feb 22 07:02:07 +06 2021
+# Last Update - Mon Feb 22 19:03:14 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13300
+# Total Prefixes: 13295
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=100.20.0.0/14 list=AMAZON
 add address=100.24.0.0/13 list=AMAZON
-add address=103.110.107.0/24 list=AMAZON
 add address=103.115.236.0/24 list=AMAZON
 add address=103.115.237.0/24 list=AMAZON
 add address=103.115.238.0/24 list=AMAZON
@@ -61,7 +60,6 @@ add address=103.226.71.0/24 list=AMAZON
 add address=103.229.10.0/24 list=AMAZON
 add address=103.229.8.0/24 list=AMAZON
 add address=103.229.9.0/24 list=AMAZON
-add address=103.233.120.0/24 list=AMAZON
 add address=103.235.88.0/24 list=AMAZON
 add address=103.237.32.0/22 list=AMAZON
 add address=103.238.120.0/24 list=AMAZON
@@ -5128,7 +5126,6 @@ add address=151.148.1.0/24 list=AMAZON
 add address=151.216.0.0/23 list=AMAZON
 add address=152.129.248.0/23 list=AMAZON
 add address=152.129.250.0/23 list=AMAZON
-add address=154.16.136.0/24 list=AMAZON
 add address=155.146.0.0/20 list=AMAZON
 add address=155.146.112.0/20 list=AMAZON
 add address=155.146.128.0/20 list=AMAZON
@@ -5913,7 +5910,6 @@ add address=199.68.157.0/24 list=AMAZON
 add address=199.85.125.0/24 list=AMAZON
 add address=199.9.15.0/24 list=AMAZON
 add address=199.91.149.0/24 list=AMAZON
-add address=2.57.16.0/24 list=AMAZON
 add address=2.59.128.0/22 list=AMAZON
 add address=202.128.99.0/24 list=AMAZON
 add address=202.144.196.0/24 list=AMAZON
@@ -5957,7 +5953,6 @@ add address=203.25.139.0/24 list=AMAZON
 add address=203.27.226.0/23 list=AMAZON
 add address=203.27.226.0/24 list=AMAZON
 add address=203.27.227.0/24 list=AMAZON
-add address=203.78.130.0/24 list=AMAZON
 add address=203.83.220.0/22 list=AMAZON
 add address=203.83.220.0/23 list=AMAZON
 add address=203.83.220.0/24 list=AMAZON
