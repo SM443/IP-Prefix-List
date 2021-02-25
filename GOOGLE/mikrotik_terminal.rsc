@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Feb 24 19:00:36 +06 2021
+# Last Update - Thu Feb 25 07:00:35 +06 2021
 # --------------------------------------------
-# Total Prefixes: 8943
+# Total Prefixes: 9007
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -7641,6 +7641,70 @@ add address=34.124.0.0/14 list=GOOGLE
 add address=34.124.84.0/22 list=GOOGLE
 add address=34.127.192.0/18 list=GOOGLE
 add address=34.128.0.0/10 list=GOOGLE
+add address=34.128.0.0/16 list=GOOGLE
+add address=34.129.0.0/16 list=GOOGLE
+add address=34.130.0.0/16 list=GOOGLE
+add address=34.131.0.0/16 list=GOOGLE
+add address=34.132.0.0/16 list=GOOGLE
+add address=34.133.0.0/16 list=GOOGLE
+add address=34.134.0.0/16 list=GOOGLE
+add address=34.135.0.0/16 list=GOOGLE
+add address=34.136.0.0/16 list=GOOGLE
+add address=34.137.0.0/16 list=GOOGLE
+add address=34.138.0.0/16 list=GOOGLE
+add address=34.139.0.0/16 list=GOOGLE
+add address=34.140.0.0/16 list=GOOGLE
+add address=34.141.0.0/16 list=GOOGLE
+add address=34.142.0.0/16 list=GOOGLE
+add address=34.143.0.0/16 list=GOOGLE
+add address=34.144.0.0/16 list=GOOGLE
+add address=34.145.0.0/16 list=GOOGLE
+add address=34.146.0.0/16 list=GOOGLE
+add address=34.147.0.0/16 list=GOOGLE
+add address=34.148.0.0/16 list=GOOGLE
+add address=34.149.0.0/16 list=GOOGLE
+add address=34.150.0.0/16 list=GOOGLE
+add address=34.151.0.0/16 list=GOOGLE
+add address=34.152.0.0/16 list=GOOGLE
+add address=34.153.0.0/16 list=GOOGLE
+add address=34.154.0.0/16 list=GOOGLE
+add address=34.155.0.0/16 list=GOOGLE
+add address=34.156.0.0/16 list=GOOGLE
+add address=34.157.0.0/16 list=GOOGLE
+add address=34.158.0.0/16 list=GOOGLE
+add address=34.159.0.0/16 list=GOOGLE
+add address=34.160.0.0/16 list=GOOGLE
+add address=34.161.0.0/16 list=GOOGLE
+add address=34.162.0.0/16 list=GOOGLE
+add address=34.163.0.0/16 list=GOOGLE
+add address=34.164.0.0/16 list=GOOGLE
+add address=34.165.0.0/16 list=GOOGLE
+add address=34.166.0.0/16 list=GOOGLE
+add address=34.167.0.0/16 list=GOOGLE
+add address=34.168.0.0/16 list=GOOGLE
+add address=34.169.0.0/16 list=GOOGLE
+add address=34.170.0.0/16 list=GOOGLE
+add address=34.171.0.0/16 list=GOOGLE
+add address=34.172.0.0/16 list=GOOGLE
+add address=34.173.0.0/16 list=GOOGLE
+add address=34.174.0.0/16 list=GOOGLE
+add address=34.175.0.0/16 list=GOOGLE
+add address=34.176.0.0/16 list=GOOGLE
+add address=34.177.0.0/16 list=GOOGLE
+add address=34.178.0.0/16 list=GOOGLE
+add address=34.179.0.0/16 list=GOOGLE
+add address=34.180.0.0/16 list=GOOGLE
+add address=34.181.0.0/16 list=GOOGLE
+add address=34.182.0.0/16 list=GOOGLE
+add address=34.183.0.0/16 list=GOOGLE
+add address=34.184.0.0/16 list=GOOGLE
+add address=34.185.0.0/16 list=GOOGLE
+add address=34.186.0.0/16 list=GOOGLE
+add address=34.187.0.0/16 list=GOOGLE
+add address=34.188.0.0/16 list=GOOGLE
+add address=34.189.0.0/16 list=GOOGLE
+add address=34.190.0.0/16 list=GOOGLE
+add address=34.191.0.0/16 list=GOOGLE
 add address=34.64.0.0/10 list=GOOGLE
 add address=34.64.0.0/11 list=GOOGLE
 add address=34.64.0.0/14 list=GOOGLE
