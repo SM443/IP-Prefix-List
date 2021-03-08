@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Mar  8 07:02:09 +06 2021
+# Last Update - Mon Mar  8 19:02:15 +06 2021
 # --------------------------------------------
 # Total Prefixes: 13333
 # --------------------------------------------
@@ -5988,7 +5988,6 @@ add address=203.83.222.0/23 list=AMAZON
 add address=203.83.222.0/24 list=AMAZON
 add address=203.83.223.0/24 list=AMAZON
 add address=203.83.4.0/24 list=AMAZON
-add address=203.89.106.0/24 list=AMAZON
 add address=204.110.218.0/24 list=AMAZON
 add address=204.110.220.0/24 list=AMAZON
 add address=204.110.221.0/24 list=AMAZON
@@ -6347,6 +6346,7 @@ add address=3.4.1.0/24 list=AMAZON
 add address=3.4.2.0/24 list=AMAZON
 add address=3.4.3.0/24 list=AMAZON
 add address=3.4.4.0/24 list=AMAZON
+add address=3.4.6.0/24 list=AMAZON
 add address=3.5.0.0/16 list=AMAZON
 add address=3.5.0.0/17 list=AMAZON
 add address=3.5.0.0/18 list=AMAZON
