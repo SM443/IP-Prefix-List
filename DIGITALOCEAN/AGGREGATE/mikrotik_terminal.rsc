@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Mar 11 07:07:38 +06 2021
+# Last Update - Thu Mar 11 19:07:30 +06 2021
 # --------------------------------------------
 # Total Prefixes: 431
 # --------------------------------------------
@@ -116,7 +116,7 @@ add address=143.110.208.0/20 list=DigitalOcean
 add address=143.110.224.0/20 list=DigitalOcean
 add address=143.110.240.0/20 list=DigitalOcean
 add address=143.198.0.0/19 list=DigitalOcean
-add address=143.198.192.0/20 list=DigitalOcean
+add address=143.198.192.0/19 list=DigitalOcean
 add address=143.198.224.0/20 list=DigitalOcean
 add address=143.198.240.0/22 list=DigitalOcean
 add address=143.198.248.0/22 list=DigitalOcean
