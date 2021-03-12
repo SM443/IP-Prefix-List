@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Fri Mar 12 07:02:52 +06 2021
+# Last Update - Fri Mar 12 19:03:02 +06 2021
 # --------------------------------------------
-# Total Prefixes: 744
+# Total Prefixes: 746
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -208,6 +208,7 @@ add address=143.198.192.0/20 list=DIGITALOCEAN
 add address=143.198.208.0/20 list=DIGITALOCEAN
 add address=143.198.224.0/20 list=DIGITALOCEAN
 add address=143.198.240.0/22 list=DIGITALOCEAN
+add address=143.198.244.0/22 list=DIGITALOCEAN
 add address=143.198.248.0/22 list=DIGITALOCEAN
 add address=143.198.252.0/22 list=DIGITALOCEAN
 add address=143.198.32.0/20 list=DIGITALOCEAN
@@ -389,6 +390,7 @@ add address=164.90.244.0/22 list=DIGITALOCEAN
 add address=164.90.248.0/24 list=DIGITALOCEAN
 add address=164.90.249.0/24 list=DIGITALOCEAN
 add address=164.90.250.0/24 list=DIGITALOCEAN
+add address=164.90.251.0/24 list=DIGITALOCEAN
 add address=164.90.252.0/22 list=DIGITALOCEAN
 add address=165.22.0.0/16 list=DIGITALOCEAN
 add address=165.22.0.0/20 list=DIGITALOCEAN
