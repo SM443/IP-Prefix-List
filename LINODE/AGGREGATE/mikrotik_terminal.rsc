@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sat Mar 13 19:07:15 +06 2021
+# Last Update - Sun Mar 14 07:11:36 +06 2021
 # --------------------------------------------
-# Total Prefixes: 161
+# Total Prefixes: 150
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -13,11 +13,9 @@
 add address=103.29.68.0/22 list=LINODE
 add address=103.3.60.0/22 list=LINODE
 add address=104.200.16.0/21 list=LINODE
-add address=104.200.24.0/22 list=LINODE
-add address=104.200.28.0/22 list=LINODE
+add address=104.200.24.0/21 list=LINODE
 add address=104.237.128.0/20 list=LINODE
-add address=104.237.144.0/21 list=LINODE
-add address=104.237.152.0/21 list=LINODE
+add address=104.237.144.0/20 list=LINODE
 add address=109.237.24.0/22 list=LINODE
 add address=109.74.192.0/20 list=LINODE
 add address=139.162.0.0/18 list=LINODE
@@ -56,16 +54,14 @@ add address=172.105.254.0/23 list=LINODE
 add address=172.105.32.0/19 list=LINODE
 add address=172.105.64.0/19 list=LINODE
 add address=172.105.96.0/20 list=LINODE
-add address=173.230.128.0/20 list=LINODE
-add address=173.230.144.0/20 list=LINODE
-add address=173.255.192.0/19 list=LINODE
-add address=173.255.224.0/20 list=LINODE
-add address=173.255.240.0/20 list=LINODE
+add address=173.230.128.0/19 list=LINODE
+add address=173.255.192.0/20 list=LINODE
+add address=173.255.208.0/20 list=LINODE
+add address=173.255.224.0/19 list=LINODE
 add address=176.58.96.0/19 list=LINODE
 add address=178.79.128.0/18 list=LINODE
 add address=185.3.92.0/22 list=LINODE
-add address=192.155.80.0/21 list=LINODE
-add address=192.155.88.0/21 list=LINODE
+add address=192.155.80.0/20 list=LINODE
 add address=192.46.208.0/21 list=LINODE
 add address=192.46.216.0/22 list=LINODE
 add address=192.46.220.0/23 list=LINODE
@@ -81,9 +77,7 @@ add address=192.53.170.0/23 list=LINODE
 add address=192.53.172.0/22 list=LINODE
 add address=192.81.128.0/21 list=LINODE
 add address=198.58.96.0/19 list=LINODE
-add address=198.74.48.0/22 list=LINODE
-add address=198.74.52.0/22 list=LINODE
-add address=198.74.56.0/21 list=LINODE
+add address=198.74.48.0/20 list=LINODE
 add address=207.192.68.0/22 list=LINODE
 add address=207.192.72.0/22 list=LINODE
 add address=209.123.162.0/24 list=LINODE
@@ -96,23 +90,20 @@ add address=213.168.248.0/22 list=LINODE
 add address=213.219.36.0/22 list=LINODE
 add address=213.52.128.0/23 list=LINODE
 add address=213.52.130.0/24 list=LINODE
-add address=23.239.0.0/21 list=LINODE
-add address=23.239.16.0/22 list=LINODE
-add address=23.239.20.0/22 list=LINODE
+add address=23.239.0.0/20 list=LINODE
+add address=23.239.16.0/21 list=LINODE
 add address=23.239.24.0/21 list=LINODE
-add address=23.239.8.0/21 list=LINODE
-add address=23.92.16.0/21 list=LINODE
-add address=23.92.24.0/22 list=LINODE
-add address=23.92.28.0/22 list=LINODE
+add address=23.92.16.0/20 list=LINODE
 add address=45.118.132.0/22 list=LINODE
-add address=45.33.0.0/18 list=LINODE
-add address=45.33.104.0/21 list=LINODE
+add address=45.33.0.0/19 list=LINODE
 add address=45.33.112.0/20 list=LINODE
+add address=45.33.32.0/19 list=LINODE
 add address=45.33.64.0/19 list=LINODE
-add address=45.33.96.0/21 list=LINODE
+add address=45.33.96.0/20 list=LINODE
 add address=45.56.112.0/21 list=LINODE
 add address=45.56.120.0/21 list=LINODE
-add address=45.56.64.0/19 list=LINODE
+add address=45.56.64.0/20 list=LINODE
+add address=45.56.80.0/20 list=LINODE
 add address=45.56.96.0/20 list=LINODE
 add address=45.79.0.0/18 list=LINODE
 add address=45.79.112.0/22 list=LINODE
@@ -129,7 +120,8 @@ add address=45.79.248.0/22 list=LINODE
 add address=45.79.252.0/22 list=LINODE
 add address=45.79.64.0/19 list=LINODE
 add address=45.79.96.0/20 list=LINODE
-add address=50.116.0.0/19 list=LINODE
+add address=50.116.0.0/20 list=LINODE
+add address=50.116.16.0/20 list=LINODE
 add address=50.116.32.0/19 list=LINODE
 add address=64.22.103.0/24 list=LINODE
 add address=64.22.109.0/24 list=LINODE
@@ -143,8 +135,7 @@ add address=64.71.152.0/24 list=LINODE
 add address=65.19.178.0/24 list=LINODE
 add address=65.49.60.0/24 list=LINODE
 add address=66.160.141.0/24 list=LINODE
-add address=66.175.208.0/21 list=LINODE
-add address=66.175.216.0/21 list=LINODE
+add address=66.175.208.0/20 list=LINODE
 add address=66.220.1.0/24 list=LINODE
 add address=66.228.32.0/20 list=LINODE
 add address=66.228.48.0/21 list=LINODE
@@ -157,8 +148,7 @@ add address=67.18.186.0/24 list=LINODE
 add address=69.164.192.0/20 list=LINODE
 add address=69.164.208.0/20 list=LINODE
 add address=72.14.176.0/20 list=LINODE
-add address=74.207.224.0/20 list=LINODE
-add address=74.207.240.0/20 list=LINODE
+add address=74.207.224.0/19 list=LINODE
 add address=74.82.2.0/23 list=LINODE
 add address=74.82.5.0/24 list=LINODE
 add address=75.127.72.0/24 list=LINODE
@@ -167,7 +157,6 @@ add address=80.85.84.0/22 list=LINODE
 add address=85.159.208.0/21 list=LINODE
 add address=85.90.244.0/22 list=LINODE
 add address=88.80.184.0/21 list=LINODE
-add address=96.126.104.0/21 list=LINODE
 add address=96.126.112.0/20 list=LINODE
-add address=96.126.96.0/21 list=LINODE
+add address=96.126.96.0/20 list=LINODE
 add address=97.107.128.0/20 list=LINODE
