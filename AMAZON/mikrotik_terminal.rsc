@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Mar 15 19:02:09 +06 2021
+# Last Update - Tue Mar 16 07:02:11 +06 2021
 # --------------------------------------------
 # Total Prefixes: 13351
 # --------------------------------------------
@@ -4079,7 +4079,6 @@ add address=13.57.0.0/16 list=AMAZON
 add address=13.58.0.0/15 list=AMAZON
 add address=130.137.11.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
-add address=130.137.117.0/24 list=AMAZON
 add address=130.137.118.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
@@ -5864,7 +5863,6 @@ add address=193.37.39.0/24 list=AMAZON
 add address=193.84.26.0/24 list=AMAZON
 add address=193.9.122.0/24 list=AMAZON
 add address=194.11.230.0/23 list=AMAZON
-add address=194.135.119.0/24 list=AMAZON
 add address=194.230.56.0/24 list=AMAZON
 add address=194.247.26.0/23 list=AMAZON
 add address=194.30.175.0/24 list=AMAZON
@@ -6206,6 +6204,7 @@ add address=209.222.82.0/24 list=AMAZON
 add address=209.51.32.0/21 list=AMAZON
 add address=209.54.160.0/20 list=AMAZON
 add address=209.54.176.0/21 list=AMAZON
+add address=209.54.184.0/21 list=AMAZON
 add address=209.94.74.0/24 list=AMAZON
 add address=209.94.75.0/24 list=AMAZON
 add address=212.104.208.0/24 list=AMAZON
@@ -13046,6 +13045,7 @@ add address=99.150.96.0/21 list=AMAZON
 add address=99.151.64.0/21 list=AMAZON
 add address=99.151.72.0/21 list=AMAZON
 add address=99.151.80.0/21 list=AMAZON
+add address=99.151.88.0/21 list=AMAZON
 add address=99.77.0.0/20 list=AMAZON
 add address=99.77.128.0/24 list=AMAZON
 add address=99.77.129.0/24 list=AMAZON
