@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Mar 22 19:05:40 +06 2021
+# Last Update - Tue Mar 23 07:06:12 +06 2021
 # --------------------------------------------
-# Total Prefixes: 444
+# Total Prefixes: 443
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -128,6 +128,8 @@ add address=140.19.152.0/23 list=MICROSOFT
 add address=140.19.228.0/23 list=MICROSOFT
 add address=140.19.230.0/24 list=MICROSOFT
 add address=140.19.240.0/24 list=MICROSOFT
+add address=140.19.48.0/22 list=MICROSOFT
+add address=140.19.56.0/22 list=MICROSOFT
 add address=140.19.71.0/24 list=MICROSOFT
 add address=143.64.0.0/16 list=MICROSOFT
 add address=147.145.0.0/16 list=MICROSOFT
@@ -201,7 +203,6 @@ add address=20.143.0.0/16 list=MICROSOFT
 add address=20.150.0.0/15 list=MICROSOFT
 add address=20.152.0.0/15 list=MICROSOFT
 add address=20.157.0.0/16 list=MICROSOFT
-add address=20.157.2.0/24 list=MICROSOFT
 add address=20.157.32.0/24 list=MICROSOFT
 add address=20.157.34.0/23 list=MICROSOFT
 add address=20.157.36.0/23 list=MICROSOFT
@@ -266,7 +267,6 @@ add address=20.47.42.0/24 list=MICROSOFT
 add address=20.47.43.0/24 list=MICROSOFT
 add address=20.47.44.0/24 list=MICROSOFT
 add address=20.47.45.0/24 list=MICROSOFT
-add address=20.47.48.0/24 list=MICROSOFT
 add address=20.47.50.0/23 list=MICROSOFT
 add address=20.47.52.0/24 list=MICROSOFT
 add address=20.47.53.0/24 list=MICROSOFT
@@ -426,7 +426,6 @@ add address=65.54.198.0/24 list=MICROSOFT
 add address=65.54.199.0/24 list=MICROSOFT
 add address=65.54.200.0/24 list=MICROSOFT
 add address=65.54.202.0/24 list=MICROSOFT
-add address=65.54.203.0/24 list=MICROSOFT
 add address=65.54.205.0/24 list=MICROSOFT
 add address=65.54.207.0/24 list=MICROSOFT
 add address=65.54.214.0/24 list=MICROSOFT
