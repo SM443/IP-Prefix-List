@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Mar 24 07:04:14 +06 2021
+# Last Update - Wed Mar 24 19:05:35 +06 2021
 # --------------------------------------------
 # Total Prefixes: 708
 # --------------------------------------------
@@ -647,8 +647,8 @@ add address=43.128.128.0/19 list=PUBG-TENCENT
 add address=43.128.192.0/19 list=PUBG-TENCENT
 add address=43.128.224.0/19 list=PUBG-TENCENT
 add address=43.128.64.0/18 list=PUBG-TENCENT
+add address=43.129.0.0/19 list=PUBG-TENCENT
 add address=43.129.128.0/17 list=PUBG-TENCENT
-add address=43.129.16.0/20 list=PUBG-TENCENT
 add address=43.129.32.0/19 list=PUBG-TENCENT
 add address=43.129.64.0/18 list=PUBG-TENCENT
 add address=43.130.0.0/18 list=PUBG-TENCENT

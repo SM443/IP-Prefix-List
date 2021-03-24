@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Mar 24 07:01:19 +06 2021
+# Last Update - Wed Mar 24 19:01:47 +06 2021
 # --------------------------------------------
-# Total Prefixes: 669
+# Total Prefixes: 670
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -679,6 +679,7 @@ add address=74.234.0.0/15 list=MICROSOFT
 add address=74.240.0.0/14 list=MICROSOFT
 add address=74.248.0.0/15 list=MICROSOFT
 add address=91.225.248.0/24 list=MICROSOFT
+add address=91.225.249.0/24 list=MICROSOFT
 add address=94.245.64.0/18 list=MICROSOFT
 add address=94.245.84.0/24 list=MICROSOFT
 add address=98.64.0.0/14 list=MICROSOFT
