@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Mar 24 19:09:07 +06 2021
+# Last Update - Thu Mar 25 07:07:26 +06 2021
 # --------------------------------------------
 # Total Prefixes: 650
 # --------------------------------------------
@@ -30,6 +30,7 @@ add address=104.22.64.0/20 list=CLOUDFLARE
 add address=104.23.128.0/20 list=CLOUDFLARE
 add address=104.23.96.0/19 list=CLOUDFLARE
 add address=104.24.0.0/15 list=CLOUDFLARE
+add address=104.254.140.0/24 list=CLOUDFLARE
 add address=104.26.0.0/20 list=CLOUDFLARE
 add address=104.27.0.0/17 list=CLOUDFLARE
 add address=104.27.128.0/18 list=CLOUDFLARE
@@ -319,6 +320,7 @@ add address=172.69.156.0/24 list=CLOUDFLARE
 add address=172.69.157.0/24 list=CLOUDFLARE
 add address=172.69.158.0/24 list=CLOUDFLARE
 add address=172.69.159.0/24 list=CLOUDFLARE
+add address=172.69.16.0/24 list=CLOUDFLARE
 add address=172.69.160.0/24 list=CLOUDFLARE
 add address=172.69.161.0/24 list=CLOUDFLARE
 add address=172.69.162.0/24 list=CLOUDFLARE
@@ -424,7 +426,6 @@ add address=188.114.104.0/24 list=CLOUDFLARE
 add address=188.114.106.0/23 list=CLOUDFLARE
 add address=188.114.108.0/22 list=CLOUDFLARE
 add address=190.93.240.0/20 list=CLOUDFLARE
-add address=190.93.244.0/22 list=CLOUDFLARE
 add address=191.101.251.0/24 list=CLOUDFLARE
 add address=193.135.101.0/24 list=CLOUDFLARE
 add address=194.152.44.0/24 list=CLOUDFLARE
@@ -482,7 +483,6 @@ add address=203.34.28.0/24 list=CLOUDFLARE
 add address=203.34.80.0/24 list=CLOUDFLARE
 add address=203.55.107.0/24 list=CLOUDFLARE
 add address=207.189.149.0/24 list=CLOUDFLARE
-add address=212.100.6.0/23 list=CLOUDFLARE
 add address=212.110.134.0/23 list=CLOUDFLARE
 add address=23.227.38.0/23 list=CLOUDFLARE
 add address=31.43.179.0/24 list=CLOUDFLARE
