@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Mar 31 19:07:35 +06 2021
+# Last Update - Thu Apr  1 07:06:07 +06 2021
 # --------------------------------------------
 # Total Prefixes: 446
 # --------------------------------------------
@@ -122,7 +122,6 @@ add address=140.18.250.0/24 list=MICROSOFT
 add address=140.18.68.0/23 list=MICROSOFT
 add address=140.18.9.0/24 list=MICROSOFT
 add address=140.18.91.0/24 list=MICROSOFT
-add address=140.19.13.0/24 list=MICROSOFT
 add address=140.19.136.0/21 list=MICROSOFT
 add address=140.19.144.0/21 list=MICROSOFT
 add address=140.19.152.0/23 list=MICROSOFT
@@ -132,6 +131,7 @@ add address=140.19.188.0/24 list=MICROSOFT
 add address=140.19.228.0/23 list=MICROSOFT
 add address=140.19.230.0/24 list=MICROSOFT
 add address=140.19.240.0/24 list=MICROSOFT
+add address=140.19.56.0/22 list=MICROSOFT
 add address=140.19.71.0/24 list=MICROSOFT
 add address=143.64.0.0/16 list=MICROSOFT
 add address=147.145.0.0/16 list=MICROSOFT
