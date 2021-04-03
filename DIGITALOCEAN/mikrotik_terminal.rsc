@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Fri Apr  2 19:03:19 +06 2021
+# Last Update - Sat Apr  3 07:02:58 +06 2021
 # --------------------------------------------
-# Total Prefixes: 752
+# Total Prefixes: 758
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -236,6 +236,7 @@ add address=146.185.160.0/20 list=DIGITALOCEAN
 add address=146.185.176.0/21 list=DIGITALOCEAN
 add address=146.185.184.0/21 list=DIGITALOCEAN
 add address=147.182.128.0/17 list=DIGITALOCEAN
+add address=152.42.128.0/17 list=DIGITALOCEAN
 add address=157.230.0.0/16 list=DIGITALOCEAN
 add address=157.230.0.0/20 list=DIGITALOCEAN
 add address=157.230.112.0/20 list=DIGITALOCEAN
@@ -303,6 +304,7 @@ add address=159.203.56.0/21 list=DIGITALOCEAN
 add address=159.203.64.0/20 list=DIGITALOCEAN
 add address=159.203.80.0/20 list=DIGITALOCEAN
 add address=159.203.96.0/20 list=DIGITALOCEAN
+add address=159.223.0.0/16 list=DIGITALOCEAN
 add address=159.65.0.0/16 list=DIGITALOCEAN
 add address=159.65.0.0/20 list=DIGITALOCEAN
 add address=159.65.112.0/20 list=DIGITALOCEAN
@@ -398,6 +400,8 @@ add address=164.90.249.0/24 list=DIGITALOCEAN
 add address=164.90.250.0/24 list=DIGITALOCEAN
 add address=164.90.251.0/24 list=DIGITALOCEAN
 add address=164.90.252.0/22 list=DIGITALOCEAN
+add address=164.92.128.0/17 list=DIGITALOCEAN
+add address=164.92.64.0/18 list=DIGITALOCEAN
 add address=165.22.0.0/16 list=DIGITALOCEAN
 add address=165.22.0.0/20 list=DIGITALOCEAN
 add address=165.22.112.0/20 list=DIGITALOCEAN
@@ -702,9 +706,11 @@ add address=64.225.84.0/22 list=DIGITALOCEAN
 add address=64.225.88.0/22 list=DIGITALOCEAN
 add address=64.225.92.0/22 list=DIGITALOCEAN
 add address=64.225.96.0/20 list=DIGITALOCEAN
+add address=64.226.64.0/18 list=DIGITALOCEAN
 add address=64.227.0.0/17 list=DIGITALOCEAN
 add address=64.227.0.0/20 list=DIGITALOCEAN
 add address=64.227.112.0/20 list=DIGITALOCEAN
+add address=64.227.128.0/18 list=DIGITALOCEAN
 add address=64.227.16.0/20 list=DIGITALOCEAN
 add address=64.227.32.0/20 list=DIGITALOCEAN
 add address=64.227.48.0/20 list=DIGITALOCEAN
