@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Apr  5 07:08:43 +06 2021
+# Last Update - Mon Apr  5 19:08:44 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13
+# Total Prefixes: 12
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -22,4 +22,3 @@ add address=91.108.56.0/22 list=TELEGRAM
 add address=91.108.56.0/23 list=TELEGRAM
 add address=91.108.8.0/22 list=TELEGRAM
 add address=95.161.64.0/20 list=TELEGRAM
-add address=95.161.84.0/23 list=TELEGRAM
