@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Apr  7 07:04:21 +06 2021
+# Last Update - Wed Apr  7 19:04:28 +06 2021
 # --------------------------------------------
 # Total Prefixes: 34
 # --------------------------------------------
@@ -30,8 +30,8 @@ add address=169.136.152.0/23 list=IMO
 add address=169.136.154.0/24 list=IMO
 add address=169.136.64.0/21 list=IMO
 add address=169.136.72.0/22 list=IMO
-add address=169.136.81.0/24 list=IMO
-add address=185.155.136.0/22 list=IMO
+add address=185.155.136.0/23 list=IMO
+add address=185.155.138.0/23 list=IMO
 add address=185.161.188.0/24 list=IMO
 add address=185.22.40.0/22 list=IMO
 add address=192.12.31.0/24 list=IMO
