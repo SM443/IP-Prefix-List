@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Apr 12 19:08:38 +06 2021
+# Last Update - Tue Apr 13 07:07:51 +06 2021
 # --------------------------------------------
 # Total Prefixes: 166
 # --------------------------------------------
@@ -25,7 +25,7 @@ add address=139.162.128.0/17 list=LINODE
 add address=139.162.64.0/18 list=LINODE
 add address=139.177.176.0/21 list=LINODE
 add address=139.177.184.0/21 list=LINODE
-add address=139.177.192.0/21 list=LINODE
+add address=139.177.192.0/20 list=LINODE
 add address=151.236.216.0/21 list=LINODE
 add address=162.216.16.0/22 list=LINODE
 add address=172.104.0.0/22 list=LINODE
