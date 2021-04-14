@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Apr 14 07:02:33 +06 2021
+# Last Update - Wed Apr 14 19:02:50 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13471
+# Total Prefixes: 13478
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4084,9 +4084,9 @@ add address=13.57.0.0/16 list=AMAZON
 add address=13.58.0.0/15 list=AMAZON
 add address=130.137.11.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
+add address=130.137.117.0/24 list=AMAZON
 add address=130.137.118.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
-add address=130.137.120.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
 add address=130.137.139.0/24 list=AMAZON
 add address=130.137.14.0/24 list=AMAZON
@@ -4208,11 +4208,17 @@ add address=130.176.2.0/24 list=AMAZON
 add address=130.176.20.0/24 list=AMAZON
 add address=130.176.201.0/24 list=AMAZON
 add address=130.176.202.0/24 list=AMAZON
+add address=130.176.203.0/24 list=AMAZON
 add address=130.176.208.0/24 list=AMAZON
+add address=130.176.209.0/24 list=AMAZON
+add address=130.176.210.0/24 list=AMAZON
+add address=130.176.211.0/24 list=AMAZON
 add address=130.176.224.0/24 list=AMAZON
 add address=130.176.225.0/24 list=AMAZON
 add address=130.176.226.0/24 list=AMAZON
 add address=130.176.227.0/24 list=AMAZON
+add address=130.176.228.0/24 list=AMAZON
+add address=130.176.229.0/24 list=AMAZON
 add address=130.176.24.0/24 list=AMAZON
 add address=130.176.25.0/24 list=AMAZON
 add address=130.176.252.0/24 list=AMAZON
@@ -12382,6 +12388,7 @@ add address=65.9.128.0/18 list=AMAZON
 add address=66.178.136.0/24 list=AMAZON
 add address=66.178.137.0/24 list=AMAZON
 add address=66.178.138.0/24 list=AMAZON
+add address=66.178.139.0/24 list=AMAZON
 add address=66.182.132.0/23 list=AMAZON
 add address=66.206.173.0/24 list=AMAZON
 add address=66.22.108.0/23 list=AMAZON
