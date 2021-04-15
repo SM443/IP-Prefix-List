@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Apr 15 07:04:14 +06 2021
+# Last Update - Thu Apr 15 19:04:31 +06 2021
 # --------------------------------------------
-# Total Prefixes: 405
+# Total Prefixes: 411
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -154,7 +154,11 @@ add address=137.83.248.0/23 list=GOOGLE
 add address=137.83.250.0/24 list=GOOGLE
 add address=142.250.0.0/15 list=GOOGLE
 add address=142.250.104.0/24 list=GOOGLE
+add address=142.250.108.0/23 list=GOOGLE
 add address=142.250.114.0/23 list=GOOGLE
+add address=142.250.119.0/24 list=GOOGLE
+add address=142.250.120.0/23 list=GOOGLE
+add address=142.250.130.0/24 list=GOOGLE
 add address=142.250.135.0/24 list=GOOGLE
 add address=142.250.138.0/24 list=GOOGLE
 add address=142.251.9.0/24 list=GOOGLE
@@ -177,8 +181,7 @@ add address=159.192.27.0/24 list=GOOGLE
 add address=161.38.56.0/24 list=GOOGLE
 add address=162.216.148.0/22 list=GOOGLE
 add address=162.222.176.0/21 list=GOOGLE
-add address=162.43.192.0/24 list=GOOGLE
-add address=162.43.193.0/24 list=GOOGLE
+add address=162.43.192.0/23 list=GOOGLE
 add address=162.43.194.0/24 list=GOOGLE
 add address=162.43.195.0/24 list=GOOGLE
 add address=165.1.128.0/19 list=GOOGLE
@@ -200,6 +203,8 @@ add address=172.217.205.0/24 list=GOOGLE
 add address=172.217.206.0/23 list=GOOGLE
 add address=172.217.56.0/21 list=GOOGLE
 add address=172.253.0.0/16 list=GOOGLE
+add address=172.253.57.0/24 list=GOOGLE
+add address=172.253.60.0/23 list=GOOGLE
 add address=173.194.0.0/16 list=GOOGLE
 add address=173.255.112.0/20 list=GOOGLE
 add address=176.116.124.0/23 list=GOOGLE
@@ -270,6 +275,7 @@ add address=208.127.224.0/19 list=GOOGLE
 add address=208.65.152.0/22 list=GOOGLE
 add address=208.67.156.0/22 list=GOOGLE
 add address=208.68.108.0/22 list=GOOGLE
+add address=208.74.139.0/24 list=GOOGLE
 add address=208.76.68.0/24 list=GOOGLE
 add address=208.81.188.0/22 list=GOOGLE
 add address=208.86.170.0/23 list=GOOGLE
