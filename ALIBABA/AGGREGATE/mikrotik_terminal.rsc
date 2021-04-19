@@ -3,15 +3,14 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Apr 19 07:07:59 +06 2021
+# Last Update - Mon Apr 19 19:08:14 +06 2021
 # --------------------------------------------
-# Total Prefixes: 367
+# Total Prefixes: 369
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=101.132.0.0/15 list=ALIBABA
-add address=101.133.201.0/24 list=ALIBABA
 add address=101.200.0.0/15 list=ALIBABA
 add address=101.37.0.0/16 list=ALIBABA
 add address=103.142.100.0/23 list=ALIBABA
@@ -29,6 +28,7 @@ add address=106.11.160.0/20 list=ALIBABA
 add address=106.11.184.0/21 list=ALIBABA
 add address=106.11.192.0/23 list=ALIBABA
 add address=106.11.194.0/23 list=ALIBABA
+add address=106.11.198.0/24 list=ALIBABA
 add address=106.11.199.0/24 list=ALIBABA
 add address=106.11.201.0/24 list=ALIBABA
 add address=106.11.202.0/23 list=ALIBABA
@@ -132,6 +132,8 @@ add address=161.117.127.0/24 list=ALIBABA
 add address=161.117.128.0/24 list=ALIBABA
 add address=161.117.138.0/24 list=ALIBABA
 add address=170.33.0.0/24 list=ALIBABA
+add address=170.33.1.0/24 list=ALIBABA
+add address=170.33.100.0/23 list=ALIBABA
 add address=170.33.102.0/23 list=ALIBABA
 add address=170.33.104.0/22 list=ALIBABA
 add address=170.33.16.0/21 list=ALIBABA
