@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Tue Apr 20 07:00:02 +06 2021
+# Last Update - Tue Apr 20 19:00:02 +06 2021
 # --------------------------------------------
-# Total Prefixes: 154
+# Total Prefixes: 171
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -97,6 +97,8 @@ add address=169.136.162.0/24 list=BIGO
 add address=169.136.163.0/24 list=BIGO
 add address=169.136.164.0/24 list=BIGO
 add address=169.136.165.0/24 list=BIGO
+add address=169.136.169.0/24 list=BIGO
+add address=169.136.172.0/24 list=BIGO
 add address=169.136.175.0/24 list=BIGO
 add address=169.136.176.0/24 list=BIGO
 add address=169.136.177.0/24 list=BIGO
@@ -137,6 +139,19 @@ add address=169.136.96.0/24 list=BIGO
 add address=169.136.97.0/24 list=BIGO
 add address=169.136.98.0/24 list=BIGO
 add address=169.136.99.0/24 list=BIGO
+add address=202.168.102.0/24 list=BIGO
+add address=202.168.103.0/24 list=BIGO
+add address=202.168.104.0/24 list=BIGO
+add address=202.168.112.0/24 list=BIGO
+add address=202.168.116.0/24 list=BIGO
+add address=202.168.117.0/24 list=BIGO
+add address=202.168.118.0/24 list=BIGO
+add address=202.168.119.0/24 list=BIGO
+add address=202.168.120.0/24 list=BIGO
+add address=202.168.121.0/24 list=BIGO
+add address=202.168.122.0/24 list=BIGO
+add address=202.168.123.0/24 list=BIGO
+add address=202.168.125.0/24 list=BIGO
 add address=202.168.126.0/24 list=BIGO
 add address=202.168.127.0/24 list=BIGO
 add address=202.63.32.0/24 list=BIGO
@@ -148,6 +163,8 @@ add address=202.63.37.0/24 list=BIGO
 add address=202.63.38.0/24 list=BIGO
 add address=202.63.39.0/24 list=BIGO
 add address=202.63.40.0/24 list=BIGO
+add address=202.63.44.0/24 list=BIGO
+add address=202.63.45.0/24 list=BIGO
 add address=202.63.48.0/24 list=BIGO
 add address=202.63.49.0/24 list=BIGO
 add address=202.63.50.0/24 list=BIGO

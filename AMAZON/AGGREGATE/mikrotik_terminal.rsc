@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Apr 20 07:07:13 +06 2021
+# Last Update - Tue Apr 20 19:08:01 +06 2021
 # --------------------------------------------
-# Total Prefixes: 3402
+# Total Prefixes: 3403
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2215,6 +2215,7 @@ add address=52.86.0.0/15 list=AMAZON
 add address=52.88.0.0/15 list=AMAZON
 add address=52.90.0.0/15 list=AMAZON
 add address=52.92.128.0/21 list=AMAZON
+add address=52.92.144.0/21 list=AMAZON
 add address=52.92.16.0/20 list=AMAZON
 add address=52.92.160.0/21 list=AMAZON
 add address=52.92.40.0/21 list=AMAZON
