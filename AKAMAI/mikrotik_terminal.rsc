@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Apr 21 19:02:09 +06 2021
+# Last Update - Thu Apr 22 07:02:10 +06 2021
 # --------------------------------------------
 # Total Prefixes: 10599
 # --------------------------------------------
@@ -1886,7 +1886,6 @@ add address=104.99.58.0/24 list=AKAMAI
 add address=104.99.59.0/24 list=AKAMAI
 add address=104.99.60.0/22 list=AKAMAI
 add address=106.3.84.0/22 list=AKAMAI
-add address=107.150.130.0/23 list=AKAMAI
 add address=109.69.136.0/21 list=AKAMAI
 add address=109.69.136.0/24 list=AKAMAI
 add address=109.69.137.0/24 list=AKAMAI
@@ -3105,6 +3104,7 @@ add address=184.84.210.0/24 list=AKAMAI
 add address=184.84.211.0/24 list=AKAMAI
 add address=184.84.216.0/24 list=AKAMAI
 add address=184.84.217.0/24 list=AKAMAI
+add address=184.84.218.0/23 list=AKAMAI
 add address=184.84.218.0/24 list=AKAMAI
 add address=184.84.220.0/22 list=AKAMAI
 add address=184.84.220.0/24 list=AKAMAI

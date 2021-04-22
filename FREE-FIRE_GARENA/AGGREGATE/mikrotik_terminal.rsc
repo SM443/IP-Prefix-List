@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Apr 21 19:03:28 +06 2021
+# Last Update - Thu Apr 22 07:03:28 +06 2021
 # --------------------------------------------
-# Total Prefixes: 30
+# Total Prefixes: 29
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -24,8 +24,7 @@ add address=143.92.112.0/23 list=FreeFire-Garena
 add address=143.92.114.0/24 list=FreeFire-Garena
 add address=143.92.115.0/24 list=FreeFire-Garena
 add address=143.92.120.0/22 list=FreeFire-Garena
-add address=143.92.124.0/24 list=FreeFire-Garena
-add address=143.92.125.0/24 list=FreeFire-Garena
+add address=143.92.124.0/23 list=FreeFire-Garena
 add address=143.92.126.0/24 list=FreeFire-Garena
 add address=143.92.127.0/24 list=FreeFire-Garena
 add address=202.181.65.0/24 list=FreeFire-Garena
