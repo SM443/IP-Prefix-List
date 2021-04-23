@@ -3,15 +3,13 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Thu Apr 22 19:00:38 +06 2021
+# Last Update - Fri Apr 23 07:00:49 +06 2021
 # --------------------------------------------
 # Total Prefixes: 111
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=1.116.0.0/15 list=PUBG-TENCENT
-add address=1.12.0.0/14 list=PUBG-TENCENT
 add address=101.32.0.0/16 list=PUBG-TENCENT
 add address=101.33.0.0/17 list=PUBG-TENCENT
 add address=101.33.128.0/17 list=PUBG-TENCENT
@@ -27,6 +25,8 @@ add address=110.40.128.0/17 list=PUBG-TENCENT
 add address=110.42.128.0/17 list=PUBG-TENCENT
 add address=111.229.0.0/16 list=PUBG-TENCENT
 add address=111.230.0.0/15 list=PUBG-TENCENT
+add address=1.116.0.0/15 list=PUBG-TENCENT
+add address=1.12.0.0/14 list=PUBG-TENCENT
 add address=114.117.128.0/17 list=PUBG-TENCENT
 add address=114.132.0.0/16 list=PUBG-TENCENT
 add address=115.159.0.0/16 list=PUBG-TENCENT

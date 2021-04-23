@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Apr 22 19:08:27 +06 2021
+# Last Update - Fri Apr 23 07:08:32 +06 2021
 # --------------------------------------------
-# Total Prefixes: 440
+# Total Prefixes: 439
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -24,8 +24,8 @@ add address=104.248.104.0/21 list=DigitalOcean
 add address=104.248.112.0/20 list=DigitalOcean
 add address=104.248.128.0/20 list=DigitalOcean
 add address=104.248.144.0/20 list=DigitalOcean
-add address=104.248.16.0/20 list=DigitalOcean
 add address=104.248.160.0/19 list=DigitalOcean
+add address=104.248.16.0/20 list=DigitalOcean
 add address=104.248.192.0/19 list=DigitalOcean
 add address=104.248.224.0/20 list=DigitalOcean
 add address=104.248.240.0/20 list=DigitalOcean
@@ -96,8 +96,8 @@ add address=142.93.0.0/20 list=DigitalOcean
 add address=142.93.112.0/20 list=DigitalOcean
 add address=142.93.128.0/20 list=DigitalOcean
 add address=142.93.144.0/20 list=DigitalOcean
-add address=142.93.16.0/20 list=DigitalOcean
 add address=142.93.160.0/20 list=DigitalOcean
+add address=142.93.16.0/20 list=DigitalOcean
 add address=142.93.176.0/20 list=DigitalOcean
 add address=142.93.192.0/20 list=DigitalOcean
 add address=142.93.208.0/20 list=DigitalOcean
@@ -136,8 +136,8 @@ add address=144.126.252.0/22 list=DigitalOcean
 add address=146.185.128.0/18 list=DigitalOcean
 add address=157.230.0.0/20 list=DigitalOcean
 add address=157.230.128.0/19 list=DigitalOcean
-add address=157.230.16.0/20 list=DigitalOcean
 add address=157.230.160.0/20 list=DigitalOcean
+add address=157.230.16.0/20 list=DigitalOcean
 add address=157.230.176.0/20 list=DigitalOcean
 add address=157.230.192.0/22 list=DigitalOcean
 add address=157.230.196.0/22 list=DigitalOcean
@@ -156,8 +156,8 @@ add address=157.245.0.0/20 list=DigitalOcean
 add address=157.245.112.0/20 list=DigitalOcean
 add address=157.245.128.0/20 list=DigitalOcean
 add address=157.245.144.0/20 list=DigitalOcean
-add address=157.245.16.0/20 list=DigitalOcean
 add address=157.245.160.0/19 list=DigitalOcean
+add address=157.245.16.0/20 list=DigitalOcean
 add address=157.245.192.0/20 list=DigitalOcean
 add address=157.245.208.0/20 list=DigitalOcean
 add address=157.245.224.0/20 list=DigitalOcean
@@ -173,8 +173,8 @@ add address=159.203.192.0/18 list=DigitalOcean
 add address=159.65.0.0/20 list=DigitalOcean
 add address=159.65.128.0/20 list=DigitalOcean
 add address=159.65.144.0/20 list=DigitalOcean
-add address=159.65.16.0/20 list=DigitalOcean
 add address=159.65.160.0/19 list=DigitalOcean
+add address=159.65.16.0/20 list=DigitalOcean
 add address=159.65.192.0/20 list=DigitalOcean
 add address=159.65.208.0/21 list=DigitalOcean
 add address=159.65.216.0/21 list=DigitalOcean
@@ -208,8 +208,8 @@ add address=159.89.96.0/20 list=DigitalOcean
 add address=161.35.0.0/20 list=DigitalOcean
 add address=161.35.128.0/20 list=DigitalOcean
 add address=161.35.144.0/20 list=DigitalOcean
-add address=161.35.16.0/20 list=DigitalOcean
 add address=161.35.160.0/20 list=DigitalOcean
+add address=161.35.16.0/20 list=DigitalOcean
 add address=161.35.176.0/20 list=DigitalOcean
 add address=161.35.192.0/19 list=DigitalOcean
 add address=161.35.224.0/20 list=DigitalOcean
@@ -239,8 +239,8 @@ add address=164.90.252.0/22 list=DigitalOcean
 add address=165.22.0.0/20 list=DigitalOcean
 add address=165.22.112.0/20 list=DigitalOcean
 add address=165.22.128.0/19 list=DigitalOcean
-add address=165.22.16.0/20 list=DigitalOcean
 add address=165.22.160.0/20 list=DigitalOcean
+add address=165.22.16.0/20 list=DigitalOcean
 add address=165.22.176.0/20 list=DigitalOcean
 add address=165.22.192.0/20 list=DigitalOcean
 add address=165.22.208.0/20 list=DigitalOcean
@@ -249,7 +249,6 @@ add address=165.22.240.0/20 list=DigitalOcean
 add address=165.22.32.0/20 list=DigitalOcean
 add address=165.22.48.0/20 list=DigitalOcean
 add address=165.22.64.0/19 list=DigitalOcean
-add address=165.22.96.0/20 list=DigitalOcean
 add address=165.227.0.0/19 list=DigitalOcean
 add address=165.227.128.0/19 list=DigitalOcean
 add address=165.227.160.0/20 list=DigitalOcean
@@ -261,6 +260,7 @@ add address=165.227.248.0/21 list=DigitalOcean
 add address=165.227.32.0/20 list=DigitalOcean
 add address=165.227.48.0/20 list=DigitalOcean
 add address=165.227.64.0/18 list=DigitalOcean
+add address=165.22.96.0/20 list=DigitalOcean
 add address=165.232.128.0/19 list=DigitalOcean
 add address=165.232.160.0/20 list=DigitalOcean
 add address=165.232.176.0/20 list=DigitalOcean
@@ -269,8 +269,8 @@ add address=165.232.64.0/18 list=DigitalOcean
 add address=167.172.0.0/22 list=DigitalOcean
 add address=167.172.12.0/22 list=DigitalOcean
 add address=167.172.128.0/19 list=DigitalOcean
-add address=167.172.16.0/20 list=DigitalOcean
 add address=167.172.160.0/19 list=DigitalOcean
+add address=167.172.16.0/20 list=DigitalOcean
 add address=167.172.192.0/19 list=DigitalOcean
 add address=167.172.224.0/19 list=DigitalOcean
 add address=167.172.32.0/19 list=DigitalOcean
@@ -281,8 +281,8 @@ add address=167.172.96.0/19 list=DigitalOcean
 add address=167.71.0.0/20 list=DigitalOcean
 add address=167.71.112.0/20 list=DigitalOcean
 add address=167.71.128.0/19 list=DigitalOcean
-add address=167.71.16.0/20 list=DigitalOcean
 add address=167.71.160.0/19 list=DigitalOcean
+add address=167.71.16.0/20 list=DigitalOcean
 add address=167.71.192.0/19 list=DigitalOcean
 add address=167.71.224.0/20 list=DigitalOcean
 add address=167.71.240.0/20 list=DigitalOcean
@@ -294,14 +294,14 @@ add address=167.99.0.0/20 list=DigitalOcean
 add address=167.99.112.0/20 list=DigitalOcean
 add address=167.99.128.0/20 list=DigitalOcean
 add address=167.99.144.0/20 list=DigitalOcean
-add address=167.99.16.0/22 list=DigitalOcean
 add address=167.99.160.0/20 list=DigitalOcean
+add address=167.99.16.0/22 list=DigitalOcean
 add address=167.99.176.0/20 list=DigitalOcean
 add address=167.99.192.0/19 list=DigitalOcean
 add address=167.99.20.0/22 list=DigitalOcean
 add address=167.99.224.0/20 list=DigitalOcean
-add address=167.99.24.0/22 list=DigitalOcean
 add address=167.99.240.0/20 list=DigitalOcean
+add address=167.99.24.0/22 list=DigitalOcean
 add address=167.99.28.0/22 list=DigitalOcean
 add address=167.99.32.0/20 list=DigitalOcean
 add address=167.99.48.0/20 list=DigitalOcean
@@ -323,8 +323,8 @@ add address=178.128.128.0/22 list=DigitalOcean
 add address=178.128.132.0/22 list=DigitalOcean
 add address=178.128.136.0/21 list=DigitalOcean
 add address=178.128.144.0/20 list=DigitalOcean
-add address=178.128.16.0/20 list=DigitalOcean
 add address=178.128.160.0/19 list=DigitalOcean
+add address=178.128.16.0/20 list=DigitalOcean
 add address=178.128.192.0/20 list=DigitalOcean
 add address=178.128.208.0/20 list=DigitalOcean
 add address=178.128.224.0/20 list=DigitalOcean
@@ -424,15 +424,14 @@ add address=64.227.64.0/18 list=DigitalOcean
 add address=64.23.128.0/17 list=DigitalOcean
 add address=67.205.128.0/18 list=DigitalOcean
 add address=67.207.64.0/24 list=DigitalOcean
-add address=67.207.65.0/24 list=DigitalOcean
 add address=67.207.66.0/24 list=DigitalOcean
 add address=67.207.68.0/22 list=DigitalOcean
 add address=67.207.72.0/21 list=DigitalOcean
 add address=67.207.80.0/20 list=DigitalOcean
 add address=68.183.0.0/20 list=DigitalOcean
 add address=68.183.128.0/19 list=DigitalOcean
-add address=68.183.16.0/20 list=DigitalOcean
 add address=68.183.160.0/20 list=DigitalOcean
+add address=68.183.16.0/20 list=DigitalOcean
 add address=68.183.176.0/20 list=DigitalOcean
 add address=68.183.192.0/20 list=DigitalOcean
 add address=68.183.208.0/20 list=DigitalOcean

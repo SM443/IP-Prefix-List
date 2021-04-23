@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Apr 22 19:04:37 +06 2021
+# Last Update - Fri Apr 23 07:04:57 +06 2021
 # --------------------------------------------
-# Total Prefixes: 365
+# Total Prefixes: 357
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -41,8 +41,7 @@ add address=104.132.191.0/24 list=GOOGLE
 add address=104.132.198.0/24 list=GOOGLE
 add address=104.132.207.0/24 list=GOOGLE
 add address=104.132.213.0/24 list=GOOGLE
-add address=104.132.214.0/24 list=GOOGLE
-add address=104.132.215.0/24 list=GOOGLE
+add address=104.132.214.0/23 list=GOOGLE
 add address=104.132.222.0/24 list=GOOGLE
 add address=104.132.244.0/24 list=GOOGLE
 add address=104.132.25.0/24 list=GOOGLE
@@ -68,8 +67,7 @@ add address=104.133.179.0/24 list=GOOGLE
 add address=104.133.34.0/24 list=GOOGLE
 add address=104.133.44.0/24 list=GOOGLE
 add address=104.133.5.0/24 list=GOOGLE
-add address=104.133.6.0/24 list=GOOGLE
-add address=104.133.7.0/24 list=GOOGLE
+add address=104.133.6.0/23 list=GOOGLE
 add address=104.134.131.0/24 list=GOOGLE
 add address=104.134.136.0/24 list=GOOGLE
 add address=104.134.137.0/24 list=GOOGLE
@@ -202,8 +200,8 @@ add address=197.230.70.0/24 list=GOOGLE
 add address=198.135.124.0/23 list=GOOGLE
 add address=198.135.184.0/24 list=GOOGLE
 add address=199.116.168.0/21 list=GOOGLE
-add address=199.19.248.0/21 list=GOOGLE
 add address=199.192.112.0/22 list=GOOGLE
+add address=199.19.248.0/21 list=GOOGLE
 add address=199.223.232.0/21 list=GOOGLE
 add address=199.223.238.0/24 list=GOOGLE
 add address=199.247.32.0/20 list=GOOGLE
@@ -225,7 +223,6 @@ add address=208.117.240.0/24 list=GOOGLE
 add address=208.117.246.0/24 list=GOOGLE
 add address=208.117.250.0/24 list=GOOGLE
 add address=208.117.252.0/24 list=GOOGLE
-add address=208.117.254.0/24 list=GOOGLE
 add address=208.127.0.0/17 list=GOOGLE
 add address=208.127.128.0/18 list=GOOGLE
 add address=208.127.192.0/21 list=GOOGLE
@@ -238,12 +235,7 @@ add address=208.74.139.0/24 list=GOOGLE
 add address=208.76.68.0/24 list=GOOGLE
 add address=208.81.188.0/22 list=GOOGLE
 add address=208.86.170.0/23 list=GOOGLE
-add address=209.107.176.0/24 list=GOOGLE
-add address=209.107.177.0/24 list=GOOGLE
-add address=209.107.178.0/24 list=GOOGLE
-add address=209.107.179.0/24 list=GOOGLE
-add address=209.107.180.0/22 list=GOOGLE
-add address=209.107.184.0/21 list=GOOGLE
+add address=209.107.176.0/20 list=GOOGLE
 add address=209.85.128.0/17 list=GOOGLE
 add address=212.11.79.0/24 list=GOOGLE
 add address=212.11.93.0/24 list=GOOGLE
@@ -365,9 +357,9 @@ add address=74.125.0.0/16 list=GOOGLE
 add address=74.221.128.0/24 list=GOOGLE
 add address=8.34.208.0/20 list=GOOGLE
 add address=8.35.192.0/20 list=GOOGLE
+add address=85.208.98.0/24 list=GOOGLE
 add address=8.8.4.0/24 list=GOOGLE
 add address=8.8.8.0/24 list=GOOGLE
-add address=85.208.98.0/24 list=GOOGLE
 add address=89.207.224.0/24 list=GOOGLE
 add address=89.207.228.0/24 list=GOOGLE
 add address=89.207.229.0/24 list=GOOGLE
