@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Tue Apr 27 07:00:44 +06 2021
+# Last Update - Tue Apr 27 19:00:40 +06 2021
 # --------------------------------------------
-# Total Prefixes: 9450
+# Total Prefixes: 9454
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -3126,6 +3126,7 @@ add address=113.197.105.0/24 list=GOOGLE
 add address=113.197.106.0/24 list=GOOGLE
 add address=113.197.107.0/24 list=GOOGLE
 add address=117.120.16.0/21 list=GOOGLE
+add address=117.121.247.0/24 list=GOOGLE
 add address=12.216.80.0/24 list=GOOGLE
 add address=130.211.0.0/16 list=GOOGLE
 add address=130.211.0.0/19 list=GOOGLE
@@ -4934,6 +4935,7 @@ add address=149.19.162.0/23 list=GOOGLE
 add address=149.19.162.0/24 list=GOOGLE
 add address=149.19.163.0/24 list=GOOGLE
 add address=149.77.121.0/24 list=GOOGLE
+add address=154.16.136.0/24 list=GOOGLE
 add address=155.184.0.0/19 list=GOOGLE
 add address=159.192.27.0/24 list=GOOGLE
 add address=161.38.56.0/24 list=GOOGLE
@@ -7727,6 +7729,7 @@ add address=23.251.158.0/23 list=GOOGLE
 add address=23.251.158.0/24 list=GOOGLE
 add address=23.251.159.0/24 list=GOOGLE
 add address=23.255.128.0/17 list=GOOGLE
+add address=2.57.16.0/24 list=GOOGLE
 add address=34.100.0.0/14 list=GOOGLE
 add address=34.100.0.0/18 list=GOOGLE
 add address=34.100.104.0/21 list=GOOGLE
@@ -8567,6 +8570,7 @@ add address=45.121.230.0/23 list=GOOGLE
 add address=45.121.230.0/24 list=GOOGLE
 add address=45.121.231.0/24 list=GOOGLE
 add address=45.56.0.0/18 list=GOOGLE
+add address=45.85.250.0/24 list=GOOGLE
 add address=46.16.160.0/24 list=GOOGLE
 add address=46.16.161.0/24 list=GOOGLE
 add address=46.16.164.0/24 list=GOOGLE
