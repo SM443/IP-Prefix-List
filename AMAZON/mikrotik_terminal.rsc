@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Tue May  4 07:02:35 +06 2021
+# Last Update - Tue May  4 19:02:15 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13544
+# Total Prefixes: 13554
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -295,8 +295,8 @@ add address=129.41.76.0/23 list=AMAZON
 add address=129.41.88.0/23 list=AMAZON
 add address=130.137.11.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
+add address=130.137.117.0/24 list=AMAZON
 add address=130.137.118.0/24 list=AMAZON
-add address=130.137.120.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
 add address=130.137.139.0/24 list=AMAZON
@@ -430,6 +430,7 @@ add address=130.176.210.0/24 list=AMAZON
 add address=130.176.211.0/24 list=AMAZON
 add address=130.176.212.0/24 list=AMAZON
 add address=130.176.213.0/24 list=AMAZON
+add address=130.176.214.0/24 list=AMAZON
 add address=130.176.224.0/24 list=AMAZON
 add address=130.176.225.0/24 list=AMAZON
 add address=130.176.226.0/24 list=AMAZON
@@ -5112,6 +5113,13 @@ add address=151.216.0.0/23 list=AMAZON
 add address=15.152.0.0/16 list=AMAZON
 add address=15.156.0.0/15 list=AMAZON
 add address=15.158.0.0/16 list=AMAZON
+add address=15.158.0.0/24 list=AMAZON
+add address=15.158.128.0/24 list=AMAZON
+add address=15.158.192.0/24 list=AMAZON
+add address=15.158.193.0/24 list=AMAZON
+add address=15.158.194.0/24 list=AMAZON
+add address=15.158.64.0/24 list=AMAZON
+add address=15.158.65.0/24 list=AMAZON
 add address=15.160.0.0/16 list=AMAZON
 add address=15.161.0.0/16 list=AMAZON
 add address=15.164.0.0/15 list=AMAZON
@@ -5202,6 +5210,7 @@ add address=15.236.0.0/15 list=AMAZON
 add address=15.248.0.0/23 list=AMAZON
 add address=15.248.2.0/23 list=AMAZON
 add address=15.248.4.0/23 list=AMAZON
+add address=15.251.0.0/16 list=AMAZON
 add address=15.253.0.0/16 list=AMAZON
 add address=15.253.0.0/17 list=AMAZON
 add address=15.253.128.0/17 list=AMAZON
@@ -5893,6 +5902,7 @@ add address=185.75.60.0/24 list=AMAZON
 add address=185.75.61.0/24 list=AMAZON
 add address=185.75.62.0/24 list=AMAZON
 add address=185.75.63.0/24 list=AMAZON
+add address=185.83.20.0/22 list=AMAZON
 add address=185.97.10.0/24 list=AMAZON
 add address=185.98.156.0/24 list=AMAZON
 add address=185.98.159.0/24 list=AMAZON
