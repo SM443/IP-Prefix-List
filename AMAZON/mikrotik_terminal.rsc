@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon May  3 19:02:28 +06 2021
+# Last Update - Tue May  4 07:02:35 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13538
+# Total Prefixes: 13544
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -137,6 +137,8 @@ add address=107.23.0.0/17 list=AMAZON
 add address=107.23.128.0/17 list=AMAZON
 add address=108.128.0.0/13 list=AMAZON
 add address=108.136.0.0/15 list=AMAZON
+add address=108.138.0.0/15 list=AMAZON
+add address=108.156.0.0/14 list=AMAZON
 add address=108.166.224.0/21 list=AMAZON
 add address=108.166.232.0/21 list=AMAZON
 add address=108.166.240.0/21 list=AMAZON
@@ -294,6 +296,7 @@ add address=129.41.88.0/23 list=AMAZON
 add address=130.137.11.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
 add address=130.137.118.0/24 list=AMAZON
+add address=130.137.120.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
 add address=130.137.139.0/24 list=AMAZON
@@ -5884,6 +5887,7 @@ add address=185.66.202.0/24 list=AMAZON
 add address=185.66.203.0/24 list=AMAZON
 add address=185.68.58.0/24 list=AMAZON
 add address=185.68.59.0/24 list=AMAZON
+add address=185.69.1.0/24 list=AMAZON
 add address=185.73.224.0/24 list=AMAZON
 add address=185.75.60.0/24 list=AMAZON
 add address=185.75.61.0/24 list=AMAZON
@@ -10707,6 +10711,7 @@ add address=52.94.15.0/24 list=AMAZON
 add address=52.94.160.0/20 list=AMAZON
 add address=52.94.16.0/24 list=AMAZON
 add address=52.94.17.0/24 list=AMAZON
+add address=52.94.176.0/20 list=AMAZON
 add address=52.94.18.0/24 list=AMAZON
 add address=52.94.19.0/24 list=AMAZON
 add address=52.94.20.0/24 list=AMAZON
@@ -13283,6 +13288,7 @@ add address=99.77.254.0/24 list=AMAZON
 add address=99.77.28.0/22 list=AMAZON
 add address=99.77.32.0/20 list=AMAZON
 add address=99.77.48.0/21 list=AMAZON
+add address=99.77.56.0/21 list=AMAZON
 add address=99.78.128.0/20 list=AMAZON
 add address=99.78.144.0/21 list=AMAZON
 add address=99.78.152.0/22 list=AMAZON
