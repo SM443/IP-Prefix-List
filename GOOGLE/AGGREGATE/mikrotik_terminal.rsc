@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu May  6 19:04:10 +06 2021
+# Last Update - Fri May  7 07:04:38 +06 2021
 # --------------------------------------------
 # Total Prefixes: 400
 # --------------------------------------------
@@ -31,7 +31,6 @@ add address=104.132.146.0/24 list=GOOGLE
 add address=104.132.153.0/24 list=GOOGLE
 add address=104.132.154.0/24 list=GOOGLE
 add address=104.132.155.0/24 list=GOOGLE
-add address=104.132.162.0/24 list=GOOGLE
 add address=104.132.169.0/24 list=GOOGLE
 add address=104.132.179.0/24 list=GOOGLE
 add address=104.132.180.0/24 list=GOOGLE
@@ -55,7 +54,6 @@ add address=104.132.42.0/24 list=GOOGLE
 add address=104.132.52.0/24 list=GOOGLE
 add address=104.132.57.0/24 list=GOOGLE
 add address=104.132.59.0/24 list=GOOGLE
-add address=104.132.6.0/24 list=GOOGLE
 add address=104.132.61.0/24 list=GOOGLE
 add address=104.132.62.0/24 list=GOOGLE
 add address=104.132.69.0/24 list=GOOGLE
@@ -237,6 +235,7 @@ add address=192.178.0.0/15 list=GOOGLE
 add address=192.200.191.0/24 list=GOOGLE
 add address=192.200.224.0/19 list=GOOGLE
 add address=193.186.4.0/24 list=GOOGLE
+add address=193.73.208.0/24 list=GOOGLE
 add address=197.230.59.0/24 list=GOOGLE
 add address=197.230.70.0/24 list=GOOGLE
 add address=198.135.124.0/23 list=GOOGLE
@@ -376,6 +375,7 @@ add address=64.15.112.0/20 list=GOOGLE
 add address=64.15.114.0/24 list=GOOGLE
 add address=64.15.115.0/24 list=GOOGLE
 add address=64.15.118.0/23 list=GOOGLE
+add address=64.15.123.0/24 list=GOOGLE
 add address=64.15.126.0/24 list=GOOGLE
 add address=64.18.0.0/23 list=GOOGLE
 add address=64.18.8.0/22 list=GOOGLE
