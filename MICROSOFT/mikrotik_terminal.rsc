@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon May 10 20:09:19 +06 2021
+# Last Update - Tue May 11 07:01:28 +06 2021
 # --------------------------------------------
-# Total Prefixes: 617
+# Total Prefixes: 672
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -224,6 +224,7 @@ add address=13.107.58.0/24 list=MICROSOFT
 add address=13.107.6.0/24 list=MICROSOFT
 add address=13.107.7.0/24 list=MICROSOFT
 add address=13.107.9.0/24 list=MICROSOFT
+add address=131.107.0.0/16 list=MICROSOFT
 add address=131.107.132.0/24 list=MICROSOFT
 add address=131.253.1.0/24 list=MICROSOFT
 add address=131.253.112.0/21 list=MICROSOFT
@@ -231,6 +232,7 @@ add address=131.253.120.0/22 list=MICROSOFT
 add address=131.253.12.0/22 list=MICROSOFT
 add address=131.253.128.0/17 list=MICROSOFT
 add address=131.253.21.0/24 list=MICROSOFT
+add address=131.253.22.0/23 list=MICROSOFT
 add address=131.253.24.0/21 list=MICROSOFT
 add address=131.253.3.0/24 list=MICROSOFT
 add address=131.253.32.0/20 list=MICROSOFT
@@ -265,10 +267,25 @@ add address=150.171.42.0/24 list=MICROSOFT
 add address=150.171.43.0/24 list=MICROSOFT
 add address=150.171.44.0/24 list=MICROSOFT
 add address=155.62.0.0/16 list=MICROSOFT
+add address=157.54.0.0/16 list=MICROSOFT
 add address=157.55.0.0/16 list=MICROSOFT
 add address=157.56.0.0/16 list=MICROSOFT
+add address=157.57.0.0/16 list=MICROSOFT
+add address=157.58.0.0/16 list=MICROSOFT
+add address=157.58.192.0/19 list=MICROSOFT
+add address=157.58.31.0/24 list=MICROSOFT
+add address=157.59.0.0/16 list=MICROSOFT
+add address=157.60.0.0/16 list=MICROSOFT
 add address=158.158.0.0/16 list=MICROSOFT
 add address=167.105.0.0/16 list=MICROSOFT
+add address=167.220.0.0/16 list=MICROSOFT
+add address=167.220.148.0/22 list=MICROSOFT
+add address=167.220.152.0/24 list=MICROSOFT
+add address=167.220.204.0/22 list=MICROSOFT
+add address=167.220.208.0/23 list=MICROSOFT
+add address=167.220.224.0/20 list=MICROSOFT
+add address=167.220.226.0/23 list=MICROSOFT
+add address=167.220.227.0/24 list=MICROSOFT
 add address=167.220.232.0/22 list=MICROSOFT
 add address=167.220.232.0/23 list=MICROSOFT
 add address=167.220.232.0/24 list=MICROSOFT
@@ -276,6 +293,13 @@ add address=167.220.233.0/24 list=MICROSOFT
 add address=167.220.234.0/23 list=MICROSOFT
 add address=167.220.234.0/24 list=MICROSOFT
 add address=167.220.235.0/24 list=MICROSOFT
+add address=167.220.236.0/22 list=MICROSOFT
+add address=167.220.236.0/23 list=MICROSOFT
+add address=167.220.236.0/24 list=MICROSOFT
+add address=167.220.237.0/24 list=MICROSOFT
+add address=167.220.238.0/23 list=MICROSOFT
+add address=167.220.238.0/24 list=MICROSOFT
+add address=167.220.239.0/24 list=MICROSOFT
 add address=167.220.240.0/22 list=MICROSOFT
 add address=167.220.240.0/23 list=MICROSOFT
 add address=167.220.240.0/24 list=MICROSOFT
@@ -283,9 +307,29 @@ add address=167.220.241.0/24 list=MICROSOFT
 add address=167.220.242.0/23 list=MICROSOFT
 add address=167.220.242.0/24 list=MICROSOFT
 add address=167.220.243.0/24 list=MICROSOFT
+add address=167.220.244.0/22 list=MICROSOFT
+add address=167.220.244.0/23 list=MICROSOFT
+add address=167.220.246.0/23 list=MICROSOFT
+add address=167.220.248.0/21 list=MICROSOFT
+add address=167.220.248.0/22 list=MICROSOFT
+add address=167.220.248.0/23 list=MICROSOFT
+add address=167.220.248.0/24 list=MICROSOFT
+add address=167.220.249.0/24 list=MICROSOFT
+add address=167.220.250.0/23 list=MICROSOFT
+add address=167.220.250.0/24 list=MICROSOFT
+add address=167.220.251.0/24 list=MICROSOFT
+add address=167.220.252.0/22 list=MICROSOFT
+add address=167.220.252.0/23 list=MICROSOFT
+add address=167.220.252.0/24 list=MICROSOFT
+add address=167.220.253.0/24 list=MICROSOFT
+add address=167.220.254.0/23 list=MICROSOFT
+add address=167.220.254.0/24 list=MICROSOFT
+add address=167.220.255.0/24 list=MICROSOFT
+add address=167.220.42.0/24 list=MICROSOFT
 add address=168.61.0.0/16 list=MICROSOFT
 add address=168.62.0.0/15 list=MICROSOFT
 add address=169.138.0.0/16 list=MICROSOFT
+add address=170.110.229.0/24 list=MICROSOFT
 add address=170.165.0.0/16 list=MICROSOFT
 add address=185.209.209.0/24 list=MICROSOFT
 add address=185.236.124.0/24 list=MICROSOFT
@@ -303,10 +347,12 @@ add address=193.149.64.0/19 list=MICROSOFT
 add address=193.221.113.0/24 list=MICROSOFT
 add address=194.41.16.0/20 list=MICROSOFT
 add address=194.69.100.0/22 list=MICROSOFT
+add address=194.69.104.0/23 list=MICROSOFT
 add address=194.69.126.0/23 list=MICROSOFT
 add address=194.69.96.0/19 list=MICROSOFT
 add address=194.69.96.0/22 list=MICROSOFT
 add address=195.134.224.0/19 list=MICROSOFT
+add address=198.105.232.0/22 list=MICROSOFT
 add address=198.180.74.0/24 list=MICROSOFT
 add address=198.180.75.0/24 list=MICROSOFT
 add address=198.180.95.0/24 list=MICROSOFT
@@ -317,6 +363,7 @@ add address=198.49.8.0/24 list=MICROSOFT
 add address=199.103.122.0/24 list=MICROSOFT
 add address=199.103.90.0/23 list=MICROSOFT
 add address=199.103.90.0/24 list=MICROSOFT
+add address=199.2.137.0/24 list=MICROSOFT
 add address=199.242.32.0/20 list=MICROSOFT
 add address=199.242.48.0/21 list=MICROSOFT
 add address=199.30.16.0/20 list=MICROSOFT
@@ -368,6 +415,8 @@ add address=204.13.120.0/21 list=MICROSOFT
 add address=204.140.80.0/24 list=MICROSOFT
 add address=204.14.180.0/24 list=MICROSOFT
 add address=204.152.140.0/23 list=MICROSOFT
+add address=204.182.144.0/24 list=MICROSOFT
+add address=204.255.244.0/23 list=MICROSOFT
 add address=20.45.128.0/20 list=MICROSOFT
 add address=20.45.64.0/20 list=MICROSOFT
 add address=20.45.80.0/24 list=MICROSOFT
@@ -560,9 +609,14 @@ add address=51.136.0.0/15 list=MICROSOFT
 add address=51.138.0.0/16 list=MICROSOFT
 add address=51.140.0.0/14 list=MICROSOFT
 add address=51.144.0.0/15 list=MICROSOFT
+add address=51.18.0.0/16 list=MICROSOFT
+add address=51.4.0.0/15 list=MICROSOFT
+add address=51.4.0.0/16 list=MICROSOFT
+add address=51.5.0.0/16 list=MICROSOFT
 add address=51.51.0.0/16 list=MICROSOFT
 add address=51.51.0.0/24 list=MICROSOFT
 add address=51.53.0.0/16 list=MICROSOFT
+add address=51.8.0.0/16 list=MICROSOFT
 add address=52.105.196.0/23 list=MICROSOFT
 add address=52.112.0.0/14 list=MICROSOFT
 add address=52.113.194.0/24 list=MICROSOFT
@@ -592,6 +646,7 @@ add address=52.98.16.0/22 list=MICROSOFT
 add address=64.4.0.0/18 list=MICROSOFT
 add address=64.4.48.0/24 list=MICROSOFT
 add address=65.52.0.0/14 list=MICROSOFT
+add address=65.53.0.0/16 list=MICROSOFT
 add address=65.54.193.0/24 list=MICROSOFT
 add address=65.54.196.0/24 list=MICROSOFT
 add address=65.54.198.0/24 list=MICROSOFT
