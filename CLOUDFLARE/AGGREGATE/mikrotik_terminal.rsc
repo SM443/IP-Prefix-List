@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed May 12 07:07:08 +06 2021
+# Last Update - Wed May 12 19:07:11 +06 2021
 # --------------------------------------------
 # Total Prefixes: 677
 # --------------------------------------------
@@ -573,7 +573,7 @@ add address=8.27.70.0/24 list=CLOUDFLARE
 add address=8.27.79.0/24 list=CLOUDFLARE
 add address=8.28.20.0/24 list=CLOUDFLARE
 add address=8.28.82.0/24 list=CLOUDFLARE
-add address=8.31.160.0/24 list=CLOUDFLARE
+add address=8.31.160.0/23 list=CLOUDFLARE
 add address=8.35.149.0/24 list=CLOUDFLARE
 add address=8.35.211.0/24 list=CLOUDFLARE
 add address=8.35.57.0/24 list=CLOUDFLARE
