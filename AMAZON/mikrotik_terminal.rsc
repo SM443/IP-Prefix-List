@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed May 12 19:02:23 +06 2021
+# Last Update - Thu May 13 07:02:21 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13573
+# Total Prefixes: 13576
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -295,6 +295,7 @@ add address=129.41.76.0/23 list=AMAZON
 add address=129.41.88.0/23 list=AMAZON
 add address=130.137.11.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
+add address=130.137.117.0/24 list=AMAZON
 add address=130.137.118.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
@@ -5075,6 +5076,7 @@ add address=146.133.124.0/24 list=AMAZON
 add address=146.133.127.0/24 list=AMAZON
 add address=146.71.3.0/24 list=AMAZON
 add address=147.124.160.0/24 list=AMAZON
+add address=147.124.161.0/24 list=AMAZON
 add address=147.160.133.0/24 list=AMAZON
 add address=147.160.167.0/24 list=AMAZON
 add address=148.163.131.0/24 list=AMAZON
@@ -5993,6 +5995,7 @@ add address=192.71.255.0/24 list=AMAZON
 add address=192.71.84.0/24 list=AMAZON
 add address=192.81.98.0/24 list=AMAZON
 add address=192.81.99.0/24 list=AMAZON
+add address=192.84.23.0/24 list=AMAZON
 add address=192.92.97.0/24 list=AMAZON
 add address=193.104.169.0/24 list=AMAZON
 add address=193.131.114.0/23 list=AMAZON
