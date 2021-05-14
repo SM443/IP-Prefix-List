@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri May 14 07:07:20 +06 2021
+# Last Update - Fri May 14 19:07:14 +06 2021
 # --------------------------------------------
 # Total Prefixes: 3474
 # --------------------------------------------
@@ -100,6 +100,7 @@ add address=129.41.88.0/23 list=AMAZON
 add address=130.137.105.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
+add address=130.137.140.0/24 list=AMAZON
 add address=130.137.14.0/23 list=AMAZON
 add address=130.137.172.0/24 list=AMAZON
 add address=130.137.178.0/24 list=AMAZON
@@ -2215,7 +2216,6 @@ add address=52.85.183.0/24 list=AMAZON
 add address=52.85.185.0/24 list=AMAZON
 add address=52.85.186.0/23 list=AMAZON
 add address=52.85.188.0/23 list=AMAZON
-add address=52.85.188.0/24 list=AMAZON
 add address=52.85.190.0/24 list=AMAZON
 add address=52.85.192.0/22 list=AMAZON
 add address=52.85.196.0/22 list=AMAZON
