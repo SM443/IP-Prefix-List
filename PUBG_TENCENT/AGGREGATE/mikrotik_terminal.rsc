@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed May 19 19:04:29 +06 2021
+# Last Update - Thu May 20 07:05:01 +06 2021
 # --------------------------------------------
-# Total Prefixes: 643
+# Total Prefixes: 646
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -70,7 +70,6 @@ add address=103.38.116.0/22 list=PUBG-TENCENT
 add address=103.52.216.0/22 list=PUBG-TENCENT
 add address=103.7.28.0/22 list=PUBG-TENCENT
 add address=106.52.0.0/14 list=PUBG-TENCENT
-add address=106.52.0.0/15 list=PUBG-TENCENT
 add address=106.54.0.0/15 list=PUBG-TENCENT
 add address=106.55.0.0/16 list=PUBG-TENCENT
 add address=109.244.0.0/16 list=PUBG-TENCENT
@@ -131,6 +130,9 @@ add address=115.159.248.0/22 list=PUBG-TENCENT
 add address=115.159.252.0/23 list=PUBG-TENCENT
 add address=115.159.254.0/23 list=PUBG-TENCENT
 add address=118.126.104.0/22 list=PUBG-TENCENT
+add address=118.126.108.0/22 list=PUBG-TENCENT
+add address=118.126.112.0/22 list=PUBG-TENCENT
+add address=118.126.116.0/23 list=PUBG-TENCENT
 add address=118.126.118.0/23 list=PUBG-TENCENT
 add address=118.126.124.0/22 list=PUBG-TENCENT
 add address=118.126.64.0/18 list=PUBG-TENCENT
@@ -587,6 +589,7 @@ add address=43.129.32.0/19 list=PUBG-TENCENT
 add address=43.129.64.0/18 list=PUBG-TENCENT
 add address=43.130.0.0/15 list=PUBG-TENCENT
 add address=43.130.0.0/18 list=PUBG-TENCENT
+add address=43.130.19.0/24 list=PUBG-TENCENT
 add address=43.130.64.0/18 list=PUBG-TENCENT
 add address=43.131.0.0/18 list=PUBG-TENCENT
 add address=43.131.64.0/18 list=PUBG-TENCENT
