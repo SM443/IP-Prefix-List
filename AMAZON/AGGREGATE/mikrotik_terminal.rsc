@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri May 21 19:07:12 +06 2021
+# Last Update - Sat May 22 07:07:25 +06 2021
 # --------------------------------------------
-# Total Prefixes: 3594
+# Total Prefixes: 3587
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -817,7 +817,6 @@ add address=137.83.252.0/24 list=AMAZON
 add address=137.83.253.0/24 list=AMAZON
 add address=138.43.114.0/24 list=AMAZON
 add address=138.94.152.0/22 list=AMAZON
-add address=138.94.152.0/24 list=AMAZON
 add address=138.94.154.0/24 list=AMAZON
 add address=139.180.17.0/24 list=AMAZON
 add address=139.180.242.0/23 list=AMAZON
@@ -1944,9 +1943,8 @@ add address=46.51.128.0/18 list=AMAZON
 add address=46.51.192.0/20 list=AMAZON
 add address=46.51.216.0/21 list=AMAZON
 add address=46.51.224.0/19 list=AMAZON
-add address=47.228.0.0/22 list=AMAZON
+add address=47.228.0.0/21 list=AMAZON
 add address=47.228.12.0/24 list=AMAZON
-add address=47.228.4.0/23 list=AMAZON
 add address=47.228.8.0/22 list=AMAZON
 add address=50.112.0.0/16 list=AMAZON
 add address=50.16.0.0/15 list=AMAZON
@@ -1978,7 +1976,6 @@ add address=52.119.249.0/24 list=AMAZON
 add address=52.119.252.0/22 list=AMAZON
 add address=52.119.34.0/24 list=AMAZON
 add address=52.12.0.0/15 list=AMAZON
-add address=52.124.128.0/24 list=AMAZON
 add address=52.124.130.0/24 list=AMAZON
 add address=52.124.171.0/24 list=AMAZON
 add address=52.124.174.0/24 list=AMAZON
@@ -3484,10 +3481,6 @@ add address=99.84.128.0/24 list=AMAZON
 add address=99.84.130.0/23 list=AMAZON
 add address=99.84.132.0/22 list=AMAZON
 add address=99.84.136.0/21 list=AMAZON
-add address=99.84.144.0/24 list=AMAZON
-add address=99.84.146.0/23 list=AMAZON
-add address=99.84.148.0/22 list=AMAZON
-add address=99.84.152.0/21 list=AMAZON
 add address=99.84.160.0/24 list=AMAZON
 add address=99.84.16.0/24 list=AMAZON
 add address=99.84.162.0/23 list=AMAZON
