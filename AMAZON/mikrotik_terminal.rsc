@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed May 26 19:02:22 +06 2021
+# Last Update - Thu May 27 07:48:15 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13618
+# Total Prefixes: 13614
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -296,7 +296,6 @@ add address=129.41.76.0/23 list=AMAZON
 add address=129.41.88.0/23 list=AMAZON
 add address=130.137.11.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
-add address=130.137.117.0/24 list=AMAZON
 add address=130.137.118.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
@@ -313,6 +312,7 @@ add address=130.137.172.0/24 list=AMAZON
 add address=130.137.178.0/24 list=AMAZON
 add address=130.137.18.0/23 list=AMAZON
 add address=130.137.20.0/24 list=AMAZON
+add address=130.137.226.0/24 list=AMAZON
 add address=130.137.239.0/24 list=AMAZON
 add address=130.137.24.0/23 list=AMAZON
 add address=130.137.241.0/24 list=AMAZON
@@ -4372,11 +4372,6 @@ add address=137.83.251.0/24 list=AMAZON
 add address=137.83.252.0/24 list=AMAZON
 add address=137.83.253.0/24 list=AMAZON
 add address=138.43.114.0/24 list=AMAZON
-add address=138.94.152.0/22 list=AMAZON
-add address=138.94.152.0/24 list=AMAZON
-add address=138.94.153.0/24 list=AMAZON
-add address=138.94.154.0/24 list=AMAZON
-add address=138.94.155.0/24 list=AMAZON
 add address=139.138.99.0/24 list=AMAZON
 add address=139.180.17.0/24 list=AMAZON
 add address=139.180.242.0/23 list=AMAZON
@@ -5141,6 +5136,7 @@ add address=15.158.71.0/24 list=AMAZON
 add address=15.158.72.0/24 list=AMAZON
 add address=15.158.73.0/24 list=AMAZON
 add address=15.158.74.0/24 list=AMAZON
+add address=15.158.75.0/24 list=AMAZON
 add address=15.160.0.0/16 list=AMAZON
 add address=15.161.0.0/16 list=AMAZON
 add address=15.164.0.0/15 list=AMAZON
@@ -5333,6 +5329,7 @@ add address=162.221.166.0/24 list=AMAZON
 add address=162.221.167.0/24 list=AMAZON
 add address=162.221.182.0/24 list=AMAZON
 add address=162.221.183.0/24 list=AMAZON
+add address=162.222.148.0/22 list=AMAZON
 add address=162.246.176.0/24 list=AMAZON
 add address=162.246.183.0/24 list=AMAZON
 add address=162.247.160.0/24 list=AMAZON
@@ -13221,7 +13218,6 @@ add address=83.118.228.0/24 list=AMAZON
 add address=83.118.229.0/24 list=AMAZON
 add address=83.118.230.0/24 list=AMAZON
 add address=83.118.231.0/24 list=AMAZON
-add address=8.45.162.0/24 list=AMAZON
 add address=85.115.38.0/24 list=AMAZON
 add address=85.158.142.0/24 list=AMAZON
 add address=85.158.143.0/24 list=AMAZON
