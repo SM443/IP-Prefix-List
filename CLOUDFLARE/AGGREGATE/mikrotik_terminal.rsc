@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sat May 29 19:07:14 +06 2021
+# Last Update - Sun May 30 07:08:04 +06 2021
 # --------------------------------------------
-# Total Prefixes: 700
+# Total Prefixes: 701
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -266,7 +266,6 @@ add address=172.68.170.0/24 list=CLOUDFLARE
 add address=172.68.171.0/24 list=CLOUDFLARE
 add address=172.68.172.0/22 list=CLOUDFLARE
 add address=172.68.176.0/24 list=CLOUDFLARE
-add address=172.68.179.0/24 list=CLOUDFLARE
 add address=172.68.180.0/22 list=CLOUDFLARE
 add address=172.68.184.0/22 list=CLOUDFLARE
 add address=172.68.188.0/22 list=CLOUDFLARE
@@ -364,6 +363,7 @@ add address=172.69.182.0/24 list=CLOUDFLARE
 add address=172.69.183.0/24 list=CLOUDFLARE
 add address=172.69.184.0/22 list=CLOUDFLARE
 add address=172.69.188.0/22 list=CLOUDFLARE
+add address=172.69.19.0/24 list=CLOUDFLARE
 add address=172.69.192.0/22 list=CLOUDFLARE
 add address=172.69.196.0/24 list=CLOUDFLARE
 add address=172.69.197.0/24 list=CLOUDFLARE
@@ -600,6 +600,7 @@ add address=8.28.20.0/24 list=CLOUDFLARE
 add address=8.28.82.0/24 list=CLOUDFLARE
 add address=8.31.160.0/24 list=CLOUDFLARE
 add address=8.35.149.0/24 list=CLOUDFLARE
+add address=8.35.211.0/24 list=CLOUDFLARE
 add address=8.35.57.0/24 list=CLOUDFLARE
 add address=8.35.58.0/23 list=CLOUDFLARE
 add address=8.36.216.0/24 list=CLOUDFLARE
