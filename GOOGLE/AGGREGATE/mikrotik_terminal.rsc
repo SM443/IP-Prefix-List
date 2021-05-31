@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon May 31 07:04:31 +06 2021
+# Last Update - Mon May 31 19:04:19 +06 2021
 # --------------------------------------------
 # Total Prefixes: 545
 # --------------------------------------------
@@ -535,7 +535,7 @@ add address=74.125.238.0/24 list=GOOGLE
 add address=74.125.24.0/23 list=GOOGLE
 add address=74.125.250.0/24 list=GOOGLE
 add address=74.125.26.0/24 list=GOOGLE
-add address=74.125.28.0/23 list=GOOGLE
+add address=74.125.29.0/24 list=GOOGLE
 add address=74.125.31.0/24 list=GOOGLE
 add address=74.125.38.0/23 list=GOOGLE
 add address=74.125.44.0/22 list=GOOGLE
