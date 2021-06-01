@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon May 31 19:07:13 +06 2021
+# Last Update - Tue Jun  1 07:07:24 +06 2021
 # --------------------------------------------
-# Total Prefixes: 3608
+# Total Prefixes: 3601
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -108,12 +108,12 @@ add address=130.137.108.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
+add address=130.137.140.0/24 list=AMAZON
 add address=130.137.14.0/23 list=AMAZON
 add address=130.137.172.0/24 list=AMAZON
 add address=130.137.178.0/24 list=AMAZON
 add address=130.137.20.0/24 list=AMAZON
 add address=130.137.239.0/24 list=AMAZON
-add address=130.137.80.0/24 list=AMAZON
 add address=130.137.82.0/24 list=AMAZON
 add address=130.176.0.0/24 list=AMAZON
 add address=130.176.100.0/24 list=AMAZON
@@ -589,13 +589,12 @@ add address=13.32.110.0/24 list=AMAZON
 add address=13.32.111.0/24 list=AMAZON
 add address=13.32.115.0/24 list=AMAZON
 add address=13.32.12.0/23 list=AMAZON
-add address=13.32.123.0/24 list=AMAZON
 add address=13.32.124.0/22 list=AMAZON
+add address=13.32.128.0/23 list=AMAZON
 add address=13.32.134.0/23 list=AMAZON
 add address=13.32.136.0/23 list=AMAZON
 add address=13.32.14.0/24 list=AMAZON
 add address=13.32.141.0/24 list=AMAZON
-add address=13.32.142.0/23 list=AMAZON
 add address=13.32.144.0/23 list=AMAZON
 add address=13.32.149.0/24 list=AMAZON
 add address=13.32.150.0/23 list=AMAZON
@@ -604,7 +603,6 @@ add address=13.32.153.0/24 list=AMAZON
 add address=13.32.154.0/23 list=AMAZON
 add address=13.32.156.0/22 list=AMAZON
 add address=13.32.16.0/24 list=AMAZON
-add address=13.32.167.0/24 list=AMAZON
 add address=13.32.168.0/21 list=AMAZON
 add address=13.32.17.0/24 list=AMAZON
 add address=13.32.178.0/23 list=AMAZON
@@ -636,12 +634,14 @@ add address=13.32.48.0/21 list=AMAZON
 add address=13.32.56.0/23 list=AMAZON
 add address=13.32.60.0/23 list=AMAZON
 add address=13.32.6.0/24 list=AMAZON
+add address=13.32.62.0/24 list=AMAZON
 add address=13.32.63.0/24 list=AMAZON
 add address=13.32.65.0/24 list=AMAZON
 add address=13.32.66.0/24 list=AMAZON
 add address=13.32.68.0/22 list=AMAZON
 add address=13.32.72.0/21 list=AMAZON
 add address=13.32.80.0/21 list=AMAZON
+add address=13.32.88.0/22 list=AMAZON
 add address=13.33.0.0/24 list=AMAZON
 add address=13.33.1.0/24 list=AMAZON
 add address=13.33.104.0/24 list=AMAZON
@@ -681,6 +681,7 @@ add address=13.33.200.0/22 list=AMAZON
 add address=13.33.2.0/23 list=AMAZON
 add address=13.33.204.0/22 list=AMAZON
 add address=13.33.208.0/21 list=AMAZON
+add address=13.33.232.0/21 list=AMAZON
 add address=13.33.240.0/21 list=AMAZON
 add address=13.33.24.0/22 list=AMAZON
 add address=13.33.248.0/21 list=AMAZON
@@ -808,7 +809,6 @@ add address=137.83.253.0/24 list=AMAZON
 add address=138.43.114.0/24 list=AMAZON
 add address=138.94.152.0/22 list=AMAZON
 add address=138.94.152.0/24 list=AMAZON
-add address=138.94.154.0/24 list=AMAZON
 add address=139.180.17.0/24 list=AMAZON
 add address=139.180.242.0/23 list=AMAZON
 add address=139.180.244.0/23 list=AMAZON
@@ -1598,7 +1598,6 @@ add address=204.110.220.0/23 list=AMAZON
 add address=204.110.222.0/24 list=AMAZON
 add address=204.110.223.0/24 list=AMAZON
 add address=204.128.249.0/24 list=AMAZON
-add address=204.136.10.0/24 list=AMAZON
 add address=204.138.180.0/24 list=AMAZON
 add address=204.15.172.0/24 list=AMAZON
 add address=204.15.215.0/24 list=AMAZON
@@ -2309,7 +2308,6 @@ add address=52.85.106.0/23 list=AMAZON
 add address=52.85.108.0/23 list=AMAZON
 add address=52.85.110.0/24 list=AMAZON
 add address=52.85.111.0/24 list=AMAZON
-add address=52.85.112.0/22 list=AMAZON
 add address=52.85.116.0/23 list=AMAZON
 add address=52.85.118.0/23 list=AMAZON
 add address=52.85.120.0/22 list=AMAZON
@@ -2365,8 +2363,6 @@ add address=52.85.36.0/23 list=AMAZON
 add address=52.85.4.0/22 list=AMAZON
 add address=52.85.42.0/24 list=AMAZON
 add address=52.85.44.0/24 list=AMAZON
-add address=52.85.46.0/23 list=AMAZON
-add address=52.85.48.0/22 list=AMAZON
 add address=52.85.52.0/23 list=AMAZON
 add address=52.85.54.0/24 list=AMAZON
 add address=52.85.55.0/24 list=AMAZON
@@ -2779,7 +2775,6 @@ add address=54.240.169.0/24 list=AMAZON
 add address=54.240.170.0/23 list=AMAZON
 add address=54.240.172.0/23 list=AMAZON
 add address=54.240.175.0/24 list=AMAZON
-add address=54.240.186.0/24 list=AMAZON
 add address=54.240.187.0/24 list=AMAZON
 add address=54.240.188.0/23 list=AMAZON
 add address=54.240.190.0/24 list=AMAZON
@@ -3007,12 +3002,6 @@ add address=65.8.244.0/22 list=AMAZON
 add address=65.8.248.0/21 list=AMAZON
 add address=65.8.26.0/23 list=AMAZON
 add address=65.8.28.0/24 list=AMAZON
-add address=65.8.29.0/24 list=AMAZON
-add address=65.8.30.0/23 list=AMAZON
-add address=65.8.32.0/21 list=AMAZON
-add address=65.8.40.0/23 list=AMAZON
-add address=65.8.4.0/24 list=AMAZON
-add address=65.8.42.0/24 list=AMAZON
 add address=65.8.43.0/24 list=AMAZON
 add address=65.8.44.0/22 list=AMAZON
 add address=65.8.48.0/21 list=AMAZON
@@ -3559,10 +3548,12 @@ add address=99.84.88.0/21 list=AMAZON
 add address=99.84.96.0/24 list=AMAZON
 add address=99.84.98.0/23 list=AMAZON
 add address=99.86.0.0/21 list=AMAZON
+add address=99.86.10.0/23 list=AMAZON
 add address=99.86.105.0/24 list=AMAZON
 add address=99.86.106.0/23 list=AMAZON
 add address=99.86.108.0/22 list=AMAZON
 add address=99.86.112.0/21 list=AMAZON
+add address=99.86.12.0/22 list=AMAZON
 add address=99.86.128.0/21 list=AMAZON
 add address=99.86.137.0/24 list=AMAZON
 add address=99.86.138.0/23 list=AMAZON
@@ -3572,6 +3563,7 @@ add address=99.86.153.0/24 list=AMAZON
 add address=99.86.154.0/23 list=AMAZON
 add address=99.86.156.0/22 list=AMAZON
 add address=99.86.160.0/21 list=AMAZON
+add address=99.86.16.0/21 list=AMAZON
 add address=99.86.169.0/24 list=AMAZON
 add address=99.86.170.0/23 list=AMAZON
 add address=99.86.172.0/22 list=AMAZON
@@ -3615,6 +3607,7 @@ add address=99.86.76.0/22 list=AMAZON
 add address=99.86.80.0/21 list=AMAZON
 add address=99.86.8.0/24 list=AMAZON
 add address=99.86.88.0/21 list=AMAZON
+add address=99.86.9.0/24 list=AMAZON
 add address=99.86.96.0/21 list=AMAZON
 add address=99.87.0.0/22 list=AMAZON
 add address=99.87.32.0/22 list=AMAZON
