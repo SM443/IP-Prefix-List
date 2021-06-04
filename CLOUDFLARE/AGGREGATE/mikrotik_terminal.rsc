@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Jun  3 19:08:00 +06 2021
+# Last Update - Fri Jun  4 07:07:29 +06 2021
 # --------------------------------------------
-# Total Prefixes: 718
+# Total Prefixes: 715
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -16,7 +16,6 @@ add address=103.160.204.0/24 list=CLOUDFLARE
 add address=103.204.13.0/24 list=CLOUDFLARE
 add address=103.21.244.0/24 list=CLOUDFLARE
 add address=103.21.246.0/23 list=CLOUDFLARE
-add address=103.22.200.0/23 list=CLOUDFLARE
 add address=103.22.203.0/24 list=CLOUDFLARE
 add address=103.244.116.0/22 list=CLOUDFLARE
 add address=103.31.4.0/22 list=CLOUDFLARE
@@ -140,7 +139,6 @@ add address=162.158.108.0/22 list=CLOUDFLARE
 add address=162.158.11.0/24 list=CLOUDFLARE
 add address=162.158.112.0/23 list=CLOUDFLARE
 add address=162.158.114.0/24 list=CLOUDFLARE
-add address=162.158.116.0/22 list=CLOUDFLARE
 add address=162.158.120.0/22 list=CLOUDFLARE
 add address=162.158.12.0/22 list=CLOUDFLARE
 add address=162.158.124.0/22 list=CLOUDFLARE
@@ -246,7 +244,8 @@ add address=172.67.160.0/19 list=CLOUDFLARE
 add address=172.67.192.0/20 list=CLOUDFLARE
 add address=172.67.208.0/20 list=CLOUDFLARE
 add address=172.67.224.0/19 list=CLOUDFLARE
-add address=172.67.64.0/19 list=CLOUDFLARE
+add address=172.67.64.0/20 list=CLOUDFLARE
+add address=172.67.80.0/20 list=CLOUDFLARE
 add address=172.67.96.0/20 list=CLOUDFLARE
 add address=172.68.0.0/22 list=CLOUDFLARE
 add address=172.68.100.0/22 list=CLOUDFLARE
@@ -447,12 +446,11 @@ add address=172.70.100.0/24 list=CLOUDFLARE
 add address=172.70.101.0/24 list=CLOUDFLARE
 add address=172.70.108.0/22 list=CLOUDFLARE
 add address=172.70.112.0/21 list=CLOUDFLARE
-add address=172.70.120.0/22 list=CLOUDFLARE
 add address=172.70.32.0/21 list=CLOUDFLARE
 add address=172.70.40.0/22 list=CLOUDFLARE
 add address=172.70.44.0/23 list=CLOUDFLARE
 add address=172.70.48.0/23 list=CLOUDFLARE
-add address=172.70.50.0/23 list=CLOUDFLARE
+add address=172.70.51.0/24 list=CLOUDFLARE
 add address=172.70.52.0/22 list=CLOUDFLARE
 add address=172.70.56.0/22 list=CLOUDFLARE
 add address=172.70.60.0/23 list=CLOUDFLARE
@@ -601,13 +599,13 @@ add address=8.24.243.0/24 list=CLOUDFLARE
 add address=8.24.244.0/24 list=CLOUDFLARE
 add address=8.24.87.0/24 list=CLOUDFLARE
 add address=8.25.249.0/24 list=CLOUDFLARE
-add address=8.25.96.0/23 list=CLOUDFLARE
+add address=8.25.96.0/24 list=CLOUDFLARE
 add address=8.26.176.0/24 list=CLOUDFLARE
 add address=8.26.180.0/24 list=CLOUDFLARE
 add address=8.26.182.0/24 list=CLOUDFLARE
 add address=8.27.64.0/24 list=CLOUDFLARE
 add address=8.27.66.0/23 list=CLOUDFLARE
-add address=8.27.68.0/23 list=CLOUDFLARE
+add address=8.27.69.0/24 list=CLOUDFLARE
 add address=8.27.70.0/24 list=CLOUDFLARE
 add address=8.27.79.0/24 list=CLOUDFLARE
 add address=8.28.126.0/23 list=CLOUDFLARE
@@ -625,7 +623,6 @@ add address=8.36.217.0/24 list=CLOUDFLARE
 add address=8.36.218.0/24 list=CLOUDFLARE
 add address=8.36.220.0/24 list=CLOUDFLARE
 add address=8.37.41.0/24 list=CLOUDFLARE
-add address=8.37.43.0/24 list=CLOUDFLARE
 add address=8.38.147.0/24 list=CLOUDFLARE
 add address=8.38.148.0/23 list=CLOUDFLARE
 add address=8.38.172.0/24 list=CLOUDFLARE
