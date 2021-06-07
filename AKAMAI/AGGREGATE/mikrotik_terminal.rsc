@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Jun  7 07:06:59 +06 2021
+# Last Update - Mon Jun  7 19:06:36 +06 2021
 # --------------------------------------------
 # Total Prefixes: 6999
 # --------------------------------------------
@@ -3041,7 +3041,6 @@ add address=23.1.254.0/24 list=AKAMAI
 add address=23.1.255.0/24 list=AKAMAI
 add address=23.12.64.0/20 list=AKAMAI
 add address=23.12.96.0/20 list=AKAMAI
-add address=23.1.3.0/24 list=AKAMAI
 add address=23.13.112.0/20 list=AKAMAI
 add address=23.13.128.0/20 list=AKAMAI
 add address=23.13.144.0/20 list=AKAMAI
@@ -3714,6 +3713,7 @@ add address=23.207.196.0/24 list=AKAMAI
 add address=23.207.197.0/24 list=AKAMAI
 add address=23.207.198.0/23 list=AKAMAI
 add address=23.207.200.0/24 list=AKAMAI
+add address=23.207.201.0/24 list=AKAMAI
 add address=23.207.202.0/24 list=AKAMAI
 add address=23.207.203.0/24 list=AKAMAI
 add address=23.207.216.0/24 list=AKAMAI
