@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Jun  8 07:07:35 +06 2021
+# Last Update - Tue Jun  8 19:06:40 +06 2021
 # --------------------------------------------
-# Total Prefixes: 3559
+# Total Prefixes: 3558
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -101,16 +101,18 @@ add address=129.41.222.0/24 list=AMAZON
 add address=129.41.76.0/23 list=AMAZON
 add address=129.41.88.0/23 list=AMAZON
 add address=130.137.105.0/24 list=AMAZON
+add address=130.137.108.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
-add address=130.137.140.0/24 list=AMAZON
 add address=130.137.14.0/23 list=AMAZON
 add address=130.137.172.0/24 list=AMAZON
 add address=130.137.178.0/24 list=AMAZON
 add address=130.137.20.0/24 list=AMAZON
 add address=130.137.239.0/24 list=AMAZON
+add address=130.137.80.0/24 list=AMAZON
 add address=130.137.82.0/24 list=AMAZON
+add address=130.137.85.0/24 list=AMAZON
 add address=130.176.0.0/24 list=AMAZON
 add address=130.176.100.0/24 list=AMAZON
 add address=130.176.10.0/24 list=AMAZON
@@ -573,10 +575,6 @@ add address=13.249.34.0/23 list=AMAZON
 add address=13.249.36.0/22 list=AMAZON
 add address=13.249.40.0/21 list=AMAZON
 add address=13.249.4.0/22 list=AMAZON
-add address=13.249.48.0/24 list=AMAZON
-add address=13.249.50.0/23 list=AMAZON
-add address=13.249.52.0/22 list=AMAZON
-add address=13.249.56.0/21 list=AMAZON
 add address=13.249.64.0/24 list=AMAZON
 add address=13.249.66.0/23 list=AMAZON
 add address=13.249.68.0/22 list=AMAZON
@@ -2570,6 +2568,7 @@ add address=54.204.0.0/15 list=AMAZON
 add address=54.206.0.0/16 list=AMAZON
 add address=54.207.0.0/16 list=AMAZON
 add address=54.208.0.0/14 list=AMAZON
+add address=54.211.13.0/24 list=AMAZON
 add address=54.212.0.0/14 list=AMAZON
 add address=54.216.0.0/15 list=AMAZON
 add address=54.218.0.0/15 list=AMAZON
