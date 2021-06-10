@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Jun 10 07:05:20 +06 2021
+# Last Update - Thu Jun 10 19:04:20 +06 2021
 # --------------------------------------------
-# Total Prefixes: 411
+# Total Prefixes: 413
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -101,8 +101,7 @@ add address=109.68.56.0/21 list=GOOGLE
 add address=130.211.0.0/16 list=GOOGLE
 add address=134.195.26.0/23 list=GOOGLE
 add address=134.238.0.0/16 list=GOOGLE
-add address=135.129.112.0/22 list=GOOGLE
-add address=135.129.116.0/23 list=GOOGLE
+add address=135.129.112.0/23 list=GOOGLE
 add address=135.129.242.0/24 list=GOOGLE
 add address=135.129.244.0/24 list=GOOGLE
 add address=135.84.69.0/24 list=GOOGLE
@@ -140,9 +139,10 @@ add address=136.36.128.0/18 list=GOOGLE
 add address=136.36.192.0/19 list=GOOGLE
 add address=136.36.32.0/19 list=GOOGLE
 add address=136.36.64.0/18 list=GOOGLE
-add address=136.37.0.0/17 list=GOOGLE
+add address=136.37.0.0/18 list=GOOGLE
 add address=136.37.128.0/18 list=GOOGLE
 add address=136.37.192.0/19 list=GOOGLE
+add address=136.37.64.0/18 list=GOOGLE
 add address=136.42.24.0/21 list=GOOGLE
 add address=136.49.0.0/16 list=GOOGLE
 add address=136.50.0.0/18 list=GOOGLE
@@ -180,6 +180,7 @@ add address=137.83.240.0/21 list=GOOGLE
 add address=137.83.248.0/23 list=GOOGLE
 add address=137.83.250.0/24 list=GOOGLE
 add address=142.250.0.0/15 list=GOOGLE
+add address=142.251.2.0/24 list=GOOGLE
 add address=143.131.0.0/20 list=GOOGLE
 add address=144.48.35.0/24 list=GOOGLE
 add address=144.49.128.0/18 list=GOOGLE
@@ -260,6 +261,7 @@ add address=199.36.156.0/24 list=GOOGLE
 add address=199.47.186.0/23 list=GOOGLE
 add address=199.91.151.0/24 list=GOOGLE
 add address=202.250.28.0/24 list=GOOGLE
+add address=204.62.215.0/24 list=GOOGLE
 add address=205.174.156.0/23 list=GOOGLE
 add address=206.214.224.0/20 list=GOOGLE
 add address=207.223.160.0/20 list=GOOGLE
