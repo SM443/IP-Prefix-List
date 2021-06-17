@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Thu Jun 17 07:02:46 +06 2021
+# Last Update - Thu Jun 17 19:01:59 +06 2021
 # --------------------------------------------
-# Total Prefixes: 11003
+# Total Prefixes: 11007
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -57,10 +57,8 @@ add address=103.249.58.0/23 list=AKAMAI
 add address=103.252.85.0/24 list=AKAMAI
 add address=103.3.56.0/23 list=AKAMAI
 add address=103.41.68.0/22 list=AKAMAI
-add address=103.41.68.0/23 list=AKAMAI
 add address=103.41.68.0/24 list=AKAMAI
 add address=103.41.69.0/24 list=AKAMAI
-add address=103.41.70.0/23 list=AKAMAI
 add address=103.41.70.0/24 list=AKAMAI
 add address=103.41.71.0/24 list=AKAMAI
 add address=103.5.215.0/24 list=AKAMAI
@@ -6914,6 +6912,9 @@ add address=23.222.208.0/20 list=AKAMAI
 add address=23.222.22.0/23 list=AKAMAI
 add address=23.222.224.0/22 list=AKAMAI
 add address=23.222.228.0/24 list=AKAMAI
+add address=23.222.229.0/24 list=AKAMAI
+add address=23.222.230.0/23 list=AKAMAI
+add address=23.222.232.0/22 list=AKAMAI
 add address=23.222.240.0/22 list=AKAMAI
 add address=23.222.240.0/24 list=AKAMAI
 add address=23.222.24.0/22 list=AKAMAI
@@ -8499,6 +8500,8 @@ add address=23.54.56.0/22 list=AKAMAI
 add address=23.54.60.0/22 list=AKAMAI
 add address=23.54.64.0/20 list=AKAMAI
 add address=23.54.64.0/24 list=AKAMAI
+add address=23.54.65.0/24 list=AKAMAI
+add address=23.54.66.0/23 list=AKAMAI
 add address=23.54.68.0/22 list=AKAMAI
 add address=23.54.76.0/24 list=AKAMAI
 add address=23.54.77.0/24 list=AKAMAI
@@ -8840,6 +8843,7 @@ add address=23.60.69.0/24 list=AKAMAI
 add address=23.60.72.0/22 list=AKAMAI
 add address=23.60.76.0/23 list=AKAMAI
 add address=23.60.80.0/22 list=AKAMAI
+add address=23.60.8.0/22 list=AKAMAI
 add address=23.60.84.0/22 list=AKAMAI
 add address=23.60.88.0/22 list=AKAMAI
 add address=23.60.92.0/23 list=AKAMAI
