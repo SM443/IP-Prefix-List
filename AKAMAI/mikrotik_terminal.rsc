@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Thu Jun 17 19:01:59 +06 2021
+# Last Update - Fri Jun 18 07:03:38 +06 2021
 # --------------------------------------------
-# Total Prefixes: 11007
+# Total Prefixes: 11012
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1897,6 +1897,7 @@ add address=104.99.58.0/24 list=AKAMAI
 add address=104.99.59.0/24 list=AKAMAI
 add address=104.99.60.0/22 list=AKAMAI
 add address=106.3.84.0/22 list=AKAMAI
+add address=107.6.124.0/24 list=AKAMAI
 add address=109.69.136.0/21 list=AKAMAI
 add address=109.69.136.0/24 list=AKAMAI
 add address=109.69.137.0/24 list=AKAMAI
@@ -2459,6 +2460,7 @@ add address=172.232.4.0/24 list=AKAMAI
 add address=172.232.41.0/24 list=AKAMAI
 add address=172.232.42.0/24 list=AKAMAI
 add address=172.232.43.0/24 list=AKAMAI
+add address=172.232.44.0/24 list=AKAMAI
 add address=172.232.5.0/24 list=AKAMAI
 add address=172.232.6.0/24 list=AKAMAI
 add address=172.232.7.0/24 list=AKAMAI
@@ -6915,6 +6917,7 @@ add address=23.222.228.0/24 list=AKAMAI
 add address=23.222.229.0/24 list=AKAMAI
 add address=23.222.230.0/23 list=AKAMAI
 add address=23.222.232.0/22 list=AKAMAI
+add address=23.222.236.0/24 list=AKAMAI
 add address=23.222.240.0/22 list=AKAMAI
 add address=23.222.240.0/24 list=AKAMAI
 add address=23.222.24.0/22 list=AKAMAI
@@ -8822,6 +8825,8 @@ add address=23.60.0.0/22 list=AKAMAI
 add address=23.6.0.0/20 list=AKAMAI
 add address=23.60.104.0/22 list=AKAMAI
 add address=23.60.108.0/22 list=AKAMAI
+add address=23.60.12.0/24 list=AKAMAI
+add address=23.60.13.0/24 list=AKAMAI
 add address=23.60.148.0/22 list=AKAMAI
 add address=23.60.156.0/23 list=AKAMAI
 add address=23.60.156.0/24 list=AKAMAI
