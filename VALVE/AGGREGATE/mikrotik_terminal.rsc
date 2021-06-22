@@ -3,15 +3,16 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Jun 21 19:09:07 +06 2021
+# Last Update - Tue Jun 22 07:10:29 +06 2021
 # --------------------------------------------
-# Total Prefixes: 44
+# Total Prefixes: 45
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=103.10.124.0/23 list=VALVE
 add address=103.28.54.0/23 list=VALVE
+add address=146.66.152.0/24 list=VALVE
 add address=146.66.155.0/24 list=VALVE
 add address=146.66.156.0/23 list=VALVE
 add address=153.254.86.0/24 list=VALVE

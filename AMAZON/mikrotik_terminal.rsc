@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Jun 21 19:03:03 +06 2021
+# Last Update - Tue Jun 22 07:04:06 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13691
+# Total Prefixes: 13690
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -298,9 +298,7 @@ add address=129.41.76.0/23 list=AMAZON
 add address=129.41.88.0/23 list=AMAZON
 add address=130.137.11.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
-add address=130.137.117.0/24 list=AMAZON
 add address=130.137.118.0/24 list=AMAZON
-add address=130.137.120.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
 add address=130.137.139.0/24 list=AMAZON
@@ -4960,7 +4958,6 @@ add address=143.220.144.0/23 list=AMAZON
 add address=143.220.146.0/23 list=AMAZON
 add address=143.220.148.0/23 list=AMAZON
 add address=143.244.80.0/24 list=AMAZON
-add address=143.244.81.0/24 list=AMAZON
 add address=143.244.82.0/23 list=AMAZON
 add address=143.244.84.0/22 list=AMAZON
 add address=144.2.154.0/24 list=AMAZON
@@ -6061,6 +6058,7 @@ add address=192.84.23.0/24 list=AMAZON
 add address=192.92.97.0/24 list=AMAZON
 add address=193.104.169.0/24 list=AMAZON
 add address=193.105.212.0/24 list=AMAZON
+add address=193.107.65.0/24 list=AMAZON
 add address=193.110.146.0/24 list=AMAZON
 add address=193.131.114.0/23 list=AMAZON
 add address=193.16.22.0/23 list=AMAZON
@@ -6595,6 +6593,7 @@ add address=3.13.0.0/16 list=AMAZON
 add address=3.131.0.0/16 list=AMAZON
 add address=3.132.0.0/14 list=AMAZON
 add address=3.136.0.0/13 list=AMAZON
+add address=3.136.203.0/24 list=AMAZON
 add address=3.14.0.0/15 list=AMAZON
 add address=3.144.0.0/13 list=AMAZON
 add address=3.16.0.0/14 list=AMAZON
