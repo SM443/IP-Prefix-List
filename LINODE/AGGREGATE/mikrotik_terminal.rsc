@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Jun 22 19:09:40 +06 2021
+# Last Update - Wed Jun 23 07:08:16 +06 2021
 # --------------------------------------------
-# Total Prefixes: 183
+# Total Prefixes: 182
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -52,8 +52,7 @@ add address=172.104.8.0/21 list=LINODE
 add address=172.105.0.0/19 list=LINODE
 add address=172.105.112.0/20 list=LINODE
 add address=172.105.128.0/23 list=LINODE
-add address=172.105.132.0/23 list=LINODE
-add address=172.105.134.0/23 list=LINODE
+add address=172.105.132.0/22 list=LINODE
 add address=172.105.136.0/22 list=LINODE
 add address=172.105.144.0/23 list=LINODE
 add address=172.105.146.0/23 list=LINODE
