@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Thu Jun 24 07:00:35 +06 2021
+# Last Update - Thu Jun 24 19:00:34 +06 2021
 # --------------------------------------------
-# Total Prefixes: 9527
+# Total Prefixes: 9529
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -6254,10 +6254,12 @@ add address=185.150.151.0/24 list=GOOGLE
 add address=185.168.204.0/24 list=GOOGLE
 add address=185.180.142.0/24 list=GOOGLE
 add address=185.180.48.0/22 list=GOOGLE
+add address=185.191.171.0/24 list=GOOGLE
 add address=185.192.248.0/26 list=GOOGLE
 add address=185.192.249.0/24 list=GOOGLE
 add address=185.192.251.192/26 list=GOOGLE
 add address=185.192.58.0/23 list=GOOGLE
+add address=185.207.237.0/24 list=GOOGLE
 add address=185.225.161.0/24 list=GOOGLE
 add address=185.245.182.0/24 list=GOOGLE
 add address=185.249.220.0/24 list=GOOGLE
