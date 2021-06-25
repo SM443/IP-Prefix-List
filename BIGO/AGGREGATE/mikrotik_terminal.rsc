@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Jun 25 07:06:36 +06 2021
+# Last Update - Fri Jun 25 19:03:21 +06 2021
 # --------------------------------------------
-# Total Prefixes: 102
+# Total Prefixes: 91
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -19,21 +19,13 @@ add address=164.90.114.0/24 list=BIGO
 add address=164.90.115.0/24 list=BIGO
 add address=164.90.116.0/23 list=BIGO
 add address=164.90.122.0/24 list=BIGO
-add address=164.90.66.0/23 list=BIGO
-add address=164.90.68.0/23 list=BIGO
 add address=164.90.72.0/23 list=BIGO
 add address=164.90.74.0/24 list=BIGO
-add address=164.90.76.0/24 list=BIGO
 add address=164.90.77.0/24 list=BIGO
 add address=164.90.78.0/23 list=BIGO
 add address=164.90.80.0/24 list=BIGO
-add address=164.90.81.0/24 list=BIGO
 add address=164.90.83.0/24 list=BIGO
 add address=164.90.84.0/24 list=BIGO
-add address=164.90.89.0/24 list=BIGO
-add address=164.90.90.0/23 list=BIGO
-add address=164.90.92.0/23 list=BIGO
-add address=164.90.94.0/24 list=BIGO
 add address=164.90.95.0/24 list=BIGO
 add address=164.90.96.0/24 list=BIGO
 add address=164.90.97.0/24 list=BIGO
@@ -58,7 +50,6 @@ add address=169.136.138.0/24 list=BIGO
 add address=169.136.144.0/23 list=BIGO
 add address=169.136.155.0/24 list=BIGO
 add address=169.136.156.0/22 list=BIGO
-add address=169.136.160.0/24 list=BIGO
 add address=169.136.162.0/24 list=BIGO
 add address=169.136.163.0/24 list=BIGO
 add address=169.136.164.0/24 list=BIGO
@@ -76,11 +67,9 @@ add address=169.136.76.0/22 list=BIGO
 add address=169.136.80.0/24 list=BIGO
 add address=169.136.82.0/24 list=BIGO
 add address=169.136.83.0/24 list=BIGO
-add address=169.136.84.0/23 list=BIGO
 add address=169.136.86.0/24 list=BIGO
 add address=169.136.88.0/24 list=BIGO
-add address=169.136.89.0/24 list=BIGO
-add address=169.136.90.0/23 list=BIGO
+add address=169.136.91.0/24 list=BIGO
 add address=169.136.92.0/24 list=BIGO
 add address=169.136.93.0/24 list=BIGO
 add address=169.136.94.0/23 list=BIGO
