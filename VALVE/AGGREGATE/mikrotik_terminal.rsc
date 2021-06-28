@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Jun 28 07:09:36 +06 2021
+# Last Update - Mon Jun 28 19:09:17 +06 2021
 # --------------------------------------------
-# Total Prefixes: 45
+# Total Prefixes: 46
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -21,7 +21,8 @@ add address=155.133.226.0/24 list=VALVE
 add address=155.133.227.0/24 list=VALVE
 add address=155.133.228.0/23 list=VALVE
 add address=155.133.230.0/23 list=VALVE
-add address=155.133.232.0/23 list=VALVE
+add address=155.133.232.0/24 list=VALVE
+add address=155.133.233.0/24 list=VALVE
 add address=155.133.234.0/24 list=VALVE
 add address=155.133.238.0/24 list=VALVE
 add address=155.133.239.0/24 list=VALVE
