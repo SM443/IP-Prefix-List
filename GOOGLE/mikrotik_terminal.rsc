@@ -7,13 +7,14 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Jun 28 19:00:32 +06 2021
+# Last Update - Tue Jun 29 07:00:33 +06 2021
 # --------------------------------------------
-# Total Prefixes: 9532
+# Total Prefixes: 9534
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=103.123.131.0/24 list=GOOGLE
 add address=103.152.126.0/23 list=GOOGLE
 add address=103.152.126.0/24 list=GOOGLE
 add address=103.152.127.0/24 list=GOOGLE
@@ -6257,6 +6258,7 @@ add address=185.150.151.0/24 list=GOOGLE
 add address=185.168.204.0/24 list=GOOGLE
 add address=185.180.142.0/24 list=GOOGLE
 add address=185.180.48.0/22 list=GOOGLE
+add address=185.188.93.0/24 list=GOOGLE
 add address=185.191.171.0/24 list=GOOGLE
 add address=185.192.248.0/26 list=GOOGLE
 add address=185.192.249.0/24 list=GOOGLE
