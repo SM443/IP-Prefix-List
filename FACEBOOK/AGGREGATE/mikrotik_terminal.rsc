@@ -3,13 +3,14 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sun Jul  4 07:04:38 +06 2021
+# Last Update - Sun Jul  4 19:03:05 +06 2021
 # --------------------------------------------
-# Total Prefixes: 146
+# Total Prefixes: 147
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=102.132.112.0/24 list=FACEBOOK
 add address=102.132.113.0/24 list=FACEBOOK
 add address=102.132.114.0/24 list=FACEBOOK
 add address=102.132.115.0/24 list=FACEBOOK
