@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Jul  5 07:03:15 +06 2021
+# Last Update - Mon Jul  5 19:03:10 +06 2021
 # --------------------------------------------
-# Total Prefixes: 27
+# Total Prefixes: 33
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -15,10 +15,13 @@ add address=103.247.204.0/24 list=FreeFire-Garena
 add address=103.247.205.0/24 list=FreeFire-Garena
 add address=103.247.206.0/23 list=FreeFire-Garena
 add address=103.248.56.0/22 list=FreeFire-Garena
+add address=103.248.56.0/23 list=FreeFire-Garena
+add address=103.248.59.0/24 list=FreeFire-Garena
 add address=103.69.176.0/24 list=FreeFire-Garena
 add address=103.69.179.0/24 list=FreeFire-Garena
 add address=124.158.133.0/24 list=FreeFire-Garena
 add address=124.158.134.0/23 list=FreeFire-Garena
+add address=124.158.134.0/24 list=FreeFire-Garena
 add address=124.158.142.0/23 list=FreeFire-Garena
 add address=143.92.112.0/23 list=FreeFire-Garena
 add address=143.92.114.0/24 list=FreeFire-Garena
@@ -32,6 +35,9 @@ add address=202.181.67.0/24 list=FreeFire-Garena
 add address=202.181.69.0/24 list=FreeFire-Garena
 add address=202.181.70.0/24 list=FreeFire-Garena
 add address=202.73.16.0/21 list=FreeFire-Garena
+add address=202.73.16.0/22 list=FreeFire-Garena
+add address=202.73.21.0/24 list=FreeFire-Garena
+add address=202.73.22.0/23 list=FreeFire-Garena
 add address=202.81.100.0/22 list=FreeFire-Garena
 add address=202.81.104.0/23 list=FreeFire-Garena
 add address=202.81.104.0/24 list=FreeFire-Garena
