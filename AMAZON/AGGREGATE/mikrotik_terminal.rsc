@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Jul  5 19:08:14 +06 2021
+# Last Update - Tue Jul  6 07:08:26 +06 2021
 # --------------------------------------------
-# Total Prefixes: 3548
+# Total Prefixes: 3550
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -106,11 +106,13 @@ add address=130.137.105.0/24 list=AMAZON
 add address=130.137.112.0/24 list=AMAZON
 add address=130.137.12.0/24 list=AMAZON
 add address=130.137.121.0/24 list=AMAZON
+add address=130.137.140.0/24 list=AMAZON
 add address=130.137.14.0/23 list=AMAZON
 add address=130.137.172.0/24 list=AMAZON
 add address=130.137.178.0/24 list=AMAZON
 add address=130.137.20.0/24 list=AMAZON
 add address=130.137.239.0/24 list=AMAZON
+add address=130.137.80.0/24 list=AMAZON
 add address=130.137.82.0/24 list=AMAZON
 add address=130.176.0.0/24 list=AMAZON
 add address=130.176.100.0/24 list=AMAZON
@@ -1412,6 +1414,7 @@ add address=185.195.0.0/22 list=AMAZON
 add address=185.195.148.0/24 list=AMAZON
 add address=185.20.4.0/24 list=AMAZON
 add address=185.206.120.0/24 list=AMAZON
+add address=185.210.156.0/24 list=AMAZON
 add address=185.214.22.0/23 list=AMAZON
 add address=185.215.115.0/24 list=AMAZON
 add address=185.226.166.0/24 list=AMAZON
@@ -2165,8 +2168,7 @@ add address=52.46.51.0/24 list=AMAZON
 add address=52.46.53.0/24 list=AMAZON
 add address=52.46.54.0/24 list=AMAZON
 add address=52.46.55.0/24 list=AMAZON
-add address=52.46.56.0/24 list=AMAZON
-add address=52.46.57.0/24 list=AMAZON
+add address=52.46.56.0/23 list=AMAZON
 add address=52.46.58.0/24 list=AMAZON
 add address=52.46.61.0/24 list=AMAZON
 add address=52.46.62.0/24 list=AMAZON
