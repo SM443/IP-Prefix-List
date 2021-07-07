@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Jul  6 19:08:28 +06 2021
+# Last Update - Wed Jul  7 07:10:49 +06 2021
 # --------------------------------------------
-# Total Prefixes: 755
+# Total Prefixes: 756
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -400,7 +400,8 @@ add address=172.69.161.0/24 list=CLOUDFLARE
 add address=172.69.162.0/24 list=CLOUDFLARE
 add address=172.69.163.0/24 list=CLOUDFLARE
 add address=172.69.164.0/22 list=CLOUDFLARE
-add address=172.69.168.0/21 list=CLOUDFLARE
+add address=172.69.168.0/22 list=CLOUDFLARE
+add address=172.69.172.0/22 list=CLOUDFLARE
 add address=172.69.176.0/22 list=CLOUDFLARE
 add address=172.69.180.0/24 list=CLOUDFLARE
 add address=172.69.18.0/24 list=CLOUDFLARE
