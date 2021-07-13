@@ -3,14 +3,15 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Jul 13 07:05:42 +06 2021
+# Last Update - Tue Jul 13 19:06:18 +06 2021
 # --------------------------------------------
-# Total Prefixes: 465
+# Total Prefixes: 471
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=103.111.147.0/24 list=GOOGLE
+add address=103.123.131.0/24 list=GOOGLE
 add address=103.152.126.0/23 list=GOOGLE
 add address=103.153.177.0/24 list=GOOGLE
 add address=103.165.152.0/24 list=GOOGLE
@@ -212,6 +213,7 @@ add address=148.64.0.0/19 list=GOOGLE
 add address=149.19.160.0/23 list=GOOGLE
 add address=149.77.121.0/24 list=GOOGLE
 add address=155.184.0.0/19 list=GOOGLE
+add address=156.93.224.0/23 list=GOOGLE
 add address=159.192.27.0/24 list=GOOGLE
 add address=161.38.56.0/23 list=GOOGLE
 add address=161.38.58.0/24 list=GOOGLE
@@ -250,6 +252,7 @@ add address=185.180.142.0/24 list=GOOGLE
 add address=185.180.48.0/22 list=GOOGLE
 add address=185.192.249.0/24 list=GOOGLE
 add address=185.192.58.0/23 list=GOOGLE
+add address=185.197.148.0/24 list=GOOGLE
 add address=185.225.161.0/24 list=GOOGLE
 add address=185.225.248.0/24 list=GOOGLE
 add address=185.249.220.0/24 list=GOOGLE
@@ -270,7 +273,9 @@ add address=192.200.191.0/24 list=GOOGLE
 add address=192.200.224.0/19 list=GOOGLE
 add address=193.177.222.0/24 list=GOOGLE
 add address=193.186.4.0/24 list=GOOGLE
+add address=193.238.80.0/22 list=GOOGLE
 add address=193.73.208.0/24 list=GOOGLE
+add address=194.187.56.0/22 list=GOOGLE
 add address=197.230.59.0/24 list=GOOGLE
 add address=197.230.70.0/24 list=GOOGLE
 add address=198.135.124.0/23 list=GOOGLE
@@ -291,6 +296,7 @@ add address=199.91.151.0/24 list=GOOGLE
 add address=202.250.28.0/24 list=GOOGLE
 add address=204.62.215.0/24 list=GOOGLE
 add address=205.174.156.0/23 list=GOOGLE
+add address=206.204.104.0/24 list=GOOGLE
 add address=206.214.224.0/20 list=GOOGLE
 add address=207.223.160.0/20 list=GOOGLE
 add address=208.117.224.0/19 list=GOOGLE
