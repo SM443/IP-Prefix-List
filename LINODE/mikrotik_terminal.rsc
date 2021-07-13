@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Jul 12 19:02:20 +06 2021
+# Last Update - Tue Jul 13 07:02:29 +06 2021
 # --------------------------------------------
-# Total Prefixes: 233
+# Total Prefixes: 234
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -64,6 +64,7 @@ add address=170.187.128.0/21 list=LINODE
 add address=170.187.128.0/24 list=LINODE
 add address=170.187.129.0/24 list=LINODE
 add address=170.187.130.0/23 list=LINODE
+add address=170.187.130.0/24 list=LINODE
 add address=170.187.132.0/22 list=LINODE
 add address=170.187.136.0/21 list=LINODE
 add address=170.187.144.0/20 list=LINODE
