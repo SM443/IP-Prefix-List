@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Jul 14 07:07:27 +06 2021
+# Last Update - Wed Jul 14 19:04:09 +06 2021
 # --------------------------------------------
-# Total Prefixes: 472
+# Total Prefixes: 474
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -27,6 +27,7 @@ add address=104.132.118.0/23 list=GOOGLE
 add address=104.132.124.0/24 list=GOOGLE
 add address=104.132.130.0/24 list=GOOGLE
 add address=104.132.133.0/24 list=GOOGLE
+add address=104.132.135.0/24 list=GOOGLE
 add address=104.132.140.0/24 list=GOOGLE
 add address=104.132.142.0/24 list=GOOGLE
 add address=104.132.146.0/24 list=GOOGLE
@@ -67,12 +68,12 @@ add address=104.133.179.0/24 list=GOOGLE
 add address=104.133.34.0/24 list=GOOGLE
 add address=104.133.44.0/24 list=GOOGLE
 add address=104.133.5.0/24 list=GOOGLE
-add address=104.133.6.0/23 list=GOOGLE
+add address=104.133.6.0/24 list=GOOGLE
+add address=104.133.7.0/24 list=GOOGLE
 add address=104.134.131.0/24 list=GOOGLE
 add address=104.134.136.0/24 list=GOOGLE
 add address=104.134.137.0/24 list=GOOGLE
-add address=104.134.138.0/24 list=GOOGLE
-add address=104.134.139.0/24 list=GOOGLE
+add address=104.134.138.0/23 list=GOOGLE
 add address=104.134.147.0/24 list=GOOGLE
 add address=104.134.192.0/24 list=GOOGLE
 add address=104.134.195.0/24 list=GOOGLE
@@ -197,6 +198,7 @@ add address=142.250.142.0/24 list=GOOGLE
 add address=142.250.145.0/24 list=GOOGLE
 add address=142.250.146.0/24 list=GOOGLE
 add address=142.250.149.0/24 list=GOOGLE
+add address=142.251.13.0/24 list=GOOGLE
 add address=143.131.2.0/23 list=GOOGLE
 add address=143.131.4.0/23 list=GOOGLE
 add address=143.131.8.0/21 list=GOOGLE
