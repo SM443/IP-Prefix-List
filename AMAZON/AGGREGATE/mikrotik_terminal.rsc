@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Jul 20 07:07:51 +06 2021
+# Last Update - Tue Jul 20 19:10:01 +06 2021
 # --------------------------------------------
-# Total Prefixes: 3578
+# Total Prefixes: 3570
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -111,6 +111,7 @@ add address=130.137.172.0/24 list=AMAZON
 add address=130.137.178.0/24 list=AMAZON
 add address=130.137.20.0/24 list=AMAZON
 add address=130.137.239.0/24 list=AMAZON
+add address=130.137.80.0/24 list=AMAZON
 add address=130.137.82.0/24 list=AMAZON
 add address=130.176.0.0/24 list=AMAZON
 add address=130.176.100.0/24 list=AMAZON
@@ -308,10 +309,6 @@ add address=13.224.57.0/24 list=AMAZON
 add address=13.224.58.0/23 list=AMAZON
 add address=13.224.60.0/22 list=AMAZON
 add address=13.224.64.0/21 list=AMAZON
-add address=13.224.73.0/24 list=AMAZON
-add address=13.224.74.0/23 list=AMAZON
-add address=13.224.76.0/22 list=AMAZON
-add address=13.224.80.0/21 list=AMAZON
 add address=13.224.8.0/21 list=AMAZON
 add address=13.224.89.0/24 list=AMAZON
 add address=13.224.90.0/23 list=AMAZON
@@ -2330,7 +2327,6 @@ add address=52.85.183.0/24 list=AMAZON
 add address=52.85.185.0/24 list=AMAZON
 add address=52.85.186.0/23 list=AMAZON
 add address=52.85.188.0/23 list=AMAZON
-add address=52.85.188.0/24 list=AMAZON
 add address=52.85.190.0/24 list=AMAZON
 add address=52.85.192.0/22 list=AMAZON
 add address=52.85.196.0/22 list=AMAZON
@@ -3518,11 +3514,7 @@ add address=99.84.64.0/24 list=AMAZON
 add address=99.84.66.0/23 list=AMAZON
 add address=99.84.68.0/22 list=AMAZON
 add address=99.84.72.0/21 list=AMAZON
-add address=99.84.80.0/24 list=AMAZON
 add address=99.84.8.0/21 list=AMAZON
-add address=99.84.82.0/23 list=AMAZON
-add address=99.84.84.0/22 list=AMAZON
-add address=99.84.88.0/21 list=AMAZON
 add address=99.84.96.0/24 list=AMAZON
 add address=99.84.98.0/23 list=AMAZON
 add address=99.86.0.0/21 list=AMAZON
