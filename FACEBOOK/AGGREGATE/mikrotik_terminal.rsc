@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Jul 23 07:08:04 +06 2021
+# Last Update - Fri Jul 23 19:07:47 +06 2021
 # --------------------------------------------
 # Total Prefixes: 149
 # --------------------------------------------
@@ -80,6 +80,7 @@ add address=157.240.176.0/24 list=FACEBOOK
 add address=157.240.177.0/24 list=FACEBOOK
 add address=157.240.178.0/24 list=FACEBOOK
 add address=157.240.179.0/24 list=FACEBOOK
+add address=157.240.180.0/24 list=FACEBOOK
 add address=157.240.18.0/23 list=FACEBOOK
 add address=157.240.181.0/24 list=FACEBOOK
 add address=157.240.192.0/18 list=FACEBOOK
@@ -111,7 +112,6 @@ add address=157.240.236.0/24 list=FACEBOOK
 add address=157.240.24.0/23 list=FACEBOOK
 add address=157.240.241.0/24 list=FACEBOOK
 add address=157.240.26.0/23 list=FACEBOOK
-add address=157.240.28.0/24 list=FACEBOOK
 add address=157.240.30.0/24 list=FACEBOOK
 add address=157.240.7.0/24 list=FACEBOOK
 add address=157.240.8.0/24 list=FACEBOOK
