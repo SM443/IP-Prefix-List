@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Jul 30 07:08:27 +06 2021
+# Last Update - Fri Jul 30 19:08:06 +06 2021
 # --------------------------------------------
-# Total Prefixes: 182
+# Total Prefixes: 184
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -21,8 +21,7 @@ add address=104.237.152.0/21 list=LINODE
 add address=109.237.24.0/22 list=LINODE
 add address=109.74.192.0/20 list=LINODE
 add address=139.162.0.0/18 list=LINODE
-add address=139.162.128.0/18 list=LINODE
-add address=139.162.192.0/18 list=LINODE
+add address=139.162.128.0/17 list=LINODE
 add address=139.162.64.0/18 list=LINODE
 add address=139.177.176.0/21 list=LINODE
 add address=139.177.184.0/21 list=LINODE
@@ -39,7 +38,8 @@ add address=172.104.128.0/19 list=LINODE
 add address=172.104.160.0/19 list=LINODE
 add address=172.104.16.0/20 list=LINODE
 add address=172.104.192.0/21 list=LINODE
-add address=172.104.200.0/22 list=LINODE
+add address=172.104.200.0/23 list=LINODE
+add address=172.104.202.0/23 list=LINODE
 add address=172.104.205.0/24 list=LINODE
 add address=172.104.206.0/23 list=LINODE
 add address=172.104.208.0/20 list=LINODE
@@ -55,13 +55,15 @@ add address=172.105.132.0/23 list=LINODE
 add address=172.105.134.0/23 list=LINODE
 add address=172.105.136.0/22 list=LINODE
 add address=172.105.144.0/23 list=LINODE
-add address=172.105.146.0/23 list=LINODE
+add address=172.105.146.0/24 list=LINODE
+add address=172.105.147.0/24 list=LINODE
 add address=172.105.148.0/22 list=LINODE
 add address=172.105.152.0/21 list=LINODE
 add address=172.105.160.0/19 list=LINODE
 add address=172.105.192.0/19 list=LINODE
 add address=172.105.224.0/20 list=LINODE
-add address=172.105.240.0/21 list=LINODE
+add address=172.105.240.0/22 list=LINODE
+add address=172.105.244.0/22 list=LINODE
 add address=172.105.248.0/22 list=LINODE
 add address=172.105.252.0/23 list=LINODE
 add address=172.105.254.0/23 list=LINODE
