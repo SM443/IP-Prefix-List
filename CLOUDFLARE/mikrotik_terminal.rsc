@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Aug  2 19:02:31 +06 2021
+# Last Update - Tue Aug  3 07:03:30 +06 2021
 # --------------------------------------------
 # Total Prefixes: 1754
 # --------------------------------------------
@@ -1137,6 +1137,7 @@ add address=172.70.145.0/24 list=CLOUDFLARE
 add address=172.70.146.0/24 list=CLOUDFLARE
 add address=172.70.147.0/24 list=CLOUDFLARE
 add address=172.70.148.0/24 list=CLOUDFLARE
+add address=172.70.149.0/24 list=CLOUDFLARE
 add address=172.70.150.0/24 list=CLOUDFLARE
 add address=172.70.151.0/24 list=CLOUDFLARE
 add address=172.70.32.0/24 list=CLOUDFLARE
@@ -1528,7 +1529,6 @@ add address=208.95.168.0/24 list=CLOUDFLARE
 add address=208.95.169.0/24 list=CLOUDFLARE
 add address=208.95.170.0/24 list=CLOUDFLARE
 add address=208.95.171.0/24 list=CLOUDFLARE
-add address=210.126.126.0/24 list=CLOUDFLARE
 add address=212.110.134.0/23 list=CLOUDFLARE
 add address=216.24.57.0/24 list=CLOUDFLARE
 add address=23.178.112.0/24 list=CLOUDFLARE
