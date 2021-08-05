@@ -3,15 +3,14 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Aug  4 19:04:26 +06 2021
+# Last Update - Thu Aug  5 07:03:56 +06 2021
 # --------------------------------------------
-# Total Prefixes: 101
+# Total Prefixes: 100
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=103.139.72.0/24 list=BIGO
-add address=164.90.104.0/24 list=BIGO
 add address=164.90.105.0/24 list=BIGO
 add address=164.90.106.0/23 list=BIGO
 add address=164.90.108.0/24 list=BIGO
