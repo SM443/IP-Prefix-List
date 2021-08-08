@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sun Aug  8 07:07:50 +06 2021
+# Last Update - Sun Aug  8 19:09:16 +06 2021
 # --------------------------------------------
-# Total Prefixes: 383
+# Total Prefixes: 384
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -89,6 +89,7 @@ add address=119.42.232.0/24 list=ALIBABA
 add address=119.42.242.0/23 list=ALIBABA
 add address=120.24.0.0/14 list=ALIBABA
 add address=120.24.0.0/15 list=ALIBABA
+add address=120.241.12.0/22 list=ALIBABA
 add address=120.55.0.0/16 list=ALIBABA
 add address=120.76.0.0/15 list=ALIBABA
 add address=120.78.0.0/15 list=ALIBABA
