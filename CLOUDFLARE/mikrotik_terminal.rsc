@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Aug  9 07:02:23 +06 2021
+# Last Update - Mon Aug  9 19:03:02 +06 2021
 # --------------------------------------------
-# Total Prefixes: 1756
+# Total Prefixes: 1754
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -355,7 +355,6 @@ add address=108.162.255.0/24 list=CLOUDFLARE
 add address=108.165.216.0/24 list=CLOUDFLARE
 add address=1.1.1.0/24 list=CLOUDFLARE
 add address=12.221.133.0/24 list=CLOUDFLARE
-add address=125.22.120.0/24 list=CLOUDFLARE
 add address=131.0.72.0/22 list=CLOUDFLARE
 add address=141.101.100.0/22 list=CLOUDFLARE
 add address=141.101.104.0/24 list=CLOUDFLARE
@@ -1530,7 +1529,6 @@ add address=208.95.168.0/24 list=CLOUDFLARE
 add address=208.95.169.0/24 list=CLOUDFLARE
 add address=208.95.170.0/24 list=CLOUDFLARE
 add address=208.95.171.0/24 list=CLOUDFLARE
-add address=210.126.126.0/24 list=CLOUDFLARE
 add address=212.110.134.0/23 list=CLOUDFLARE
 add address=216.24.57.0/24 list=CLOUDFLARE
 add address=23.178.112.0/24 list=CLOUDFLARE

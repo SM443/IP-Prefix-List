@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Aug  9 07:04:07 +06 2021
+# Last Update - Mon Aug  9 19:05:51 +06 2021
 # --------------------------------------------
 # Total Prefixes: 103
 # --------------------------------------------
@@ -93,7 +93,7 @@ add address=202.168.108.0/23 list=BIGO
 add address=202.168.110.0/24 list=BIGO
 add address=202.168.112.0/24 list=BIGO
 add address=202.168.113.0/24 list=BIGO
-add address=202.168.115.0/24 list=BIGO
+add address=202.168.114.0/23 list=BIGO
 add address=202.168.116.0/22 list=BIGO
 add address=202.168.120.0/22 list=BIGO
 add address=202.168.125.0/24 list=BIGO
