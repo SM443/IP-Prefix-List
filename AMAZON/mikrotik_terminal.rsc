@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Aug 11 07:02:20 +06 2021
+# Last Update - Wed Aug 11 19:02:19 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13811
+# Total Prefixes: 13822
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5996,6 +5996,7 @@ add address=185.20.4.0/24 list=AMAZON
 add address=185.206.120.0/24 list=AMAZON
 add address=185.210.156.0/24 list=AMAZON
 add address=185.211.50.0/24 list=AMAZON
+add address=185.212.105.0/24 list=AMAZON
 add address=185.214.22.0/24 list=AMAZON
 add address=185.214.23.0/24 list=AMAZON
 add address=185.215.115.0/24 list=AMAZON
@@ -6053,7 +6054,6 @@ add address=188.95.140.0/24 list=AMAZON
 add address=188.95.14.0/24 list=AMAZON
 add address=188.95.141.0/24 list=AMAZON
 add address=188.95.142.0/24 list=AMAZON
-add address=191.96.100.0/24 list=AMAZON
 add address=192.101.119.0/24 list=AMAZON
 add address=192.111.4.0/24 list=AMAZON
 add address=192.111.5.0/24 list=AMAZON
@@ -6184,6 +6184,7 @@ add address=195.74.60.0/24 list=AMAZON
 add address=195.8.103.0/24 list=AMAZON
 add address=195.82.97.0/24 list=AMAZON
 add address=195.85.12.0/24 list=AMAZON
+add address=195.85.75.0/24 list=AMAZON
 add address=195.93.178.0/24 list=AMAZON
 add address=198.135.168.0/24 list=AMAZON
 add address=198.136.165.0/24 list=AMAZON
@@ -12531,8 +12532,14 @@ add address=58.181.95.0/24 list=AMAZON
 add address=62.133.34.0/24 list=AMAZON
 add address=63.140.32.0/23 list=AMAZON
 add address=63.140.34.0/24 list=AMAZON
+add address=63.140.35.0/24 list=AMAZON
+add address=63.140.36.0/23 list=AMAZON
 add address=63.140.38.0/23 list=AMAZON
 add address=63.140.54.0/24 list=AMAZON
+add address=63.140.55.0/24 list=AMAZON
+add address=63.140.56.0/23 list=AMAZON
+add address=63.140.61.0/24 list=AMAZON
+add address=63.140.62.0/23 list=AMAZON
 add address=63.246.112.0/24 list=AMAZON
 add address=63.246.113.0/24 list=AMAZON
 add address=63.246.114.0/23 list=AMAZON
@@ -12697,6 +12704,8 @@ add address=65.37.240.0/24 list=AMAZON
 add address=65.8.0.0/16 list=AMAZON
 add address=65.9.0.0/17 list=AMAZON
 add address=65.9.128.0/18 list=AMAZON
+add address=66.117.20.0/24 list=AMAZON
+add address=66.117.22.0/23 list=AMAZON
 add address=66.129.247.0/24 list=AMAZON
 add address=66.129.248.0/24 list=AMAZON
 add address=66.178.136.0/24 list=AMAZON
@@ -12712,6 +12721,8 @@ add address=66.22.188.0/23 list=AMAZON
 add address=66.22.190.0/24 list=AMAZON
 add address=66.22.191.0/24 list=AMAZON
 add address=66.232.20.0/23 list=AMAZON
+add address=66.235.151.0/24 list=AMAZON
+add address=66.235.152.0/23 list=AMAZON
 add address=66.235.154.0/24 list=AMAZON
 add address=66.235.155.0/24 list=AMAZON
 add address=66.59.61.0/24 list=AMAZON
