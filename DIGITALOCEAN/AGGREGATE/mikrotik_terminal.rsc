@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Aug 12 07:07:56 +06 2021
+# Last Update - Thu Aug 12 19:08:33 +06 2021
 # --------------------------------------------
-# Total Prefixes: 471
+# Total Prefixes: 461
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -200,8 +200,7 @@ add address=159.65.16.0/20 list=DigitalOcean
 add address=159.65.192.0/20 list=DigitalOcean
 add address=159.65.208.0/21 list=DigitalOcean
 add address=159.65.216.0/21 list=DigitalOcean
-add address=159.65.224.0/20 list=DigitalOcean
-add address=159.65.240.0/20 list=DigitalOcean
+add address=159.65.224.0/19 list=DigitalOcean
 add address=159.65.32.0/20 list=DigitalOcean
 add address=159.65.48.0/20 list=DigitalOcean
 add address=159.65.64.0/18 list=DigitalOcean
@@ -237,19 +236,14 @@ add address=161.35.176.0/20 list=DigitalOcean
 add address=161.35.192.0/19 list=DigitalOcean
 add address=161.35.224.0/20 list=DigitalOcean
 add address=161.35.240.0/21 list=DigitalOcean
-add address=161.35.248.0/22 list=DigitalOcean
-add address=161.35.252.0/22 list=DigitalOcean
+add address=161.35.248.0/21 list=DigitalOcean
 add address=161.35.32.0/20 list=DigitalOcean
 add address=161.35.48.0/20 list=DigitalOcean
 add address=161.35.64.0/19 list=DigitalOcean
 add address=161.35.96.0/19 list=DigitalOcean
 add address=162.243.0.0/17 list=DigitalOcean
 add address=162.243.128.0/19 list=DigitalOcean
-add address=162.243.160.0/20 list=DigitalOcean
-add address=162.243.176.0/21 list=DigitalOcean
-add address=162.243.184.0/22 list=DigitalOcean
-add address=162.243.188.0/23 list=DigitalOcean
-add address=162.243.190.0/23 list=DigitalOcean
+add address=162.243.160.0/19 list=DigitalOcean
 add address=162.243.192.0/18 list=DigitalOcean
 add address=163.47.8.0/22 list=DigitalOcean
 add address=164.90.128.0/20 list=DigitalOcean
@@ -278,17 +272,13 @@ add address=165.227.0.0/19 list=DigitalOcean
 add address=165.227.128.0/19 list=DigitalOcean
 add address=165.227.160.0/20 list=DigitalOcean
 add address=165.227.176.0/20 list=DigitalOcean
-add address=165.227.192.0/20 list=DigitalOcean
-add address=165.227.208.0/20 list=DigitalOcean
+add address=165.227.192.0/19 list=DigitalOcean
 add address=165.227.224.0/20 list=DigitalOcean
 add address=165.227.240.0/21 list=DigitalOcean
-add address=165.227.248.0/22 list=DigitalOcean
-add address=165.227.252.0/22 list=DigitalOcean
+add address=165.227.248.0/21 list=DigitalOcean
 add address=165.227.32.0/20 list=DigitalOcean
 add address=165.227.48.0/20 list=DigitalOcean
-add address=165.227.64.0/20 list=DigitalOcean
-add address=165.227.80.0/20 list=DigitalOcean
-add address=165.227.96.0/19 list=DigitalOcean
+add address=165.227.64.0/18 list=DigitalOcean
 add address=165.22.96.0/20 list=DigitalOcean
 add address=165.232.128.0/19 list=DigitalOcean
 add address=165.232.160.0/20 list=DigitalOcean
