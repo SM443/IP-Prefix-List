@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Fri Aug 13 19:02:27 +06 2021
+# Last Update - Sat Aug 14 07:02:01 +06 2021
 # --------------------------------------------
-# Total Prefixes: 11273
+# Total Prefixes: 11281
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5492,6 +5492,9 @@ add address=23.198.15.0/24 list=AKAMAI
 add address=23.198.160.0/20 list=AKAMAI
 add address=23.198.16.0/20 list=AKAMAI
 add address=23.198.2.0/24 list=AKAMAI
+add address=23.198.214.0/24 list=AKAMAI
+add address=23.198.215.0/24 list=AKAMAI
+add address=23.198.216.0/22 list=AKAMAI
 add address=23.198.220.0/22 list=AKAMAI
 add address=23.198.3.0/24 list=AKAMAI
 add address=23.198.32.0/20 list=AKAMAI
@@ -5733,6 +5736,7 @@ add address=23.201.99.0/24 list=AKAMAI
 add address=23.202.112.0/22 list=AKAMAI
 add address=23.202.144.0/22 list=AKAMAI
 add address=23.202.148.0/22 list=AKAMAI
+add address=23.202.152.0/22 list=AKAMAI
 add address=23.202.152.0/23 list=AKAMAI
 add address=23.202.154.0/23 list=AKAMAI
 add address=23.202.156.0/22 list=AKAMAI
@@ -5976,7 +5980,9 @@ add address=23.206.10.0/23 list=AKAMAI
 add address=23.206.112.0/22 list=AKAMAI
 add address=23.206.116.0/23 list=AKAMAI
 add address=23.206.118.0/23 list=AKAMAI
+add address=23.206.120.0/24 list=AKAMAI
 add address=23.206.12.0/22 list=AKAMAI
+add address=23.206.121.0/24 list=AKAMAI
 add address=23.206.124.0/22 list=AKAMAI
 add address=23.206.128.0/19 list=AKAMAI
 add address=23.206.160.0/20 list=AKAMAI
@@ -7003,6 +7009,8 @@ add address=23.220.244.0/24 list=AKAMAI
 add address=23.220.245.0/24 list=AKAMAI
 add address=23.220.246.0/24 list=AKAMAI
 add address=23.220.247.0/24 list=AKAMAI
+add address=23.220.248.0/24 list=AKAMAI
+add address=23.220.249.0/24 list=AKAMAI
 add address=23.220.250.0/24 list=AKAMAI
 add address=23.220.251.0/24 list=AKAMAI
 add address=23.220.253.0/24 list=AKAMAI

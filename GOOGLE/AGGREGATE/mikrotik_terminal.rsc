@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Aug 13 19:05:57 +06 2021
+# Last Update - Sat Aug 14 07:04:49 +06 2021
 # --------------------------------------------
-# Total Prefixes: 481
+# Total Prefixes: 479
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -160,7 +160,10 @@ add address=136.37.128.0/18 list=GOOGLE
 add address=136.37.192.0/19 list=GOOGLE
 add address=136.42.24.0/21 list=GOOGLE
 add address=136.48.0.0/19 list=GOOGLE
-add address=136.49.0.0/16 list=GOOGLE
+add address=136.49.0.0/18 list=GOOGLE
+add address=136.49.160.0/19 list=GOOGLE
+add address=136.49.192.0/18 list=GOOGLE
+add address=136.49.64.0/19 list=GOOGLE
 add address=136.50.0.0/18 list=GOOGLE
 add address=136.50.176.0/20 list=GOOGLE
 add address=136.50.64.0/19 list=GOOGLE
@@ -168,16 +171,11 @@ add address=136.50.96.0/20 list=GOOGLE
 add address=136.52.0.0/19 list=GOOGLE
 add address=136.52.64.0/18 list=GOOGLE
 add address=136.53.0.0/20 list=GOOGLE
-add address=136.53.32.0/19 list=GOOGLE
-add address=136.53.64.0/18 list=GOOGLE
-add address=136.55.0.0/17 list=GOOGLE
-add address=136.55.128.0/18 list=GOOGLE
-add address=136.55.224.0/19 list=GOOGLE
-add address=136.56.0.0/17 list=GOOGLE
+add address=136.53.112.0/20 list=GOOGLE
 add address=136.56.128.0/20 list=GOOGLE
-add address=136.56.160.0/20 list=GOOGLE
-add address=136.57.160.0/19 list=GOOGLE
-add address=136.57.192.0/19 list=GOOGLE
+add address=136.56.16.0/20 list=GOOGLE
+add address=136.56.64.0/20 list=GOOGLE
+add address=136.56.96.0/19 list=GOOGLE
 add address=136.58.80.0/20 list=GOOGLE
 add address=136.58.96.0/19 list=GOOGLE
 add address=136.60.128.0/20 list=GOOGLE
