@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Aug 17 07:05:40 +06 2021
+# Last Update - Tue Aug 17 19:07:22 +06 2021
 # --------------------------------------------
 # Total Prefixes: 444
 # --------------------------------------------
@@ -49,7 +49,7 @@ add address=13.107.219.0/24 list=MICROSOFT
 add address=13.107.220.0/24 list=MICROSOFT
 add address=13.107.22.0/24 list=MICROSOFT
 add address=13.107.224.0/24 list=MICROSOFT
-add address=13.107.226.0/23 list=MICROSOFT
+add address=13.107.226.0/24 list=MICROSOFT
 add address=13.107.24.0/24 list=MICROSOFT
 add address=13.107.246.0/24 list=MICROSOFT
 add address=13.107.253.0/24 list=MICROSOFT

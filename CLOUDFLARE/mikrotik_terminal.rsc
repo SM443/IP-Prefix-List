@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Tue Aug 17 07:02:37 +06 2021
+# Last Update - Tue Aug 17 19:03:21 +06 2021
 # --------------------------------------------
-# Total Prefixes: 1755
+# Total Prefixes: 1762
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -355,6 +355,7 @@ add address=108.162.255.0/24 list=CLOUDFLARE
 add address=108.165.216.0/24 list=CLOUDFLARE
 add address=1.1.1.0/24 list=CLOUDFLARE
 add address=12.221.133.0/24 list=CLOUDFLARE
+add address=125.22.120.0/24 list=CLOUDFLARE
 add address=131.0.72.0/22 list=CLOUDFLARE
 add address=141.101.100.0/22 list=CLOUDFLARE
 add address=141.101.104.0/24 list=CLOUDFLARE
@@ -394,6 +395,7 @@ add address=141.101.97.0/24 list=CLOUDFLARE
 add address=141.101.98.0/24 list=CLOUDFLARE
 add address=141.101.99.0/24 list=CLOUDFLARE
 add address=141.193.213.0/24 list=CLOUDFLARE
+add address=14.142.97.0/24 list=CLOUDFLARE
 add address=143.244.95.0/24 list=CLOUDFLARE
 add address=144.172.83.0/24 list=CLOUDFLARE
 add address=147.78.140.0/24 list=CLOUDFLARE
@@ -1255,6 +1257,10 @@ add address=188.114.99.0/24 list=CLOUDFLARE
 add address=190.93.240.0/20 list=CLOUDFLARE
 add address=190.93.244.0/22 list=CLOUDFLARE
 add address=191.101.251.0/24 list=CLOUDFLARE
+add address=192.0.54.0/24 list=CLOUDFLARE
+add address=192.0.55.0/24 list=CLOUDFLARE
+add address=192.0.62.0/24 list=CLOUDFLARE
+add address=192.0.63.0/24 list=CLOUDFLARE
 add address=192.235.121.0/24 list=CLOUDFLARE
 add address=193.135.101.0/24 list=CLOUDFLARE
 add address=193.16.63.0/24 list=CLOUDFLARE
@@ -1530,6 +1536,7 @@ add address=208.95.168.0/24 list=CLOUDFLARE
 add address=208.95.169.0/24 list=CLOUDFLARE
 add address=208.95.170.0/24 list=CLOUDFLARE
 add address=208.95.171.0/24 list=CLOUDFLARE
+add address=210.126.126.0/24 list=CLOUDFLARE
 add address=212.110.134.0/23 list=CLOUDFLARE
 add address=216.24.57.0/24 list=CLOUDFLARE
 add address=23.178.112.0/24 list=CLOUDFLARE
