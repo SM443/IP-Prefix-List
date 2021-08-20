@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Aug 19 19:06:36 +06 2021
+# Last Update - Fri Aug 20 07:09:50 +06 2021
 # --------------------------------------------
-# Total Prefixes: 485
+# Total Prefixes: 486
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -15,6 +15,7 @@ add address=103.123.131.0/24 list=GOOGLE
 add address=103.152.126.0/23 list=GOOGLE
 add address=103.153.177.0/24 list=GOOGLE
 add address=103.165.152.0/24 list=GOOGLE
+add address=103.169.213.0/24 list=GOOGLE
 add address=103.20.245.0/24 list=GOOGLE
 add address=103.246.36.0/22 list=GOOGLE
 add address=103.56.211.0/24 list=GOOGLE
