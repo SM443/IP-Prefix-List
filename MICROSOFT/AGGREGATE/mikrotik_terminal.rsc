@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Aug 24 19:07:35 +06 2021
+# Last Update - Wed Aug 25 07:07:09 +06 2021
 # --------------------------------------------
-# Total Prefixes: 442
+# Total Prefixes: 443
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -369,6 +369,7 @@ add address=40.127.0.0/19 list=MICROSOFT
 add address=40.64.0.0/15 list=MICROSOFT
 add address=40.66.0.0/17 list=MICROSOFT
 add address=40.66.166.0/24 list=MICROSOFT
+add address=40.66.93.0/24 list=MICROSOFT
 add address=40.67.0.0/16 list=MICROSOFT
 add address=40.68.0.0/14 list=MICROSOFT
 add address=40.74.0.0/15 list=MICROSOFT
