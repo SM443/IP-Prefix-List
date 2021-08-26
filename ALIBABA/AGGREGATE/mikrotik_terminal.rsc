@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Aug 26 07:10:58 +06 2021
+# Last Update - Thu Aug 26 19:10:19 +06 2021
 # --------------------------------------------
-# Total Prefixes: 393
+# Total Prefixes: 398
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -123,6 +123,7 @@ add address=149.129.24.0/21 list=ALIBABA
 add address=149.129.32.0/19 list=ALIBABA
 add address=149.129.64.0/18 list=ALIBABA
 add address=156.224.138.0/24 list=ALIBABA
+add address=156.225.4.0/24 list=ALIBABA
 add address=156.226.24.0/21 list=ALIBABA
 add address=156.240.76.0/23 list=ALIBABA
 add address=156.254.113.0/24 list=ALIBABA
@@ -185,8 +186,6 @@ add address=203.107.32.0/21 list=ALIBABA
 add address=203.107.40.0/22 list=ALIBABA
 add address=203.107.44.0/22 list=ALIBABA
 add address=203.107.48.0/22 list=ALIBABA
-add address=203.107.48.0/23 list=ALIBABA
-add address=203.107.50.0/23 list=ALIBABA
 add address=203.107.52.0/22 list=ALIBABA
 add address=203.107.56.0/21 list=ALIBABA
 add address=203.107.56.0/23 list=ALIBABA
@@ -383,6 +382,9 @@ add address=8.141.200.0/21 list=ALIBABA
 add address=8.144.0.0/14 list=ALIBABA
 add address=8.188.0.0/24 list=ALIBABA
 add address=8.208.0.0/16 list=ALIBABA
+add address=8.208.0.0/18 list=ALIBABA
+add address=8.208.128.0/17 list=ALIBABA
+add address=8.208.64.0/18 list=ALIBABA
 add address=8.209.0.0/19 list=ALIBABA
 add address=8.209.122.0/24 list=ALIBABA
 add address=8.209.128.0/18 list=ALIBABA
@@ -398,8 +400,11 @@ add address=8.210.0.0/16 list=ALIBABA
 add address=8.211.0.0/17 list=ALIBABA
 add address=8.211.128.0/18 list=ALIBABA
 add address=8.211.192.0/18 list=ALIBABA
+add address=8.211.208.0/20 list=ALIBABA
+add address=8.211.224.0/20 list=ALIBABA
 add address=8.212.0.0/17 list=ALIBABA
 add address=8.212.128.0/18 list=ALIBABA
+add address=8.212.33.0/24 list=ALIBABA
 add address=8.214.0.0/16 list=ALIBABA
 add address=8.215.0.0/16 list=ALIBABA
 add address=89.219.0.0/22 list=ALIBABA
