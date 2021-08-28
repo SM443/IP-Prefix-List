@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sat Aug 28 07:10:09 +06 2021
+# Last Update - Sat Aug 28 19:15:21 +06 2021
 # --------------------------------------------
 # Total Prefixes: 393
 # --------------------------------------------
@@ -186,6 +186,7 @@ add address=203.107.32.0/21 list=ALIBABA
 add address=203.107.40.0/22 list=ALIBABA
 add address=203.107.44.0/22 list=ALIBABA
 add address=203.107.48.0/22 list=ALIBABA
+add address=203.107.50.0/23 list=ALIBABA
 add address=203.107.52.0/22 list=ALIBABA
 add address=203.107.56.0/21 list=ALIBABA
 add address=203.107.56.0/23 list=ALIBABA
@@ -399,7 +400,6 @@ add address=8.211.128.0/18 list=ALIBABA
 add address=8.211.192.0/18 list=ALIBABA
 add address=8.212.0.0/17 list=ALIBABA
 add address=8.212.128.0/18 list=ALIBABA
-add address=8.212.33.0/24 list=ALIBABA
 add address=8.214.0.0/16 list=ALIBABA
 add address=8.215.0.0/16 list=ALIBABA
 add address=89.219.0.0/22 list=ALIBABA
