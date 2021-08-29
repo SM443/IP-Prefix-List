@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sun Aug 29 07:09:47 +06 2021
+# Last Update - Sun Aug 29 19:08:24 +06 2021
 # --------------------------------------------
-# Total Prefixes: 3730
+# Total Prefixes: 3721
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -120,7 +120,6 @@ add address=130.137.172.0/24 list=AMAZON
 add address=130.137.178.0/24 list=AMAZON
 add address=130.137.20.0/24 list=AMAZON
 add address=130.137.239.0/24 list=AMAZON
-add address=130.137.80.0/24 list=AMAZON
 add address=130.137.82.0/24 list=AMAZON
 add address=130.176.0.0/24 list=AMAZON
 add address=130.176.100.0/24 list=AMAZON
@@ -350,10 +349,6 @@ add address=13.225.137.0/24 list=AMAZON
 add address=13.225.138.0/23 list=AMAZON
 add address=13.225.140.0/22 list=AMAZON
 add address=13.225.144.0/21 list=AMAZON
-add address=13.225.153.0/24 list=AMAZON
-add address=13.225.154.0/23 list=AMAZON
-add address=13.225.156.0/22 list=AMAZON
-add address=13.225.160.0/21 list=AMAZON
 add address=13.225.16.0/21 list=AMAZON
 add address=13.225.169.0/24 list=AMAZON
 add address=13.225.170.0/23 list=AMAZON
@@ -3653,10 +3648,6 @@ add address=99.84.226.0/23 list=AMAZON
 add address=99.84.228.0/22 list=AMAZON
 add address=99.84.232.0/21 list=AMAZON
 add address=99.84.24.0/21 list=AMAZON
-add address=99.84.32.0/24 list=AMAZON
-add address=99.84.34.0/23 list=AMAZON
-add address=99.84.36.0/22 list=AMAZON
-add address=99.84.40.0/21 list=AMAZON
 add address=99.84.4.0/22 list=AMAZON
 add address=99.84.48.0/24 list=AMAZON
 add address=99.84.50.0/23 list=AMAZON
