@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Aug 31 07:09:40 +06 2021
+# Last Update - Tue Aug 31 19:08:28 +06 2021
 # --------------------------------------------
-# Total Prefixes: 481
+# Total Prefixes: 485
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -20,7 +20,8 @@ add address=104.236.128.0/18 list=DigitalOcean
 add address=104.236.192.0/18 list=DigitalOcean
 add address=104.248.0.0/20 list=DigitalOcean
 add address=104.248.100.0/22 list=DigitalOcean
-add address=104.248.104.0/21 list=DigitalOcean
+add address=104.248.104.0/22 list=DigitalOcean
+add address=104.248.108.0/22 list=DigitalOcean
 add address=104.248.112.0/20 list=DigitalOcean
 add address=104.248.128.0/20 list=DigitalOcean
 add address=104.248.144.0/20 list=DigitalOcean
@@ -176,7 +177,8 @@ add address=157.230.224.0/20 list=DigitalOcean
 add address=157.230.240.0/20 list=DigitalOcean
 add address=157.230.32.0/20 list=DigitalOcean
 add address=157.230.48.0/20 list=DigitalOcean
-add address=157.230.64.0/21 list=DigitalOcean
+add address=157.230.64.0/22 list=DigitalOcean
+add address=157.230.68.0/22 list=DigitalOcean
 add address=157.230.72.0/21 list=DigitalOcean
 add address=157.230.80.0/20 list=DigitalOcean
 add address=157.230.96.0/19 list=DigitalOcean
@@ -260,7 +262,8 @@ add address=162.243.160.0/20 list=DigitalOcean
 add address=162.243.176.0/21 list=DigitalOcean
 add address=162.243.184.0/22 list=DigitalOcean
 add address=162.243.188.0/23 list=DigitalOcean
-add address=162.243.190.0/23 list=DigitalOcean
+add address=162.243.190.0/24 list=DigitalOcean
+add address=162.243.191.0/24 list=DigitalOcean
 add address=162.243.192.0/18 list=DigitalOcean
 add address=163.47.8.0/22 list=DigitalOcean
 add address=164.90.128.0/20 list=DigitalOcean
@@ -351,7 +354,8 @@ add address=167.99.96.0/20 list=DigitalOcean
 add address=174.138.0.0/20 list=DigitalOcean
 add address=174.138.104.0/22 list=DigitalOcean
 add address=174.138.108.0/22 list=DigitalOcean
-add address=174.138.112.0/21 list=DigitalOcean
+add address=174.138.112.0/22 list=DigitalOcean
+add address=174.138.116.0/22 list=DigitalOcean
 add address=174.138.120.0/22 list=DigitalOcean
 add address=174.138.124.0/22 list=DigitalOcean
 add address=174.138.16.0/20 list=DigitalOcean
