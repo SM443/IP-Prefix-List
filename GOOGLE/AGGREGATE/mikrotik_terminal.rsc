@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Aug 30 19:04:20 +06 2021
+# Last Update - Tue Aug 31 07:06:07 +06 2021
 # --------------------------------------------
-# Total Prefixes: 466
+# Total Prefixes: 501
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -23,7 +23,6 @@ add address=103.56.211.0/24 list=GOOGLE
 add address=103.9.96.0/22 list=GOOGLE
 add address=104.132.0.0/14 list=GOOGLE
 add address=104.132.113.0/24 list=GOOGLE
-add address=104.132.114.0/24 list=GOOGLE
 add address=104.132.117.0/24 list=GOOGLE
 add address=104.132.118.0/24 list=GOOGLE
 add address=104.132.119.0/24 list=GOOGLE
@@ -131,7 +130,7 @@ add address=136.22.122.0/23 list=GOOGLE
 add address=136.22.130.0/23 list=GOOGLE
 add address=136.22.132.0/24 list=GOOGLE
 add address=136.22.133.0/24 list=GOOGLE
-add address=136.22.193.0/24 list=GOOGLE
+add address=136.22.192.0/23 list=GOOGLE
 add address=136.22.224.0/22 list=GOOGLE
 add address=136.22.64.0/23 list=GOOGLE
 add address=136.22.67.0/24 list=GOOGLE
@@ -156,6 +155,42 @@ add address=136.23.4.0/23 list=GOOGLE
 add address=136.23.6.0/24 list=GOOGLE
 add address=136.23.9.0/24 list=GOOGLE
 add address=136.32.0.0/11 list=GOOGLE
+add address=136.35.128.0/17 list=GOOGLE
+add address=136.36.0.0/20 list=GOOGLE
+add address=136.36.128.0/18 list=GOOGLE
+add address=136.36.192.0/19 list=GOOGLE
+add address=136.36.224.0/20 list=GOOGLE
+add address=136.36.32.0/19 list=GOOGLE
+add address=136.36.64.0/18 list=GOOGLE
+add address=136.37.0.0/17 list=GOOGLE
+add address=136.37.128.0/18 list=GOOGLE
+add address=136.37.192.0/19 list=GOOGLE
+add address=136.42.24.0/21 list=GOOGLE
+add address=136.48.0.0/19 list=GOOGLE
+add address=136.49.0.0/18 list=GOOGLE
+add address=136.49.160.0/19 list=GOOGLE
+add address=136.49.192.0/18 list=GOOGLE
+add address=136.49.64.0/19 list=GOOGLE
+add address=136.50.0.0/18 list=GOOGLE
+add address=136.50.176.0/20 list=GOOGLE
+add address=136.50.64.0/19 list=GOOGLE
+add address=136.50.96.0/20 list=GOOGLE
+add address=136.52.0.0/19 list=GOOGLE
+add address=136.52.64.0/18 list=GOOGLE
+add address=136.53.0.0/20 list=GOOGLE
+add address=136.53.112.0/20 list=GOOGLE
+add address=136.56.128.0/20 list=GOOGLE
+add address=136.56.16.0/20 list=GOOGLE
+add address=136.56.64.0/20 list=GOOGLE
+add address=136.56.96.0/19 list=GOOGLE
+add address=136.58.80.0/20 list=GOOGLE
+add address=136.58.96.0/19 list=GOOGLE
+add address=136.60.128.0/20 list=GOOGLE
+add address=136.60.224.0/20 list=GOOGLE
+add address=136.61.208.0/20 list=GOOGLE
+add address=136.62.0.0/19 list=GOOGLE
+add address=136.62.160.0/19 list=GOOGLE
+add address=136.62.240.0/20 list=GOOGLE
 add address=137.75.122.0/24 list=GOOGLE
 add address=137.83.213.0/24 list=GOOGLE
 add address=137.83.215.0/24 list=GOOGLE

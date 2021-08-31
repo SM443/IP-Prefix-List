@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Aug 30 19:00:44 +06 2021
+# Last Update - Tue Aug 31 07:01:24 +06 2021
 # --------------------------------------------
-# Total Prefixes: 11279
+# Total Prefixes: 11299
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -3571,6 +3571,8 @@ add address=135.129.115.0/24 list=GOOGLE
 add address=135.129.116.0/23 list=GOOGLE
 add address=135.129.116.0/24 list=GOOGLE
 add address=135.129.117.0/24 list=GOOGLE
+add address=135.129.240.0/20 list=GOOGLE
+add address=135.129.240.0/21 list=GOOGLE
 add address=135.129.240.0/22 list=GOOGLE
 add address=135.129.240.0/23 list=GOOGLE
 add address=135.129.240.0/24 list=GOOGLE
@@ -3578,10 +3580,28 @@ add address=135.129.241.0/24 list=GOOGLE
 add address=135.129.242.0/23 list=GOOGLE
 add address=135.129.242.0/24 list=GOOGLE
 add address=135.129.243.0/24 list=GOOGLE
+add address=135.129.244.0/22 list=GOOGLE
 add address=135.129.244.0/23 list=GOOGLE
 add address=135.129.244.0/24 list=GOOGLE
 add address=135.129.245.0/24 list=GOOGLE
+add address=135.129.246.0/23 list=GOOGLE
+add address=135.129.246.0/24 list=GOOGLE
+add address=135.129.247.0/24 list=GOOGLE
 add address=135.129.248.0/21 list=GOOGLE
+add address=135.129.248.0/22 list=GOOGLE
+add address=135.129.248.0/23 list=GOOGLE
+add address=135.129.248.0/24 list=GOOGLE
+add address=135.129.249.0/24 list=GOOGLE
+add address=135.129.250.0/23 list=GOOGLE
+add address=135.129.250.0/24 list=GOOGLE
+add address=135.129.251.0/24 list=GOOGLE
+add address=135.129.252.0/22 list=GOOGLE
+add address=135.129.252.0/23 list=GOOGLE
+add address=135.129.252.0/24 list=GOOGLE
+add address=135.129.253.0/24 list=GOOGLE
+add address=135.129.254.0/23 list=GOOGLE
+add address=135.129.254.0/24 list=GOOGLE
+add address=135.129.255.0/24 list=GOOGLE
 add address=135.84.69.0/24 list=GOOGLE
 add address=135.84.70.0/24 list=GOOGLE
 add address=135.84.78.0/24 list=GOOGLE
