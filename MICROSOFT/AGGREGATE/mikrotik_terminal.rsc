@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Sep  1 07:07:36 +06 2021
+# Last Update - Wed Sep  1 19:08:05 +06 2021
 # --------------------------------------------
-# Total Prefixes: 444
+# Total Prefixes: 419
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -92,43 +92,20 @@ add address=135.149.0.0/16 list=MICROSOFT
 add address=13.64.0.0/11 list=MICROSOFT
 add address=137.116.0.0/15 list=MICROSOFT
 add address=137.135.0.0/16 list=MICROSOFT
-add address=138.140.6.0/23 list=MICROSOFT
 add address=138.239.0.0/16 list=MICROSOFT
 add address=138.91.0.0/16 list=MICROSOFT
-add address=140.16.114.0/24 list=MICROSOFT
 add address=140.16.163.0/24 list=MICROSOFT
-add address=140.16.164.0/24 list=MICROSOFT
-add address=140.16.168.0/24 list=MICROSOFT
 add address=140.16.194.0/23 list=MICROSOFT
-add address=140.16.202.0/23 list=MICROSOFT
-add address=140.16.240.0/21 list=MICROSOFT
-add address=140.16.248.0/22 list=MICROSOFT
-add address=140.16.32.0/24 list=MICROSOFT
-add address=140.16.80.0/20 list=MICROSOFT
 add address=140.16.96.0/22 list=MICROSOFT
 add address=140.17.131.0/24 list=MICROSOFT
-add address=140.17.160.0/20 list=MICROSOFT
 add address=140.17.240.0/23 list=MICROSOFT
-add address=140.17.248.0/23 list=MICROSOFT
 add address=140.17.32.0/23 list=MICROSOFT
-add address=140.18.15.0/24 list=MICROSOFT
-add address=140.18.190.0/23 list=MICROSOFT
 add address=140.18.196.0/23 list=MICROSOFT
-add address=140.18.2.0/24 list=MICROSOFT
 add address=140.18.204.0/23 list=MICROSOFT
-add address=140.18.248.0/23 list=MICROSOFT
-add address=140.18.250.0/24 list=MICROSOFT
-add address=140.18.68.0/23 list=MICROSOFT
+add address=140.18.69.0/24 list=MICROSOFT
 add address=140.18.9.0/24 list=MICROSOFT
-add address=140.19.131.0/24 list=MICROSOFT
-add address=140.19.136.0/21 list=MICROSOFT
-add address=140.19.152.0/24 list=MICROSOFT
-add address=140.19.182.0/24 list=MICROSOFT
-add address=140.19.184.0/22 list=MICROSOFT
-add address=140.19.188.0/24 list=MICROSOFT
 add address=140.19.199.0/24 list=MICROSOFT
 add address=140.19.240.0/24 list=MICROSOFT
-add address=140.19.71.0/24 list=MICROSOFT
 add address=143.64.0.0/16 list=MICROSOFT
 add address=147.145.0.0/16 list=MICROSOFT
 add address=147.243.0.0/16 list=MICROSOFT
@@ -164,8 +141,6 @@ add address=191.232.0.0/13 list=MICROSOFT
 add address=192.100.104.0/21 list=MICROSOFT
 add address=192.100.112.0/20 list=MICROSOFT
 add address=192.100.128.0/22 list=MICROSOFT
-add address=192.100.152.0/24 list=MICROSOFT
-add address=192.103.80.0/24 list=MICROSOFT
 add address=192.197.157.0/24 list=MICROSOFT
 add address=192.48.225.0/24 list=MICROSOFT
 add address=192.84.160.0/23 list=MICROSOFT
