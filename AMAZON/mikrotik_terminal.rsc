@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Fri Sep  3 07:02:45 +06 2021
+# Last Update - Fri Sep  3 19:03:41 +06 2021
 # --------------------------------------------
-# Total Prefixes: 13894
+# Total Prefixes: 13900
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -59,6 +59,7 @@ add address=103.168.43.0/24 list=AMAZON
 add address=103.193.8.0/23 list=AMAZON
 add address=103.193.8.0/24 list=AMAZON
 add address=103.193.9.0/24 list=AMAZON
+add address=103.196.34.0/24 list=AMAZON
 add address=103.211.172.0/24 list=AMAZON
 add address=103.226.68.0/22 list=AMAZON
 add address=103.226.68.0/23 list=AMAZON
@@ -5169,6 +5170,7 @@ add address=15.158.141.0/24 list=AMAZON
 add address=15.158.142.0/24 list=AMAZON
 add address=15.158.143.0/24 list=AMAZON
 add address=15.158.144.0/24 list=AMAZON
+add address=15.158.145.0/24 list=AMAZON
 add address=15.158.192.0/24 list=AMAZON
 add address=15.158.193.0/24 list=AMAZON
 add address=15.158.194.0/24 list=AMAZON
@@ -5204,10 +5206,13 @@ add address=15.158.77.0/24 list=AMAZON
 add address=15.158.78.0/24 list=AMAZON
 add address=15.158.79.0/24 list=AMAZON
 add address=15.158.80.0/24 list=AMAZON
+add address=15.158.8.0/24 list=AMAZON
 add address=15.158.81.0/24 list=AMAZON
 add address=15.158.82.0/24 list=AMAZON
 add address=15.158.83.0/24 list=AMAZON
 add address=15.158.84.0/24 list=AMAZON
+add address=15.158.85.0/24 list=AMAZON
+add address=15.158.86.0/24 list=AMAZON
 add address=15.160.0.0/16 list=AMAZON
 add address=15.161.0.0/16 list=AMAZON
 add address=15.164.0.0/15 list=AMAZON
@@ -6666,6 +6671,7 @@ add address=216.231.196.0/24 list=AMAZON
 add address=216.238.188.0/24 list=AMAZON
 add address=216.238.189.0/24 list=AMAZON
 add address=216.238.190.0/24 list=AMAZON
+add address=216.241.208.0/20 list=AMAZON
 add address=216.24.45.0/24 list=AMAZON
 add address=216.75.96.0/20 list=AMAZON
 add address=216.99.220.0/24 list=AMAZON
