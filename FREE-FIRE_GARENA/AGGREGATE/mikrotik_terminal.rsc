@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Sep  8 07:07:10 +06 2021
+# Last Update - Sat Sep 18 22:59:03 +06 2021
 # --------------------------------------------
-# Total Prefixes: 36
+# Total Prefixes: 30
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -15,13 +15,10 @@ add address=103.247.204.0/24 list=FreeFire-Garena
 add address=103.247.205.0/24 list=FreeFire-Garena
 add address=103.247.206.0/23 list=FreeFire-Garena
 add address=103.248.56.0/22 list=FreeFire-Garena
-add address=103.248.56.0/23 list=FreeFire-Garena
-add address=103.248.59.0/24 list=FreeFire-Garena
 add address=103.69.176.0/24 list=FreeFire-Garena
 add address=103.69.179.0/24 list=FreeFire-Garena
 add address=124.158.133.0/24 list=FreeFire-Garena
 add address=124.158.134.0/23 list=FreeFire-Garena
-add address=124.158.134.0/24 list=FreeFire-Garena
 add address=124.158.142.0/23 list=FreeFire-Garena
 add address=143.92.112.0/23 list=FreeFire-Garena
 add address=143.92.114.0/24 list=FreeFire-Garena
@@ -30,19 +27,16 @@ add address=143.92.120.0/22 list=FreeFire-Garena
 add address=143.92.124.0/23 list=FreeFire-Garena
 add address=143.92.126.0/24 list=FreeFire-Garena
 add address=143.92.127.0/24 list=FreeFire-Garena
-add address=143.92.90.0/24 list=FreeFire-Garena
 add address=202.181.65.0/24 list=FreeFire-Garena
 add address=202.181.67.0/24 list=FreeFire-Garena
 add address=202.181.69.0/24 list=FreeFire-Garena
 add address=202.181.70.0/24 list=FreeFire-Garena
 add address=202.73.16.0/21 list=FreeFire-Garena
-add address=202.73.16.0/22 list=FreeFire-Garena
-add address=202.73.21.0/24 list=FreeFire-Garena
-add address=202.73.22.0/23 list=FreeFire-Garena
 add address=202.81.100.0/22 list=FreeFire-Garena
 add address=202.81.104.0/23 list=FreeFire-Garena
 add address=202.81.104.0/24 list=FreeFire-Garena
 add address=202.81.108.0/22 list=FreeFire-Garena
 add address=202.81.112.0/22 list=FreeFire-Garena
+add address=202.81.116.0/24 list=FreeFire-Garena
 add address=202.81.96.0/22 list=FreeFire-Garena
 add address=43.252.184.0/22 list=FreeFire-Garena

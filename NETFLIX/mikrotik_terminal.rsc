@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Sep  8 07:03:50 +06 2021
+# Last Update - Sat Sep 18 22:55:49 +06 2021
 # --------------------------------------------
 # Total Prefixes: 85
 # --------------------------------------------
@@ -86,9 +86,9 @@ add address=45.57.8.0/24 list=NETFLIX
 add address=45.57.86.0/23 list=NETFLIX
 add address=45.57.86.0/24 list=NETFLIX
 add address=45.57.87.0/24 list=NETFLIX
+add address=45.57.9.0/24 list=NETFLIX
 add address=45.57.90.0/23 list=NETFLIX
 add address=45.57.90.0/24 list=NETFLIX
-add address=45.57.9.0/24 list=NETFLIX
 add address=45.57.91.0/24 list=NETFLIX
 add address=64.120.128.0/17 list=NETFLIX
 add address=66.197.128.0/17 list=NETFLIX

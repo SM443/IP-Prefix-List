@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Sep  8 07:07:03 +06 2021
+# Last Update - Sat Sep 18 22:58:56 +06 2021
 # --------------------------------------------
 # Total Prefixes: 158
 # --------------------------------------------
@@ -84,17 +84,17 @@ add address=157.240.176.0/24 list=FACEBOOK
 add address=157.240.177.0/24 list=FACEBOOK
 add address=157.240.178.0/24 list=FACEBOOK
 add address=157.240.179.0/24 list=FACEBOOK
-add address=157.240.180.0/24 list=FACEBOOK
 add address=157.240.18.0/23 list=FACEBOOK
+add address=157.240.180.0/24 list=FACEBOOK
 add address=157.240.181.0/24 list=FACEBOOK
 add address=157.240.192.0/18 list=FACEBOOK
 add address=157.240.194.0/23 list=FACEBOOK
 add address=157.240.196.0/24 list=FACEBOOK
 add address=157.240.199.0/24 list=FACEBOOK
-add address=157.240.200.0/24 list=FACEBOOK
-add address=157.240.20.0/23 list=FACEBOOK
-add address=157.240.201.0/24 list=FACEBOOK
 add address=157.240.2.0/24 list=FACEBOOK
+add address=157.240.20.0/23 list=FACEBOOK
+add address=157.240.200.0/24 list=FACEBOOK
+add address=157.240.201.0/24 list=FACEBOOK
 add address=157.240.205.0/24 list=FACEBOOK
 add address=157.240.206.0/23 list=FACEBOOK
 add address=157.240.210.0/24 list=FACEBOOK
@@ -102,8 +102,8 @@ add address=157.240.211.0/24 list=FACEBOOK
 add address=157.240.214.0/24 list=FACEBOOK
 add address=157.240.217.0/24 list=FACEBOOK
 add address=157.240.218.0/24 list=FACEBOOK
-add address=157.240.220.0/24 list=FACEBOOK
 add address=157.240.22.0/24 list=FACEBOOK
+add address=157.240.220.0/24 list=FACEBOOK
 add address=157.240.221.0/24 list=FACEBOOK
 add address=157.240.222.0/24 list=FACEBOOK
 add address=157.240.225.0/24 list=FACEBOOK
@@ -114,13 +114,13 @@ add address=157.240.232.0/24 list=FACEBOOK
 add address=157.240.234.0/24 list=FACEBOOK
 add address=157.240.235.0/24 list=FACEBOOK
 add address=157.240.236.0/24 list=FACEBOOK
-add address=157.240.240.0/24 list=FACEBOOK
 add address=157.240.24.0/23 list=FACEBOOK
+add address=157.240.240.0/24 list=FACEBOOK
 add address=157.240.241.0/24 list=FACEBOOK
 add address=157.240.26.0/23 list=FACEBOOK
 add address=157.240.28.0/24 list=FACEBOOK
-add address=157.240.30.0/24 list=FACEBOOK
 add address=157.240.3.0/24 list=FACEBOOK
+add address=157.240.30.0/24 list=FACEBOOK
 add address=157.240.7.0/24 list=FACEBOOK
 add address=157.240.8.0/24 list=FACEBOOK
 add address=157.240.9.0/24 list=FACEBOOK
