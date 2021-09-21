@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Sep 21 06:10:46 +06 2021
+# Last Update - Tue Sep 21 18:10:13 +06 2021
 # --------------------------------------------
-# Total Prefixes: 402
+# Total Prefixes: 399
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -133,12 +133,10 @@ add address=161.117.126.0/24 list=ALIBABA
 add address=161.117.128.0/24 list=ALIBABA
 add address=170.33.0.0/24 list=ALIBABA
 add address=170.33.1.0/24 list=ALIBABA
-add address=170.33.10.0/23 list=ALIBABA
 add address=170.33.100.0/23 list=ALIBABA
 add address=170.33.102.0/23 list=ALIBABA
 add address=170.33.104.0/22 list=ALIBABA
-add address=170.33.12.0/24 list=ALIBABA
-add address=170.33.13.0/24 list=ALIBABA
+add address=170.33.12.0/23 list=ALIBABA
 add address=170.33.14.0/24 list=ALIBABA
 add address=170.33.15.0/24 list=ALIBABA
 add address=170.33.16.0/20 list=ALIBABA
@@ -149,13 +147,12 @@ add address=170.33.64.0/23 list=ALIBABA
 add address=170.33.66.0/24 list=ALIBABA
 add address=170.33.68.0/23 list=ALIBABA
 add address=170.33.72.0/21 list=ALIBABA
-add address=170.33.8.0/24 list=ALIBABA
+add address=170.33.8.0/22 list=ALIBABA
 add address=170.33.80.0/22 list=ALIBABA
 add address=170.33.84.0/23 list=ALIBABA
 add address=170.33.86.0/24 list=ALIBABA
 add address=170.33.87.0/24 list=ALIBABA
 add address=170.33.88.0/22 list=ALIBABA
-add address=170.33.9.0/24 list=ALIBABA
 add address=170.33.92.0/23 list=ALIBABA
 add address=170.33.96.0/22 list=ALIBABA
 add address=182.92.0.0/16 list=ALIBABA
