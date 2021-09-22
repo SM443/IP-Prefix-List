@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Sep 22 06:09:36 +06 2021
+# Last Update - Wed Sep 22 18:08:38 +06 2021
 # --------------------------------------------
-# Total Prefixes: 189
+# Total Prefixes: 195
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -25,7 +25,8 @@ add address=139.162.128.0/17 list=LINODE
 add address=139.162.64.0/18 list=LINODE
 add address=139.177.176.0/21 list=LINODE
 add address=139.177.184.0/21 list=LINODE
-add address=139.177.192.0/20 list=LINODE
+add address=139.177.192.0/21 list=LINODE
+add address=139.177.200.0/21 list=LINODE
 add address=151.236.216.0/21 list=LINODE
 add address=162.216.16.0/22 list=LINODE
 add address=170.187.128.0/24 list=LINODE
@@ -82,7 +83,8 @@ add address=176.58.96.0/19 list=LINODE
 add address=178.79.128.0/18 list=LINODE
 add address=185.3.92.0/22 list=LINODE
 add address=192.155.80.0/21 list=LINODE
-add address=192.155.88.0/21 list=LINODE
+add address=192.155.88.0/22 list=LINODE
+add address=192.155.92.0/22 list=LINODE
 add address=192.46.208.0/21 list=LINODE
 add address=192.46.216.0/22 list=LINODE
 add address=192.46.220.0/23 list=LINODE
@@ -150,15 +152,19 @@ add address=45.79.120.0/21 list=LINODE
 add address=45.79.128.0/18 list=LINODE
 add address=45.79.192.0/19 list=LINODE
 add address=45.79.224.0/21 list=LINODE
-add address=45.79.232.0/23 list=LINODE
+add address=45.79.232.0/24 list=LINODE
+add address=45.79.233.0/24 list=LINODE
 add address=45.79.236.0/22 list=LINODE
 add address=45.79.240.0/22 list=LINODE
-add address=45.79.244.0/22 list=LINODE
-add address=45.79.248.0/21 list=LINODE
+add address=45.79.244.0/23 list=LINODE
+add address=45.79.246.0/23 list=LINODE
+add address=45.79.248.0/22 list=LINODE
+add address=45.79.252.0/22 list=LINODE
 add address=45.79.64.0/19 list=LINODE
 add address=45.79.96.0/20 list=LINODE
 add address=50.116.0.0/19 list=LINODE
-add address=50.116.32.0/19 list=LINODE
+add address=50.116.32.0/20 list=LINODE
+add address=50.116.48.0/20 list=LINODE
 add address=64.22.103.0/24 list=LINODE
 add address=64.22.109.0/24 list=LINODE
 add address=64.22.124.0/23 list=LINODE
