@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Sep 22 18:00:39 +06 2021
+# Last Update - Wed Sep 22 19:18:59 +06 2021
 # --------------------------------------------
-# Total Prefixes: 11305
+# Total Prefixes: 11314
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -7138,6 +7138,7 @@ add address=198.135.124.0/23 list=GOOGLE
 add address=198.135.184.0/24 list=GOOGLE
 add address=199.116.168.0/21 list=GOOGLE
 add address=199.166.212.0/24 list=GOOGLE
+add address=199.182.132.0/22 list=GOOGLE
 add address=199.19.248.0/21 list=GOOGLE
 add address=199.192.112.0/22 list=GOOGLE
 add address=199.192.112.0/23 list=GOOGLE
@@ -9176,6 +9177,7 @@ add address=34.95.224.0/20 list=GOOGLE
 add address=34.95.240.0/20 list=GOOGLE
 add address=34.95.32.0/20 list=GOOGLE
 add address=34.95.48.0/20 list=GOOGLE
+add address=34.95.64.0/18 list=GOOGLE
 add address=34.96.0.0/12 list=GOOGLE
 add address=34.96.0.0/14 list=GOOGLE
 add address=34.96.0.0/17 list=GOOGLE
@@ -9324,6 +9326,7 @@ add address=35.186.16.0/20 list=GOOGLE
 add address=35.186.160.0/19 list=GOOGLE
 add address=35.186.160.0/20 list=GOOGLE
 add address=35.186.176.0/20 list=GOOGLE
+add address=35.186.192.0/18 list=GOOGLE
 add address=35.186.32.0/19 list=GOOGLE
 add address=35.186.32.0/20 list=GOOGLE
 add address=35.186.48.0/20 list=GOOGLE
@@ -9695,6 +9698,8 @@ add address=35.201.44.0/24 list=GOOGLE
 add address=35.201.45.0/24 list=GOOGLE
 add address=35.201.46.0/24 list=GOOGLE
 add address=35.201.47.0/24 list=GOOGLE
+add address=35.201.48.0/20 list=GOOGLE
+add address=35.201.64.0/18 list=GOOGLE
 add address=35.202.0.0/16 list=GOOGLE
 add address=35.202.0.0/19 list=GOOGLE
 add address=35.202.0.0/20 list=GOOGLE
@@ -10029,6 +10034,7 @@ add address=35.227.16.0/20 list=GOOGLE
 add address=35.227.160.0/19 list=GOOGLE
 add address=35.227.160.0/20 list=GOOGLE
 add address=35.227.176.0/20 list=GOOGLE
+add address=35.227.192.0/18 list=GOOGLE
 add address=35.227.32.0/19 list=GOOGLE
 add address=35.227.32.0/20 list=GOOGLE
 add address=35.227.48.0/20 list=GOOGLE
@@ -10269,6 +10275,7 @@ add address=35.240.64.0/20 list=GOOGLE
 add address=35.240.80.0/20 list=GOOGLE
 add address=35.240.96.0/19 list=GOOGLE
 add address=35.240.96.0/20 list=GOOGLE
+add address=35.241.0.0/18 list=GOOGLE
 add address=35.241.0.0/19 list=GOOGLE
 add address=35.241.112.0/20 list=GOOGLE
 add address=35.241.128.0/17 list=GOOGLE
@@ -10341,6 +10348,7 @@ add address=35.244.0.0/14 list=GOOGLE
 add address=35.244.0.0/18 list=GOOGLE
 add address=35.244.0.0/20 list=GOOGLE
 add address=35.244.112.0/20 list=GOOGLE
+add address=35.244.128.0/17 list=GOOGLE
 add address=35.244.16.0/20 list=GOOGLE
 add address=35.244.32.0/20 list=GOOGLE
 add address=35.244.48.0/20 list=GOOGLE
@@ -10415,6 +10423,7 @@ add address=45.159.34.0/24 list=GOOGLE
 add address=45.56.0.0/18 list=GOOGLE
 add address=45.85.250.0/24 list=GOOGLE
 add address=45.88.200.0/24 list=GOOGLE
+add address=45.91.254.0/24 list=GOOGLE
 add address=46.16.160.0/24 list=GOOGLE
 add address=46.16.161.0/24 list=GOOGLE
 add address=46.16.164.0/24 list=GOOGLE
