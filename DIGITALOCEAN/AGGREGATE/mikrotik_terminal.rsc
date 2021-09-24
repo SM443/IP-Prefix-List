@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Sep 24 06:05:17 +06 2021
+# Last Update - Fri Sep 24 18:04:53 +06 2021
 # --------------------------------------------
-# Total Prefixes: 489
+# Total Prefixes: 490
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -70,6 +70,7 @@ add address=137.184.112.0/20 list=DigitalOcean
 add address=137.184.128.0/20 list=DigitalOcean
 add address=137.184.16.0/20 list=DigitalOcean
 add address=137.184.248.0/22 list=DigitalOcean
+add address=137.184.253.0/24 list=DigitalOcean
 add address=137.184.254.0/24 list=DigitalOcean
 add address=137.184.255.0/24 list=DigitalOcean
 add address=137.184.32.0/20 list=DigitalOcean
