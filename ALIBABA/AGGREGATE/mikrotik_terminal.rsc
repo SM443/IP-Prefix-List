@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Sep 28 18:04:31 +06 2021
+# Last Update - Wed Sep 29 06:05:35 +06 2021
 # --------------------------------------------
-# Total Prefixes: 400
+# Total Prefixes: 413
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -69,10 +69,20 @@ add address=112.126.0.0/16 list=ALIBABA
 add address=112.127.0.0/16 list=ALIBABA
 add address=112.74.0.0/16 list=ALIBABA
 add address=114.215.0.0/16 list=ALIBABA
+add address=114.215.0.0/17 list=ALIBABA
+add address=114.215.128.0/19 list=ALIBABA
+add address=114.215.160.0/21 list=ALIBABA
+add address=114.215.96.0/19 list=ALIBABA
 add address=114.55.0.0/16 list=ALIBABA
 add address=115.124.16.0/20 list=ALIBABA
 add address=115.28.0.0/16 list=ALIBABA
+add address=115.28.0.0/18 list=ALIBABA
+add address=115.28.128.0/17 list=ALIBABA
+add address=115.28.64.0/18 list=ALIBABA
 add address=115.29.0.0/16 list=ALIBABA
+add address=115.29.128.0/19 list=ALIBABA
+add address=115.29.32.0/19 list=ALIBABA
+add address=115.29.64.0/18 list=ALIBABA
 add address=116.251.120.0/22 list=ALIBABA
 add address=116.251.64.0/18 list=ALIBABA
 add address=116.251.96.0/22 list=ALIBABA
@@ -93,6 +103,8 @@ add address=120.24.0.0/15 list=ALIBABA
 add address=120.55.0.0/16 list=ALIBABA
 add address=120.76.0.0/15 list=ALIBABA
 add address=120.78.0.0/15 list=ALIBABA
+add address=120.78.0.0/16 list=ALIBABA
+add address=120.79.0.0/16 list=ALIBABA
 add address=121.0.16.0/20 list=ALIBABA
 add address=121.196.0.0/14 list=ALIBABA
 add address=121.40.0.0/14 list=ALIBABA
@@ -227,6 +239,7 @@ add address=39.104.0.0/14 list=ALIBABA
 add address=39.108.0.0/16 list=ALIBABA
 add address=39.96.0.0/13 list=ALIBABA
 add address=42.120.0.0/15 list=ALIBABA
+add address=42.120.248.0/24 list=ALIBABA
 add address=42.156.128.0/17 list=ALIBABA
 add address=42.96.128.0/17 list=ALIBABA
 add address=45.113.40.0/22 list=ALIBABA
