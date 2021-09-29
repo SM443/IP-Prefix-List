@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Sep 29 06:03:41 +06 2021
+# Last Update - Wed Sep 29 18:03:40 +06 2021
 # --------------------------------------------
-# Total Prefixes: 112
+# Total Prefixes: 122
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -43,8 +43,10 @@ add address=164.90.95.0/24 list=BIGO
 add address=164.90.96.0/24 list=BIGO
 add address=164.90.97.0/24 list=BIGO
 add address=164.90.98.0/24 list=BIGO
-add address=169.136.100.0/22 list=BIGO
-add address=169.136.104.0/22 list=BIGO
+add address=169.136.100.0/23 list=BIGO
+add address=169.136.102.0/23 list=BIGO
+add address=169.136.104.0/23 list=BIGO
+add address=169.136.106.0/23 list=BIGO
 add address=169.136.108.0/23 list=BIGO
 add address=169.136.110.0/24 list=BIGO
 add address=169.136.111.0/24 list=BIGO
@@ -63,7 +65,8 @@ add address=169.136.138.0/24 list=BIGO
 add address=169.136.144.0/23 list=BIGO
 add address=169.136.155.0/24 list=BIGO
 add address=169.136.156.0/22 list=BIGO
-add address=169.136.160.0/23 list=BIGO
+add address=169.136.160.0/24 list=BIGO
+add address=169.136.161.0/24 list=BIGO
 add address=169.136.162.0/24 list=BIGO
 add address=169.136.163.0/24 list=BIGO
 add address=169.136.164.0/24 list=BIGO
@@ -77,7 +80,9 @@ add address=169.136.176.0/21 list=BIGO
 add address=169.136.184.0/22 list=BIGO
 add address=169.136.188.0/23 list=BIGO
 add address=169.136.190.0/24 list=BIGO
-add address=169.136.76.0/22 list=BIGO
+add address=169.136.76.0/23 list=BIGO
+add address=169.136.78.0/24 list=BIGO
+add address=169.136.79.0/24 list=BIGO
 add address=169.136.80.0/24 list=BIGO
 add address=169.136.81.0/24 list=BIGO
 add address=169.136.82.0/24 list=BIGO
@@ -101,7 +106,8 @@ add address=202.168.108.0/23 list=BIGO
 add address=202.168.110.0/24 list=BIGO
 add address=202.168.112.0/24 list=BIGO
 add address=202.168.113.0/24 list=BIGO
-add address=202.168.114.0/23 list=BIGO
+add address=202.168.114.0/24 list=BIGO
+add address=202.168.115.0/24 list=BIGO
 add address=202.168.116.0/22 list=BIGO
 add address=202.168.120.0/22 list=BIGO
 add address=202.168.124.0/23 list=BIGO
@@ -120,5 +126,9 @@ add address=202.63.42.0/23 list=BIGO
 add address=202.63.44.0/23 list=BIGO
 add address=202.63.46.0/24 list=BIGO
 add address=202.63.47.0/24 list=BIGO
-add address=202.63.48.0/20 list=BIGO
+add address=202.63.48.0/21 list=BIGO
+add address=202.63.56.0/23 list=BIGO
+add address=202.63.58.0/24 list=BIGO
+add address=202.63.59.0/24 list=BIGO
+add address=202.63.60.0/22 list=BIGO
 add address=45.124.252.0/24 list=BIGO
