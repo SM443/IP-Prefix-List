@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Fri Oct  1 18:00:06 +06 2021
+# Last Update - Sat Oct  2 06:00:06 +06 2021
 # --------------------------------------------
-# Total Prefixes: 267
+# Total Prefixes: 268
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -74,6 +74,7 @@ add address=129.134.164.0/24 list=FACEBOOK
 add address=129.134.165.0/24 list=FACEBOOK
 add address=129.134.169.0/24 list=FACEBOOK
 add address=129.134.170.0/24 list=FACEBOOK
+add address=129.134.171.0/24 list=FACEBOOK
 add address=129.134.25.0/24 list=FACEBOOK
 add address=129.134.26.0/24 list=FACEBOOK
 add address=129.134.27.0/24 list=FACEBOOK

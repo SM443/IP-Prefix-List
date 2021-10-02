@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: https://digitalocean.com/geo/google.csv
 # --------------------------------------------
-# Last Update - Fri Oct  1 18:01:20 +06 2021
+# Last Update - Sat Oct  2 06:01:34 +06 2021
 # --------------------------------------------
-# Total Prefixes: 1601
+# Total Prefixes: 1604
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -200,7 +200,9 @@ add address=137.184.0.0/20 list=DIGITALOCEAN
 add address=137.184.112.0/20 list=DIGITALOCEAN
 add address=137.184.128.0/20 list=DIGITALOCEAN
 add address=137.184.16.0/20 list=DIGITALOCEAN
+add address=137.184.244.0/22 list=DIGITALOCEAN
 add address=137.184.248.0/22 list=DIGITALOCEAN
+add address=137.184.253.0/24 list=DIGITALOCEAN
 add address=137.184.254.0/24 list=DIGITALOCEAN
 add address=137.184.255.0/24 list=DIGITALOCEAN
 add address=137.184.32.0/20 list=DIGITALOCEAN
@@ -1465,6 +1467,7 @@ add address=45.55.64.0/19 list=DIGITALOCEAN
 add address=45.55.96.0/22 list=DIGITALOCEAN
 add address=46.101.0.0/18 list=DIGITALOCEAN
 add address=46.101.112.0/20 list=DIGITALOCEAN
+add address=46.101.124.0/22 list=DIGITALOCEAN
 add address=46.101.128.0/18 list=DIGITALOCEAN
 add address=46.101.192.0/18 list=DIGITALOCEAN
 add address=46.101.64.0/22 list=DIGITALOCEAN
