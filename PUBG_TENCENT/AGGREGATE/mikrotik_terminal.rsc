@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Oct  8 06:02:26 +06 2021
+# Last Update - Fri Oct  8 18:03:04 +06 2021
 # --------------------------------------------
-# Total Prefixes: 705
+# Total Prefixes: 694
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -425,10 +425,6 @@ add address=162.14.60.0/22 list=PUBG-TENCENT
 add address=162.14.64.0/18 list=PUBG-TENCENT
 add address=162.62.0.0/19 list=PUBG-TENCENT
 add address=162.62.0.0/20 list=PUBG-TENCENT
-add address=162.62.112.0/23 list=PUBG-TENCENT
-add address=162.62.114.0/23 list=PUBG-TENCENT
-add address=162.62.116.0/22 list=PUBG-TENCENT
-add address=162.62.120.0/21 list=PUBG-TENCENT
 add address=162.62.128.0/23 list=PUBG-TENCENT
 add address=162.62.128.0/24 list=PUBG-TENCENT
 add address=162.62.129.0/24 list=PUBG-TENCENT
@@ -453,17 +449,11 @@ add address=162.62.24.0/22 list=PUBG-TENCENT
 add address=162.62.28.0/23 list=PUBG-TENCENT
 add address=162.62.32.0/20 list=PUBG-TENCENT
 add address=162.62.48.0/20 list=PUBG-TENCENT
-add address=162.62.59.0/24 list=PUBG-TENCENT
-add address=162.62.60.0/24 list=PUBG-TENCENT
-add address=162.62.64.0/22 list=PUBG-TENCENT
-add address=162.62.68.0/22 list=PUBG-TENCENT
-add address=162.62.68.0/23 list=PUBG-TENCENT
-add address=162.62.70.0/24 list=PUBG-TENCENT
-add address=162.62.72.0/21 list=PUBG-TENCENT
+add address=162.62.64.0/20 list=PUBG-TENCENT
 add address=162.62.80.0/22 list=PUBG-TENCENT
 add address=162.62.84.0/22 list=PUBG-TENCENT
 add address=162.62.88.0/21 list=PUBG-TENCENT
-add address=162.62.96.0/20 list=PUBG-TENCENT
+add address=162.62.96.0/19 list=PUBG-TENCENT
 add address=170.106.0.0/16 list=PUBG-TENCENT
 add address=170.106.0.0/18 list=PUBG-TENCENT
 add address=170.106.102.0/24 list=PUBG-TENCENT
@@ -656,7 +646,6 @@ add address=43.135.128.0/18 list=PUBG-TENCENT
 add address=43.135.151.0/24 list=PUBG-TENCENT
 add address=43.135.152.0/24 list=PUBG-TENCENT
 add address=43.135.192.0/19 list=PUBG-TENCENT
-add address=43.155.99.0/24 list=PUBG-TENCENT
 add address=43.242.252.0/22 list=PUBG-TENCENT
 add address=43.247.196.0/22 list=PUBG-TENCENT
 add address=45.113.68.0/22 list=PUBG-TENCENT
