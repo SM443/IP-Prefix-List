@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Oct 13 06:05:05 +06 2021
+# Last Update - Wed Oct 13 18:07:41 +06 2021
 # --------------------------------------------
 # Total Prefixes: 44
 # --------------------------------------------
@@ -47,10 +47,10 @@ add address=185.25.182.0/24 list=VALVE
 add address=185.25.183.0/24 list=VALVE
 add address=190.216.121.0/24 list=VALVE
 add address=190.217.33.0/24 list=VALVE
-add address=192.69.98.0/23 list=VALVE
+add address=192.69.96.0/22 list=VALVE
 add address=205.185.194.0/24 list=VALVE
 add address=205.196.6.0/24 list=VALVE
 add address=208.64.200.0/22 list=VALVE
-add address=208.78.166.0/24 list=VALVE
+add address=208.78.164.0/22 list=VALVE
 add address=45.121.184.0/23 list=VALVE
 add address=45.121.186.0/23 list=VALVE
