@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: https://docs.aws.amazon.com/
 # --------------------------------------------
-# Last Update - Wed Oct 13 18:01:07 +06 2021
+# Last Update - Thu Oct 14 06:00:53 +06 2021
 # --------------------------------------------
-# Total Prefixes: 4509
+# Total Prefixes: 4508
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1737,6 +1737,8 @@ add address=157.175.102.160/27 list=AMAZON
 add address=157.175.102.96/27 list=AMAZON
 add address=157.175.140.0/23 list=AMAZON
 add address=157.241.0.0/16 list=AMAZON
+add address=16.12.0.0/23 list=AMAZON
+add address=16.12.2.0/24 list=AMAZON
 add address=16.162.0.0/15 list=AMAZON
 add address=16.162.162.96/29 list=AMAZON
 add address=16.162.52.0/24 list=AMAZON
@@ -2977,16 +2979,11 @@ add address=52.219.170.0/23 list=AMAZON
 add address=52.219.172.0/22 list=AMAZON
 add address=52.219.176.0/22 list=AMAZON
 add address=52.219.180.0/22 list=AMAZON
-add address=52.219.184.0/22 list=AMAZON
-add address=52.219.188.0/22 list=AMAZON
-add address=52.219.192.0/24 list=AMAZON
-add address=52.219.193.0/24 list=AMAZON
+add address=52.219.184.0/21 list=AMAZON
+add address=52.219.192.0/23 list=AMAZON
 add address=52.219.194.0/24 list=AMAZON
 add address=52.219.195.0/24 list=AMAZON
-add address=52.219.196.0/24 list=AMAZON
-add address=52.219.197.0/24 list=AMAZON
-add address=52.219.198.0/24 list=AMAZON
-add address=52.219.199.0/24 list=AMAZON
+add address=52.219.196.0/22 list=AMAZON
 add address=52.219.200.0/24 list=AMAZON
 add address=52.219.24.0/21 list=AMAZON
 add address=52.219.32.0/21 list=AMAZON
@@ -4294,6 +4291,8 @@ add address=69.107.6.216/29 list=AMAZON
 add address=69.107.6.224/29 list=AMAZON
 add address=69.107.7.0/29 list=AMAZON
 add address=69.107.7.104/29 list=AMAZON
+add address=69.107.7.112/29 list=AMAZON
+add address=69.107.7.120/29 list=AMAZON
 add address=69.107.7.16/29 list=AMAZON
 add address=69.107.7.32/29 list=AMAZON
 add address=69.107.7.40/29 list=AMAZON
