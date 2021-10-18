@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Mon Oct 18 06:00:07 +06 2021
+# Last Update - Mon Oct 18 18:00:07 +06 2021
 # --------------------------------------------
-# Total Prefixes: 167
+# Total Prefixes: 170
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -16,6 +16,9 @@ add address=103.247.205.0/24 list=FreeFire-Garena
 add address=103.247.206.0/24 list=FreeFire-Garena
 add address=103.247.207.0/24 list=FreeFire-Garena
 add address=103.248.56.0/24 list=FreeFire-Garena
+add address=103.69.179.0/24 list=FreeFire-Garena
+add address=124.158.134.0/23 list=FreeFire-Garena
+add address=124.158.142.0/23 list=FreeFire-Garena
 add address=125.5.17.0/24 list=FreeFire-Garena
 add address=125.5.254.0/27 list=FreeFire-Garena
 add address=125.5.26.0/24 list=FreeFire-Garena
