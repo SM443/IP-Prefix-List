@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Tue Oct 19 06:00:09 +06 2021
+# Last Update - Tue Oct 19 18:00:08 +06 2021
 # --------------------------------------------
-# Total Prefixes: 46
+# Total Prefixes: 50
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -32,9 +32,13 @@ add address=169.136.129.0/24 list=IMO-PageBites
 add address=169.136.130.0/24 list=IMO-PageBites
 add address=169.136.132.0/24 list=IMO-PageBites
 add address=169.136.133.0/24 list=IMO-PageBites
+add address=169.136.137.0/24 list=IMO-PageBites
+add address=169.136.138.0/24 list=IMO-PageBites
 add address=169.136.139.0/24 list=IMO-PageBites
 add address=169.136.140.0/24 list=IMO-PageBites
 add address=169.136.141.0/24 list=IMO-PageBites
+add address=169.136.145.0/24 list=IMO-PageBites
+add address=169.136.147.0/24 list=IMO-PageBites
 add address=169.136.148.0/24 list=IMO-PageBites
 add address=169.136.149.0/24 list=IMO-PageBites
 add address=169.136.150.0/24 list=IMO-PageBites
