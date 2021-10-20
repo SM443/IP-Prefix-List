@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: https://api.fastly.com/public-ip-list
 # --------------------------------------------
-# Last Update - Tue Oct 19 18:02:44 +06 2021
+# Last Update - Wed Oct 20 06:02:53 +06 2021
 # --------------------------------------------
-# Total Prefixes: 17
+# Total Prefixes: 19
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -14,6 +14,8 @@ add address=103.244.50.0/24 list=FASTLY
 add address=103.245.222.0/23 list=FASTLY
 add address=103.245.224.0/24 list=FASTLY
 add address=104.156.80.0/20 list=FASTLY
+add address=140.248.128.0/17 list=FASTLY
+add address=140.248.64.0/18 list=FASTLY
 add address=146.75.0.0/17 list=FASTLY
 add address=151.101.0.0/16 list=FASTLY
 add address=157.52.64.0/18 list=FASTLY
