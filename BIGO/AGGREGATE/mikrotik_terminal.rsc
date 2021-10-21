@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Oct 20 18:03:44 +06 2021
+# Last Update - Thu Oct 21 06:02:44 +06 2021
 # --------------------------------------------
-# Total Prefixes: 119
+# Total Prefixes: 113
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -15,17 +15,13 @@ add address=103.139.73.0/24 list=BIGO
 add address=164.90.104.0/24 list=BIGO
 add address=164.90.105.0/24 list=BIGO
 add address=164.90.106.0/23 list=BIGO
-add address=164.90.108.0/24 list=BIGO
-add address=164.90.109.0/24 list=BIGO
-add address=164.90.110.0/23 list=BIGO
+add address=164.90.108.0/22 list=BIGO
 add address=164.90.114.0/24 list=BIGO
 add address=164.90.115.0/24 list=BIGO
 add address=164.90.116.0/23 list=BIGO
 add address=164.90.122.0/24 list=BIGO
 add address=164.90.127.0/24 list=BIGO
-add address=164.90.64.0/23 list=BIGO
-add address=164.90.66.0/24 list=BIGO
-add address=164.90.67.0/24 list=BIGO
+add address=164.90.64.0/22 list=BIGO
 add address=164.90.68.0/24 list=BIGO
 add address=164.90.69.0/24 list=BIGO
 add address=164.90.72.0/23 list=BIGO
@@ -120,9 +116,7 @@ add address=202.63.37.0/24 list=BIGO
 add address=202.63.38.0/24 list=BIGO
 add address=202.63.41.0/24 list=BIGO
 add address=202.63.42.0/23 list=BIGO
-add address=202.63.44.0/23 list=BIGO
-add address=202.63.46.0/24 list=BIGO
-add address=202.63.47.0/24 list=BIGO
+add address=202.63.44.0/22 list=BIGO
 add address=202.63.48.0/21 list=BIGO
 add address=202.63.56.0/23 list=BIGO
 add address=202.63.58.0/24 list=BIGO
