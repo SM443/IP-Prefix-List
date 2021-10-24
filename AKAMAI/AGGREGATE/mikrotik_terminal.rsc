@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sat Oct 23 18:03:33 +06 2021
+# Last Update - Sun Oct 24 06:04:26 +06 2021
 # --------------------------------------------
-# Total Prefixes: 7495
+# Total Prefixes: 7496
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1754,7 +1754,8 @@ add address=172.226.0.0/24 list=AKAMAI
 add address=172.226.11.0/24 list=AKAMAI
 add address=172.226.12.0/23 list=AKAMAI
 add address=172.226.14.0/24 list=AKAMAI
-add address=172.226.20.0/22 list=AKAMAI
+add address=172.226.20.0/23 list=AKAMAI
+add address=172.226.22.0/23 list=AKAMAI
 add address=172.226.24.0/24 list=AKAMAI
 add address=172.226.26.0/24 list=AKAMAI
 add address=172.226.28.0/24 list=AKAMAI
