@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Tue Oct 26 06:00:03 +06 2021
+# Last Update - Tue Oct 26 18:00:02 +06 2021
 # --------------------------------------------
-# Total Prefixes: 176
+# Total Prefixes: 177
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -47,6 +47,7 @@ add address=164.90.81.0/24 list=BIGO
 add address=164.90.83.0/24 list=BIGO
 add address=164.90.84.0/24 list=BIGO
 add address=164.90.85.0/24 list=BIGO
+add address=164.90.86.0/24 list=BIGO
 add address=164.90.89.0/24 list=BIGO
 add address=164.90.90.0/24 list=BIGO
 add address=164.90.91.0/24 list=BIGO
