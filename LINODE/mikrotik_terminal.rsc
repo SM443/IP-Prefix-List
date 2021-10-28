@@ -3,15 +3,15 @@
 # --------------------------------------------
 # Source: https://geoip.linode.com/
 # --------------------------------------------
-# Last Update - Thu Oct 28 06:01:00 +06 2021
+# Last Update - Thu Oct 28 18:01:10 +06 2021
 # --------------------------------------------
-# Total Prefixes: 2124
+# Total Prefixes: 2123
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address= list=LINODE
-add address=# Last modified: 2021-10-27 10:00:07.196572 list=LINODE
+add address=# Last modified: 2021-10-28 10:00:06.793115 list=LINODE
 add address=# This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02) list=LINODE
 add address=# prefix list=LINODE
 add address=103.29.68.0/24 list=LINODE
@@ -568,7 +568,6 @@ add address=172.104.229.0/24 list=LINODE
 add address=172.104.23.0/24 list=LINODE
 add address=172.104.230.0/24 list=LINODE
 add address=172.104.231.0/24 list=LINODE
-add address=172.104.232.0/24 list=LINODE
 add address=172.104.233.0/24 list=LINODE
 add address=172.104.234.0/24 list=LINODE
 add address=172.104.235.0/24 list=LINODE
