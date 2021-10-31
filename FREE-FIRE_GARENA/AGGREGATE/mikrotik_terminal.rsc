@@ -3,14 +3,15 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sun Oct 31 06:11:05 +06 2021
+# Last Update - Sun Oct 31 18:03:51 +06 2021
 # --------------------------------------------
-# Total Prefixes: 30
+# Total Prefixes: 31
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=103.247.204.0/22 list=FreeFire-Garena
+add address=103.247.204.0/24 list=FreeFire-Garena
 add address=103.247.205.0/24 list=FreeFire-Garena
 add address=103.247.206.0/23 list=FreeFire-Garena
 add address=103.248.56.0/22 list=FreeFire-Garena
