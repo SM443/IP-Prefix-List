@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Nov  1 18:05:04 +06 2021
+# Last Update - Tue Nov  2 06:02:16 +06 2021
 # --------------------------------------------
-# Total Prefixes: 156
+# Total Prefixes: 162
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -55,7 +55,8 @@ add address=129.134.163.0/24 list=FACEBOOK
 add address=129.134.164.0/24 list=FACEBOOK
 add address=129.134.165.0/24 list=FACEBOOK
 add address=129.134.25.0/24 list=FACEBOOK
-add address=129.134.26.0/23 list=FACEBOOK
+add address=129.134.26.0/24 list=FACEBOOK
+add address=129.134.27.0/24 list=FACEBOOK
 add address=129.134.28.0/22 list=FACEBOOK
 add address=129.134.31.0/24 list=FACEBOOK
 add address=129.134.65.0/24 list=FACEBOOK
@@ -99,6 +100,7 @@ add address=157.240.206.0/23 list=FACEBOOK
 add address=157.240.209.0/24 list=FACEBOOK
 add address=157.240.210.0/24 list=FACEBOOK
 add address=157.240.211.0/24 list=FACEBOOK
+add address=157.240.212.0/24 list=FACEBOOK
 add address=157.240.214.0/24 list=FACEBOOK
 add address=157.240.217.0/24 list=FACEBOOK
 add address=157.240.218.0/24 list=FACEBOOK
@@ -124,6 +126,9 @@ add address=157.240.30.0/24 list=FACEBOOK
 add address=157.240.7.0/24 list=FACEBOOK
 add address=157.240.8.0/24 list=FACEBOOK
 add address=157.240.9.0/24 list=FACEBOOK
+add address=163.114.128.0/20 list=FACEBOOK
+add address=163.114.128.0/24 list=FACEBOOK
+add address=163.114.131.0/24 list=FACEBOOK
 add address=173.252.64.0/18 list=FACEBOOK
 add address=179.60.192.0/22 list=FACEBOOK
 add address=179.60.192.0/24 list=FACEBOOK
@@ -134,6 +139,7 @@ add address=185.60.217.0/24 list=FACEBOOK
 add address=185.60.218.0/24 list=FACEBOOK
 add address=185.89.218.0/23 list=FACEBOOK
 add address=185.89.219.0/24 list=FACEBOOK
+add address=199.201.64.0/22 list=FACEBOOK
 add address=204.15.20.0/22 list=FACEBOOK
 add address=31.13.24.0/21 list=FACEBOOK
 add address=31.13.64.0/18 list=FACEBOOK
