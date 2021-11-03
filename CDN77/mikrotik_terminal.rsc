@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cdn77.com
 # --------------------------------------------
-# Last Update - Tue Nov  2 18:02:31 +06 2021
+# Last Update - Wed Nov  3 06:02:30 +06 2021
 # --------------------------------------------
-# Total Prefixes: 175
+# Total Prefixes: 178
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -68,6 +68,8 @@ add address=156.146.62.0/24 list=CDN77
 add address=156.146.63.0/24 list=CDN77
 add address=159.242.228.0/24 list=CDN77
 add address=159.242.232.0/23 list=CDN77
+add address=178.249.208.0/24 list=CDN77
+add address=178.249.210.0/24 list=CDN77
 add address=185.102.216.0/24 list=CDN77
 add address=185.102.217.0/24 list=CDN77
 add address=185.102.218.0/24 list=CDN77
@@ -136,6 +138,7 @@ add address=37.19.193.0/24 list=CDN77
 add address=37.19.194.0/24 list=CDN77
 add address=37.19.202.0/24 list=CDN77
 add address=37.19.203.0/24 list=CDN77
+add address=37.19.204.0/24 list=CDN77
 add address=37.19.206.0/23 list=CDN77
 add address=37.19.208.0/24 list=CDN77
 add address=37.19.214.0/23 list=CDN77
