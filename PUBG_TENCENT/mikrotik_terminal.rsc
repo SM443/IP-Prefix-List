@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Wed Nov  3 06:00:11 +06 2021
+# Last Update - Wed Nov  3 18:00:11 +06 2021
 # --------------------------------------------
 # Total Prefixes: 1091
 # --------------------------------------------
@@ -15,6 +15,13 @@ add address=1.12.0.0/14 list=PUBG-TENCENT
 add address=101.32.0.0/16 list=PUBG-TENCENT
 add address=101.33.0.0/17 list=PUBG-TENCENT
 add address=101.33.128.0/17 list=PUBG-TENCENT
+add address=101.33.168.0/22 list=PUBG-TENCENT
+add address=101.33.168.0/23 list=PUBG-TENCENT
+add address=101.33.168.0/24 list=PUBG-TENCENT
+add address=101.33.169.0/24 list=PUBG-TENCENT
+add address=101.33.170.0/23 list=PUBG-TENCENT
+add address=101.33.170.0/24 list=PUBG-TENCENT
+add address=101.33.171.0/24 list=PUBG-TENCENT
 add address=101.34.0.0/15 list=PUBG-TENCENT
 add address=101.42.0.0/15 list=PUBG-TENCENT
 add address=103.116.50.0/23 list=PUBG-TENCENT
@@ -1085,13 +1092,6 @@ add address=43.153.180.0/24 list=PUBG-TENCENT
 add address=43.153.181.0/24 list=PUBG-TENCENT
 add address=43.153.182.0/23 list=PUBG-TENCENT
 add address=43.153.182.0/24 list=PUBG-TENCENT
-add address=43.153.183.0/24 list=PUBG-TENCENT
-add address=43.153.184.0/21 list=PUBG-TENCENT
-add address=43.153.184.0/22 list=PUBG-TENCENT
-add address=43.153.184.0/23 list=PUBG-TENCENT
-add address=43.153.184.0/24 list=PUBG-TENCENT
-add address=43.153.185.0/24 list=PUBG-TENCENT
-add address=43.153.186.0/23 list=PUBG-TENCENT
 add address=43.242.252.0/22 list=PUBG-TENCENT
 add address=43.247.196.0/22 list=PUBG-TENCENT
 add address=45.40.192.0/18 list=PUBG-TENCENT
