@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Nov  4 06:02:22 +06 2021
+# Last Update - Thu Nov  4 18:02:07 +06 2021
 # --------------------------------------------
 # Total Prefixes: 115
 # --------------------------------------------
@@ -43,7 +43,7 @@ add address=169.136.100.0/23 list=BIGO
 add address=169.136.102.0/23 list=BIGO
 add address=169.136.104.0/23 list=BIGO
 add address=169.136.106.0/23 list=BIGO
-add address=169.136.108.0/23 list=BIGO
+add address=169.136.109.0/24 list=BIGO
 add address=169.136.110.0/24 list=BIGO
 add address=169.136.111.0/24 list=BIGO
 add address=169.136.112.0/23 list=BIGO
@@ -90,7 +90,7 @@ add address=169.136.90.0/24 list=BIGO
 add address=169.136.91.0/24 list=BIGO
 add address=169.136.92.0/24 list=BIGO
 add address=169.136.93.0/24 list=BIGO
-add address=169.136.94.0/23 list=BIGO
+add address=169.136.94.0/24 list=BIGO
 add address=169.136.96.0/22 list=BIGO
 add address=202.168.100.0/23 list=BIGO
 add address=202.168.102.0/23 list=BIGO
@@ -120,7 +120,7 @@ add address=202.63.41.0/24 list=BIGO
 add address=202.63.42.0/23 list=BIGO
 add address=202.63.44.0/22 list=BIGO
 add address=202.63.48.0/21 list=BIGO
-add address=202.63.56.0/23 list=BIGO
+add address=202.63.57.0/24 list=BIGO
 add address=202.63.58.0/24 list=BIGO
 add address=202.63.59.0/24 list=BIGO
 add address=202.63.60.0/22 list=BIGO
