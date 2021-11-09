@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: https://docs.aws.amazon.com/
 # --------------------------------------------
-# Last Update - Mon Nov  8 18:00:54 +06 2021
+# Last Update - Tue Nov  9 06:00:52 +06 2021
 # --------------------------------------------
-# Total Prefixes: 4587
+# Total Prefixes: 4535
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1584,59 +1584,7 @@ add address=150.222.230.93/32 list=AMAZON
 add address=150.222.230.94/31 list=AMAZON
 add address=150.222.230.96/31 list=AMAZON
 add address=150.222.230.98/31 list=AMAZON
-add address=150.222.231.0/32 list=AMAZON
-add address=150.222.231.1/32 list=AMAZON
-add address=150.222.231.16/31 list=AMAZON
-add address=150.222.231.18/31 list=AMAZON
-add address=150.222.231.194/32 list=AMAZON
-add address=150.222.231.195/32 list=AMAZON
-add address=150.222.231.196/32 list=AMAZON
-add address=150.222.231.197/32 list=AMAZON
-add address=150.222.231.198/31 list=AMAZON
-add address=150.222.231.2/32 list=AMAZON
-add address=150.222.231.20/31 list=AMAZON
-add address=150.222.231.200/31 list=AMAZON
-add address=150.222.231.202/32 list=AMAZON
-add address=150.222.231.203/32 list=AMAZON
-add address=150.222.231.204/32 list=AMAZON
-add address=150.222.231.205/32 list=AMAZON
-add address=150.222.231.22/31 list=AMAZON
-add address=150.222.231.24/31 list=AMAZON
-add address=150.222.231.26/31 list=AMAZON
-add address=150.222.231.28/31 list=AMAZON
-add address=150.222.231.3/32 list=AMAZON
-add address=150.222.231.30/31 list=AMAZON
-add address=150.222.231.32/31 list=AMAZON
-add address=150.222.231.34/31 list=AMAZON
-add address=150.222.231.36/31 list=AMAZON
-add address=150.222.231.38/31 list=AMAZON
-add address=150.222.231.4/32 list=AMAZON
-add address=150.222.231.40/31 list=AMAZON
-add address=150.222.231.42/31 list=AMAZON
-add address=150.222.231.44/31 list=AMAZON
-add address=150.222.231.46/31 list=AMAZON
-add address=150.222.231.48/31 list=AMAZON
-add address=150.222.231.5/32 list=AMAZON
-add address=150.222.231.50/31 list=AMAZON
-add address=150.222.231.52/31 list=AMAZON
-add address=150.222.231.54/31 list=AMAZON
-add address=150.222.231.56/31 list=AMAZON
-add address=150.222.231.58/31 list=AMAZON
-add address=150.222.231.6/32 list=AMAZON
-add address=150.222.231.60/31 list=AMAZON
-add address=150.222.231.62/31 list=AMAZON
-add address=150.222.231.64/31 list=AMAZON
-add address=150.222.231.66/31 list=AMAZON
-add address=150.222.231.68/31 list=AMAZON
-add address=150.222.231.7/32 list=AMAZON
-add address=150.222.231.70/31 list=AMAZON
-add address=150.222.231.72/31 list=AMAZON
-add address=150.222.231.76/31 list=AMAZON
-add address=150.222.231.78/31 list=AMAZON
-add address=150.222.231.8/32 list=AMAZON
-add address=150.222.231.80/31 list=AMAZON
-add address=150.222.231.82/31 list=AMAZON
-add address=150.222.231.9/32 list=AMAZON
+add address=150.222.231.0/24 list=AMAZON
 add address=150.222.232.112/31 list=AMAZON
 add address=150.222.232.114/31 list=AMAZON
 add address=150.222.232.51/32 list=AMAZON
