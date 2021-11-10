@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Nov 10 06:05:04 +06 2021
+# Last Update - Wed Nov 10 18:04:44 +06 2021
 # --------------------------------------------
-# Total Prefixes: 436
+# Total Prefixes: 426
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -198,6 +198,7 @@ add address=203.107.32.0/21 list=ALIBABA
 add address=203.107.40.0/22 list=ALIBABA
 add address=203.107.44.0/22 list=ALIBABA
 add address=203.107.48.0/22 list=ALIBABA
+add address=203.107.50.0/23 list=ALIBABA
 add address=203.107.52.0/22 list=ALIBABA
 add address=203.107.56.0/21 list=ALIBABA
 add address=203.107.6.0/24 list=ALIBABA
@@ -241,18 +242,7 @@ add address=42.120.0.0/16 list=ALIBABA
 add address=42.121.0.0/16 list=ALIBABA
 add address=42.156.128.0/17 list=ALIBABA
 add address=42.96.128.0/17 list=ALIBABA
-add address=43.0.0.0/13 list=ALIBABA
-add address=43.12.0.0/15 list=ALIBABA
-add address=43.14.0.0/16 list=ALIBABA
-add address=43.15.0.0/17 list=ALIBABA
-add address=43.15.128.0/18 list=ALIBABA
-add address=43.15.192.0/19 list=ALIBABA
-add address=43.15.224.0/20 list=ALIBABA
-add address=43.15.240.0/21 list=ALIBABA
-add address=43.15.248.0/22 list=ALIBABA
-add address=43.15.252.0/23 list=ALIBABA
-add address=43.15.254.0/24 list=ALIBABA
-add address=43.8.0.0/14 list=ALIBABA
+add address=43.32.0.0/12 list=ALIBABA
 add address=45.113.40.0/22 list=ALIBABA
 add address=45.158.183.0/24 list=ALIBABA
 add address=47.100.0.0/14 list=ALIBABA

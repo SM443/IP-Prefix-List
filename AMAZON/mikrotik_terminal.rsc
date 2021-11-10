@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: https://docs.aws.amazon.com/
 # --------------------------------------------
-# Last Update - Wed Nov 10 06:01:00 +06 2021
+# Last Update - Wed Nov 10 18:00:55 +06 2021
 # --------------------------------------------
-# Total Prefixes: 4535
+# Total Prefixes: 4547
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2761,18 +2761,30 @@ add address=43.198.0.0/15 list=AMAZON
 add address=43.200.0.0/14 list=AMAZON
 add address=43.204.0.0/15 list=AMAZON
 add address=43.206.0.0/15 list=AMAZON
+add address=43.224.76.16/30 list=AMAZON
+add address=43.224.76.20/30 list=AMAZON
 add address=43.224.76.56/30 list=AMAZON
 add address=43.224.76.60/30 list=AMAZON
 add address=43.224.76.64/30 list=AMAZON
 add address=43.224.76.68/30 list=AMAZON
+add address=43.224.76.88/30 list=AMAZON
+add address=43.224.76.92/30 list=AMAZON
 add address=43.224.77.0/29 list=AMAZON
 add address=43.224.77.8/29 list=AMAZON
+add address=43.224.77.88/30 list=AMAZON
+add address=43.224.77.92/30 list=AMAZON
+add address=43.224.79.124/31 list=AMAZON
+add address=43.224.79.126/31 list=AMAZON
 add address=43.224.79.174/31 list=AMAZON
 add address=43.224.79.176/31 list=AMAZON
+add address=43.224.79.206/31 list=AMAZON
+add address=43.224.79.208/31 list=AMAZON
 add address=43.224.79.220/31 list=AMAZON
 add address=43.224.79.222/31 list=AMAZON
 add address=43.224.79.224/31 list=AMAZON
 add address=43.224.79.226/31 list=AMAZON
+add address=43.224.79.244/31 list=AMAZON
+add address=43.224.79.246/31 list=AMAZON
 add address=43.249.45.0/24 list=AMAZON
 add address=43.249.46.0/24 list=AMAZON
 add address=43.249.47.0/24 list=AMAZON
