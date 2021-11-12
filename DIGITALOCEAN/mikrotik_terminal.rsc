@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: https://digitalocean.com/geo/google.csv
 # --------------------------------------------
-# Last Update - Thu Nov 11 18:01:04 +06 2021
+# Last Update - Fri Nov 12 06:01:46 +06 2021
 # --------------------------------------------
-# Total Prefixes: 1620
+# Total Prefixes: 1624
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -405,6 +405,7 @@ add address=146.185.181.0/24 list=DIGITALOCEAN
 add address=146.185.182.0/24 list=DIGITALOCEAN
 add address=146.185.183.0/24 list=DIGITALOCEAN
 add address=146.185.184.0/21 list=DIGITALOCEAN
+add address=146.190.240.0/20 list=DIGITALOCEAN
 add address=147.182.128.0/20 list=DIGITALOCEAN
 add address=147.182.144.0/20 list=DIGITALOCEAN
 add address=147.182.160.0/20 list=DIGITALOCEAN
@@ -480,6 +481,8 @@ add address=159.223.112.0/20 list=DIGITALOCEAN
 add address=159.223.128.0/20 list=DIGITALOCEAN
 add address=159.223.144.0/20 list=DIGITALOCEAN
 add address=159.223.16.0/20 list=DIGITALOCEAN
+add address=159.223.160.0/19 list=DIGITALOCEAN
+add address=159.223.48.0/20 list=DIGITALOCEAN
 add address=159.223.64.0/20 list=DIGITALOCEAN
 add address=159.223.80.0/20 list=DIGITALOCEAN
 add address=159.223.96.0/20 list=DIGITALOCEAN
@@ -788,6 +791,7 @@ add address=164.90.224.0/20 list=DIGITALOCEAN
 add address=164.90.240.0/22 list=DIGITALOCEAN
 add address=164.90.244.0/22 list=DIGITALOCEAN
 add address=164.90.252.0/22 list=DIGITALOCEAN
+add address=164.92.64.0/19 list=DIGITALOCEAN
 add address=165.22.0.0/20 list=DIGITALOCEAN
 add address=165.22.112.0/20 list=DIGITALOCEAN
 add address=165.22.128.0/20 list=DIGITALOCEAN
