@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Nov 18 06:05:51 +06 2021
+# Last Update - Thu Nov 18 18:05:34 +06 2021
 # --------------------------------------------
-# Total Prefixes: 103
+# Total Prefixes: 104
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -47,7 +47,8 @@ add address=192.173.95.0/24 list=NETFLIX
 add address=192.173.99.0/24 list=NETFLIX
 add address=198.38.108.0/22 list=NETFLIX
 add address=198.38.112.0/23 list=NETFLIX
-add address=198.38.114.0/23 list=NETFLIX
+add address=198.38.114.0/24 list=NETFLIX
+add address=198.38.115.0/24 list=NETFLIX
 add address=198.38.120.0/23 list=NETFLIX
 add address=198.38.96.0/19 list=NETFLIX
 add address=198.38.98.0/23 list=NETFLIX
@@ -72,7 +73,8 @@ add address=23.246.58.0/23 list=NETFLIX
 add address=37.77.184.0/21 list=NETFLIX
 add address=37.77.184.0/24 list=NETFLIX
 add address=37.77.186.0/23 list=NETFLIX
-add address=37.77.188.0/23 list=NETFLIX
+add address=37.77.188.0/24 list=NETFLIX
+add address=37.77.189.0/24 list=NETFLIX
 add address=45.57.0.0/17 list=NETFLIX
 add address=45.57.100.0/24 list=NETFLIX
 add address=45.57.101.0/24 list=NETFLIX
@@ -88,7 +90,6 @@ add address=45.57.58.0/23 list=NETFLIX
 add address=45.57.60.0/24 list=NETFLIX
 add address=45.57.62.0/23 list=NETFLIX
 add address=45.57.64.0/23 list=NETFLIX
-add address=45.57.68.0/24 list=NETFLIX
 add address=45.57.70.0/23 list=NETFLIX
 add address=45.57.74.0/23 list=NETFLIX
 add address=45.57.76.0/23 list=NETFLIX
