@@ -4,7 +4,7 @@
 # Source: https://www.gstatic.com/ipranges/goog.json
 # Source: https://www.gstatic.com/ipranges/cloud.json
 # --------------------------------------------
-# Last Update - Fri Nov 19 06:00:09 +06 2021
+# Last Update - Fri Nov 19 18:00:12 +06 2021
 # --------------------------------------------
 # Total Prefixes: 507
 # --------------------------------------------
