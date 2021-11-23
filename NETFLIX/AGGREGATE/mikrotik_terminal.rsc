@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Nov 23 06:06:22 +06 2021
+# Last Update - Tue Nov 23 18:07:27 +06 2021
 # --------------------------------------------
-# Total Prefixes: 104
+# Total Prefixes: 105
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -63,6 +63,7 @@ add address=23.246.16.0/23 list=NETFLIX
 add address=23.246.2.0/23 list=NETFLIX
 add address=23.246.26.0/23 list=NETFLIX
 add address=23.246.30.0/23 list=NETFLIX
+add address=23.246.36.0/24 list=NETFLIX
 add address=23.246.46.0/23 list=NETFLIX
 add address=23.246.48.0/23 list=NETFLIX
 add address=23.246.50.0/24 list=NETFLIX
