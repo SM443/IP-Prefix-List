@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Fri Nov 26 06:04:12 +06 2021
+# Last Update - Fri Nov 26 18:05:21 +06 2021
 # --------------------------------------------
-# Total Prefixes: 65345
+# Total Prefixes: 65337
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1040,7 +1040,6 @@ add address=101.200.0.0/15 list=ALIBABA
 add address=101.200.0.0/16 list=ALIBABA
 add address=101.201.0.0/16 list=ALIBABA
 add address=101.37.0.0/16 list=ALIBABA
-add address=103.141.120.0/23 list=ALIBABA
 add address=103.142.100.0/23 list=ALIBABA
 add address=103.142.8.0/23 list=ALIBABA
 add address=103.145.72.0/24 list=ALIBABA
@@ -10770,7 +10769,6 @@ add address=198.11.190.0/24 list=ALIBABA
 add address=198.11.191.0/24 list=ALIBABA
 add address=198.44.244.0/22 list=ALIBABA
 add address=202.144.199.0/24 list=ALIBABA
-add address=202.43.225.0/24 list=ALIBABA
 add address=202.61.84.0/22 list=ALIBABA
 add address=203.107.0.0/17 list=ALIBABA
 add address=203.107.0.0/18 list=ALIBABA
@@ -30036,7 +30034,6 @@ add address=47.103.98.0/23 list=ALIBABA
 add address=47.103.98.0/24 list=ALIBABA
 add address=47.103.99.0/24 list=ALIBABA
 add address=47.104.0.0/13 list=ALIBABA
-add address=47.112.0.0/16 list=ALIBABA
 add address=47.112.0.0/17 list=ALIBABA
 add address=47.112.0.0/18 list=ALIBABA
 add address=47.112.0.0/19 list=ALIBABA
@@ -55613,14 +55610,10 @@ add address=47.88.0.0/14 list=ALIBABA
 add address=47.88.0.0/17 list=ALIBABA
 add address=47.89.192.0/18 list=ALIBABA
 add address=47.89.64.0/18 list=ALIBABA
-add address=47.89.75.0/24 list=ALIBABA
 add address=47.89.85.0/24 list=ALIBABA
-add address=47.89.88.0/24 list=ALIBABA
 add address=47.89.92.0/22 list=ALIBABA
 add address=47.89.92.0/23 list=ALIBABA
-add address=47.89.92.0/24 list=ALIBABA
 add address=47.89.94.0/23 list=ALIBABA
-add address=47.89.94.0/24 list=ALIBABA
 add address=47.89.95.0/24 list=ALIBABA
 add address=47.89.99.0/24 list=ALIBABA
 add address=47.91.112.0/20 list=ALIBABA
@@ -55629,7 +55622,6 @@ add address=47.91.96.0/20 list=ALIBABA
 add address=47.92.0.0/14 list=ALIBABA
 add address=47.92.0.0/15 list=ALIBABA
 add address=47.94.0.0/15 list=ALIBABA
-add address=47.96.0.0/15 list=ALIBABA
 add address=47.98.0.0/15 list=ALIBABA
 add address=47.99.0.0/16 list=ALIBABA
 add address=5.181.224.0/23 list=ALIBABA
