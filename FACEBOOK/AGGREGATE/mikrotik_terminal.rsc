@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Nov 30 06:07:31 +06 2021
+# Last Update - Tue Nov 30 18:06:07 +06 2021
 # --------------------------------------------
 # Total Prefixes: 166
 # --------------------------------------------
@@ -19,7 +19,6 @@ add address=102.132.117.0/24 list=FACEBOOK
 add address=102.132.118.0/24 list=FACEBOOK
 add address=102.132.119.0/24 list=FACEBOOK
 add address=102.132.120.0/24 list=FACEBOOK
-add address=102.132.122.0/24 list=FACEBOOK
 add address=102.132.124.0/24 list=FACEBOOK
 add address=102.132.125.0/24 list=FACEBOOK
 add address=102.132.126.0/24 list=FACEBOOK
@@ -58,7 +57,8 @@ add address=129.134.164.0/24 list=FACEBOOK
 add address=129.134.165.0/24 list=FACEBOOK
 add address=129.134.171.0/24 list=FACEBOOK
 add address=129.134.25.0/24 list=FACEBOOK
-add address=129.134.26.0/23 list=FACEBOOK
+add address=129.134.26.0/24 list=FACEBOOK
+add address=129.134.27.0/24 list=FACEBOOK
 add address=129.134.28.0/22 list=FACEBOOK
 add address=129.134.31.0/24 list=FACEBOOK
 add address=129.134.64.0/24 list=FACEBOOK
@@ -142,7 +142,6 @@ add address=185.60.216.0/24 list=FACEBOOK
 add address=185.60.217.0/24 list=FACEBOOK
 add address=185.60.218.0/24 list=FACEBOOK
 add address=185.89.218.0/23 list=FACEBOOK
-add address=185.89.219.0/24 list=FACEBOOK
 add address=199.201.64.0/22 list=FACEBOOK
 add address=204.15.20.0/22 list=FACEBOOK
 add address=31.13.24.0/21 list=FACEBOOK
@@ -174,5 +173,6 @@ add address=31.13.96.0/19 list=FACEBOOK
 add address=45.64.40.0/22 list=FACEBOOK
 add address=66.220.144.0/20 list=FACEBOOK
 add address=69.171.224.0/19 list=FACEBOOK
+add address=69.171.250.0/24 list=FACEBOOK
 add address=69.63.176.0/20 list=FACEBOOK
 add address=74.119.76.0/22 list=FACEBOOK
