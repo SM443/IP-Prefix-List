@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cdn77.com
 # --------------------------------------------
-# Last Update - Fri Dec 10 06:07:15 +06 2021
+# Last Update - Fri Dec 10 18:07:02 +06 2021
 # --------------------------------------------
-# Total Prefixes: 184
+# Total Prefixes: 182
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -59,12 +59,11 @@ add address=156.146.41.0/24 list=CDN77
 add address=156.146.42.0/23 list=CDN77
 add address=156.146.44.0/24 list=CDN77
 add address=156.146.46.0/23 list=CDN77
-add address=156.146.48.0/23 list=CDN77
+add address=156.146.49.0/24 list=CDN77
 add address=156.146.53.0/24 list=CDN77
-add address=156.146.56.0/23 list=CDN77
+add address=156.146.56.0/24 list=CDN77
 add address=156.146.58.0/23 list=CDN77
 add address=156.146.61.0/24 list=CDN77
-add address=156.146.62.0/24 list=CDN77
 add address=156.146.63.0/24 list=CDN77
 add address=159.242.228.0/24 list=CDN77
 add address=159.242.232.0/23 list=CDN77
@@ -120,13 +119,13 @@ add address=195.181.174.0/23 list=CDN77
 add address=212.102.32.0/24 list=CDN77
 add address=212.102.33.0/24 list=CDN77
 add address=212.102.34.0/23 list=CDN77
-add address=212.102.36.0/23 list=CDN77
-add address=212.102.38.0/23 list=CDN77
+add address=212.102.36.0/24 list=CDN77
+add address=212.102.38.0/24 list=CDN77
 add address=212.102.40.0/23 list=CDN77
 add address=212.102.42.0/24 list=CDN77
 add address=212.102.43.0/24 list=CDN77
 add address=212.102.44.0/23 list=CDN77
-add address=212.102.46.0/23 list=CDN77
+add address=212.102.46.0/24 list=CDN77
 add address=212.102.48.0/23 list=CDN77
 add address=212.102.50.0/24 list=CDN77
 add address=212.102.52.0/23 list=CDN77
@@ -157,7 +156,6 @@ add address=84.17.32.0/23 list=CDN77
 add address=84.17.33.0/24 list=CDN77
 add address=84.17.34.0/24 list=CDN77
 add address=84.17.35.0/24 list=CDN77
-add address=84.17.36.0/24 list=CDN77
 add address=84.17.37.0/24 list=CDN77
 add address=84.17.38.0/23 list=CDN77
 add address=84.17.40.0/24 list=CDN77
@@ -167,7 +165,7 @@ add address=84.17.44.0/23 list=CDN77
 add address=84.17.46.0/23 list=CDN77
 add address=84.17.48.0/23 list=CDN77
 add address=84.17.50.0/23 list=CDN77
-add address=84.17.52.0/23 list=CDN77
+add address=84.17.53.0/24 list=CDN77
 add address=84.17.54.0/23 list=CDN77
 add address=84.17.56.0/23 list=CDN77
 add address=84.17.58.0/23 list=CDN77
