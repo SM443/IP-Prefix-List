@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Tue Dec 14 06:00:21 +06 2021
+# Last Update - Tue Dec 14 18:03:25 +06 2021
 # --------------------------------------------
-# Total Prefixes: 50
+# Total Prefixes: 33
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -24,32 +24,15 @@ add address=164.90.118.0/24 list=IMO-PageBites
 add address=164.90.119.0/24 list=IMO-PageBites
 add address=164.90.120.0/24 list=IMO-PageBites
 add address=164.90.121.0/24 list=IMO-PageBites
-add address=164.90.125.0/24 list=IMO-PageBites
-add address=164.90.126.0/24 list=IMO-PageBites
 add address=164.90.99.0/24 list=IMO-PageBites
 add address=169.136.128.0/24 list=IMO-PageBites
 add address=169.136.129.0/24 list=IMO-PageBites
 add address=169.136.130.0/24 list=IMO-PageBites
 add address=169.136.132.0/24 list=IMO-PageBites
-add address=169.136.133.0/24 list=IMO-PageBites
-add address=169.136.137.0/24 list=IMO-PageBites
-add address=169.136.138.0/24 list=IMO-PageBites
-add address=169.136.139.0/24 list=IMO-PageBites
 add address=169.136.140.0/24 list=IMO-PageBites
 add address=169.136.141.0/24 list=IMO-PageBites
-add address=169.136.145.0/24 list=IMO-PageBites
-add address=169.136.147.0/24 list=IMO-PageBites
-add address=169.136.148.0/24 list=IMO-PageBites
-add address=169.136.149.0/24 list=IMO-PageBites
-add address=169.136.150.0/24 list=IMO-PageBites
-add address=169.136.151.0/24 list=IMO-PageBites
-add address=169.136.152.0/24 list=IMO-PageBites
-add address=169.136.153.0/24 list=IMO-PageBites
-add address=169.136.154.0/24 list=IMO-PageBites
 add address=169.136.64.0/24 list=IMO-PageBites
 add address=169.136.65.0/24 list=IMO-PageBites
-add address=169.136.66.0/24 list=IMO-PageBites
-add address=169.136.67.0/24 list=IMO-PageBites
 add address=169.136.68.0/24 list=IMO-PageBites
 add address=169.136.69.0/24 list=IMO-PageBites
 add address=169.136.70.0/24 list=IMO-PageBites
