@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Dec 15 18:06:07 +06 2021
+# Last Update - Thu Dec 16 06:07:32 +06 2021
 # --------------------------------------------
-# Total Prefixes: 7502
+# Total Prefixes: 7504
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1505,8 +1505,7 @@ add address=172.224.107.0/24 list=AKAMAI
 add address=172.224.108.0/24 list=AKAMAI
 add address=172.224.109.0/24 list=AKAMAI
 add address=172.224.11.0/24 list=AKAMAI
-add address=172.224.110.0/24 list=AKAMAI
-add address=172.224.111.0/24 list=AKAMAI
+add address=172.224.110.0/23 list=AKAMAI
 add address=172.224.112.0/24 list=AKAMAI
 add address=172.224.115.0/24 list=AKAMAI
 add address=172.224.116.0/24 list=AKAMAI
@@ -1742,7 +1741,8 @@ add address=172.226.12.0/23 list=AKAMAI
 add address=172.226.14.0/24 list=AKAMAI
 add address=172.226.18.0/23 list=AKAMAI
 add address=172.226.2.0/23 list=AKAMAI
-add address=172.226.20.0/22 list=AKAMAI
+add address=172.226.20.0/23 list=AKAMAI
+add address=172.226.22.0/23 list=AKAMAI
 add address=172.226.24.0/24 list=AKAMAI
 add address=172.226.26.0/24 list=AKAMAI
 add address=172.226.28.0/24 list=AKAMAI
@@ -2065,6 +2065,7 @@ add address=184.27.206.0/24 list=AKAMAI
 add address=184.27.208.0/23 list=AKAMAI
 add address=184.27.214.0/24 list=AKAMAI
 add address=184.27.215.0/24 list=AKAMAI
+add address=184.27.216.0/24 list=AKAMAI
 add address=184.27.217.0/24 list=AKAMAI
 add address=184.27.218.0/23 list=AKAMAI
 add address=184.27.22.0/23 list=AKAMAI
@@ -3549,7 +3550,8 @@ add address=23.197.240.0/22 list=AKAMAI
 add address=23.197.244.0/22 list=AKAMAI
 add address=23.197.252.0/22 list=AKAMAI
 add address=23.197.28.0/23 list=AKAMAI
-add address=23.197.30.0/23 list=AKAMAI
+add address=23.197.30.0/24 list=AKAMAI
+add address=23.197.31.0/24 list=AKAMAI
 add address=23.197.32.0/20 list=AKAMAI
 add address=23.197.48.0/24 list=AKAMAI
 add address=23.197.49.0/24 list=AKAMAI
