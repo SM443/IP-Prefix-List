@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Dec 16 18:04:22 +06 2021
+# Last Update - Fri Dec 17 06:06:07 +06 2021
 # --------------------------------------------
-# Total Prefixes: 718
+# Total Prefixes: 723
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -602,6 +602,7 @@ add address=43.128.128.0/24 list=PUBG-TENCENT
 add address=43.128.160.0/19 list=PUBG-TENCENT
 add address=43.128.160.0/23 list=PUBG-TENCENT
 add address=43.128.192.0/19 list=PUBG-TENCENT
+add address=43.128.222.0/23 list=PUBG-TENCENT
 add address=43.128.224.0/19 list=PUBG-TENCENT
 add address=43.128.241.0/24 list=PUBG-TENCENT
 add address=43.128.52.0/24 list=PUBG-TENCENT
@@ -625,7 +626,9 @@ add address=43.131.10.0/23 list=PUBG-TENCENT
 add address=43.131.192.0/19 list=PUBG-TENCENT
 add address=43.131.20.0/24 list=PUBG-TENCENT
 add address=43.131.224.0/19 list=PUBG-TENCENT
+add address=43.131.238.0/23 list=PUBG-TENCENT
 add address=43.131.64.0/18 list=PUBG-TENCENT
+add address=43.131.76.0/23 list=PUBG-TENCENT
 add address=43.132.0.0/22 list=PUBG-TENCENT
 add address=43.132.105.0/24 list=PUBG-TENCENT
 add address=43.132.128.0/17 list=PUBG-TENCENT
@@ -661,6 +664,7 @@ add address=43.135.192.0/19 list=PUBG-TENCENT
 add address=43.135.221.0/24 list=PUBG-TENCENT
 add address=43.152.192.0/19 list=PUBG-TENCENT
 add address=43.152.224.0/19 list=PUBG-TENCENT
+add address=43.152.94.0/23 list=PUBG-TENCENT
 add address=43.153.0.0/17 list=PUBG-TENCENT
 add address=43.153.128.0/17 list=PUBG-TENCENT
 add address=43.154.0.0/16 list=PUBG-TENCENT
@@ -670,6 +674,7 @@ add address=43.156.0.0/16 list=PUBG-TENCENT
 add address=43.157.0.0/17 list=PUBG-TENCENT
 add address=43.157.128.0/18 list=PUBG-TENCENT
 add address=43.157.192.0/18 list=PUBG-TENCENT
+add address=43.157.214.0/23 list=PUBG-TENCENT
 add address=43.242.252.0/22 list=PUBG-TENCENT
 add address=43.247.196.0/22 list=PUBG-TENCENT
 add address=45.113.68.0/22 list=PUBG-TENCENT
