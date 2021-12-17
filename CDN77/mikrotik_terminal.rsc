@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cdn77.com
 # --------------------------------------------
-# Last Update - Fri Dec 17 06:05:43 +06 2021
+# Last Update - Fri Dec 17 18:06:15 +06 2021
 # --------------------------------------------
 # Total Prefixes: 178
 # --------------------------------------------
@@ -51,11 +51,10 @@ add address=156.146.32.0/24 list=CDN77
 add address=156.146.33.0/24 list=CDN77
 add address=156.146.34.0/23 list=CDN77
 add address=156.146.36.0/24 list=CDN77
-add address=156.146.38.0/23 list=CDN77
+add address=156.146.38.0/24 list=CDN77
 add address=156.146.40.0/24 list=CDN77
 add address=156.146.42.0/23 list=CDN77
 add address=156.146.44.0/24 list=CDN77
-add address=156.146.46.0/23 list=CDN77
 add address=156.146.49.0/24 list=CDN77
 add address=156.146.53.0/24 list=CDN77
 add address=156.146.56.0/24 list=CDN77
@@ -82,6 +81,7 @@ add address=185.229.188.0/23 list=CDN77
 add address=185.229.190.0/23 list=CDN77
 add address=185.238.216.0/24 list=CDN77
 add address=185.24.10.0/24 list=CDN77
+add address=185.24.11.0/24 list=CDN77
 add address=185.24.8.0/24 list=CDN77
 add address=185.24.9.0/24 list=CDN77
 add address=185.246.208.0/24 list=CDN77
@@ -114,7 +114,7 @@ add address=195.181.172.0/23 list=CDN77
 add address=195.181.174.0/23 list=CDN77
 add address=212.102.32.0/24 list=CDN77
 add address=212.102.33.0/24 list=CDN77
-add address=212.102.34.0/23 list=CDN77
+add address=212.102.34.0/24 list=CDN77
 add address=212.102.36.0/24 list=CDN77
 add address=212.102.38.0/24 list=CDN77
 add address=212.102.40.0/23 list=CDN77

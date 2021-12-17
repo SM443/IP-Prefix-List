@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Fri Dec 17 06:00:12 +06 2021
+# Last Update - Fri Dec 17 18:00:13 +06 2021
 # --------------------------------------------
-# Total Prefixes: 391
+# Total Prefixes: 413
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -388,6 +388,28 @@ add address=43.142.0.0/16 list=PUBG-TENCENT
 add address=43.143.0.0/16 list=PUBG-TENCENT
 add address=43.144.0.0/16 list=PUBG-TENCENT
 add address=43.145.0.0/16 list=PUBG-TENCENT
+add address=43.152.192.0/19 list=PUBG-TENCENT
+add address=43.152.224.0/19 list=PUBG-TENCENT
+add address=43.153.0.0/18 list=PUBG-TENCENT
+add address=43.153.128.0/18 list=PUBG-TENCENT
+add address=43.153.192.0/18 list=PUBG-TENCENT
+add address=43.153.64.0/18 list=PUBG-TENCENT
+add address=43.154.0.0/18 list=PUBG-TENCENT
+add address=43.154.128.0/18 list=PUBG-TENCENT
+add address=43.154.192.0/18 list=PUBG-TENCENT
+add address=43.154.64.0/18 list=PUBG-TENCENT
+add address=43.155.0.0/18 list=PUBG-TENCENT
+add address=43.155.128.0/18 list=PUBG-TENCENT
+add address=43.155.192.0/18 list=PUBG-TENCENT
+add address=43.155.64.0/18 list=PUBG-TENCENT
+add address=43.156.0.0/18 list=PUBG-TENCENT
+add address=43.156.128.0/18 list=PUBG-TENCENT
+add address=43.156.192.0/18 list=PUBG-TENCENT
+add address=43.156.64.0/18 list=PUBG-TENCENT
+add address=43.157.0.0/18 list=PUBG-TENCENT
+add address=43.157.128.0/18 list=PUBG-TENCENT
+add address=43.157.192.0/18 list=PUBG-TENCENT
+add address=43.157.64.0/18 list=PUBG-TENCENT
 add address=43.242.252.0/22 list=PUBG-TENCENT
 add address=43.247.196.0/22 list=PUBG-TENCENT
 add address=45.40.192.0/18 list=PUBG-TENCENT
