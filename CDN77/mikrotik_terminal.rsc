@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cdn77.com
 # --------------------------------------------
-# Last Update - Tue Dec 21 06:03:52 +06 2021
+# Last Update - Tue Dec 21 18:06:55 +06 2021
 # --------------------------------------------
-# Total Prefixes: 178
+# Total Prefixes: 176
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -16,7 +16,6 @@ add address=138.199.1.0/24 list=CDN77
 add address=138.199.12.0/24 list=CDN77
 add address=138.199.14.0/23 list=CDN77
 add address=138.199.17.0/24 list=CDN77
-add address=138.199.18.0/23 list=CDN77
 add address=138.199.2.0/23 list=CDN77
 add address=138.199.20.0/24 list=CDN77
 add address=138.199.22.0/23 list=CDN77
@@ -41,7 +40,6 @@ add address=143.244.42.0/24 list=CDN77
 add address=143.244.43.0/24 list=CDN77
 add address=143.244.45.0/24 list=CDN77
 add address=143.244.48.0/22 list=CDN77
-add address=143.244.52.0/22 list=CDN77
 add address=143.244.56.0/23 list=CDN77
 add address=143.244.58.0/23 list=CDN77
 add address=143.244.60.0/23 list=CDN77
@@ -159,7 +157,6 @@ add address=84.17.41.0/24 list=CDN77
 add address=84.17.42.0/24 list=CDN77
 add address=84.17.44.0/23 list=CDN77
 add address=84.17.46.0/23 list=CDN77
-add address=84.17.48.0/23 list=CDN77
 add address=84.17.50.0/23 list=CDN77
 add address=84.17.53.0/24 list=CDN77
 add address=84.17.54.0/23 list=CDN77
@@ -169,6 +166,7 @@ add address=84.17.60.0/24 list=CDN77
 add address=84.17.61.0/24 list=CDN77
 add address=84.17.62.0/24 list=CDN77
 add address=84.17.63.0/24 list=CDN77
+add address=87.249.128.0/24 list=CDN77
 add address=87.249.129.0/24 list=CDN77
 add address=87.249.130.0/24 list=CDN77
 add address=87.249.136.0/24 list=CDN77
