@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Dec 23 18:06:13 +06 2021
+# Last Update - Fri Dec 24 06:07:30 +06 2021
 # --------------------------------------------
-# Total Prefixes: 7488
+# Total Prefixes: 7495
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -767,7 +767,8 @@ add address=104.76.32.0/19 list=AKAMAI
 add address=104.76.64.0/19 list=AKAMAI
 add address=104.76.96.0/23 list=AKAMAI
 add address=104.77.1.0/24 list=AKAMAI
-add address=104.77.100.0/23 list=AKAMAI
+add address=104.77.100.0/24 list=AKAMAI
+add address=104.77.101.0/24 list=AKAMAI
 add address=104.77.102.0/24 list=AKAMAI
 add address=104.77.103.0/24 list=AKAMAI
 add address=104.77.105.0/24 list=AKAMAI
@@ -2480,12 +2481,12 @@ add address=184.87.64.0/19 list=AKAMAI
 add address=185.225.250.0/24 list=AKAMAI
 add address=185.225.251.0/24 list=AKAMAI
 add address=186.211.197.0/24 list=AKAMAI
-add address=187.141.186.0/23 list=AKAMAI
+add address=187.141.187.0/24 list=AKAMAI
 add address=187.141.188.0/23 list=AKAMAI
 add address=187.210.208.0/22 list=AKAMAI
-add address=189.247.192.0/22 list=AKAMAI
-add address=189.247.196.0/23 list=AKAMAI
-add address=189.247.199.0/24 list=AKAMAI
+add address=189.247.192.0/23 list=AKAMAI
+add address=189.247.194.0/24 list=AKAMAI
+add address=189.247.197.0/24 list=AKAMAI
 add address=189.247.204.0/22 list=AKAMAI
 add address=189.247.209.0/24 list=AKAMAI
 add address=189.247.210.0/23 list=AKAMAI
@@ -4798,6 +4799,7 @@ add address=23.32.12.0/23 list=AKAMAI
 add address=23.32.128.0/20 list=AKAMAI
 add address=23.32.14.0/24 list=AKAMAI
 add address=23.32.144.0/22 list=AKAMAI
+add address=23.32.148.0/22 list=AKAMAI
 add address=23.32.152.0/23 list=AKAMAI
 add address=23.32.155.0/24 list=AKAMAI
 add address=23.32.156.0/22 list=AKAMAI
@@ -5417,6 +5419,8 @@ add address=23.45.88.0/24 list=AKAMAI
 add address=23.45.89.0/24 list=AKAMAI
 add address=23.45.90.0/24 list=AKAMAI
 add address=23.45.91.0/24 list=AKAMAI
+add address=23.45.92.0/23 list=AKAMAI
+add address=23.45.94.0/24 list=AKAMAI
 add address=23.45.96.0/20 list=AKAMAI
 add address=23.46.0.0/23 list=AKAMAI
 add address=23.46.10.0/23 list=AKAMAI
@@ -6027,6 +6031,7 @@ add address=23.59.172.0/23 list=AKAMAI
 add address=23.59.176.0/23 list=AKAMAI
 add address=23.59.178.0/24 list=AKAMAI
 add address=23.59.179.0/24 list=AKAMAI
+add address=23.59.181.0/24 list=AKAMAI
 add address=23.59.182.0/24 list=AKAMAI
 add address=23.59.183.0/24 list=AKAMAI
 add address=23.59.184.0/22 list=AKAMAI
@@ -6188,6 +6193,7 @@ add address=23.62.40.0/22 list=AKAMAI
 add address=23.62.45.0/24 list=AKAMAI
 add address=23.62.46.0/24 list=AKAMAI
 add address=23.62.47.0/24 list=AKAMAI
+add address=23.62.48.0/24 list=AKAMAI
 add address=23.62.5.0/24 list=AKAMAI
 add address=23.62.50.0/24 list=AKAMAI
 add address=23.62.51.0/24 list=AKAMAI
@@ -6995,6 +7001,7 @@ add address=88.221.90.0/24 list=AKAMAI
 add address=88.221.91.0/24 list=AKAMAI
 add address=88.221.94.0/23 list=AKAMAI
 add address=88.221.96.0/22 list=AKAMAI
+add address=89.147.32.0/23 list=AKAMAI
 add address=91.229.32.0/23 list=AKAMAI
 add address=92.122.0.0/15 list=AKAMAI
 add address=92.122.0.0/21 list=AKAMAI
