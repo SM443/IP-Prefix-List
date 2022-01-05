@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Wed Jan  5 06:03:59 +06 2022
+# Last Update - Wed Jan  5 18:06:40 +06 2022
 # --------------------------------------------
-# Total Prefixes: 172
+# Total Prefixes: 170
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -49,7 +49,6 @@ add address=129.134.148.0/24 list=FACEBOOK
 add address=129.134.149.0/24 list=FACEBOOK
 add address=129.134.150.0/24 list=FACEBOOK
 add address=129.134.154.0/24 list=FACEBOOK
-add address=129.134.155.0/24 list=FACEBOOK
 add address=129.134.156.0/24 list=FACEBOOK
 add address=129.134.157.0/24 list=FACEBOOK
 add address=129.134.158.0/24 list=FACEBOOK
@@ -58,8 +57,7 @@ add address=129.134.163.0/24 list=FACEBOOK
 add address=129.134.164.0/24 list=FACEBOOK
 add address=129.134.171.0/24 list=FACEBOOK
 add address=129.134.25.0/24 list=FACEBOOK
-add address=129.134.26.0/24 list=FACEBOOK
-add address=129.134.27.0/24 list=FACEBOOK
+add address=129.134.26.0/23 list=FACEBOOK
 add address=129.134.28.0/22 list=FACEBOOK
 add address=129.134.31.0/24 list=FACEBOOK
 add address=129.134.64.0/24 list=FACEBOOK
