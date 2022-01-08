@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Jan  7 18:07:20 +06 2022
+# Last Update - Sat Jan  8 06:05:21 +06 2022
 # --------------------------------------------
 # Total Prefixes: 101
 # --------------------------------------------
@@ -30,7 +30,7 @@ add address=192.173.64.0/18 list=NETFLIX
 add address=192.173.65.0/24 list=NETFLIX
 add address=192.173.67.0/24 list=NETFLIX
 add address=192.173.68.0/24 list=NETFLIX
-add address=192.173.73.0/24 list=NETFLIX
+add address=192.173.72.0/23 list=NETFLIX
 add address=192.173.74.0/23 list=NETFLIX
 add address=192.173.76.0/24 list=NETFLIX
 add address=192.173.78.0/23 list=NETFLIX
