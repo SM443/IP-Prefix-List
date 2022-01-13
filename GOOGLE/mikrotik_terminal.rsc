@@ -4,9 +4,9 @@
 # Source: https://www.gstatic.com/ipranges/goog.json
 # Source: https://www.gstatic.com/ipranges/cloud.json
 # --------------------------------------------
-# Last Update - Wed Jan 12 18:00:24 +06 2022
+# Last Update - Thu Jan 13 06:00:09 +06 2022
 # --------------------------------------------
-# Total Prefixes: 513
+# Total Prefixes: 512
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -164,7 +164,6 @@ add address=34.107.0.0/17 list=GOOGLE
 add address=34.107.128.0/17 list=GOOGLE
 add address=34.108.0.0/16 list=GOOGLE
 add address=34.110.128.0/17 list=GOOGLE
-add address=34.110.8.0/24 list=GOOGLE
 add address=34.111.0.0/16 list=GOOGLE
 add address=34.116.0.0/21 list=GOOGLE
 add address=34.116.128.0/17 list=GOOGLE
