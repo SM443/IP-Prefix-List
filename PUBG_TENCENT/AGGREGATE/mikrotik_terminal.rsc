@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Fri Jan 14 06:03:43 +06 2022
+# Last Update - Fri Jan 14 18:08:20 +06 2022
 # --------------------------------------------
-# Total Prefixes: 744
+# Total Prefixes: 743
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -695,7 +695,6 @@ add address=43.156.0.0/16 list=PUBG-TENCENT
 add address=43.157.0.0/17 list=PUBG-TENCENT
 add address=43.157.128.0/18 list=PUBG-TENCENT
 add address=43.157.192.0/18 list=PUBG-TENCENT
-add address=43.157.214.0/23 list=PUBG-TENCENT
 add address=43.242.252.0/22 list=PUBG-TENCENT
 add address=43.247.196.0/22 list=PUBG-TENCENT
 add address=45.113.68.0/22 list=PUBG-TENCENT
