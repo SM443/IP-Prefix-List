@@ -3,13 +3,13 @@
 # --------------------------------------------
 # Source: https://geoip.linode.com/
 # --------------------------------------------
-# Last Update - Fri Jan 21 06:01:19 +06 2022
+# Last Update - Fri Jan 21 18:01:52 +06 2022
 # --------------------------------------------
 # Total Prefixes: 2164
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
-# Last modified: 2022-01-20 10:00:03.925222
+# Last modified: 2022-01-21 10:00:05.200625
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
 # prefix
 103.29.68.0/24
