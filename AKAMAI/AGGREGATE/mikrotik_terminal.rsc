@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sat Jan 22 06:05:44 +06 2022
+# Last Update - Sat Jan 22 18:06:49 +06 2022
 # --------------------------------------------
-# Total Prefixes: 7498
+# Total Prefixes: 7497
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1757,12 +1757,11 @@ add address=172.226.52.0/24 list=AKAMAI
 add address=172.226.54.0/24 list=AKAMAI
 add address=172.226.56.0/24 list=AKAMAI
 add address=172.226.58.0/24 list=AKAMAI
-add address=172.226.6.0/24 list=AKAMAI
+add address=172.226.6.0/23 list=AKAMAI
 add address=172.226.62.0/24 list=AKAMAI
 add address=172.226.64.0/24 list=AKAMAI
 add address=172.226.66.0/23 list=AKAMAI
 add address=172.226.68.0/23 list=AKAMAI
-add address=172.226.7.0/24 list=AKAMAI
 add address=172.226.70.0/24 list=AKAMAI
 add address=172.226.72.0/23 list=AKAMAI
 add address=172.226.74.0/24 list=AKAMAI
@@ -2485,7 +2484,6 @@ add address=189.247.162.0/24 list=AKAMAI
 add address=189.247.164.0/24 list=AKAMAI
 add address=189.247.192.0/22 list=AKAMAI
 add address=189.247.196.0/24 list=AKAMAI
-add address=189.247.197.0/24 list=AKAMAI
 add address=189.247.199.0/24 list=AKAMAI
 add address=189.247.204.0/22 list=AKAMAI
 add address=189.247.209.0/24 list=AKAMAI
@@ -7014,6 +7012,7 @@ add address=88.221.90.0/24 list=AKAMAI
 add address=88.221.91.0/24 list=AKAMAI
 add address=88.221.94.0/23 list=AKAMAI
 add address=88.221.96.0/22 list=AKAMAI
+add address=89.147.32.0/23 list=AKAMAI
 add address=91.229.32.0/23 list=AKAMAI
 add address=92.122.0.0/15 list=AKAMAI
 add address=92.122.0.0/21 list=AKAMAI
