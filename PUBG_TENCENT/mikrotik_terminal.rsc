@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Tue Jan 25 18:00:13 +06 2022
+# Last Update - Wed Jan 26 06:00:14 +06 2022
 # --------------------------------------------
-# Total Prefixes: 181
+# Total Prefixes: 187
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -177,6 +177,12 @@ add address=43.157.128.0/18 list=PUBG-TENCENT
 add address=43.157.192.0/18 list=PUBG-TENCENT
 add address=43.157.64.0/18 list=PUBG-TENCENT
 add address=43.158.0.0/16 list=PUBG-TENCENT
+add address=43.158.0.0/17 list=PUBG-TENCENT
+add address=43.158.0.0/18 list=PUBG-TENCENT
+add address=43.158.128.0/17 list=PUBG-TENCENT
+add address=43.158.128.0/18 list=PUBG-TENCENT
+add address=43.158.192.0/18 list=PUBG-TENCENT
+add address=43.158.64.0/18 list=PUBG-TENCENT
 add address=43.159.0.0/16 list=PUBG-TENCENT
 add address=43.242.252.0/22 list=PUBG-TENCENT
 add address=43.247.196.0/22 list=PUBG-TENCENT
