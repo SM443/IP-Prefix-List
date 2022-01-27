@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Wed Jan 26 18:01:08 +06 2022
+# Last Update - Thu Jan 27 06:01:24 +06 2022
 # --------------------------------------------
 # Total Prefixes: 11389
 # --------------------------------------------
@@ -2171,8 +2171,10 @@ add address=172.224.123.0/24 list=AKAMAI
 add address=172.224.124.0/24 list=AKAMAI
 add address=172.224.125.0/24 list=AKAMAI
 add address=172.224.126.0/24 list=AKAMAI
+add address=172.224.127.0/24 list=AKAMAI
 add address=172.224.13.0/24 list=AKAMAI
 add address=172.224.14.0/24 list=AKAMAI
+add address=172.224.15.0/24 list=AKAMAI
 add address=172.224.16.0/24 list=AKAMAI
 add address=172.224.17.0/24 list=AKAMAI
 add address=172.224.18.0/24 list=AKAMAI
@@ -2263,6 +2265,7 @@ add address=172.224.76.0/24 list=AKAMAI
 add address=172.224.77.0/24 list=AKAMAI
 add address=172.224.78.0/24 list=AKAMAI
 add address=172.224.79.0/24 list=AKAMAI
+add address=172.224.8.0/24 list=AKAMAI
 add address=172.224.80.0/24 list=AKAMAI
 add address=172.224.81.0/24 list=AKAMAI
 add address=172.224.82.0/24 list=AKAMAI
@@ -4190,7 +4193,6 @@ add address=2.18.66.0/24 list=AKAMAI
 add address=2.18.67.0/24 list=AKAMAI
 add address=2.18.68.0/22 list=AKAMAI
 add address=2.18.72.0/22 list=AKAMAI
-add address=2.18.76.0/22 list=AKAMAI
 add address=2.18.8.0/24 list=AKAMAI
 add address=2.18.80.0/22 list=AKAMAI
 add address=2.18.84.0/22 list=AKAMAI
@@ -4382,7 +4384,6 @@ add address=2.21.174.0/24 list=AKAMAI
 add address=2.21.175.0/24 list=AKAMAI
 add address=2.21.176.0/22 list=AKAMAI
 add address=2.21.180.0/22 list=AKAMAI
-add address=2.21.184.0/22 list=AKAMAI
 add address=2.21.188.0/22 list=AKAMAI
 add address=2.21.192.0/20 list=AKAMAI
 add address=2.21.2.0/23 list=AKAMAI
@@ -10676,7 +10677,6 @@ add address=88.221.57.0/24 list=AKAMAI
 add address=88.221.58.0/23 list=AKAMAI
 add address=88.221.60.0/22 list=AKAMAI
 add address=88.221.68.0/22 list=AKAMAI
-add address=88.221.72.0/22 list=AKAMAI
 add address=88.221.76.0/22 list=AKAMAI
 add address=88.221.8.0/22 list=AKAMAI
 add address=88.221.80.0/24 list=AKAMAI
