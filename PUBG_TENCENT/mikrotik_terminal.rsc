@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Whois Server: whois.apnic.net
 # --------------------------------------------
-# Last Update - Fri Jan 28 06:00:14 +06 2022
+# Last Update - Fri Jan 28 18:00:12 +06 2022
 # --------------------------------------------
-# Total Prefixes: 190
+# Total Prefixes: 221
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -115,26 +115,55 @@ add address=42.192.0.0/15 list=PUBG-TENCENT
 add address=42.194.128.0/17 list=PUBG-TENCENT
 add address=43.128.0.0/15 list=PUBG-TENCENT
 add address=43.128.0.0/18 list=PUBG-TENCENT
+add address=43.128.128.0/19 list=PUBG-TENCENT
+add address=43.128.160.0/19 list=PUBG-TENCENT
+add address=43.128.192.0/19 list=PUBG-TENCENT
 add address=43.128.222.0/23 list=PUBG-TENCENT
 add address=43.128.224.0/19 list=PUBG-TENCENT
+add address=43.128.64.0/18 list=PUBG-TENCENT
+add address=43.129.0.0/19 list=PUBG-TENCENT
 add address=43.129.128.0/18 list=PUBG-TENCENT
 add address=43.129.192.0/18 list=PUBG-TENCENT
+add address=43.129.32.0/19 list=PUBG-TENCENT
+add address=43.129.64.0/18 list=PUBG-TENCENT
 add address=43.130.0.0/16 list=PUBG-TENCENT
+add address=43.130.0.0/17 list=PUBG-TENCENT
+add address=43.130.128.0/18 list=PUBG-TENCENT
 add address=43.130.19.0/24 list=PUBG-TENCENT
+add address=43.130.192.0/19 list=PUBG-TENCENT
 add address=43.130.20.0/24 list=PUBG-TENCENT
 add address=43.130.224.0/19 list=PUBG-TENCENT
 add address=43.131.0.0/16 list=PUBG-TENCENT
 add address=43.131.0.0/18 list=PUBG-TENCENT
+add address=43.131.128.0/18 list=PUBG-TENCENT
 add address=43.131.192.0/19 list=PUBG-TENCENT
+add address=43.131.224.0/19 list=PUBG-TENCENT
 add address=43.131.64.0/18 list=PUBG-TENCENT
 add address=43.132.0.0/16 list=PUBG-TENCENT
 add address=43.132.0.0/23 list=PUBG-TENCENT
+add address=43.132.128.0/17 list=PUBG-TENCENT
 add address=43.132.2.0/23 list=PUBG-TENCENT
+add address=43.132.96.0/19 list=PUBG-TENCENT
 add address=43.133.0.0/16 list=PUBG-TENCENT
+add address=43.133.0.0/19 list=PUBG-TENCENT
+add address=43.133.128.0/19 list=PUBG-TENCENT
 add address=43.133.160.0/19 list=PUBG-TENCENT
 add address=43.133.192.0/19 list=PUBG-TENCENT
+add address=43.133.224.0/19 list=PUBG-TENCENT
+add address=43.133.32.0/19 list=PUBG-TENCENT
+add address=43.133.64.0/19 list=PUBG-TENCENT
+add address=43.133.96.0/19 list=PUBG-TENCENT
 add address=43.134.0.0/16 list=PUBG-TENCENT
+add address=43.134.0.0/17 list=PUBG-TENCENT
+add address=43.134.128.0/18 list=PUBG-TENCENT
+add address=43.134.192.0/19 list=PUBG-TENCENT
+add address=43.134.224.0/19 list=PUBG-TENCENT
 add address=43.135.0.0/16 list=PUBG-TENCENT
+add address=43.135.0.0/17 list=PUBG-TENCENT
+add address=43.135.0.0/18 list=PUBG-TENCENT
+add address=43.135.128.0/18 list=PUBG-TENCENT
+add address=43.135.192.0/19 list=PUBG-TENCENT
+add address=43.135.64.0/18 list=PUBG-TENCENT
 add address=43.136.0.0/16 list=PUBG-TENCENT
 add address=43.136.0.0/18 list=PUBG-TENCENT
 add address=43.136.64.0/18 list=PUBG-TENCENT
@@ -164,7 +193,9 @@ add address=43.154.0.0/18 list=PUBG-TENCENT
 add address=43.154.128.0/18 list=PUBG-TENCENT
 add address=43.154.192.0/18 list=PUBG-TENCENT
 add address=43.154.64.0/18 list=PUBG-TENCENT
+add address=43.155.0.0/17 list=PUBG-TENCENT
 add address=43.155.0.0/18 list=PUBG-TENCENT
+add address=43.155.128.0/17 list=PUBG-TENCENT
 add address=43.155.128.0/18 list=PUBG-TENCENT
 add address=43.155.192.0/18 list=PUBG-TENCENT
 add address=43.155.64.0/18 list=PUBG-TENCENT
