@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Sat Jan 29 06:03:41 +06 2022
+# Last Update - Sat Jan 29 18:04:20 +06 2022
 # --------------------------------------------
 # Total Prefixes: 27
 # --------------------------------------------
@@ -29,7 +29,7 @@ add address=202.181.67.0/24 list=FreeFire-Garena
 add address=202.181.69.0/24 list=FreeFire-Garena
 add address=202.181.70.0/24 list=FreeFire-Garena
 add address=202.181.72.0/22 list=FreeFire-Garena
-add address=202.181.80.0/21 list=FreeFire-Garena
+add address=202.181.80.0/23 list=FreeFire-Garena
 add address=202.81.100.0/22 list=FreeFire-Garena
 add address=202.81.104.0/23 list=FreeFire-Garena
 add address=202.81.104.0/24 list=FreeFire-Garena
