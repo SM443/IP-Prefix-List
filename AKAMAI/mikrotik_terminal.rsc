@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Fri Feb  4 18:02:32 +06 2022
+# Last Update - Sat Feb  5 06:02:09 +06 2022
 # --------------------------------------------
-# Total Prefixes: 11405
+# Total Prefixes: 11406
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4061,6 +4061,7 @@ add address=2.17.132.0/22 list=AKAMAI
 add address=2.17.136.0/22 list=AKAMAI
 add address=2.17.14.0/24 list=AKAMAI
 add address=2.17.140.0/22 list=AKAMAI
+add address=2.17.147.0/24 list=AKAMAI
 add address=2.17.148.0/22 list=AKAMAI
 add address=2.17.15.0/24 list=AKAMAI
 add address=2.17.152.0/22 list=AKAMAI
