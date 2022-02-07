@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Sun Feb  6 18:04:03 +06 2022
+# Last Update - Mon Feb  7 06:04:46 +06 2022
 # --------------------------------------------
-# Total Prefixes: 89782
+# Total Prefixes: 89779
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -44196,16 +44196,13 @@ add address=47.78.97.0/24 list=ALIBABA
 add address=47.78.98.0/23 list=ALIBABA
 add address=47.78.98.0/24 list=ALIBABA
 add address=47.78.99.0/24 list=ALIBABA
-add address=47.79.0.0/16 list=ALIBABA
 add address=47.79.0.0/17 list=ALIBABA
 add address=47.79.0.0/18 list=ALIBABA
-add address=47.79.0.0/19 list=ALIBABA
 add address=47.79.0.0/20 list=ALIBABA
 add address=47.79.0.0/21 list=ALIBABA
 add address=47.79.0.0/22 list=ALIBABA
 add address=47.79.0.0/23 list=ALIBABA
 add address=47.79.0.0/24 list=ALIBABA
-add address=47.79.1.0/24 list=ALIBABA
 add address=47.79.10.0/23 list=ALIBABA
 add address=47.79.10.0/24 list=ALIBABA
 add address=47.79.100.0/22 list=ALIBABA
