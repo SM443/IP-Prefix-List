@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Feb 14 18:05:41 +06 2022
+# Last Update - Tue Feb 15 06:03:43 +06 2022
 # --------------------------------------------
-# Total Prefixes: 175
+# Total Prefixes: 173
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -29,10 +29,8 @@ add address=102.221.189.0/24 list=FACEBOOK
 add address=102.221.191.0/24 list=FACEBOOK
 add address=103.4.96.0/22 list=FACEBOOK
 add address=129.134.0.0/17 list=FACEBOOK
-add address=129.134.112.0/24 list=FACEBOOK
 add address=129.134.113.0/24 list=FACEBOOK
 add address=129.134.114.0/24 list=FACEBOOK
-add address=129.134.115.0/24 list=FACEBOOK
 add address=129.134.128.0/24 list=FACEBOOK
 add address=129.134.130.0/24 list=FACEBOOK
 add address=129.134.131.0/24 list=FACEBOOK
@@ -66,12 +64,12 @@ add address=129.134.28.0/22 list=FACEBOOK
 add address=129.134.31.0/24 list=FACEBOOK
 add address=129.134.64.0/24 list=FACEBOOK
 add address=129.134.65.0/24 list=FACEBOOK
-add address=129.134.66.0/23 list=FACEBOOK
-add address=129.134.68.0/22 list=FACEBOOK
+add address=129.134.66.0/24 list=FACEBOOK
+add address=129.134.67.0/24 list=FACEBOOK
+add address=129.134.68.0/24 list=FACEBOOK
+add address=129.134.71.0/24 list=FACEBOOK
 add address=129.134.72.0/23 list=FACEBOOK
 add address=129.134.74.0/24 list=FACEBOOK
-add address=129.134.75.0/24 list=FACEBOOK
-add address=129.134.76.0/24 list=FACEBOOK
 add address=129.134.79.0/24 list=FACEBOOK
 add address=157.240.0.0/17 list=FACEBOOK
 add address=157.240.11.0/24 list=FACEBOOK

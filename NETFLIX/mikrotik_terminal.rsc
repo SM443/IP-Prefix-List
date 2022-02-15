@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Feb 14 18:02:43 +06 2022
+# Last Update - Tue Feb 15 06:01:37 +06 2022
 # --------------------------------------------
-# Total Prefixes: 88
+# Total Prefixes: 87
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -57,7 +57,6 @@ add address=23.246.30.0/24 list=NETFLIX
 add address=23.246.31.0/24 list=NETFLIX
 add address=23.246.50.0/24 list=NETFLIX
 add address=23.246.51.0/24 list=NETFLIX
-add address=23.246.52.0/24 list=NETFLIX
 add address=23.246.55.0/24 list=NETFLIX
 add address=37.77.184.0/21 list=NETFLIX
 add address=37.77.184.0/23 list=NETFLIX
