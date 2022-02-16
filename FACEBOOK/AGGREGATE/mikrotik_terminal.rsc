@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Tue Feb 15 18:04:22 +06 2022
+# Last Update - Wed Feb 16 06:04:12 +06 2022
 # --------------------------------------------
 # Total Prefixes: 162
 # --------------------------------------------
@@ -12,6 +12,7 @@
 /ip firewall address-list
 add address=102.132.112.0/24 list=FACEBOOK
 add address=102.132.113.0/24 list=FACEBOOK
+add address=102.132.114.0/24 list=FACEBOOK
 add address=102.132.115.0/24 list=FACEBOOK
 add address=102.132.116.0/24 list=FACEBOOK
 add address=102.132.117.0/24 list=FACEBOOK
@@ -141,8 +142,7 @@ add address=199.201.67.0/24 list=FACEBOOK
 add address=204.15.20.0/22 list=FACEBOOK
 add address=31.13.24.0/21 list=FACEBOOK
 add address=31.13.64.0/18 list=FACEBOOK
-add address=31.13.64.0/24 list=FACEBOOK
-add address=31.13.65.0/24 list=FACEBOOK
+add address=31.13.64.0/23 list=FACEBOOK
 add address=31.13.66.0/24 list=FACEBOOK
 add address=31.13.67.0/24 list=FACEBOOK
 add address=31.13.68.0/24 list=FACEBOOK
