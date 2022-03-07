@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Mon Mar  7 06:04:25 +06 2022
+# Last Update - Mon Mar  7 18:04:32 +06 2022
 # --------------------------------------------
-# Total Prefixes: 118
+# Total Prefixes: 119
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -88,6 +88,7 @@ add address=169.136.84.0/24 list=BIGO
 add address=169.136.85.0/24 list=BIGO
 add address=169.136.86.0/24 list=BIGO
 add address=169.136.87.0/24 list=BIGO
+add address=169.136.88.0/23 list=BIGO
 add address=169.136.90.0/24 list=BIGO
 add address=169.136.91.0/24 list=BIGO
 add address=169.136.92.0/24 list=BIGO
