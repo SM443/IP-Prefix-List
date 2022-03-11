@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: cidr-report.org
 # --------------------------------------------
-# Last Update - Thu Mar 10 18:06:58 +06 2022
+# Last Update - Fri Mar 11 06:06:58 +06 2022
 # --------------------------------------------
-# Total Prefixes: 447
+# Total Prefixes: 456
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -183,11 +183,8 @@ add address=198.11.140.0/24 list=ALIBABA
 add address=198.11.142.0/23 list=ALIBABA
 add address=198.11.144.0/24 list=ALIBABA
 add address=198.11.146.0/24 list=ALIBABA
-add address=198.11.148.0/24 list=ALIBABA
 add address=198.11.149.0/24 list=ALIBABA
-add address=198.11.150.0/24 list=ALIBABA
 add address=198.11.151.0/24 list=ALIBABA
-add address=198.11.153.0/24 list=ALIBABA
 add address=198.11.155.0/24 list=ALIBABA
 add address=198.11.160.0/24 list=ALIBABA
 add address=198.11.164.0/22 list=ALIBABA
@@ -419,6 +416,18 @@ add address=8.140.0.0/14 list=ALIBABA
 add address=8.141.192.0/22 list=ALIBABA
 add address=8.141.200.0/21 list=ALIBABA
 add address=8.144.0.0/14 list=ALIBABA
+add address=8.176.0.0/13 list=ALIBABA
+add address=8.184.0.0/14 list=ALIBABA
+add address=8.188.0.0/15 list=ALIBABA
+add address=8.190.0.0/16 list=ALIBABA
+add address=8.191.0.0/17 list=ALIBABA
+add address=8.191.128.0/18 list=ALIBABA
+add address=8.191.192.0/19 list=ALIBABA
+add address=8.191.224.0/20 list=ALIBABA
+add address=8.191.240.0/21 list=ALIBABA
+add address=8.191.248.0/22 list=ALIBABA
+add address=8.191.252.0/23 list=ALIBABA
+add address=8.191.254.0/24 list=ALIBABA
 add address=8.208.0.0/16 list=ALIBABA
 add address=8.209.0.0/19 list=ALIBABA
 add address=8.209.122.0/24 list=ALIBABA
