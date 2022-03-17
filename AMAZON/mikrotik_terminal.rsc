@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: https://docs.aws.amazon.com/
 # --------------------------------------------
-# Last Update - Thu Mar 17 06:01:41 +06 2022
+# Last Update - Thu Mar 17 18:01:39 +06 2022
 # --------------------------------------------
-# Total Prefixes: 5308
+# Total Prefixes: 5312
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -363,6 +363,7 @@ add address=13.34.15.32/27 list=AMAZON
 add address=13.34.16.128/27 list=AMAZON
 add address=13.34.16.160/27 list=AMAZON
 add address=13.34.16.192/27 list=AMAZON
+add address=13.34.16.224/27 list=AMAZON
 add address=13.34.16.64/27 list=AMAZON
 add address=13.34.16.96/27 list=AMAZON
 add address=13.34.17.24/29 list=AMAZON
@@ -761,6 +762,7 @@ add address=13.34.66.64/27 list=AMAZON
 add address=13.34.66.96/27 list=AMAZON
 add address=13.34.67.0/27 list=AMAZON
 add address=13.34.67.32/27 list=AMAZON
+add address=13.34.67.64/27 list=AMAZON
 add address=13.34.7.64/27 list=AMAZON
 add address=13.34.7.96/27 list=AMAZON
 add address=13.34.8.64/27 list=AMAZON
@@ -889,6 +891,7 @@ add address=140.179.79.244/30 list=AMAZON
 add address=142.4.160.0/29 list=AMAZON
 add address=142.4.160.104/29 list=AMAZON
 add address=142.4.160.112/29 list=AMAZON
+add address=142.4.160.120/29 list=AMAZON
 add address=142.4.160.16/29 list=AMAZON
 add address=142.4.160.24/29 list=AMAZON
 add address=142.4.160.32/29 list=AMAZON
@@ -1688,6 +1691,7 @@ add address=150.222.15.126/32 list=AMAZON
 add address=150.222.15.127/32 list=AMAZON
 add address=150.222.15.128/31 list=AMAZON
 add address=150.222.15.130/31 list=AMAZON
+add address=150.222.15.132/31 list=AMAZON
 add address=150.222.164.208/31 list=AMAZON
 add address=150.222.164.210/32 list=AMAZON
 add address=150.222.164.211/32 list=AMAZON
