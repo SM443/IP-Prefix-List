@@ -4,28 +4,26 @@ In this repository, you will find IP Prefix list of big Internet Companies like 
 ## Update Interval
 Every 12 Hours
 
+## Status
+![status](https://healthchecks.io/badge/096a1835-a69a-4be5-ad4d-676dd623abfe/LaBmNG1D-2.svg)
+
 ## How to use?
 You can copy the contents of the mikrotik_terminal.rsc file and paste it to your  Mikrotik winbox terminal. Or you can download the mikrotik_terminal.rsc file and upload it to your routers' file manager and run the below command:<br><br>
 `import file-name=mikrotik_terminal.rsc`
 
-## ASN information
-AKAMAI: `AS12222` `AS133103` `AS16625` `AS16702` `AS17204` `AS17334` `AS18680` `AS18717` `AS20189` `AS20940` `AS213120` `AS21342` `AS21357` `AS21399` `AS22207` `AS22452` `AS23454` `AS23455` `AS23903` `AS24319` `AS26008` `AS30675` `AS31107` `AS31108` `AS31109` `AS31110` `AS31377` `AS32787` `AS33047` `AS33905` `AS34164` `AS34850` `AS35204` `AS35993` `AS35994` `AS36029` `AS36183` `AS393234` `AS393560` `AS39836` `AS43639` `AS45700` `AS48163` `AS49249` `AS49846` `AS55409` `AS55770` <br><br>
-ALIBABA: `AS134963` `AS37963` `AS45096` `AS45102` `AS45103` `AS45104` `AS59028` `AS59051` `AS59052` `AS59053` `AS59054` `AS59055`<br><br>
-AMAZON: `AS10124` `AS135630` `AS14618` `AS16509` `AS17493` `AS19047` `AS264167` `AS38895` `AS39111` `AS395343` `AS58588` `AS62785` `AS7224` `AS8987` `AS9059` <br><br>
-BIGO: `AS10122` <br><br>
-CLOUDFLARE: `AS132892` `AS13335` `AS133877` `AS139242` `AS14789` `AS202623` `AS203898` `AS209242` `AS394536` `AS395747`<br><br>
-DIGITALOCEAN: `AS14061` `AS200130` `AS201229` `AS202018` `AS202109` `AS393406` `AS394362` `AS62567`<br><br>
-FACEBOOK: `AS63293` `AS54115` `AS32934` <br><br>
-FREE-FIRE_GARENA: `AS58816` `AS58521` `AS24071` `AS133151` `AS131630` <br><br>
-GOOGLE: `AS6432` `AS55023` `AS45566` `AS43515` `AS41264` `AS40873` `AS396982` `AS395973` `AS394699` `AS394639` `AS394507` `AS36987` `AS36492` `AS36385` `AS36384` `AS36040` `AS36039` `AS26910` `AS26684` `AS22859` `AS22577` `AS19527` `AS19448` `AS19425` `AS16591` `AS16550` `AS15169` `AS13949` `AS139190` `AS139070` <br><br>
-IMO_PageBites: `AS36131` `AS212879` <br><br>
-LINODE: `AS63949` `AS48337`<br><br>
-MICROSOFT: `AS12076` `AS13399` `AS13811` `AS14719` `AS17345` `AS20046` `AS200517` `AS22692` `AS23468` `AS25796` `AS26222` `AS30135` `AS30575` `AS31792` `AS32476` `AS35106` `AS3598` `AS36006` `AS395496` `AS395524` `AS395851` `AS396463` `AS397466` `AS397996` `AS398575` `AS398656` `AS398657` `AS398658` `AS398660` `AS398661` `AS398961` `AS40066` `AS45139` `AS52985` `AS5761` `AS58862` `AS59067` `AS6182` `AS6194` `AS6291` `AS63314` `AS6584` `AS8068` `AS8069` `AS8070` `AS8071` `AS8072` `AS8073` `AS8074` `AS8075` `AS8812` <br><br>
-NETFLIX: `AS55095` `AS40027` `AS394406` `AS2906` <br><br>
-PUBG_TENCENT: `AS58835` `AS45090` `AS137876` `AS133478` `AS132591` `AS132203` <br><br>
-TELEGRAM: `AS62041` `AS62014` `AS59930` `AS44907` <br><br>
-VALVE: `AS32590`<br>
-## Which whois servers I used?
+## Companies or Services
+|                 |                   |                |
+|-----------------|-------------------|----------------|
+| AKAMAI          | CDN77             | IMO_PageBites  |
+| ALIBABA         | CLOUDFLARE        | LINODE         |
+| AMAZON          | DIGITALOCEAN      | MICROSOFT      |
+| AWS_CLOUDFRONT  | FACEBOOK          | NETFLIX        |
+| AWS_EC2         | FASTLY            | PUBG_TENCENT   |
+| AWS_S3          | FREE-FIRE_GARENA  | TELEGRAM       |
+| BIGO            | GOOGLE            | VALVE          |
+| ZOOM            |                   |                |
+
+## Which whois servers I use?
 1. `whois.apnic.net`<br>
 2. `whois.afrinic.net`<br>
 3. `riswhois.ripe.net`<br>
