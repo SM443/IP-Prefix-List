@@ -3,14 +3,15 @@
 # --------------------------------------------
 # Source: BGPVIEW
 # --------------------------------------------
-# Last Update - Tue Mar 22 06:04:19 +06 2022
+# Last Update - Tue Mar 22 18:05:33 +06 2022
 # --------------------------------------------
-# Total Prefixes: 19
+# Total Prefixes: 20
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=102.132.96.0/19 list=FACEBOOK
+add address=102.221.188.0/22 list=FACEBOOK
 add address=103.4.96.0/22 list=FACEBOOK
 add address=129.134.0.0/16 list=FACEBOOK
 add address=157.240.0.0/16 list=FACEBOOK
