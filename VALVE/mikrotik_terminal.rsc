@@ -7,9 +7,9 @@
 # --------------------------------------------
 # Whois Server: whois.radb.net
 # --------------------------------------------
-# Last Update - Mon Mar 21 18:04:04 +06 2022
+# Last Update - Tue Mar 22 06:04:06 +06 2022
 # --------------------------------------------
-# Total Prefixes: 67
+# Total Prefixes: 71
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -79,5 +79,9 @@ add address=208.64.203.0/24 list=VALVE
 add address=208.78.164.0/22 list=VALVE
 add address=45.121.184.0/22 list=VALVE
 add address=45.121.184.0/23 list=VALVE
+add address=45.121.184.0/24 list=VALVE
+add address=45.121.185.0/24 list=VALVE
 add address=45.121.186.0/23 list=VALVE
+add address=45.121.186.0/24 list=VALVE
+add address=45.121.187.0/24 list=VALVE
 add address=63.150.138.0/24 list=VALVE
