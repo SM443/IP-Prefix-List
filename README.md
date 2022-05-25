@@ -5,7 +5,7 @@ In this repository, you will find IP Prefix list of big Internet Companies like 
 Every 12 Hours
 
 ## Status
-![status](https://healthchecks.io/badge/096a1835-a69a-4be5-ad4d-676dd623abfe/LaBmNG1D-2.svg)
+**NO LONGER UPDATING**
 
 ## How to use?
 You can copy the contents of the mikrotik_terminal.rsc file and paste it to your  Mikrotik winbox terminal. Or you can download the mikrotik_terminal.rsc file and upload it to your routers' file manager and run the below command:<br><br>
