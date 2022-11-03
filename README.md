@@ -2,12 +2,12 @@
 In this repository, you will find IP Prefix list of big Internet Companies like Facebook, Google, Microsoft, etc. I used several websites & whois servers to get and merge IP Prefixes.
 
 ## Update Interval
-**NO LONGER UPDATING**
+**EVERY 12 HOURS**
 
 ## Status
-**DOWN ⚠️**
+**MAINTANANCE ⚠️**
 
-## How to use?
+## How to IMPORT on mikrotik devices?
 You can copy the contents of the mikrotik_terminal.rsc file and paste it to your  Mikrotik winbox terminal. Or you can download the mikrotik_terminal.rsc file and upload it to your routers' file manager and run the below command:<br><br>
 `import file-name=mikrotik_terminal.rsc`
 
