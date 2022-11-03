@@ -1,11 +1,11 @@
 # --------------------------------------------
-# IPv4 prefix list of AWS CLOUDFRONT
+# IPv4 prefix list of AWS_CLOUDFRONT
 # --------------------------------------------
-# Source: https://docs.aws.amazon.com/
+# Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Mar 29 06:03:38 +06 2022
+# Last Update - Fri Nov  4 02:57:18 +06 2022
 # --------------------------------------------
-# Total Prefixes: 131
+# Total Prefixes: 132
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -62,6 +62,7 @@ add address=18.229.220.192/26 list=AWS_CLOUDFRONT
 add address=18.238.0.0/15 list=AWS_CLOUDFRONT
 add address=18.244.0.0/15 list=AWS_CLOUDFRONT
 add address=18.64.0.0/14 list=AWS_CLOUDFRONT
+add address=18.68.0.0/16 list=AWS_CLOUDFRONT
 add address=180.163.57.0/25 list=AWS_CLOUDFRONT
 add address=180.163.57.128/26 list=AWS_CLOUDFRONT
 add address=204.246.164.0/22 list=AWS_CLOUDFRONT

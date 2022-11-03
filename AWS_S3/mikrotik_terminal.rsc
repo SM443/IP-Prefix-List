@@ -1,11 +1,11 @@
 # --------------------------------------------
-# IPv4 prefix list of AWS S3
+# IPv4 prefix list of AWS_S3
 # --------------------------------------------
-# Source: https://docs.aws.amazon.com/
+# Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Mar 29 06:03:38 +06 2022
+# Last Update - Fri Nov  4 02:57:18 +06 2022
 # --------------------------------------------
-# Total Prefixes: 224
+# Total Prefixes: 242
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -35,6 +35,8 @@ add address=13.36.84.48/28 list=AWS_S3
 add address=13.36.84.64/28 list=AWS_S3
 add address=13.51.71.176/28 list=AWS_S3
 add address=13.51.71.192/28 list=AWS_S3
+add address=15.152.133.112/28 list=AWS_S3
+add address=15.152.133.128/28 list=AWS_S3
 add address=15.184.125.240/28 list=AWS_S3
 add address=15.184.153.0/28 list=AWS_S3
 add address=15.200.176.128/28 list=AWS_S3
@@ -47,11 +49,21 @@ add address=16.12.12.0/23 list=AWS_S3
 add address=16.12.14.0/24 list=AWS_S3
 add address=16.12.15.0/24 list=AWS_S3
 add address=16.12.16.0/23 list=AWS_S3
+add address=16.12.18.0/23 list=AWS_S3
 add address=16.12.2.0/24 list=AWS_S3
+add address=16.12.20.0/24 list=AWS_S3
+add address=16.12.24.0/21 list=AWS_S3
+add address=16.12.32.0/22 list=AWS_S3
+add address=16.12.36.0/22 list=AWS_S3
 add address=16.12.4.0/23 list=AWS_S3
+add address=16.12.40.0/23 list=AWS_S3
+add address=16.12.48.0/21 list=AWS_S3
 add address=16.12.6.0/23 list=AWS_S3
 add address=16.12.8.0/24 list=AWS_S3
 add address=16.12.9.0/24 list=AWS_S3
+add address=16.182.0.0/16 list=AWS_S3
+add address=16.62.56.224/28 list=AWS_S3
+add address=16.62.56.240/28 list=AWS_S3
 add address=18.167.88.112/28 list=AWS_S3
 add address=18.167.88.96/28 list=AWS_S3
 add address=18.168.37.160/28 list=AWS_S3
@@ -68,6 +80,8 @@ add address=18.34.32.0/20 list=AWS_S3
 add address=18.34.48.0/20 list=AWS_S3
 add address=18.34.64.0/21 list=AWS_S3
 add address=18.34.72.0/21 list=AWS_S3
+add address=18.60.78.192/28 list=AWS_S3
+add address=18.60.78.208/28 list=AWS_S3
 add address=3.101.163.64/28 list=AWS_S3
 add address=3.101.163.80/28 list=AWS_S3
 add address=3.101.163.96/28 list=AWS_S3
@@ -77,6 +91,9 @@ add address=3.251.110.208/28 list=AWS_S3
 add address=3.251.110.224/28 list=AWS_S3
 add address=3.26.88.0/28 list=AWS_S3
 add address=3.26.88.16/28 list=AWS_S3
+add address=3.28.70.112/28 list=AWS_S3
+add address=3.28.70.48/28 list=AWS_S3
+add address=3.28.70.96/28 list=AWS_S3
 add address=3.36.167.64/28 list=AWS_S3
 add address=3.36.167.80/28 list=AWS_S3
 add address=3.5.0.0/19 list=AWS_S3
@@ -110,6 +127,7 @@ add address=3.5.40.0/22 list=AWS_S3
 add address=3.5.44.0/22 list=AWS_S3
 add address=3.5.48.0/22 list=AWS_S3
 add address=3.5.52.0/22 list=AWS_S3
+add address=3.5.56.0/22 list=AWS_S3
 add address=3.5.64.0/21 list=AWS_S3
 add address=3.5.72.0/23 list=AWS_S3
 add address=3.5.76.0/22 list=AWS_S3
@@ -220,10 +238,10 @@ add address=52.95.188.0/23 list=AWS_S3
 add address=52.95.190.0/24 list=AWS_S3
 add address=54.222.48.0/22 list=AWS_S3
 add address=54.222.52.0/22 list=AWS_S3
+add address=54.222.96.0/22 list=AWS_S3
 add address=54.231.0.0/16 list=AWS_S3
 add address=65.1.103.208/28 list=AWS_S3
 add address=65.1.103.224/28 list=AWS_S3
-add address=71.137.8.0/22 list=AWS_S3
 add address=76.223.100.0/24 list=AWS_S3
 add address=76.223.101.0/24 list=AWS_S3
 add address=76.223.102.0/24 list=AWS_S3
