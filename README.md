@@ -2,7 +2,7 @@
 In this repository, you will find IP Prefix list of big Internet Companies like Facebook, Google, Microsoft, etc. I used several websites & whois servers to get and merge IP Prefixes.
 
 ## Update Interval
-**EVERY 12 HOURS**
+**EVERY 24 HOURS**
 
 ## Status
 ![status](https://healthchecks.io/badge/312c1b71-aab2-4c0b-8ff1-1fd3275b8965/PQ6eFZcY-2/ip-prefix-list.svg)
