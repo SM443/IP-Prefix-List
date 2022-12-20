@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Mon Dec 19 06:01:14 +06 2022
+# Last Update - Tue Dec 20 06:01:13 +06 2022
 # --------------------------------------------
-# Total Prefixes: 1222
+# Total Prefixes: 1223
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -435,10 +435,6 @@ add address=161.117.128.0/24 list=ALIBABA
 add address=161.117.129.0/24 list=ALIBABA
 add address=161.117.138.0/24 list=ALIBABA
 add address=161.117.143.0/24 list=ALIBABA
-add address=170.33.104.0/24 list=ALIBABA
-add address=170.33.105.0/24 list=ALIBABA
-add address=170.33.106.0/24 list=ALIBABA
-add address=170.33.107.0/24 list=ALIBABA
 add address=185.78.106.0/23 list=ALIBABA
 add address=198.11.128.0/18 list=ALIBABA
 add address=198.11.137.0/24 list=ALIBABA
@@ -983,6 +979,7 @@ add address=47.90.173.0/24 list=ALIBABA
 add address=47.90.174.0/24 list=ALIBABA
 add address=47.90.175.0/24 list=ALIBABA
 add address=47.235.17.0/24 list=ALIBABA
+add address=47.235.26.0/24 list=ALIBABA
 add address=47.245.156.0/24 list=ALIBABA
 add address=47.245.157.0/24 list=ALIBABA
 add address=47.245.158.0/24 list=ALIBABA
@@ -1015,6 +1012,7 @@ add address=147.139.252.0/24 list=ALIBABA
 add address=147.139.253.0/24 list=ALIBABA
 add address=147.139.254.0/24 list=ALIBABA
 add address=147.139.255.0/24 list=ALIBABA
+add address=163.181.77.0/24 list=ALIBABA
 add address=170.33.0.0/24 list=ALIBABA
 add address=170.33.1.0/24 list=ALIBABA
 add address=170.33.2.0/24 list=ALIBABA
@@ -1071,10 +1069,13 @@ add address=170.33.97.0/24 list=ALIBABA
 add address=170.33.98.0/24 list=ALIBABA
 add address=170.33.99.0/24 list=ALIBABA
 add address=170.33.100.0/24 list=ALIBABA
-add address=170.33.101.0/24 list=ALIBABA
 add address=170.33.102.0/23 list=ALIBABA
 add address=170.33.102.0/24 list=ALIBABA
 add address=170.33.103.0/24 list=ALIBABA
+add address=170.33.104.0/24 list=ALIBABA
+add address=170.33.105.0/24 list=ALIBABA
+add address=170.33.106.0/24 list=ALIBABA
+add address=170.33.107.0/24 list=ALIBABA
 add address=198.11.144.0/24 list=ALIBABA
 add address=203.107.48.0/22 list=ALIBABA
 add address=203.107.48.0/23 list=ALIBABA
