@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Dec 28 06:00:02 +06 2022
+# Last Update - Thu Dec 29 06:00:03 +06 2022
 # --------------------------------------------
-# Total Prefixes: 7090
+# Total Prefixes: 7073
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4307,19 +4307,6 @@ add address=3.33.128.0/17 list=AMAZON
 add address=3.33.34.0/24 list=AMAZON
 add address=3.33.35.0/24 list=AMAZON
 add address=3.33.44.0/22 list=AMAZON
-add address=3.33.49.132/30 list=AMAZON
-add address=3.33.49.136/30 list=AMAZON
-add address=3.33.49.140/30 list=AMAZON
-add address=3.33.49.144/30 list=AMAZON
-add address=3.33.49.164/30 list=AMAZON
-add address=3.33.49.180/31 list=AMAZON
-add address=3.33.49.182/31 list=AMAZON
-add address=3.33.49.192/31 list=AMAZON
-add address=3.33.49.194/31 list=AMAZON
-add address=3.33.49.196/31 list=AMAZON
-add address=3.33.49.198/31 list=AMAZON
-add address=3.33.49.240/31 list=AMAZON
-add address=3.33.49.242/31 list=AMAZON
 add address=3.34.0.0/15 list=AMAZON
 add address=3.34.101.192/26 list=AMAZON
 add address=3.34.228.0/26 list=AMAZON
@@ -5311,9 +5298,7 @@ add address=52.46.189.244/30 list=AMAZON
 add address=52.46.189.248/30 list=AMAZON
 add address=52.46.189.252/30 list=AMAZON
 add address=52.46.189.32/30 list=AMAZON
-add address=52.46.189.36/30 list=AMAZON
 add address=52.46.189.4/30 list=AMAZON
-add address=52.46.189.40/30 list=AMAZON
 add address=52.46.189.44/30 list=AMAZON
 add address=52.46.189.48/30 list=AMAZON
 add address=52.46.189.52/30 list=AMAZON
@@ -5388,8 +5373,6 @@ add address=52.46.191.100/31 list=AMAZON
 add address=52.46.191.102/31 list=AMAZON
 add address=52.46.191.104/31 list=AMAZON
 add address=52.46.191.106/31 list=AMAZON
-add address=52.46.191.108/31 list=AMAZON
-add address=52.46.191.110/31 list=AMAZON
 add address=52.46.191.12/31 list=AMAZON
 add address=52.46.191.120/31 list=AMAZON
 add address=52.46.191.122/31 list=AMAZON
