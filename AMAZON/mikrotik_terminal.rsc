@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Jan  3 06:00:03 +06 2023
+# Last Update - Wed Jan  4 06:00:03 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6621
+# Total Prefixes: 6624
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -884,10 +884,12 @@ add address=13.34.80.224/27 list=AMAZON
 add address=13.34.80.32/27 list=AMAZON
 add address=13.34.80.64/27 list=AMAZON
 add address=13.34.80.96/27 list=AMAZON
+add address=13.34.81.0/27 list=AMAZON
 add address=13.34.81.128/27 list=AMAZON
 add address=13.34.81.160/27 list=AMAZON
 add address=13.34.81.192/27 list=AMAZON
 add address=13.34.81.224/27 list=AMAZON
+add address=13.34.81.32/27 list=AMAZON
 add address=13.34.81.64/27 list=AMAZON
 add address=13.34.81.96/27 list=AMAZON
 add address=13.34.82.0/27 list=AMAZON
@@ -917,15 +919,15 @@ add address=13.34.84.96/27 list=AMAZON
 add address=13.34.85.0/27 list=AMAZON
 add address=13.34.85.128/27 list=AMAZON
 add address=13.34.85.160/27 list=AMAZON
+add address=13.34.85.192/27 list=AMAZON
+add address=13.34.85.224/27 list=AMAZON
 add address=13.34.85.32/27 list=AMAZON
 add address=13.34.85.64/27 list=AMAZON
 add address=13.34.85.96/27 list=AMAZON
-add address=13.34.86.0/27 list=AMAZON
 add address=13.34.86.128/27 list=AMAZON
 add address=13.34.86.160/27 list=AMAZON
 add address=13.34.86.192/27 list=AMAZON
 add address=13.34.86.224/27 list=AMAZON
-add address=13.34.86.32/27 list=AMAZON
 add address=13.34.86.64/27 list=AMAZON
 add address=13.34.86.96/27 list=AMAZON
 add address=13.34.87.0/27 list=AMAZON
@@ -6412,6 +6414,7 @@ add address=76.223.99.0/24 list=AMAZON
 add address=79.125.0.0/17 list=AMAZON
 add address=87.238.80.0/21 list=AMAZON
 add address=96.0.0.0/21 list=AMAZON
+add address=96.0.100.0/23 list=AMAZON
 add address=96.0.12.0/22 list=AMAZON
 add address=96.0.16.0/21 list=AMAZON
 add address=96.0.24.0/21 list=AMAZON
