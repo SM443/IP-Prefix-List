@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Jan  9 06:00:03 +06 2023
+# Last Update - Tue Jan 10 06:00:03 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6483
+# Total Prefixes: 6493
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -83,6 +83,10 @@ add address=108.175.48.0/22 list=AMAZON
 add address=108.175.52.0/22 list=AMAZON
 add address=108.175.56.0/22 list=AMAZON
 add address=108.175.60.0/22 list=AMAZON
+add address=111.13.171.128/26 list=AMAZON
+add address=111.13.171.192/26 list=AMAZON
+add address=111.13.185.32/27 list=AMAZON
+add address=111.13.185.64/27 list=AMAZON
 add address=116.129.226.0/25 list=AMAZON
 add address=116.129.226.128/26 list=AMAZON
 add address=118.193.97.128/25 list=AMAZON
@@ -2378,6 +2382,9 @@ add address=16.24.0.0/16 list=AMAZON
 add address=16.25.0.0/16 list=AMAZON
 add address=16.26.0.0/15 list=AMAZON
 add address=16.50.0.0/15 list=AMAZON
+add address=16.50.67.0/26 list=AMAZON
+add address=16.50.67.128/26 list=AMAZON
+add address=16.50.67.64/26 list=AMAZON
 add address=16.50.69.192/28 list=AMAZON
 add address=16.50.69.208/28 list=AMAZON
 add address=16.50.70.0/23 list=AMAZON
@@ -3117,6 +3124,8 @@ add address=2406:daff:b000::/40 list=AMAZON
 add address=2406:daff:c000::/40 list=AMAZON
 add address=2406:daff:e000::/40 list=AMAZON
 add address=2406:daff:f000::/40 list=AMAZON
+add address=2409:8c00:2421:300::/56 list=AMAZON
+add address=2409:8c00:2421:400::/56 list=AMAZON
 add address=240f:8000:4000::/40 list=AMAZON
 add address=240f:8000:8000::/40 list=AMAZON
 add address=240f:8014::/36 list=AMAZON
@@ -3512,6 +3521,7 @@ add address=2620:107:4000:7400::/56 list=AMAZON
 add address=2620:107:4000:7700::/56 list=AMAZON
 add address=2620:107:4000:7800::/56 list=AMAZON
 add address=2620:107:4000:7a00::/56 list=AMAZON
+add address=2620:107:4000:9::/64 list=AMAZON
 add address=2620:107:4000:a080::/58 list=AMAZON
 add address=2620:107:4000:a840::/58 list=AMAZON
 add address=2620:107:4000:a880::/58 list=AMAZON
