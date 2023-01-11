@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Jan 10 06:00:03 +06 2023
+# Last Update - Wed Jan 11 06:00:04 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6493
+# Total Prefixes: 6499
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1126,8 +1126,8 @@ add address=142.4.160.80/29 list=AMAZON
 add address=142.4.160.88/29 list=AMAZON
 add address=142.4.160.96/29 list=AMAZON
 add address=142.4.161.0/29 list=AMAZON
+add address=142.4.161.16/29 list=AMAZON
 add address=142.4.161.8/29 list=AMAZON
-add address=142.4.177.0/24 list=AMAZON
 add address=143.204.0.0/16 list=AMAZON
 add address=144.220.0.0/16 list=AMAZON
 add address=15.152.0.0/16 list=AMAZON
@@ -3502,6 +3502,10 @@ add address=2606:f40:400::/39 list=AMAZON
 add address=2606:f40:8000::/39 list=AMAZON
 add address=2606:f40:8400::/39 list=AMAZON
 add address=2606:f40::/39 list=AMAZON
+add address=2606:f40:fffc::/48 list=AMAZON
+add address=2606:f40:fffd::/48 list=AMAZON
+add address=2606:f40:fffe::/48 list=AMAZON
+add address=2606:f40:ffff::/48 list=AMAZON
 add address=2620:107:3001::/48 list=AMAZON
 add address=2620:107:300f::/48 list=AMAZON
 add address=2620:107:4000:2::90/128 list=AMAZON
@@ -3513,6 +3517,7 @@ add address=2620:107:4000:2::95/128 list=AMAZON
 add address=2620:107:4000:2::96/128 list=AMAZON
 add address=2620:107:4000:2::97/128 list=AMAZON
 add address=2620:107:4000:40::/64 list=AMAZON
+add address=2620:107:4000:4c00::/56 list=AMAZON
 add address=2620:107:4000:5::/64 list=AMAZON
 add address=2620:107:4000:7000::/56 list=AMAZON
 add address=2620:107:4000:7100::/56 list=AMAZON
@@ -3521,6 +3526,7 @@ add address=2620:107:4000:7400::/56 list=AMAZON
 add address=2620:107:4000:7700::/56 list=AMAZON
 add address=2620:107:4000:7800::/56 list=AMAZON
 add address=2620:107:4000:7a00::/56 list=AMAZON
+add address=2620:107:4000:7c00::/56 list=AMAZON
 add address=2620:107:4000:9::/64 list=AMAZON
 add address=2620:107:4000:a080::/58 list=AMAZON
 add address=2620:107:4000:a840::/58 list=AMAZON
