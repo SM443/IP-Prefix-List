@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Jan 23 06:00:04 +06 2023
+# Last Update - Tue Jan 24 06:00:02 +06 2023
 # --------------------------------------------
 # Total Prefixes: 6532
 # --------------------------------------------
@@ -4684,7 +4684,7 @@ add address=50.16.0.0/15 list=AMAZON
 add address=50.18.0.0/16 list=AMAZON
 add address=50.19.0.0/16 list=AMAZON
 add address=51.100.0.0/15 list=AMAZON
-add address=51.112.0.0/15 list=AMAZON
+add address=51.112.0.0/16 list=AMAZON
 add address=51.118.0.0/15 list=AMAZON
 add address=51.16.0.0/15 list=AMAZON
 add address=51.20.0.0/14 list=AMAZON
