@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Feb  1 06:00:02 +06 2023
+# Last Update - Thu Feb  2 06:00:03 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6542
+# Total Prefixes: 6547
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -941,8 +941,6 @@ add address=13.34.86.96/27 list=AMAZON
 add address=13.34.87.0/27 list=AMAZON
 add address=13.34.87.128/27 list=AMAZON
 add address=13.34.87.160/27 list=AMAZON
-add address=13.34.87.192/27 list=AMAZON
-add address=13.34.87.224/27 list=AMAZON
 add address=13.34.87.32/27 list=AMAZON
 add address=13.34.87.64/27 list=AMAZON
 add address=13.34.87.96/27 list=AMAZON
@@ -972,6 +970,8 @@ add address=13.34.90.32/27 list=AMAZON
 add address=13.34.90.64/27 list=AMAZON
 add address=13.34.90.96/27 list=AMAZON
 add address=13.34.91.0/27 list=AMAZON
+add address=13.34.91.128/27 list=AMAZON
+add address=13.34.91.160/27 list=AMAZON
 add address=13.34.91.32/27 list=AMAZON
 add address=13.34.91.64/27 list=AMAZON
 add address=13.34.91.96/27 list=AMAZON
@@ -1876,6 +1876,7 @@ add address=15.230.92.0/24 list=AMAZON
 add address=15.230.93.0/24 list=AMAZON
 add address=15.230.94.0/24 list=AMAZON
 add address=15.230.95.0/24 list=AMAZON
+add address=15.230.96.0/24 list=AMAZON
 add address=15.236.0.0/15 list=AMAZON
 add address=15.236.155.192/26 list=AMAZON
 add address=15.236.231.0/26 list=AMAZON
@@ -3413,10 +3414,14 @@ add address=2600:1ffa:6000::/40 list=AMAZON
 add address=2600:1ffa:8000::/40 list=AMAZON
 add address=2600:1ffa:c000::/40 list=AMAZON
 add address=2600:1ffa:e000::/40 list=AMAZON
+add address=2600:1ffb:4040::/48 list=AMAZON
+add address=2600:1ffb:4041::/48 list=AMAZON
 add address=2600:1ffb:40c0::/46 list=AMAZON
 add address=2600:1ffb:60c0::/48 list=AMAZON
 add address=2600:1ffb:60c1::/48 list=AMAZON
 add address=2600:1ffb:8021::/48 list=AMAZON
+add address=2600:1ffb:8060::/48 list=AMAZON
+add address=2600:1ffb:8061::/48 list=AMAZON
 add address=2600:1ffb:8080::/48 list=AMAZON
 add address=2600:1ffb:80a0::/48 list=AMAZON
 add address=2600:1ffb:80a1::/48 list=AMAZON
