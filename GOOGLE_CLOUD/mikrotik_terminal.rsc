@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sun Feb 12 06:00:04 +06 2023
+# Last Update - Mon Feb 13 06:00:06 +06 2023
 # --------------------------------------------
-# Total Prefixes: 575
+# Total Prefixes: 577
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -107,6 +107,7 @@ add address=35.220.42.0/24 list=GOOGLE_CLOUD
 add address=35.234.208.0/20 list=GOOGLE_CLOUD
 add address=35.242.42.0/24 list=GOOGLE_CLOUD
 add address=35.244.0.0/18 list=GOOGLE_CLOUD
+add address=34.0.0.0/20 list=GOOGLE_CLOUD
 add address=34.104.120.0/23 list=GOOGLE_CLOUD
 add address=34.124.56.0/23 list=GOOGLE_CLOUD
 add address=34.126.208.0/20 list=GOOGLE_CLOUD
@@ -158,6 +159,7 @@ add address=35.220.41.0/24 list=GOOGLE_CLOUD
 add address=35.234.224.0/20 list=GOOGLE_CLOUD
 add address=35.242.41.0/24 list=GOOGLE_CLOUD
 add address=35.244.64.0/18 list=GOOGLE_CLOUD
+add address=34.0.16.0/20 list=GOOGLE_CLOUD
 add address=34.104.122.0/23 list=GOOGLE_CLOUD
 add address=34.124.58.0/23 list=GOOGLE_CLOUD
 add address=34.126.192.0/20 list=GOOGLE_CLOUD
@@ -182,6 +184,7 @@ add address=8.34.208.0/23 list=GOOGLE_CLOUD
 add address=8.34.211.0/24 list=GOOGLE_CLOUD
 add address=8.34.220.0/22 list=GOOGLE_CLOUD
 add address=23.251.128.0/20 list=GOOGLE_CLOUD
+add address=34.22.112.0/20 list=GOOGLE_CLOUD
 add address=34.22.128.0/17 list=GOOGLE_CLOUD
 add address=34.76.0.0/14 list=GOOGLE_CLOUD
 add address=34.118.254.0/23 list=GOOGLE_CLOUD
@@ -356,8 +359,7 @@ add address=23.236.48.0/20 list=GOOGLE_CLOUD
 add address=23.251.144.0/20 list=GOOGLE_CLOUD
 add address=34.16.0.0/17 list=GOOGLE_CLOUD
 add address=34.27.0.0/16 list=GOOGLE_CLOUD
-add address=34.28.0.0/15 list=GOOGLE_CLOUD
-add address=34.30.0.0/16 list=GOOGLE_CLOUD
+add address=34.28.0.0/14 list=GOOGLE_CLOUD
 add address=34.66.0.0/15 list=GOOGLE_CLOUD
 add address=34.68.0.0/14 list=GOOGLE_CLOUD
 add address=34.72.0.0/16 list=GOOGLE_CLOUD
