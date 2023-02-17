@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Feb 16 06:00:02 +06 2023
+# Last Update - Fri Feb 17 06:00:03 +06 2023
 # --------------------------------------------
-# Total Prefixes: 137
+# Total Prefixes: 145
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -95,6 +95,10 @@ add address=3.231.2.0/25 list=AWS_CLOUDFRONT
 add address=3.234.232.224/27 list=AWS_CLOUDFRONT
 add address=3.236.169.192/26 list=AWS_CLOUDFRONT
 add address=3.236.48.0/23 list=AWS_CLOUDFRONT
+add address=3.29.40.128/26 list=AWS_CLOUDFRONT
+add address=3.29.40.192/26 list=AWS_CLOUDFRONT
+add address=3.29.40.64/26 list=AWS_CLOUDFRONT
+add address=3.29.57.0/26 list=AWS_CLOUDFRONT
 add address=3.35.130.128/25 list=AWS_CLOUDFRONT
 add address=34.195.252.0/24 list=AWS_CLOUDFRONT
 add address=34.216.51.0/25 list=AWS_CLOUDFRONT
@@ -106,6 +110,10 @@ add address=35.162.63.192/26 list=AWS_CLOUDFRONT
 add address=35.167.191.128/26 list=AWS_CLOUDFRONT
 add address=36.103.232.0/25 list=AWS_CLOUDFRONT
 add address=36.103.232.128/26 list=AWS_CLOUDFRONT
+add address=43.218.56.128/26 list=AWS_CLOUDFRONT
+add address=43.218.56.192/26 list=AWS_CLOUDFRONT
+add address=43.218.56.64/26 list=AWS_CLOUDFRONT
+add address=43.218.71.0/26 list=AWS_CLOUDFRONT
 add address=44.227.178.0/24 list=AWS_CLOUDFRONT
 add address=44.234.108.128/25 list=AWS_CLOUDFRONT
 add address=44.234.90.252/30 list=AWS_CLOUDFRONT
