@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Sat Feb 18 06:01:14 +06 2023
+# Last Update - Sun Feb 19 06:01:11 +06 2023
 # --------------------------------------------
-# Total Prefixes: 1233
+# Total Prefixes: 1246
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -136,6 +136,8 @@ add address=43.96.0.0/24 list=ALIBABA
 add address=43.96.3.0/24 list=ALIBABA
 add address=43.96.4.0/24 list=ALIBABA
 add address=43.96.5.0/24 list=ALIBABA
+add address=43.96.8.0/24 list=ALIBABA
+add address=43.96.9.0/24 list=ALIBABA
 add address=43.96.10.0/24 list=ALIBABA
 add address=43.96.11.0/24 list=ALIBABA
 add address=43.96.16.0/24 list=ALIBABA
@@ -144,6 +146,8 @@ add address=43.96.21.0/24 list=ALIBABA
 add address=43.96.24.0/24 list=ALIBABA
 add address=43.96.25.0/24 list=ALIBABA
 add address=43.96.26.0/24 list=ALIBABA
+add address=43.96.32.0/24 list=ALIBABA
+add address=43.96.33.0/24 list=ALIBABA
 add address=45.196.28.0/24 list=ALIBABA
 add address=45.199.179.0/24 list=ALIBABA
 add address=47.52.0.0/16 list=ALIBABA
@@ -271,6 +275,7 @@ add address=47.235.26.0/23 list=ALIBABA
 add address=47.240.0.0/16 list=ALIBABA
 add address=47.240.0.0/17 list=ALIBABA
 add address=47.240.128.0/17 list=ALIBABA
+add address=47.240.234.0/23 list=ALIBABA
 add address=47.241.0.0/16 list=ALIBABA
 add address=47.241.0.0/17 list=ALIBABA
 add address=47.241.128.0/17 list=ALIBABA
@@ -360,6 +365,12 @@ add address=47.246.168.0/21 list=ALIBABA
 add address=47.246.176.0/20 list=ALIBABA
 add address=47.246.176.0/21 list=ALIBABA
 add address=47.246.184.0/21 list=ALIBABA
+add address=47.246.192.0/22 list=ALIBABA
+add address=47.246.192.0/23 list=ALIBABA
+add address=47.246.194.0/23 list=ALIBABA
+add address=47.246.196.0/22 list=ALIBABA
+add address=47.246.196.0/23 list=ALIBABA
+add address=47.246.198.0/23 list=ALIBABA
 add address=47.250.0.0/17 list=ALIBABA
 add address=47.250.0.0/18 list=ALIBABA
 add address=47.250.64.0/18 list=ALIBABA
@@ -1092,6 +1103,8 @@ add address=2400:b200:4101::/48 list=ALIBABA
 add address=2400:b200:4102::/48 list=ALIBABA
 add address=2400:b200:4103::/48 list=ALIBABA
 add address=2401:b180:4100::/48 list=ALIBABA
+add address=2404:2280:1600::/40 list=ALIBABA
+add address=2404:2280:1f00::/40 list=ALIBABA
 add address=2404:2280:2000::/36 list=ALIBABA
 add address=2404:2280:2000::/37 list=ALIBABA
 add address=2404:2280:2800::/37 list=ALIBABA
