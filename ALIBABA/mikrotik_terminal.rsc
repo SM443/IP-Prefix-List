@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Tue Mar 28 06:01:14 +06 2023
+# Last Update - Wed Mar 29 06:01:18 +06 2023
 # --------------------------------------------
 # Total Prefixes: 1271
 # --------------------------------------------
@@ -152,7 +152,6 @@ add address=43.96.24.0/24 list=ALIBABA
 add address=43.96.25.0/24 list=ALIBABA
 add address=43.96.26.0/24 list=ALIBABA
 add address=43.96.32.0/24 list=ALIBABA
-add address=43.96.33.0/24 list=ALIBABA
 add address=45.196.28.0/24 list=ALIBABA
 add address=45.199.179.0/24 list=ALIBABA
 add address=47.52.0.0/16 list=ALIBABA
@@ -383,8 +382,6 @@ add address=47.246.196.0/23 list=ALIBABA
 add address=47.246.198.0/23 list=ALIBABA
 add address=47.250.0.0/17 list=ALIBABA
 add address=47.250.0.0/18 list=ALIBABA
-add address=47.250.58.0/23 list=ALIBABA
-add address=47.250.61.0/24 list=ALIBABA
 add address=47.250.64.0/18 list=ALIBABA
 add address=47.250.128.0/17 list=ALIBABA
 add address=47.250.128.0/18 list=ALIBABA
@@ -1060,6 +1057,7 @@ add address=147.139.253.0/24 list=ALIBABA
 add address=147.139.254.0/24 list=ALIBABA
 add address=147.139.255.0/24 list=ALIBABA
 add address=163.181.69.0/24 list=ALIBABA
+add address=163.181.87.0/24 list=ALIBABA
 add address=170.33.0.0/24 list=ALIBABA
 add address=170.33.1.0/24 list=ALIBABA
 add address=170.33.2.0/24 list=ALIBABA
@@ -1166,7 +1164,9 @@ add address=240b:4009:8000::/33 list=ALIBABA
 add address=240b:400c::/32 list=ALIBABA
 add address=240b:400c::/33 list=ALIBABA
 add address=240b:400c:8000::/33 list=ALIBABA
-add address=240b:400e:fff::/48 list=ALIBABA
+add address=240b:400e::/32 list=ALIBABA
+add address=240b:400e::/33 list=ALIBABA
+add address=240b:400e:8000::/33 list=ALIBABA
 add address=240b:400e:fffe::/48 list=ALIBABA
 add address=240b:400e:ffff::/48 list=ALIBABA
 add address=2400:3200::/32 list=ALIBABA
