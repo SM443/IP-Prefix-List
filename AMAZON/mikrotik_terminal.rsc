@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue May  2 06:00:03 +06 2023
+# Last Update - Wed May  3 06:00:02 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6805
+# Total Prefixes: 6815
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -885,6 +885,8 @@ add address=13.34.79.160/27 list=AMAZON
 add address=13.34.79.192/27 list=AMAZON
 add address=13.34.79.224/27 list=AMAZON
 add address=13.34.79.32/27 list=AMAZON
+add address=13.34.79.64/27 list=AMAZON
+add address=13.34.79.96/27 list=AMAZON
 add address=13.34.8.64/27 list=AMAZON
 add address=13.34.8.96/27 list=AMAZON
 add address=13.34.80.0/27 list=AMAZON
@@ -1652,7 +1654,13 @@ add address=15.230.212.0/23 list=AMAZON
 add address=15.230.214.0/24 list=AMAZON
 add address=15.230.215.0/24 list=AMAZON
 add address=15.230.216.0/31 list=AMAZON
+add address=15.230.216.10/32 list=AMAZON
+add address=15.230.216.11/32 list=AMAZON
 add address=15.230.216.2/31 list=AMAZON
+add address=15.230.216.4/31 list=AMAZON
+add address=15.230.216.6/31 list=AMAZON
+add address=15.230.216.8/32 list=AMAZON
+add address=15.230.216.9/32 list=AMAZON
 add address=15.230.217.0/24 list=AMAZON
 add address=15.230.218.0/24 list=AMAZON
 add address=15.230.219.0/24 list=AMAZON
@@ -3296,6 +3304,7 @@ add address=2600:1f00:e000::/40 list=AMAZON
 add address=2600:1f01:4800::/47 list=AMAZON
 add address=2600:1f01:4802::/47 list=AMAZON
 add address=2600:1f01:4804::/47 list=AMAZON
+add address=2600:1f01:4806::/47 list=AMAZON
 add address=2600:1f01:4810::/47 list=AMAZON
 add address=2600:1f01:4814::/47 list=AMAZON
 add address=2600:1f01:481a::/47 list=AMAZON
@@ -4141,6 +4150,7 @@ add address=3.2.47.192/26 list=AMAZON
 add address=3.2.48.0/24 list=AMAZON
 add address=3.2.49.0/24 list=AMAZON
 add address=3.2.50.0/24 list=AMAZON
+add address=3.2.51.0/24 list=AMAZON
 add address=3.2.8.0/21 list=AMAZON
 add address=3.20.0.0/14 list=AMAZON
 add address=3.208.0.0/12 list=AMAZON
