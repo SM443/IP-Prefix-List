@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Tue May 16 06:01:14 +06 2023
+# Last Update - Wed May 17 06:01:37 +06 2023
 # --------------------------------------------
-# Total Prefixes: 1279
+# Total Prefixes: 1281
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -179,6 +179,9 @@ add address=47.77.2.0/23 list=ALIBABA
 add address=47.77.4.0/22 list=ALIBABA
 add address=47.77.4.0/23 list=ALIBABA
 add address=47.77.6.0/23 list=ALIBABA
+add address=47.79.0.0/20 list=ALIBABA
+add address=47.79.0.0/21 list=ALIBABA
+add address=47.79.8.0/21 list=ALIBABA
 add address=47.88.0.0/17 list=ALIBABA
 add address=47.88.0.0/18 list=ALIBABA
 add address=47.88.41.0/24 list=ALIBABA
@@ -899,7 +902,6 @@ add address=140.205.192.0/18 list=ALIBABA
 add address=182.92.0.0/16 list=ALIBABA
 add address=182.92.0.0/17 list=ALIBABA
 add address=182.92.128.0/17 list=ALIBABA
-add address=203.107.0.0/24 list=ALIBABA
 add address=203.107.1.0/24 list=ALIBABA
 add address=203.107.6.0/24 list=ALIBABA
 add address=203.107.13.0/24 list=ALIBABA
