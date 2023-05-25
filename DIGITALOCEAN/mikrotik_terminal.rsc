@@ -3,15 +3,16 @@
 # --------------------------------------------
 # Source: DIGITALOCEAN DOCS
 # --------------------------------------------
-# Last Update - Wed May 24 06:00:05 +06 2023
+# Last Update - Thu May 25 06:00:05 +06 2023
 # --------------------------------------------
-# Total Prefixes: 1676
+# Total Prefixes: 1677
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=5.101.96.0/21 list=DIGITALOCEAN
 add address=5.101.104.0/22 list=DIGITALOCEAN
+add address=24.144.96.0/19 list=DIGITALOCEAN
 add address=24.199.64.0/22 list=DIGITALOCEAN
 add address=24.199.68.0/22 list=DIGITALOCEAN
 add address=24.199.72.0/21 list=DIGITALOCEAN
