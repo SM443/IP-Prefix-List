@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Jun  6 06:00:02 +06 2023
+# Last Update - Wed Jun  7 06:00:02 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6899
+# Total Prefixes: 6893
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1231,6 +1231,8 @@ add address=142.4.161.176/29 list=AMAZON
 add address=142.4.161.184/29 list=AMAZON
 add address=142.4.161.192/29 list=AMAZON
 add address=142.4.161.200/29 list=AMAZON
+add address=142.4.161.208/29 list=AMAZON
+add address=142.4.161.216/29 list=AMAZON
 add address=142.4.161.24/29 list=AMAZON
 add address=142.4.161.32/29 list=AMAZON
 add address=142.4.161.40/29 list=AMAZON
@@ -3356,7 +3358,7 @@ add address=2600:1f00:4000::/40 list=AMAZON
 add address=2600:1f00:5000::/40 list=AMAZON
 add address=2600:1f00:6000::/40 list=AMAZON
 add address=2600:1f00:8000::/40 list=AMAZON
-add address=2600:1f00:a400::/64 list=AMAZON
+add address=2600:1f00:a400::/40 list=AMAZON
 add address=2600:1f00:c000::/40 list=AMAZON
 add address=2600:1f00:e000::/40 list=AMAZON
 add address=2600:1f01:4800::/47 list=AMAZON
@@ -3770,14 +3772,7 @@ add address=2606:f40:fffe::/48 list=AMAZON
 add address=2606:f40:ffff::/48 list=AMAZON
 add address=2620:107:3001::/48 list=AMAZON
 add address=2620:107:300f::/48 list=AMAZON
-add address=2620:107:4000:2::90/128 list=AMAZON
-add address=2620:107:4000:2::91/128 list=AMAZON
-add address=2620:107:4000:2::92/128 list=AMAZON
-add address=2620:107:4000:2::93/128 list=AMAZON
-add address=2620:107:4000:2::94/128 list=AMAZON
-add address=2620:107:4000:2::95/128 list=AMAZON
-add address=2620:107:4000:2::96/128 list=AMAZON
-add address=2620:107:4000:2::97/128 list=AMAZON
+add address=2620:107:4000:2::/64 list=AMAZON
 add address=2620:107:4000:40::/64 list=AMAZON
 add address=2620:107:4000:4c00::/56 list=AMAZON
 add address=2620:107:4000:5::/64 list=AMAZON
@@ -4489,7 +4484,6 @@ add address=3.32.190.248/29 list=AMAZON
 add address=3.33.128.0/17 list=AMAZON
 add address=3.33.34.0/24 list=AMAZON
 add address=3.33.35.0/24 list=AMAZON
-add address=3.33.40.0/24 list=AMAZON
 add address=3.33.41.0/24 list=AMAZON
 add address=3.33.44.0/22 list=AMAZON
 add address=3.34.0.0/15 list=AMAZON
