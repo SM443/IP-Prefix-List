@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Wed Jun  7 06:01:14 +06 2023
+# Last Update - Thu Jun  8 06:01:14 +06 2023
 # --------------------------------------------
-# Total Prefixes: 1280
+# Total Prefixes: 1278
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1148,7 +1148,6 @@ add address=240b:4002::/32 list=ALIBABA
 add address=240b:4002::/33 list=ALIBABA
 add address=240b:4002:8000::/33 list=ALIBABA
 add address=240b:4003:7::/48 list=ALIBABA
-add address=240b:4003:e::/48 list=ALIBABA
 add address=240b:4003:12b::/48 list=ALIBABA
 add address=240b:4003:12c::/48 list=ALIBABA
 add address=240b:4003:1bf::/48 list=ALIBABA
@@ -1164,7 +1163,6 @@ add address=240b:4005:8000::/33 list=ALIBABA
 add address=240b:4007::/32 list=ALIBABA
 add address=240b:4007::/33 list=ALIBABA
 add address=240b:4007:8000::/33 list=ALIBABA
-add address=240b:4007:fffd::/48 list=ALIBABA
 add address=240b:4009::/32 list=ALIBABA
 add address=240b:4009::/33 list=ALIBABA
 add address=240b:4009:8000::/33 list=ALIBABA
