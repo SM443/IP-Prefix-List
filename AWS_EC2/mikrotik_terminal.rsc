@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Jun 23 06:00:02 +06 2023
+# Last Update - Sat Jun 24 06:00:03 +06 2023
 # --------------------------------------------
 # Total Prefixes: 1056
 # --------------------------------------------
@@ -52,6 +52,9 @@ add address=13.58.0.0/15 list=AWS_EC2
 add address=130.171.0.0/26 list=AWS_EC2
 add address=130.171.0.128/26 list=AWS_EC2
 add address=130.171.0.64/26 list=AWS_EC2
+add address=136.18.128.0/23 list=AWS_EC2
+add address=136.18.132.0/23 list=AWS_EC2
+add address=136.18.134.0/23 list=AWS_EC2
 add address=136.18.50.0/23 list=AWS_EC2
 add address=140.179.0.0/16 list=AWS_EC2
 add address=142.4.160.0/29 list=AWS_EC2
@@ -71,7 +74,6 @@ add address=142.4.160.192/29 list=AWS_EC2
 add address=142.4.160.200/29 list=AWS_EC2
 add address=142.4.160.208/29 list=AWS_EC2
 add address=142.4.160.216/29 list=AWS_EC2
-add address=142.4.160.224/29 list=AWS_EC2
 add address=142.4.160.232/29 list=AWS_EC2
 add address=142.4.160.24/29 list=AWS_EC2
 add address=142.4.160.240/29 list=AWS_EC2
@@ -85,7 +87,6 @@ add address=142.4.160.72/29 list=AWS_EC2
 add address=142.4.160.8/29 list=AWS_EC2
 add address=142.4.160.80/29 list=AWS_EC2
 add address=142.4.160.88/29 list=AWS_EC2
-add address=142.4.160.96/29 list=AWS_EC2
 add address=142.4.161.0/29 list=AWS_EC2
 add address=142.4.161.104/29 list=AWS_EC2
 add address=142.4.161.112/29 list=AWS_EC2
@@ -177,7 +178,6 @@ add address=15.181.243.0/24 list=AWS_EC2
 add address=15.181.244.0/24 list=AWS_EC2
 add address=15.181.245.0/24 list=AWS_EC2
 add address=15.181.246.0/24 list=AWS_EC2
-add address=15.181.247.0/24 list=AWS_EC2
 add address=15.181.248.0/24 list=AWS_EC2
 add address=15.181.249.0/24 list=AWS_EC2
 add address=15.181.250.0/24 list=AWS_EC2
