@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Sun Jun 25 06:01:17 +06 2023
+# Last Update - Mon Jun 26 06:01:16 +06 2023
 # --------------------------------------------
-# Total Prefixes: 1278
+# Total Prefixes: 1293
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -150,6 +150,10 @@ add address=43.96.24.0/24 list=ALIBABA
 add address=43.96.25.0/24 list=ALIBABA
 add address=43.96.26.0/24 list=ALIBABA
 add address=43.96.32.0/24 list=ALIBABA
+add address=43.96.34.0/24 list=ALIBABA
+add address=43.96.35.0/24 list=ALIBABA
+add address=43.96.68.0/24 list=ALIBABA
+add address=43.96.69.0/24 list=ALIBABA
 add address=45.196.28.0/24 list=ALIBABA
 add address=45.199.179.0/24 list=ALIBABA
 add address=47.52.0.0/16 list=ALIBABA
@@ -160,6 +164,7 @@ add address=47.56.0.0/16 list=ALIBABA
 add address=47.57.0.0/16 list=ALIBABA
 add address=47.74.0.0/18 list=ALIBABA
 add address=47.74.0.0/19 list=ALIBABA
+add address=47.74.0.0/21 list=ALIBABA
 add address=47.74.32.0/19 list=ALIBABA
 add address=47.74.64.0/18 list=ALIBABA
 add address=47.74.64.0/19 list=ALIBABA
@@ -436,7 +441,7 @@ add address=140.205.1.0/24 list=ALIBABA
 add address=140.205.122.0/24 list=ALIBABA
 add address=147.139.0.0/17 list=ALIBABA
 add address=147.139.0.0/18 list=ALIBABA
-add address=147.139.27.0/24 list=ALIBABA
+add address=147.139.26.0/24 list=ALIBABA
 add address=147.139.64.0/18 list=ALIBABA
 add address=147.139.128.0/17 list=ALIBABA
 add address=147.139.128.0/18 list=ALIBABA
@@ -626,6 +631,9 @@ add address=47.122.16.0/20 list=ALIBABA
 add address=47.122.32.0/19 list=ALIBABA
 add address=47.122.32.0/20 list=ALIBABA
 add address=47.122.48.0/20 list=ALIBABA
+add address=47.122.64.0/19 list=ALIBABA
+add address=47.122.64.0/20 list=ALIBABA
+add address=47.122.80.0/20 list=ALIBABA
 add address=47.123.0.0/16 list=ALIBABA
 add address=47.123.0.0/17 list=ALIBABA
 add address=47.123.128.0/17 list=ALIBABA
@@ -978,6 +986,9 @@ add address=203.209.228.0/22 list=ALIBABA
 add address=203.209.232.0/21 list=ALIBABA
 add address=203.209.236.0/23 list=ALIBABA
 add address=203.209.240.0/20 list=ALIBABA
+add address=203.209.242.0/23 list=ALIBABA
+add address=203.209.242.0/24 list=ALIBABA
+add address=203.209.243.0/24 list=ALIBABA
 add address=203.209.244.0/22 list=ALIBABA
 add address=203.209.244.0/23 list=ALIBABA
 add address=203.209.246.0/23 list=ALIBABA
@@ -997,6 +1008,7 @@ add address=223.4.0.0/14 list=ALIBABA
 add address=223.4.0.0/15 list=ALIBABA
 add address=223.6.0.0/15 list=ALIBABA
 add address=94.158.208.0/21 list=ALIBABA
+add address=8.209.84.0/24 list=ALIBABA
 add address=8.209.122.0/24 list=ALIBABA
 add address=8.211.228.0/24 list=ALIBABA
 add address=8.211.229.0/24 list=ALIBABA
@@ -1132,8 +1144,9 @@ add address=2400:b200:4101::/48 list=ALIBABA
 add address=2400:b200:4102::/48 list=ALIBABA
 add address=2400:b200:4103::/48 list=ALIBABA
 add address=2401:b180:4100::/48 list=ALIBABA
-add address=2404:2280:1600::/40 list=ALIBABA
-add address=2404:2280:1f00::/40 list=ALIBABA
+add address=2404:2280:1000::/36 list=ALIBABA
+add address=2404:2280:1000::/37 list=ALIBABA
+add address=2404:2280:1800::/37 list=ALIBABA
 add address=2404:2280:2000::/36 list=ALIBABA
 add address=2404:2280:2000::/37 list=ALIBABA
 add address=2404:2280:2800::/37 list=ALIBABA
@@ -1148,11 +1161,10 @@ add address=240b:4002::/32 list=ALIBABA
 add address=240b:4002::/33 list=ALIBABA
 add address=240b:4002:8000::/33 list=ALIBABA
 add address=240b:4003:7::/48 list=ALIBABA
+add address=240b:4003:e::/48 list=ALIBABA
 add address=240b:4003:12b::/48 list=ALIBABA
 add address=240b:4003:12c::/48 list=ALIBABA
-add address=240b:4003:1bf::/48 list=ALIBABA
 add address=240b:4003:3e8::/48 list=ALIBABA
-add address=240b:4003:fc00::/48 list=ALIBABA
 add address=240b:4003:fd95::/48 list=ALIBABA
 add address=240b:4003:fd96::/48 list=ALIBABA
 add address=240b:4003:fee3::/48 list=ALIBABA
@@ -1163,9 +1175,12 @@ add address=240b:4005:8000::/33 list=ALIBABA
 add address=240b:4007::/32 list=ALIBABA
 add address=240b:4007::/33 list=ALIBABA
 add address=240b:4007:8000::/33 list=ALIBABA
+add address=240b:4007:fffd::/48 list=ALIBABA
 add address=240b:4009::/32 list=ALIBABA
 add address=240b:4009::/33 list=ALIBABA
 add address=240b:4009:8000::/33 list=ALIBABA
+add address=240b:400b:fffe::/48 list=ALIBABA
+add address=240b:400b:ffff::/48 list=ALIBABA
 add address=240b:400c::/32 list=ALIBABA
 add address=240b:400c::/33 list=ALIBABA
 add address=240b:400c::/40 list=ALIBABA
