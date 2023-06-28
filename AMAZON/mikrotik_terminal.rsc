@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Jun 27 06:00:03 +06 2023
+# Last Update - Wed Jun 28 06:00:02 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6999
+# Total Prefixes: 7004
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1048,6 +1048,8 @@ add address=13.34.97.32/27 list=AMAZON
 add address=13.34.97.64/27 list=AMAZON
 add address=13.34.97.96/27 list=AMAZON
 add address=13.34.98.0/27 list=AMAZON
+add address=13.34.98.128/27 list=AMAZON
+add address=13.34.98.160/27 list=AMAZON
 add address=13.34.98.32/27 list=AMAZON
 add address=13.34.98.64/27 list=AMAZON
 add address=13.34.98.96/27 list=AMAZON
@@ -1606,6 +1608,7 @@ add address=15.230.103.0/24 list=AMAZON
 add address=15.230.104.0/24 list=AMAZON
 add address=15.230.105.0/24 list=AMAZON
 add address=15.230.106.0/24 list=AMAZON
+add address=15.230.107.0/32 list=AMAZON
 add address=15.230.129.0/24 list=AMAZON
 add address=15.230.130.0/24 list=AMAZON
 add address=15.230.131.0/24 list=AMAZON
@@ -2658,6 +2661,7 @@ add address=162.250.238.0/23 list=AMAZON
 add address=172.96.110.0/24 list=AMAZON
 add address=172.96.97.0/24 list=AMAZON
 add address=172.96.98.0/24 list=AMAZON
+add address=173.83.192.0/22 list=AMAZON
 add address=173.83.200.0/22 list=AMAZON
 add address=173.83.209.0/24 list=AMAZON
 add address=174.129.0.0/16 list=AMAZON
@@ -4556,6 +4560,7 @@ add address=3.32.190.248/29 list=AMAZON
 add address=3.33.128.0/17 list=AMAZON
 add address=3.33.34.0/24 list=AMAZON
 add address=3.33.35.0/24 list=AMAZON
+add address=3.33.43.0/24 list=AMAZON
 add address=3.33.44.0/22 list=AMAZON
 add address=3.34.0.0/15 list=AMAZON
 add address=3.34.101.192/26 list=AMAZON
