@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: MICROSOFT DOCS
 # --------------------------------------------
-# Last Update - Thu Jul 20 06:00:05 +06 2023
+# Last Update - Fri Jul 21 06:00:08 +06 2023
 # --------------------------------------------
-# Total Prefixes: 288
+# Total Prefixes: 296
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -268,6 +268,14 @@ add address=206.138.168.0/21 list=MICROSOFT
 add address=206.191.224.0/19 list=MICROSOFT
 add address=207.46.0.0/16 list=MICROSOFT
 add address=207.68.128.0/18 list=MICROSOFT
+add address=207.68.143.144/30 list=MICROSOFT
+add address=207.68.143.148/30 list=MICROSOFT
+add address=207.68.143.224/30 list=MICROSOFT
+add address=207.68.149.80/30 list=MICROSOFT
+add address=207.68.149.84/30 list=MICROSOFT
+add address=207.68.149.88/30 list=MICROSOFT
+add address=207.68.149.92/30 list=MICROSOFT
+add address=207.68.149.96/30 list=MICROSOFT
 add address=208.68.136.0/21 list=MICROSOFT
 add address=208.76.44.0/22 list=MICROSOFT
 add address=208.84.0.0/21 list=MICROSOFT
