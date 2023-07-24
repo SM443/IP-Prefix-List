@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sun Jul 23 06:00:11 +06 2023
+# Last Update - Mon Jul 24 06:00:05 +06 2023
 # --------------------------------------------
-# Total Prefixes: 626
+# Total Prefixes: 630
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -229,6 +229,9 @@ add address=146.148.8.0/21 list=GOOGLE_CLOUD
 add address=146.148.16.0/20 list=GOOGLE_CLOUD
 add address=146.148.112.0/20 list=GOOGLE_CLOUD
 add address=192.158.28.0/22 list=GOOGLE_CLOUD
+add address=34.32.0.0/17 list=GOOGLE_CLOUD
+add address=34.152.80.0/23 list=GOOGLE_CLOUD
+add address=34.177.36.0/23 list=GOOGLE_CLOUD
 add address=34.17.0.0/16 list=GOOGLE_CLOUD
 add address=34.157.124.0/23 list=GOOGLE_CLOUD
 add address=34.157.250.0/23 list=GOOGLE_CLOUD
@@ -610,6 +613,7 @@ add address=2600:1900:4140::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4150::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8100::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4010::/44 list=GOOGLE_CLOUD
+add address=2600:1901:81f0::/44 list=GOOGLE_CLOUD
 add address=2600:1901:81b0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40c0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40d0::/44 list=GOOGLE_CLOUD
