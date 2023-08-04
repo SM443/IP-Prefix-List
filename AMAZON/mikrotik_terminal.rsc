@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Aug  3 06:00:02 +06 2023
+# Last Update - Fri Aug  4 06:00:03 +06 2023
 # --------------------------------------------
-# Total Prefixes: 6766
+# Total Prefixes: 6781
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2269,8 +2269,11 @@ add address=150.222.51.160/27 list=AMAZON
 add address=150.222.51.192/27 list=AMAZON
 add address=150.222.51.224/27 list=AMAZON
 add address=150.222.52.0/27 list=AMAZON
+add address=150.222.52.128/27 list=AMAZON
+add address=150.222.52.160/27 list=AMAZON
 add address=150.222.52.32/27 list=AMAZON
 add address=150.222.52.64/27 list=AMAZON
+add address=150.222.52.96/27 list=AMAZON
 add address=150.222.6.0/24 list=AMAZON
 add address=150.222.64.0/24 list=AMAZON
 add address=150.222.65.0/24 list=AMAZON
@@ -5861,6 +5864,18 @@ add address=52.94.152.180/32 list=AMAZON
 add address=52.94.152.181/32 list=AMAZON
 add address=52.94.152.182/32 list=AMAZON
 add address=52.94.152.183/32 list=AMAZON
+add address=52.94.152.184/32 list=AMAZON
+add address=52.94.152.185/32 list=AMAZON
+add address=52.94.152.186/32 list=AMAZON
+add address=52.94.152.187/32 list=AMAZON
+add address=52.94.152.188/32 list=AMAZON
+add address=52.94.152.189/32 list=AMAZON
+add address=52.94.152.190/32 list=AMAZON
+add address=52.94.152.191/32 list=AMAZON
+add address=52.94.152.192/32 list=AMAZON
+add address=52.94.152.193/32 list=AMAZON
+add address=52.94.152.194/32 list=AMAZON
+add address=52.94.152.195/32 list=AMAZON
 add address=52.94.152.3/32 list=AMAZON
 add address=52.94.152.44/32 list=AMAZON
 add address=52.94.152.60/32 list=AMAZON
