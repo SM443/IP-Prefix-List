@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Aug 19 06:00:05 +06 2023
+# Last Update - Sun Aug 20 06:00:06 +06 2023
 # --------------------------------------------
-# Total Prefixes: 634
+# Total Prefixes: 640
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -345,9 +345,11 @@ add address=130.211.4.0/22 list=GOOGLE_CLOUD
 add address=130.211.8.0/21 list=GOOGLE_CLOUD
 add address=130.211.16.0/20 list=GOOGLE_CLOUD
 add address=130.211.32.0/20 list=GOOGLE_CLOUD
+add address=34.1.32.0/20 list=GOOGLE_CLOUD
 add address=34.18.0.0/16 list=GOOGLE_CLOUD
 add address=34.157.126.0/23 list=GOOGLE_CLOUD
 add address=34.157.252.0/23 list=GOOGLE_CLOUD
+add address=34.1.48.0/20 list=GOOGLE_CLOUD
 add address=34.152.84.0/23 list=GOOGLE_CLOUD
 add address=34.166.0.0/16 list=GOOGLE_CLOUD
 add address=34.177.48.0/23 list=GOOGLE_CLOUD
@@ -357,6 +359,7 @@ add address=34.157.216.0/23 list=GOOGLE_CLOUD
 add address=34.165.0.0/16 list=GOOGLE_CLOUD
 add address=34.19.128.0/17 list=GOOGLE_CLOUD
 add address=34.20.0.0/17 list=GOOGLE_CLOUD
+add address=34.47.0.0/18 list=GOOGLE_CLOUD
 add address=34.95.0.0/18 list=GOOGLE_CLOUD
 add address=34.104.76.0/22 list=GOOGLE_CLOUD
 add address=34.118.128.0/18 list=GOOGLE_CLOUD
@@ -408,6 +411,8 @@ add address=34.28.0.0/14 list=GOOGLE_CLOUD
 add address=34.33.0.0/16 list=GOOGLE_CLOUD
 add address=34.41.0.0/16 list=GOOGLE_CLOUD
 add address=34.42.0.0/16 list=GOOGLE_CLOUD
+add address=34.44.0.0/15 list=GOOGLE_CLOUD
+add address=34.46.0.0/16 list=GOOGLE_CLOUD
 add address=34.66.0.0/15 list=GOOGLE_CLOUD
 add address=34.68.0.0/14 list=GOOGLE_CLOUD
 add address=34.72.0.0/16 list=GOOGLE_CLOUD
@@ -512,6 +517,7 @@ add address=104.196.128.0/18 list=GOOGLE_CLOUD
 add address=104.196.192.0/19 list=GOOGLE_CLOUD
 add address=162.216.148.0/22 list=GOOGLE_CLOUD
 add address=34.21.0.0/17 list=GOOGLE_CLOUD
+add address=34.48.0.0/16 list=GOOGLE_CLOUD
 add address=34.85.128.0/17 list=GOOGLE_CLOUD
 add address=34.86.0.0/16 list=GOOGLE_CLOUD
 add address=34.104.60.0/23 list=GOOGLE_CLOUD
