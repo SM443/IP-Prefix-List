@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Sep 20 06:00:03 +06 2023
+# Last Update - Thu Sep 21 06:00:03 +06 2023
 # --------------------------------------------
 # Total Prefixes: 6878
 # --------------------------------------------
@@ -390,6 +390,8 @@ add address=13.34.102.96/27 list=AMAZON
 add address=13.34.103.0/27 list=AMAZON
 add address=13.34.103.128/27 list=AMAZON
 add address=13.34.103.160/27 list=AMAZON
+add address=13.34.103.192/27 list=AMAZON
+add address=13.34.103.224/27 list=AMAZON
 add address=13.34.103.32/27 list=AMAZON
 add address=13.34.103.64/27 list=AMAZON
 add address=13.34.103.96/27 list=AMAZON
@@ -1067,8 +1069,6 @@ add address=13.34.96.96/27 list=AMAZON
 add address=13.34.97.0/27 list=AMAZON
 add address=13.34.97.128/27 list=AMAZON
 add address=13.34.97.160/27 list=AMAZON
-add address=13.34.97.192/27 list=AMAZON
-add address=13.34.97.224/27 list=AMAZON
 add address=13.34.97.32/27 list=AMAZON
 add address=13.34.97.64/27 list=AMAZON
 add address=13.34.97.96/27 list=AMAZON
@@ -2990,7 +2990,7 @@ add address=2406:da11::/36 list=AMAZON
 add address=2406:da12::/36 list=AMAZON
 add address=2406:da13::/36 list=AMAZON
 add address=2406:da14:7ff:f800::/56 list=AMAZON
-add address=2406:da14::/36 list=AMAZON
+add address=2406:da14::/35 list=AMAZON
 add address=2406:da14:fff:f800::/56 list=AMAZON
 add address=2406:da15::/36 list=AMAZON
 add address=2406:da16::/36 list=AMAZON

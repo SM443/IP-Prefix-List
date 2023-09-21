@@ -3,13 +3,16 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Sep 20 06:00:06 +06 2023
+# Last Update - Thu Sep 21 06:00:07 +06 2023
 # --------------------------------------------
-# Total Prefixes: 640
+# Total Prefixes: 644
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=34.35.0.0/16 list=GOOGLE_CLOUD
+add address=34.152.86.0/23 list=GOOGLE_CLOUD
+add address=34.177.50.0/23 list=GOOGLE_CLOUD
 add address=34.80.0.0/15 list=GOOGLE_CLOUD
 add address=34.137.0.0/16 list=GOOGLE_CLOUD
 add address=35.185.128.0/19 list=GOOGLE_CLOUD
@@ -608,6 +611,7 @@ add address=34.118.240.0/22 list=GOOGLE_CLOUD
 add address=34.124.8.0/22 list=GOOGLE_CLOUD
 add address=34.125.0.0/16 list=GOOGLE_CLOUD
 add address=35.219.128.0/18 list=GOOGLE_CLOUD
+add address=2600:1900:8000::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4030::/44 list=GOOGLE_CLOUD
 add address=2600:1900:41a0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4050::/44 list=GOOGLE_CLOUD
