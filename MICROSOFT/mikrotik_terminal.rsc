@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: MICROSOFT DOCS
 # --------------------------------------------
-# Last Update - Tue Nov 14 06:00:07 +06 2023
+# Last Update - Wed Nov 15 06:00:05 +06 2023
 # --------------------------------------------
-# Total Prefixes: 336
+# Total Prefixes: 341
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -104,6 +104,7 @@ add address=68.154.0.0/15 list=MICROSOFT
 add address=68.210.0.0/15 list=MICROSOFT
 add address=68.218.0.0/15 list=MICROSOFT
 add address=68.220.0.0/15 list=MICROSOFT
+add address=69.15.0.0/16 list=MICROSOFT
 add address=70.37.0.0/17 list=MICROSOFT
 add address=70.37.128.0/18 list=MICROSOFT
 add address=70.152.0.0/15 list=MICROSOFT
@@ -153,6 +154,7 @@ add address=129.75.0.0/16 list=MICROSOFT
 add address=130.131.0.0/16 list=MICROSOFT
 add address=131.107.0.0/16 list=MICROSOFT
 add address=131.145.0.0/16 list=MICROSOFT
+add address=131.189.0.0/16 list=MICROSOFT
 add address=131.253.1.0/24 list=MICROSOFT
 add address=131.253.3.0/24 list=MICROSOFT
 add address=131.253.5.0/24 list=MICROSOFT
@@ -202,6 +204,7 @@ add address=137.162.0.0/16 list=MICROSOFT
 add address=138.91.0.0/16 list=MICROSOFT
 add address=138.105.0.0/16 list=MICROSOFT
 add address=138.196.0.0/16 list=MICROSOFT
+add address=138.213.0.0/16 list=MICROSOFT
 add address=138.239.0.0/16 list=MICROSOFT
 add address=139.217.0.0/16 list=MICROSOFT
 add address=139.219.0.0/16 list=MICROSOFT
@@ -238,9 +241,11 @@ add address=159.27.0.0/16 list=MICROSOFT
 add address=159.128.0.0/16 list=MICROSOFT
 add address=160.4.0.0/16 list=MICROSOFT
 add address=160.207.0.0/16 list=MICROSOFT
+add address=160.234.0.0/16 list=MICROSOFT
 add address=163.57.0.0/16 list=MICROSOFT
 add address=163.228.0.0/16 list=MICROSOFT
 add address=165.15.0.0/16 list=MICROSOFT
+add address=165.17.0.0/16 list=MICROSOFT
 add address=167.105.0.0/16 list=MICROSOFT
 add address=167.162.0.0/16 list=MICROSOFT
 add address=167.186.0.0/16 list=MICROSOFT
