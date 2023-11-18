@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Fri Nov 17 06:02:09 +06 2023
+# Last Update - Sat Nov 18 06:02:08 +06 2023
 # --------------------------------------------
-# Total Prefixes: 205
+# Total Prefixes: 212
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -215,3 +215,10 @@ add address=202.168.124.0/24 list=BIGO
 add address=202.168.125.0/24 list=BIGO
 add address=202.168.126.0/24 list=BIGO
 add address=202.168.127.0/24 list=BIGO
+add address=2404:efc0::/32 list=BIGO
+add address=2404:efc0:141::/48 list=BIGO
+add address=2404:efc0:142::/48 list=BIGO
+add address=2404:efc0:143::/48 list=BIGO
+add address=2404:efc0:155::/48 list=BIGO
+add address=2404:efc0:235::/48 list=BIGO
+add address=2404:efc0:236::/48 list=BIGO
