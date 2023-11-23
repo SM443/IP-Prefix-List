@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: DIGITALOCEAN DOCS
 # --------------------------------------------
-# Last Update - Wed Nov 22 06:00:06 +06 2023
+# Last Update - Thu Nov 23 06:00:06 +06 2023
 # --------------------------------------------
-# Total Prefixes: 1683
+# Total Prefixes: 1687
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -77,6 +77,7 @@ add address=46.101.112.0/20 list=DIGITALOCEAN
 add address=46.101.124.0/22 list=DIGITALOCEAN
 add address=46.101.128.0/18 list=DIGITALOCEAN
 add address=46.101.192.0/18 list=DIGITALOCEAN
+add address=64.23.128.0/20 list=DIGITALOCEAN
 add address=64.225.0.0/20 list=DIGITALOCEAN
 add address=64.225.16.0/20 list=DIGITALOCEAN
 add address=64.225.32.0/20 list=DIGITALOCEAN
@@ -130,12 +131,15 @@ add address=68.183.240.0/22 list=DIGITALOCEAN
 add address=68.183.244.0/22 list=DIGITALOCEAN
 add address=68.183.248.0/22 list=DIGITALOCEAN
 add address=68.183.252.0/22 list=DIGITALOCEAN
+add address=69.55.48.0/22 list=DIGITALOCEAN
 add address=69.55.49.0/24 list=DIGITALOCEAN
 add address=69.55.54.0/24 list=DIGITALOCEAN
 add address=69.55.55.0/24 list=DIGITALOCEAN
+add address=69.55.58.0/23 list=DIGITALOCEAN
 add address=69.55.59.64/26 list=DIGITALOCEAN
 add address=69.55.59.128/26 list=DIGITALOCEAN
 add address=69.55.59.192/27 list=DIGITALOCEAN
+add address=69.55.60.0/22 list=DIGITALOCEAN
 add address=69.55.60.96/27 list=DIGITALOCEAN
 add address=69.55.60.128/26 list=DIGITALOCEAN
 add address=69.55.61.64/26 list=DIGITALOCEAN
