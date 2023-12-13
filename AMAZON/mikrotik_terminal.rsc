@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Dec 12 06:00:03 +06 2023
+# Last Update - Wed Dec 13 06:00:03 +06 2023
 # --------------------------------------------
-# Total Prefixes: 7346
+# Total Prefixes: 7371
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -3154,6 +3154,7 @@ add address=185.48.120.0/22 list=AMAZON
 add address=192.157.32.0/24 list=AMAZON
 add address=192.157.33.0/24 list=AMAZON
 add address=192.157.34.0/24 list=AMAZON
+add address=192.157.72.0/23 list=AMAZON
 add address=192.189.196.0/24 list=AMAZON
 add address=192.31.212.0/24 list=AMAZON
 add address=192.31.213.0/24 list=AMAZON
@@ -6221,6 +6222,18 @@ add address=52.93.193.201/32 list=AMAZON
 add address=52.93.193.202/32 list=AMAZON
 add address=52.93.193.203/32 list=AMAZON
 add address=52.93.198.0/25 list=AMAZON
+add address=52.93.199.100/32 list=AMAZON
+add address=52.93.199.101/32 list=AMAZON
+add address=52.93.199.102/32 list=AMAZON
+add address=52.93.199.103/32 list=AMAZON
+add address=52.93.199.104/32 list=AMAZON
+add address=52.93.199.105/32 list=AMAZON
+add address=52.93.199.106/32 list=AMAZON
+add address=52.93.199.107/32 list=AMAZON
+add address=52.93.199.108/32 list=AMAZON
+add address=52.93.199.109/32 list=AMAZON
+add address=52.93.199.110/32 list=AMAZON
+add address=52.93.199.111/32 list=AMAZON
 add address=52.93.199.24/32 list=AMAZON
 add address=52.93.199.25/32 list=AMAZON
 add address=52.93.199.26/32 list=AMAZON
@@ -6245,6 +6258,18 @@ add address=52.93.199.44/32 list=AMAZON
 add address=52.93.199.45/32 list=AMAZON
 add address=52.93.199.46/32 list=AMAZON
 add address=52.93.199.47/32 list=AMAZON
+add address=52.93.199.88/32 list=AMAZON
+add address=52.93.199.89/32 list=AMAZON
+add address=52.93.199.90/32 list=AMAZON
+add address=52.93.199.91/32 list=AMAZON
+add address=52.93.199.92/32 list=AMAZON
+add address=52.93.199.93/32 list=AMAZON
+add address=52.93.199.94/32 list=AMAZON
+add address=52.93.199.95/32 list=AMAZON
+add address=52.93.199.96/32 list=AMAZON
+add address=52.93.199.97/32 list=AMAZON
+add address=52.93.199.98/32 list=AMAZON
+add address=52.93.199.99/32 list=AMAZON
 add address=52.93.2.0/24 list=AMAZON
 add address=52.93.20.0/24 list=AMAZON
 add address=52.93.201.80/28 list=AMAZON
