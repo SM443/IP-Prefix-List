@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: DIGITALOCEAN DOCS
 # --------------------------------------------
-# Last Update - Wed Dec 27 06:00:05 +06 2023
+# Last Update - Thu Dec 28 06:00:05 +06 2023
 # --------------------------------------------
-# Total Prefixes: 1687
+# Total Prefixes: 1594
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -78,6 +78,7 @@ add address=46.101.124.0/22 list=DIGITALOCEAN
 add address=46.101.128.0/18 list=DIGITALOCEAN
 add address=46.101.192.0/18 list=DIGITALOCEAN
 add address=64.23.128.0/20 list=DIGITALOCEAN
+add address=64.23.144.0/20 list=DIGITALOCEAN
 add address=64.225.0.0/20 list=DIGITALOCEAN
 add address=64.225.16.0/20 list=DIGITALOCEAN
 add address=64.225.32.0/20 list=DIGITALOCEAN
@@ -258,6 +259,7 @@ add address=104.248.192.0/20 list=DIGITALOCEAN
 add address=104.248.208.0/20 list=DIGITALOCEAN
 add address=104.248.224.0/20 list=DIGITALOCEAN
 add address=104.248.240.0/20 list=DIGITALOCEAN
+add address=107.170.0.0/17 list=DIGITALOCEAN
 add address=107.170.0.0/24 list=DIGITALOCEAN
 add address=107.170.1.0/24 list=DIGITALOCEAN
 add address=107.170.2.0/24 list=DIGITALOCEAN
@@ -787,6 +789,7 @@ add address=161.35.240.0/22 list=DIGITALOCEAN
 add address=161.35.244.0/22 list=DIGITALOCEAN
 add address=161.35.248.0/22 list=DIGITALOCEAN
 add address=161.35.252.0/22 list=DIGITALOCEAN
+add address=162.243.0.0/17 list=DIGITALOCEAN
 add address=162.243.0.0/24 list=DIGITALOCEAN
 add address=162.243.1.0/24 list=DIGITALOCEAN
 add address=162.243.2.0/24 list=DIGITALOCEAN
@@ -940,24 +943,10 @@ add address=162.243.149.0/24 list=DIGITALOCEAN
 add address=162.243.150.0/24 list=DIGITALOCEAN
 add address=162.243.151.0/24 list=DIGITALOCEAN
 add address=162.243.152.0/21 list=DIGITALOCEAN
-add address=162.243.160.0/24 list=DIGITALOCEAN
-add address=162.243.161.0/24 list=DIGITALOCEAN
-add address=162.243.162.0/24 list=DIGITALOCEAN
-add address=162.243.163.0/24 list=DIGITALOCEAN
-add address=162.243.164.0/24 list=DIGITALOCEAN
-add address=162.243.165.0/24 list=DIGITALOCEAN
-add address=162.243.166.0/24 list=DIGITALOCEAN
-add address=162.243.167.0/24 list=DIGITALOCEAN
-add address=162.243.168.0/24 list=DIGITALOCEAN
-add address=162.243.169.0/24 list=DIGITALOCEAN
-add address=162.243.170.0/24 list=DIGITALOCEAN
-add address=162.243.171.0/24 list=DIGITALOCEAN
-add address=162.243.172.0/24 list=DIGITALOCEAN
-add address=162.243.173.0/24 list=DIGITALOCEAN
-add address=162.243.174.0/24 list=DIGITALOCEAN
-add address=162.243.175.0/24 list=DIGITALOCEAN
+add address=162.243.160.0/20 list=DIGITALOCEAN
 add address=162.243.177.0/24 list=DIGITALOCEAN
 add address=162.243.184.0/22 list=DIGITALOCEAN
+add address=162.243.192.0/18 list=DIGITALOCEAN
 add address=162.243.192.0/24 list=DIGITALOCEAN
 add address=162.243.193.0/24 list=DIGITALOCEAN
 add address=162.243.194.0/24 list=DIGITALOCEAN
@@ -1271,62 +1260,14 @@ add address=188.226.192.0/20 list=DIGITALOCEAN
 add address=188.226.208.0/20 list=DIGITALOCEAN
 add address=188.226.224.0/20 list=DIGITALOCEAN
 add address=188.226.240.0/20 list=DIGITALOCEAN
-add address=192.34.56.0/24 list=DIGITALOCEAN
-add address=192.34.57.0/24 list=DIGITALOCEAN
-add address=192.34.58.0/24 list=DIGITALOCEAN
-add address=192.34.59.0/24 list=DIGITALOCEAN
-add address=192.34.60.0/24 list=DIGITALOCEAN
-add address=192.34.61.0/24 list=DIGITALOCEAN
-add address=192.34.62.0/24 list=DIGITALOCEAN
-add address=192.34.63.0/24 list=DIGITALOCEAN
-add address=192.81.208.0/24 list=DIGITALOCEAN
-add address=192.81.209.0/24 list=DIGITALOCEAN
-add address=192.81.210.0/24 list=DIGITALOCEAN
-add address=192.81.211.0/24 list=DIGITALOCEAN
-add address=192.81.212.0/24 list=DIGITALOCEAN
-add address=192.81.213.0/24 list=DIGITALOCEAN
-add address=192.81.214.0/24 list=DIGITALOCEAN
-add address=192.81.215.0/24 list=DIGITALOCEAN
-add address=192.81.216.0/24 list=DIGITALOCEAN
-add address=192.81.217.0/24 list=DIGITALOCEAN
-add address=192.81.218.0/24 list=DIGITALOCEAN
-add address=192.81.219.0/24 list=DIGITALOCEAN
+add address=192.34.56.0/21 list=DIGITALOCEAN
+add address=192.81.208.0/21 list=DIGITALOCEAN
+add address=192.81.216.0/22 list=DIGITALOCEAN
 add address=192.81.220.0/24 list=DIGITALOCEAN
 add address=192.81.221.0/24 list=DIGITALOCEAN
 add address=192.81.222.0/24 list=DIGITALOCEAN
 add address=192.81.223.0/24 list=DIGITALOCEAN
-add address=192.241.128.0/24 list=DIGITALOCEAN
-add address=192.241.129.0/24 list=DIGITALOCEAN
-add address=192.241.130.0/24 list=DIGITALOCEAN
-add address=192.241.131.0/24 list=DIGITALOCEAN
-add address=192.241.132.0/24 list=DIGITALOCEAN
-add address=192.241.133.0/24 list=DIGITALOCEAN
-add address=192.241.134.0/24 list=DIGITALOCEAN
-add address=192.241.135.0/24 list=DIGITALOCEAN
-add address=192.241.136.0/24 list=DIGITALOCEAN
-add address=192.241.137.0/24 list=DIGITALOCEAN
-add address=192.241.138.0/24 list=DIGITALOCEAN
-add address=192.241.139.0/24 list=DIGITALOCEAN
-add address=192.241.140.0/24 list=DIGITALOCEAN
-add address=192.241.141.0/24 list=DIGITALOCEAN
-add address=192.241.142.0/24 list=DIGITALOCEAN
-add address=192.241.143.0/24 list=DIGITALOCEAN
-add address=192.241.144.0/24 list=DIGITALOCEAN
-add address=192.241.145.0/24 list=DIGITALOCEAN
-add address=192.241.146.0/24 list=DIGITALOCEAN
-add address=192.241.147.0/24 list=DIGITALOCEAN
-add address=192.241.148.0/24 list=DIGITALOCEAN
-add address=192.241.149.0/24 list=DIGITALOCEAN
-add address=192.241.150.0/24 list=DIGITALOCEAN
-add address=192.241.151.0/24 list=DIGITALOCEAN
-add address=192.241.152.0/24 list=DIGITALOCEAN
-add address=192.241.153.0/24 list=DIGITALOCEAN
-add address=192.241.154.0/24 list=DIGITALOCEAN
-add address=192.241.155.0/24 list=DIGITALOCEAN
-add address=192.241.156.0/24 list=DIGITALOCEAN
-add address=192.241.157.0/24 list=DIGITALOCEAN
-add address=192.241.158.0/24 list=DIGITALOCEAN
-add address=192.241.159.0/24 list=DIGITALOCEAN
+add address=192.241.128.0/19 list=DIGITALOCEAN
 add address=192.241.160.0/24 list=DIGITALOCEAN
 add address=192.241.161.0/24 list=DIGITALOCEAN
 add address=192.241.162.0/24 list=DIGITALOCEAN
@@ -1406,6 +1347,7 @@ add address=192.241.236.0/24 list=DIGITALOCEAN
 add address=192.241.237.0/24 list=DIGITALOCEAN
 add address=192.241.238.0/24 list=DIGITALOCEAN
 add address=192.241.239.0/24 list=DIGITALOCEAN
+add address=192.241.240.0/20 list=DIGITALOCEAN
 add address=192.241.240.0/24 list=DIGITALOCEAN
 add address=192.241.241.0/24 list=DIGITALOCEAN
 add address=192.241.242.0/24 list=DIGITALOCEAN
@@ -1422,34 +1364,9 @@ add address=192.241.252.0/24 list=DIGITALOCEAN
 add address=192.241.253.0/24 list=DIGITALOCEAN
 add address=192.241.254.0/24 list=DIGITALOCEAN
 add address=192.241.255.0/24 list=DIGITALOCEAN
-add address=198.199.64.0/24 list=DIGITALOCEAN
-add address=198.199.65.0/24 list=DIGITALOCEAN
-add address=198.199.66.0/24 list=DIGITALOCEAN
-add address=198.199.67.0/24 list=DIGITALOCEAN
-add address=198.199.68.0/24 list=DIGITALOCEAN
-add address=198.199.69.0/24 list=DIGITALOCEAN
-add address=198.199.70.0/24 list=DIGITALOCEAN
-add address=198.199.71.0/24 list=DIGITALOCEAN
-add address=198.199.72.0/24 list=DIGITALOCEAN
-add address=198.199.73.0/24 list=DIGITALOCEAN
-add address=198.199.74.0/24 list=DIGITALOCEAN
-add address=198.199.75.0/24 list=DIGITALOCEAN
-add address=198.199.76.0/24 list=DIGITALOCEAN
-add address=198.199.77.0/24 list=DIGITALOCEAN
-add address=198.199.78.0/24 list=DIGITALOCEAN
-add address=198.199.79.0/24 list=DIGITALOCEAN
-add address=198.199.80.0/24 list=DIGITALOCEAN
-add address=198.199.81.0/24 list=DIGITALOCEAN
-add address=198.199.82.0/24 list=DIGITALOCEAN
-add address=198.199.83.0/24 list=DIGITALOCEAN
-add address=198.199.84.0/24 list=DIGITALOCEAN
-add address=198.199.85.0/24 list=DIGITALOCEAN
-add address=198.199.86.0/24 list=DIGITALOCEAN
-add address=198.199.87.0/24 list=DIGITALOCEAN
-add address=198.199.88.0/24 list=DIGITALOCEAN
-add address=198.199.89.0/24 list=DIGITALOCEAN
-add address=198.199.90.0/24 list=DIGITALOCEAN
-add address=198.199.91.0/24 list=DIGITALOCEAN
+add address=198.199.64.0/20 list=DIGITALOCEAN
+add address=198.199.80.0/21 list=DIGITALOCEAN
+add address=198.199.88.0/22 list=DIGITALOCEAN
 add address=198.199.92.0/24 list=DIGITALOCEAN
 add address=198.199.93.0/24 list=DIGITALOCEAN
 add address=198.199.94.0/24 list=DIGITALOCEAN
@@ -1477,10 +1394,7 @@ add address=198.199.116.0/24 list=DIGITALOCEAN
 add address=198.199.117.0/24 list=DIGITALOCEAN
 add address=198.199.118.0/24 list=DIGITALOCEAN
 add address=198.199.119.0/24 list=DIGITALOCEAN
-add address=198.199.120.0/24 list=DIGITALOCEAN
-add address=198.199.121.0/24 list=DIGITALOCEAN
-add address=198.199.122.0/24 list=DIGITALOCEAN
-add address=198.199.123.0/24 list=DIGITALOCEAN
+add address=198.199.120.0/22 list=DIGITALOCEAN
 add address=198.199.124.0/24 list=DIGITALOCEAN
 add address=198.199.125.0/24 list=DIGITALOCEAN
 add address=198.199.126.0/24 list=DIGITALOCEAN
@@ -1500,12 +1414,8 @@ add address=198.211.107.0/24 list=DIGITALOCEAN
 add address=198.211.108.0/24 list=DIGITALOCEAN
 add address=198.211.109.0/24 list=DIGITALOCEAN
 add address=198.211.110.0/24 list=DIGITALOCEAN
-add address=198.211.112.0/24 list=DIGITALOCEAN
-add address=198.211.113.0/24 list=DIGITALOCEAN
-add address=198.211.114.0/24 list=DIGITALOCEAN
-add address=198.211.115.0/24 list=DIGITALOCEAN
-add address=198.211.116.0/24 list=DIGITALOCEAN
-add address=198.211.117.0/24 list=DIGITALOCEAN
+add address=198.211.112.0/22 list=DIGITALOCEAN
+add address=198.211.116.0/23 list=DIGITALOCEAN
 add address=198.211.118.0/24 list=DIGITALOCEAN
 add address=198.211.119.0/24 list=DIGITALOCEAN
 add address=198.211.120.0/24 list=DIGITALOCEAN
@@ -1542,10 +1452,7 @@ add address=207.154.192.0/20 list=DIGITALOCEAN
 add address=207.154.208.0/20 list=DIGITALOCEAN
 add address=207.154.224.0/20 list=DIGITALOCEAN
 add address=207.154.240.0/20 list=DIGITALOCEAN
-add address=208.68.36.0/24 list=DIGITALOCEAN
-add address=208.68.37.0/24 list=DIGITALOCEAN
-add address=208.68.38.0/24 list=DIGITALOCEAN
-add address=208.68.39.0/24 list=DIGITALOCEAN
+add address=208.68.36.0/22 list=DIGITALOCEAN
 add address=209.38.176.0/20 list=DIGITALOCEAN
 add address=209.38.192.0/19 list=DIGITALOCEAN
 add address=209.38.224.0/19 list=DIGITALOCEAN
