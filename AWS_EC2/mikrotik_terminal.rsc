@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Dec 29 06:00:03 +06 2023
+# Last Update - Sat Dec 30 06:00:03 +06 2023
 # --------------------------------------------
 # Total Prefixes: 1131
 # --------------------------------------------
@@ -515,7 +515,7 @@ add address=3.30.0.0/15 list=AWS_EC2
 add address=3.32.0.0/16 list=AWS_EC2
 add address=3.33.34.0/24 list=AWS_EC2
 add address=3.33.35.0/24 list=AWS_EC2
-add address=3.33.40.0/23 list=AWS_EC2
+add address=3.33.40.0/24 list=AWS_EC2
 add address=3.33.42.0/24 list=AWS_EC2
 add address=3.33.43.0/24 list=AWS_EC2
 add address=3.34.0.0/15 list=AWS_EC2
