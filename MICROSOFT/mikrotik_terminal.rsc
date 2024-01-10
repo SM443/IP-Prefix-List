@@ -3,14 +3,15 @@
 # --------------------------------------------
 # Source: MICROSOFT DOCS
 # --------------------------------------------
-# Last Update - Tue Jan  9 06:00:07 +06 2024
+# Last Update - Wed Jan 10 06:00:06 +06 2024
 # --------------------------------------------
-# Total Prefixes: 352
+# Total Prefixes: 366
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=Prefix list=MICROSOFT
+add address=1.186.0.0/16 list=MICROSOFT
 add address=4.128.0.0/12 list=MICROSOFT
 add address=4.144.0.0/12 list=MICROSOFT
 add address=4.160.0.0/12 list=MICROSOFT
@@ -50,11 +51,18 @@ add address=20.180.0.0/14 list=MICROSOFT
 add address=20.184.0.0/13 list=MICROSOFT
 add address=20.192.0.0/10 list=MICROSOFT
 add address=23.96.0.0/13 list=MICROSOFT
+add address=40.47.0.0/16 list=MICROSOFT
 add address=40.64.0.0/10 list=MICROSOFT
+add address=40.146.0.0/16 list=MICROSOFT
+add address=40.148.0.0/16 list=MICROSOFT
+add address=40.155.0.0/16 list=MICROSOFT
+add address=40.159.0.0/16 list=MICROSOFT
 add address=40.162.0.0/16 list=MICROSOFT
 add address=40.169.0.0/16 list=MICROSOFT
 add address=40.170.0.0/16 list=MICROSOFT
 add address=40.171.0.0/16 list=MICROSOFT
+add address=40.212.0.0/16 list=MICROSOFT
+add address=40.253.0.0/16 list=MICROSOFT
 add address=42.159.0.0/16 list=MICROSOFT
 add address=42.159.128.3/32 list=MICROSOFT
 add address=42.159.128.4/32 list=MICROSOFT
@@ -155,10 +163,12 @@ add address=128.85.0.0/16 list=MICROSOFT
 add address=128.94.0.0/16 list=MICROSOFT
 add address=128.203.0.0/16 list=MICROSOFT
 add address=129.75.0.0/16 list=MICROSOFT
+add address=129.135.0.0/16 list=MICROSOFT
 add address=130.131.0.0/16 list=MICROSOFT
 add address=130.213.0.0/16 list=MICROSOFT
 add address=131.107.0.0/16 list=MICROSOFT
 add address=131.145.0.0/16 list=MICROSOFT
+add address=131.163.0.0/16 list=MICROSOFT
 add address=131.189.0.0/16 list=MICROSOFT
 add address=131.253.1.0/24 list=MICROSOFT
 add address=131.253.3.0/24 list=MICROSOFT
@@ -197,6 +207,7 @@ add address=135.130.0.0/16 list=MICROSOFT
 add address=135.149.0.0/16 list=MICROSOFT
 add address=135.171.0.0/16 list=MICROSOFT
 add address=135.185.0.0/16 list=MICROSOFT
+add address=135.220.0.0/16 list=MICROSOFT
 add address=135.224.0.0/15 list=MICROSOFT
 add address=135.226.0.0/16 list=MICROSOFT
 add address=135.229.0.0/16 list=MICROSOFT
@@ -204,6 +215,7 @@ add address=135.230.0.0/16 list=MICROSOFT
 add address=135.232.0.0/14 list=MICROSOFT
 add address=135.236.0.0/15 list=MICROSOFT
 add address=135.240.0.0/16 list=MICROSOFT
+add address=135.241.0.0/16 list=MICROSOFT
 add address=137.116.0.0/15 list=MICROSOFT
 add address=137.135.0.0/16 list=MICROSOFT
 add address=137.162.0.0/16 list=MICROSOFT
@@ -224,7 +236,9 @@ add address=147.145.0.0/16 list=MICROSOFT
 add address=147.214.0.0/16 list=MICROSOFT
 add address=147.243.0.0/16 list=MICROSOFT
 add address=148.7.0.0/16 list=MICROSOFT
+add address=148.53.0.0/16 list=MICROSOFT
 add address=149.1.0.0/16 list=MICROSOFT
+add address=149.175.0.0/16 list=MICROSOFT
 add address=149.198.0.0/16 list=MICROSOFT
 add address=150.171.0.0/16 list=MICROSOFT
 add address=150.212.0.0/16 list=MICROSOFT
