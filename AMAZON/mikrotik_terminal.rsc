@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Jan 25 06:00:02 +06 2024
+# Last Update - Fri Jan 26 06:00:02 +06 2024
 # --------------------------------------------
 # Total Prefixes: 7549
 # --------------------------------------------
@@ -4056,7 +4056,6 @@ add address=2600:f00f::/40 list=AMAZON
 add address=2600:f0f0:0:100::/56 list=AMAZON
 add address=2600:f0f0:0:300::/56 list=AMAZON
 add address=2600:f0f0:1000::/44 list=AMAZON
-add address=2600:f0f0:10::/48 list=AMAZON
 add address=2600:f0f0:1:1000::/56 list=AMAZON
 add address=2600:f0f0:1:1100::/56 list=AMAZON
 add address=2600:f0f0:1:1300::/56 list=AMAZON
@@ -4609,6 +4608,7 @@ add address=3.145.31.0/26 list=AMAZON
 add address=3.145.31.128/26 list=AMAZON
 add address=3.146.12.0/22 list=AMAZON
 add address=3.146.22.0/26 list=AMAZON
+add address=3.146.232.0/22 list=AMAZON
 add address=3.146.29.66/31 list=AMAZON
 add address=3.146.36.192/26 list=AMAZON
 add address=3.146.42.64/30 list=AMAZON
