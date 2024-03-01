@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Thu Feb 29 06:00:23 +06 2024
+# Last Update - Fri Mar  1 06:00:24 +06 2024
 # --------------------------------------------
 # Total Prefixes: 3534
 # --------------------------------------------
@@ -11,7 +11,7 @@
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02) list=LINODE
-add address=# Last modified: 2024-02-28 10:00:04.069264 list=LINODE
+add address=# Last modified: 2024-02-29 10:00:04.390487 list=LINODE
 add address=# prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c01::/32 list=LINODE
@@ -1690,7 +1690,6 @@ add address=139.144.98.0/24 list=LINODE
 add address=139.144.99.0/24 list=LINODE
 add address=139.144.100.0/24 list=LINODE
 add address=139.144.101.0/24 list=LINODE
-add address=139.144.102.0/24 list=LINODE
 add address=139.144.112.0/24 list=LINODE
 add address=139.144.113.0/24 list=LINODE
 add address=139.144.114.0/24 list=LINODE
@@ -2802,6 +2801,7 @@ add address=172.235.155.0/24 list=LINODE
 add address=172.235.156.0/24 list=LINODE
 add address=172.235.157.0/24 list=LINODE
 add address=172.235.158.0/24 list=LINODE
+add address=139.144.102.0/24 list=LINODE
 add address=143.42.140.0/24 list=LINODE
 add address=143.42.211.0/24 list=LINODE
 add address=143.42.225.0/24 list=LINODE
