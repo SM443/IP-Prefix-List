@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: MICROSOFT DOCS
 # --------------------------------------------
-# Last Update - Tue Mar  5 06:00:06 +06 2024
+# Last Update - Wed Mar  6 06:00:10 +06 2024
 # --------------------------------------------
-# Total Prefixes: 358
+# Total Prefixes: 364
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -200,8 +200,11 @@ add address=135.6.0.0/16 list=MICROSOFT
 add address=135.7.0.0/16 list=MICROSOFT
 add address=135.18.0.0/16 list=MICROSOFT
 add address=135.85.0.0/16 list=MICROSOFT
+add address=135.88.0.0/16 list=MICROSOFT
+add address=135.93.0.0/16 list=MICROSOFT
 add address=135.114.0.0/16 list=MICROSOFT
 add address=135.116.0.0/16 list=MICROSOFT
+add address=135.119.0.0/16 list=MICROSOFT
 add address=135.130.0.0/16 list=MICROSOFT
 add address=135.149.0.0/16 list=MICROSOFT
 add address=135.171.0.0/16 list=MICROSOFT
@@ -216,6 +219,7 @@ add address=135.236.0.0/15 list=MICROSOFT
 add address=135.240.0.0/16 list=MICROSOFT
 add address=135.241.0.0/16 list=MICROSOFT
 add address=135.244.0.0/16 list=MICROSOFT
+add address=135.255.0.0/16 list=MICROSOFT
 add address=137.116.0.0/15 list=MICROSOFT
 add address=137.135.0.0/16 list=MICROSOFT
 add address=137.162.0.0/16 list=MICROSOFT
@@ -259,6 +263,7 @@ add address=157.176.0.0/16 list=MICROSOFT
 add address=157.252.0.0/16 list=MICROSOFT
 add address=158.23.0.0/16 list=MICROSOFT
 add address=158.24.0.0/16 list=MICROSOFT
+add address=158.53.0.0/16 list=MICROSOFT
 add address=158.158.0.0/16 list=MICROSOFT
 add address=159.27.0.0/16 list=MICROSOFT
 add address=159.128.0.0/16 list=MICROSOFT
@@ -311,6 +316,7 @@ add address=199.60.28.0/24 list=MICROSOFT
 add address=199.74.210.0/24 list=MICROSOFT
 add address=199.103.90.0/23 list=MICROSOFT
 add address=199.103.122.0/24 list=MICROSOFT
+add address=199.118.0.0/16 list=MICROSOFT
 add address=199.242.32.0/20 list=MICROSOFT
 add address=199.242.48.0/21 list=MICROSOFT
 add address=202.89.224.0/20 list=MICROSOFT
