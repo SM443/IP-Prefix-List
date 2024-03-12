@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Mar 11 06:00:02 +06 2024
+# Last Update - Tue Mar 12 06:00:02 +06 2024
 # --------------------------------------------
-# Total Prefixes: 7712
+# Total Prefixes: 7793
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -612,9 +612,39 @@ add address=13.34.114.160/27 list=AMAZON
 add address=13.34.114.32/27 list=AMAZON
 add address=13.34.114.64/27 list=AMAZON
 add address=13.34.114.96/27 list=AMAZON
+add address=13.34.12.1/32 list=AMAZON
+add address=13.34.12.10/32 list=AMAZON
+add address=13.34.12.11/32 list=AMAZON
+add address=13.34.12.12/32 list=AMAZON
+add address=13.34.12.13/32 list=AMAZON
+add address=13.34.12.14/32 list=AMAZON
+add address=13.34.12.15/32 list=AMAZON
 add address=13.34.12.192/27 list=AMAZON
+add address=13.34.12.2/32 list=AMAZON
 add address=13.34.12.224/27 list=AMAZON
+add address=13.34.12.3/32 list=AMAZON
+add address=13.34.12.33/32 list=AMAZON
+add address=13.34.12.34/32 list=AMAZON
+add address=13.34.12.35/32 list=AMAZON
+add address=13.34.12.36/32 list=AMAZON
+add address=13.34.12.37/32 list=AMAZON
+add address=13.34.12.38/32 list=AMAZON
+add address=13.34.12.39/32 list=AMAZON
+add address=13.34.12.4/32 list=AMAZON
+add address=13.34.12.40/32 list=AMAZON
+add address=13.34.12.41/32 list=AMAZON
+add address=13.34.12.42/32 list=AMAZON
+add address=13.34.12.43/32 list=AMAZON
+add address=13.34.12.44/32 list=AMAZON
+add address=13.34.12.45/32 list=AMAZON
+add address=13.34.12.46/32 list=AMAZON
+add address=13.34.12.47/32 list=AMAZON
+add address=13.34.12.5/32 list=AMAZON
+add address=13.34.12.6/32 list=AMAZON
 add address=13.34.12.64/27 list=AMAZON
+add address=13.34.12.7/32 list=AMAZON
+add address=13.34.12.8/32 list=AMAZON
+add address=13.34.12.9/32 list=AMAZON
 add address=13.34.12.96/27 list=AMAZON
 add address=13.34.13.0/27 list=AMAZON
 add address=13.34.13.128/27 list=AMAZON
@@ -640,7 +670,17 @@ add address=13.34.17.64/27 list=AMAZON
 add address=13.34.17.96/27 list=AMAZON
 add address=13.34.18.1/32 list=AMAZON
 add address=13.34.18.10/32 list=AMAZON
+add address=13.34.18.100/32 list=AMAZON
+add address=13.34.18.101/32 list=AMAZON
+add address=13.34.18.102/32 list=AMAZON
+add address=13.34.18.103/32 list=AMAZON
+add address=13.34.18.104/32 list=AMAZON
+add address=13.34.18.105/32 list=AMAZON
+add address=13.34.18.106/32 list=AMAZON
+add address=13.34.18.107/32 list=AMAZON
 add address=13.34.18.11/32 list=AMAZON
+add address=13.34.18.110/32 list=AMAZON
+add address=13.34.18.111/32 list=AMAZON
 add address=13.34.18.12/32 list=AMAZON
 add address=13.34.18.128/27 list=AMAZON
 add address=13.34.18.13/32 list=AMAZON
@@ -673,17 +713,59 @@ add address=13.34.18.48/32 list=AMAZON
 add address=13.34.18.49/32 list=AMAZON
 add address=13.34.18.5/32 list=AMAZON
 add address=13.34.18.6/32 list=AMAZON
+add address=13.34.18.65/32 list=AMAZON
+add address=13.34.18.66/32 list=AMAZON
+add address=13.34.18.67/32 list=AMAZON
+add address=13.34.18.68/32 list=AMAZON
+add address=13.34.18.69/32 list=AMAZON
 add address=13.34.18.7/32 list=AMAZON
+add address=13.34.18.70/32 list=AMAZON
+add address=13.34.18.71/32 list=AMAZON
+add address=13.34.18.72/32 list=AMAZON
+add address=13.34.18.73/32 list=AMAZON
+add address=13.34.18.74/32 list=AMAZON
+add address=13.34.18.75/32 list=AMAZON
+add address=13.34.18.78/32 list=AMAZON
+add address=13.34.18.79/32 list=AMAZON
 add address=13.34.18.8/32 list=AMAZON
 add address=13.34.18.9/32 list=AMAZON
+add address=13.34.18.97/32 list=AMAZON
+add address=13.34.18.98/32 list=AMAZON
+add address=13.34.18.99/32 list=AMAZON
 add address=13.34.19.192/27 list=AMAZON
 add address=13.34.19.224/27 list=AMAZON
 add address=13.34.19.64/27 list=AMAZON
 add address=13.34.19.96/27 list=AMAZON
 add address=13.34.2.0/27 list=AMAZON
+add address=13.34.2.100/32 list=AMAZON
+add address=13.34.2.101/32 list=AMAZON
+add address=13.34.2.102/32 list=AMAZON
+add address=13.34.2.103/32 list=AMAZON
+add address=13.34.2.104/32 list=AMAZON
+add address=13.34.2.105/32 list=AMAZON
+add address=13.34.2.106/32 list=AMAZON
+add address=13.34.2.107/32 list=AMAZON
+add address=13.34.2.110/32 list=AMAZON
+add address=13.34.2.111/32 list=AMAZON
 add address=13.34.2.128/27 list=AMAZON
 add address=13.34.2.160/27 list=AMAZON
 add address=13.34.2.32/27 list=AMAZON
+add address=13.34.2.65/32 list=AMAZON
+add address=13.34.2.66/32 list=AMAZON
+add address=13.34.2.67/32 list=AMAZON
+add address=13.34.2.68/32 list=AMAZON
+add address=13.34.2.69/32 list=AMAZON
+add address=13.34.2.70/32 list=AMAZON
+add address=13.34.2.71/32 list=AMAZON
+add address=13.34.2.72/32 list=AMAZON
+add address=13.34.2.73/32 list=AMAZON
+add address=13.34.2.74/32 list=AMAZON
+add address=13.34.2.75/32 list=AMAZON
+add address=13.34.2.78/32 list=AMAZON
+add address=13.34.2.79/32 list=AMAZON
+add address=13.34.2.97/32 list=AMAZON
+add address=13.34.2.98/32 list=AMAZON
+add address=13.34.2.99/32 list=AMAZON
 add address=13.34.20.0/27 list=AMAZON
 add address=13.34.20.192/27 list=AMAZON
 add address=13.34.20.224/27 list=AMAZON
@@ -3341,6 +3423,7 @@ add address=18.89.0.0/18 list=AMAZON
 add address=18.89.128.0/18 list=AMAZON
 add address=180.163.57.0/25 list=AMAZON
 add address=180.163.57.128/26 list=AMAZON
+add address=182.24.0.0/14 list=AMAZON
 add address=182.28.0.0/16 list=AMAZON
 add address=182.29.0.0/16 list=AMAZON
 add address=182.30.0.0/16 list=AMAZON
@@ -5549,8 +5632,6 @@ add address=43.204.0.0/15 list=AMAZON
 add address=43.206.0.0/15 list=AMAZON
 add address=43.207.179.168/29 list=AMAZON
 add address=43.207.179.176/29 list=AMAZON
-add address=43.208.0.0/15 list=AMAZON
-add address=43.210.0.0/15 list=AMAZON
 add address=43.216.0.0/15 list=AMAZON
 add address=43.218.0.0/16 list=AMAZON
 add address=43.218.156.0/24 list=AMAZON
