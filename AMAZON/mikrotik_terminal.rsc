@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Mar 25 06:00:03 +06 2024
+# Last Update - Tue Mar 26 06:00:02 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8123
+# Total Prefixes: 8144
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2848,6 +2848,8 @@ add address=15.251.0.3/32 list=AMAZON
 add address=15.251.0.33/32 list=AMAZON
 add address=15.251.0.34/32 list=AMAZON
 add address=15.251.0.4/32 list=AMAZON
+add address=15.251.0.47/32 list=AMAZON
+add address=15.251.0.48/32 list=AMAZON
 add address=15.251.0.5/32 list=AMAZON
 add address=15.251.0.6/32 list=AMAZON
 add address=15.251.0.7/32 list=AMAZON
@@ -3527,6 +3529,8 @@ add address=18.171.63.32/30 list=AMAZON
 add address=18.171.63.36/30 list=AMAZON
 add address=18.172.0.0/15 list=AMAZON
 add address=18.175.0.0/16 list=AMAZON
+add address=18.175.65.0/24 list=AMAZON
+add address=18.175.66.0/24 list=AMAZON
 add address=18.176.0.0/15 list=AMAZON
 add address=18.176.203.120/30 list=AMAZON
 add address=18.177.156.192/26 list=AMAZON
@@ -4668,6 +4672,7 @@ add address=2605:9cc0:1ff0:900::/56 list=AMAZON
 add address=2605:9cc0:1ff0::/56 list=AMAZON
 add address=2605:9cc0:1ff0:f800::/56 list=AMAZON
 add address=2605:9cc0:1fff:fc00::/54 list=AMAZON
+add address=2606:7b40:1000::/40 list=AMAZON
 add address=2606:f40:2100::/40 list=AMAZON
 add address=2606:f40:400::/39 list=AMAZON
 add address=2606:f40:8000::/39 list=AMAZON
@@ -8047,6 +8052,22 @@ add address=99.77.55.255/32 list=AMAZON
 add address=99.77.55.26/32 list=AMAZON
 add address=99.77.55.27/32 list=AMAZON
 add address=99.77.55.3/32 list=AMAZON
+add address=99.77.55.32/32 list=AMAZON
+add address=99.77.55.33/32 list=AMAZON
+add address=99.77.55.34/32 list=AMAZON
+add address=99.77.55.35/32 list=AMAZON
+add address=99.77.55.36/32 list=AMAZON
+add address=99.77.55.37/32 list=AMAZON
+add address=99.77.55.38/32 list=AMAZON
+add address=99.77.55.39/32 list=AMAZON
+add address=99.77.55.40/32 list=AMAZON
+add address=99.77.55.41/32 list=AMAZON
+add address=99.77.55.42/32 list=AMAZON
+add address=99.77.55.43/32 list=AMAZON
+add address=99.77.55.44/32 list=AMAZON
+add address=99.77.55.45/32 list=AMAZON
+add address=99.77.55.46/32 list=AMAZON
+add address=99.77.55.47/32 list=AMAZON
 add address=99.77.56.0/21 list=AMAZON
 add address=99.78.128.0/20 list=AMAZON
 add address=99.78.144.0/21 list=AMAZON

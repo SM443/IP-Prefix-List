@@ -3,15 +3,15 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Mon Mar 25 06:00:23 +06 2024
+# Last Update - Tue Mar 26 06:00:22 +06 2024
 # --------------------------------------------
-# Total Prefixes: 3637
+# Total Prefixes: 3644
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805 list=LINODE
-add address=# Last modified: 2024-03-24 10:00:04.515519 list=LINODE
+add address=# Last modified: 2024-03-25 13:38:40.526270 list=LINODE
 add address=# ip_prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c01::/32 list=LINODE
@@ -40,6 +40,7 @@ add address=2600:3c0b::/32 list=LINODE
 add address=2a01:7e04::/32 list=LINODE
 add address=2600:3c0c::/32 list=LINODE
 add address=2a01:7e03::/32 list=LINODE
+add address=2600:3c13::/32 list=LINODE
 add address=72.14.177.0/24 list=LINODE
 add address=72.14.176.0/24 list=LINODE
 add address=72.14.178.0/24 list=LINODE
@@ -2900,6 +2901,10 @@ add address=172.235.248.0/24 list=LINODE
 add address=172.235.249.0/24 list=LINODE
 add address=172.235.250.0/24 list=LINODE
 add address=172.235.251.0/24 list=LINODE
+add address=172.236.0.0/24 list=LINODE
+add address=172.236.1.0/24 list=LINODE
+add address=172.236.2.0/24 list=LINODE
+add address=172.236.3.0/24 list=LINODE
 add address=139.144.102.0/24 list=LINODE
 add address=143.42.140.0/24 list=LINODE
 add address=143.42.211.0/24 list=LINODE
@@ -3635,6 +3640,8 @@ add address=172.234.158.0/24 list=LINODE
 add address=172.234.157.0/24 list=LINODE
 add address=172.234.156.0/24 list=LINODE
 add address=172.233.210.0/24 list=LINODE
+add address=172.236.4.0/24 list=LINODE
+add address=172.236.5.0/24 list=LINODE
 add address=178.79.175.0/24 list=LINODE
 add address=185.3.92.0/24 list=LINODE
 add address=185.3.93.0/24 list=LINODE
