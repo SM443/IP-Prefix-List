@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: DIGITALOCEAN DOCS
 # --------------------------------------------
-# Last Update - Mon Apr  8 06:00:03 +06 2024
+# Last Update - Tue Apr  9 06:00:05 +06 2024
 # --------------------------------------------
-# Total Prefixes: 1326
+# Total Prefixes: 1323
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -167,15 +167,12 @@ add address=82.196.13.0/24 list=DIGITALOCEAN
 add address=82.196.14.0/24 list=DIGITALOCEAN
 add address=82.196.15.0/24 list=DIGITALOCEAN
 add address=95.85.1.0/24 list=DIGITALOCEAN
-add address=95.85.2.0/23 list=DIGITALOCEAN
 add address=95.85.2.0/24 list=DIGITALOCEAN
 add address=95.85.3.0/24 list=DIGITALOCEAN
-add address=95.85.4.0/22 list=DIGITALOCEAN
 add address=95.85.4.0/24 list=DIGITALOCEAN
 add address=95.85.5.0/24 list=DIGITALOCEAN
 add address=95.85.6.0/24 list=DIGITALOCEAN
 add address=95.85.7.0/24 list=DIGITALOCEAN
-add address=95.85.8.0/21 list=DIGITALOCEAN
 add address=95.85.8.0/24 list=DIGITALOCEAN
 add address=95.85.9.0/24 list=DIGITALOCEAN
 add address=95.85.10.0/24 list=DIGITALOCEAN
@@ -184,7 +181,6 @@ add address=95.85.12.0/24 list=DIGITALOCEAN
 add address=95.85.13.0/24 list=DIGITALOCEAN
 add address=95.85.14.0/24 list=DIGITALOCEAN
 add address=95.85.15.0/24 list=DIGITALOCEAN
-add address=95.85.16.0/20 list=DIGITALOCEAN
 add address=95.85.16.0/24 list=DIGITALOCEAN
 add address=95.85.17.0/24 list=DIGITALOCEAN
 add address=95.85.18.0/24 list=DIGITALOCEAN
@@ -201,7 +197,6 @@ add address=95.85.28.0/24 list=DIGITALOCEAN
 add address=95.85.29.0/24 list=DIGITALOCEAN
 add address=95.85.30.0/24 list=DIGITALOCEAN
 add address=95.85.31.0/24 list=DIGITALOCEAN
-add address=95.85.32.0/19 list=DIGITALOCEAN
 add address=95.85.32.0/24 list=DIGITALOCEAN
 add address=95.85.33.0/24 list=DIGITALOCEAN
 add address=95.85.34.0/24 list=DIGITALOCEAN
@@ -581,8 +576,10 @@ add address=147.182.240.0/20 list=DIGITALOCEAN
 add address=152.42.128.0/20 list=DIGITALOCEAN
 add address=152.42.144.0/22 list=DIGITALOCEAN
 add address=152.42.148.0/22 list=DIGITALOCEAN
+add address=152.42.152.0/22 list=DIGITALOCEAN
 add address=152.42.160.0/19 list=DIGITALOCEAN
 add address=152.42.192.0/19 list=DIGITALOCEAN
+add address=152.42.224.0/20 list=DIGITALOCEAN
 add address=157.230.0.0/20 list=DIGITALOCEAN
 add address=157.230.16.0/20 list=DIGITALOCEAN
 add address=157.230.32.0/20 list=DIGITALOCEAN
