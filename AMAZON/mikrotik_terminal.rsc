@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Apr 18 06:00:02 +06 2024
+# Last Update - Fri Apr 19 06:00:02 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8793
+# Total Prefixes: 8798
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -832,6 +832,8 @@ add address=13.34.118.0/27 list=AMAZON
 add address=13.34.118.32/27 list=AMAZON
 add address=13.34.119.0/27 list=AMAZON
 add address=13.34.119.32/27 list=AMAZON
+add address=13.34.119.64/27 list=AMAZON
+add address=13.34.119.96/27 list=AMAZON
 add address=13.34.12.1/32 list=AMAZON
 add address=13.34.12.10/32 list=AMAZON
 add address=13.34.12.11/32 list=AMAZON
@@ -5426,6 +5428,9 @@ add address=2a01:578:0:7300::1/128 list=AMAZON
 add address=2a01:578:0:7301::1/128 list=AMAZON
 add address=2a01:578:0:7302::1/128 list=AMAZON
 add address=2a01:578:0:7400::/56 list=AMAZON
+add address=2a01:578:0:7500::1/128 list=AMAZON
+add address=2a01:578:0:7501::1/128 list=AMAZON
+add address=2a01:578:0:7502::1/128 list=AMAZON
 add address=2a01:578:0:7700::/56 list=AMAZON
 add address=2a01:578:0:7800::/56 list=AMAZON
 add address=2a01:578:0:7900::/56 list=AMAZON
