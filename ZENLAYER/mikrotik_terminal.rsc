@@ -3,10 +3,12 @@
 # --------------------------------------------
 # Source: Nikolai Tschacher's API
 # --------------------------------------------
-# Last Update - Sun Apr 28 06:00:25 +06 2024
+# Last Update - Tue Apr 30 18:04:39 +06 2024
 # --------------------------------------------
-# Total Prefixes: 0
+# Total Prefixes: 2
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=98.98.108.0/23 list=ZENLAYER
+add address=103.167.50.0/23 list=ZENLAYER
