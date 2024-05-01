@@ -1,14 +1,12 @@
 # --------------------------------------------
 # IPv4 prefix list of ZENLAYER
 # --------------------------------------------
-# Source: Nikolai Tschacher's API
+# Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Apr 30 18:04:39 +06 2024
+# Last Update - Wed May  1 06:01:31 +06 2024
 # --------------------------------------------
-# Total Prefixes: 2
+# Total Prefixes: 0
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=98.98.108.0/23 list=ZENLAYER
-add address=103.167.50.0/23 list=ZENLAYER
