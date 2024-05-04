@@ -3,13 +3,10 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri May  3 06:01:06 +06 2024
+# Last Update - Sat May  4 06:01:12 +06 2024
 # --------------------------------------------
-# Total Prefixes: 3
+# Total Prefixes: 0
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=94.158.208.0/21 list=ALIBABA
-add address=94.158.209.0/24 list=ALIBABA
-add address=94.158.211.0/24 list=ALIBABA
