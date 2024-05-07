@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon May  6 06:00:03 +06 2024
+# Last Update - Tue May  7 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8883
+# Total Prefixes: 8879
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -3871,6 +3871,8 @@ add address=16.12.60.0/22 list=AMAZON
 add address=16.12.64.0/22 list=AMAZON
 add address=16.12.74.0/24 list=AMAZON
 add address=16.12.8.0/24 list=AMAZON
+add address=16.12.81.0/24 list=AMAZON
+add address=16.12.82.0/23 list=AMAZON
 add address=16.12.9.0/24 list=AMAZON
 add address=16.15.0.0/21 list=AMAZON
 add address=16.154.0.0/15 list=AMAZON
@@ -5393,6 +5395,7 @@ add address=2605:b140:1000::/48 list=AMAZON
 add address=2606:7b40:1000:4000::/52 list=AMAZON
 add address=2606:7b40:1000:5000::/52 list=AMAZON
 add address=2606:7b40:1000:6000::/52 list=AMAZON
+add address=2606:7b40:f000:100::/60 list=AMAZON
 add address=2606:7b40:f000::/56 list=AMAZON
 add address=2606:f40:2100::/40 list=AMAZON
 add address=2606:f40:400::/39 list=AMAZON
@@ -5955,14 +5958,6 @@ add address=3.216.148.0/22 list=AMAZON
 add address=3.216.99.160/27 list=AMAZON
 add address=3.217.228.0/22 list=AMAZON
 add address=3.218.180.0/22 list=AMAZON
-add address=3.218.180.0/25 list=AMAZON
-add address=3.218.180.128/25 list=AMAZON
-add address=3.218.181.0/25 list=AMAZON
-add address=3.218.181.128/25 list=AMAZON
-add address=3.218.182.0/25 list=AMAZON
-add address=3.218.182.128/25 list=AMAZON
-add address=3.218.183.0/25 list=AMAZON
-add address=3.218.183.128/25 list=AMAZON
 add address=3.224.0.0/12 list=AMAZON
 add address=3.227.250.128/25 list=AMAZON
 add address=3.227.4.0/22 list=AMAZON
@@ -6315,6 +6310,7 @@ add address=3.5.64.0/21 list=AMAZON
 add address=3.5.72.0/23 list=AMAZON
 add address=3.5.76.0/22 list=AMAZON
 add address=3.5.80.0/21 list=AMAZON
+add address=3.5.88.0/22 list=AMAZON
 add address=3.6.0.0/15 list=AMAZON
 add address=3.6.70.128/26 list=AMAZON
 add address=3.6.70.76/30 list=AMAZON
