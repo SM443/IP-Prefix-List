@@ -3,12 +3,11 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri May 17 06:01:18 +06 2024
+# Last Update - Sat May 18 06:01:25 +06 2024
 # --------------------------------------------
-# Total Prefixes: 2
+# Total Prefixes: 1
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=98.98.108.0/23 list=ZENLAYER
-add address=103.167.50.0/23 list=ZENLAYER
+add address=2407:62c0::/32 list=ZENLAYER
