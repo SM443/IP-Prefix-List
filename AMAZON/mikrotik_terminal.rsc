@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri May 24 06:00:03 +06 2024
+# Last Update - Sat May 25 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8929
+# Total Prefixes: 8934
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -13,6 +13,8 @@
 add address=100.20.0.0/14 list=AMAZON
 add address=100.24.0.0/13 list=AMAZON
 add address=100.27.238.0/23 list=AMAZON
+add address=100.28.206.0/24 list=AMAZON
+add address=100.28.208.0/23 list=AMAZON
 add address=103.246.148.0/23 list=AMAZON
 add address=103.246.150.0/23 list=AMAZON
 add address=103.4.8.0/21 list=AMAZON
@@ -940,6 +942,8 @@ add address=13.34.124.64/27 list=AMAZON
 add address=13.34.124.96/27 list=AMAZON
 add address=13.34.125.0/27 list=AMAZON
 add address=13.34.125.32/27 list=AMAZON
+add address=13.34.125.64/27 list=AMAZON
+add address=13.34.125.96/27 list=AMAZON
 add address=13.34.13.0/27 list=AMAZON
 add address=13.34.13.128/27 list=AMAZON
 add address=13.34.13.160/27 list=AMAZON
@@ -5640,6 +5644,7 @@ add address=2a05:d035:9000::/40 list=AMAZON
 add address=2a05:d035:a000::/40 list=AMAZON
 add address=2a05:d035:c000::/40 list=AMAZON
 add address=2a05:d035:e000::/40 list=AMAZON
+add address=2a05:d038:6000::/40 list=AMAZON
 add address=2a05:d03a:1000::/40 list=AMAZON
 add address=2a05:d03a:2000:100::/56 list=AMAZON
 add address=2a05:d03a:2000:200::/56 list=AMAZON
