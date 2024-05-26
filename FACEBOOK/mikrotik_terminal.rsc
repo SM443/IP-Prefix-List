@@ -3,19 +3,10 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat May 25 06:01:03 +06 2024
+# Last Update - Sun May 26 06:01:05 +06 2024
 # --------------------------------------------
-# Total Prefixes: 9
+# Total Prefixes: 0
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=2620:10d:c090::/44 list=FACEBOOK
-add address=2620:10d:c090::/48 list=FACEBOOK
-add address=2620:10d:c091::/48 list=FACEBOOK
-add address=2620:10d:c092::/48 list=FACEBOOK
-add address=2620:10d:c093::/48 list=FACEBOOK
-add address=2620:10d:c094::/48 list=FACEBOOK
-add address=2620:10d:c095::/48 list=FACEBOOK
-add address=2620:10d:c098::/48 list=FACEBOOK
-add address=2620:10d:c09b::/48 list=FACEBOOK
