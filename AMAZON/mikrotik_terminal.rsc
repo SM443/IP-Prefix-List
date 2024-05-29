@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue May 28 06:00:03 +06 2024
+# Last Update - Wed May 29 06:00:02 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8941
+# Total Prefixes: 8945
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -941,6 +941,8 @@ add address=13.34.124.32/27 list=AMAZON
 add address=13.34.124.64/27 list=AMAZON
 add address=13.34.124.96/27 list=AMAZON
 add address=13.34.125.0/27 list=AMAZON
+add address=13.34.125.128/27 list=AMAZON
+add address=13.34.125.160/27 list=AMAZON
 add address=13.34.125.32/27 list=AMAZON
 add address=13.34.125.64/27 list=AMAZON
 add address=13.34.125.96/27 list=AMAZON
@@ -5418,6 +5420,7 @@ add address=2600:f0f0:84::/48 list=AMAZON
 add address=2600:f0f0:85::/48 list=AMAZON
 add address=2600:f0f0:86::/48 list=AMAZON
 add address=2600:f0f0:87::/48 list=AMAZON
+add address=2600:f0f0:88::/48 list=AMAZON
 add address=2600:f0f0:a0::/48 list=AMAZON
 add address=2600:f0f1:8801::/48 list=AMAZON
 add address=2600:f0f1:8802::/48 list=AMAZON
@@ -5464,6 +5467,7 @@ add address=2606:f40:fffe::/48 list=AMAZON
 add address=2606:f40:ffff::/48 list=AMAZON
 add address=2620:107:3000::/48 list=AMAZON
 add address=2620:107:3001::/48 list=AMAZON
+add address=2620:107:3002::/64 list=AMAZON
 add address=2620:107:300f::/48 list=AMAZON
 add address=2620:107:4000:2000::/64 list=AMAZON
 add address=2620:107:4000:2001::/64 list=AMAZON
