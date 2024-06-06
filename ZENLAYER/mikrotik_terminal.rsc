@@ -3,10 +3,20 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Wed Jun  5 06:01:23 +06 2024
+# Last Update - Thu Jun  6 06:01:29 +06 2024
 # --------------------------------------------
-# Total Prefixes: 0
+# Total Prefixes: 10
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=2404:ff40::/32 list=ZENLAYER
+add address=2404:ff40::/36 list=ZENLAYER
+add address=2404:ff40:1000::/36 list=ZENLAYER
+add address=2404:ff40:2000::/36 list=ZENLAYER
+add address=2404:ff40:3000::/36 list=ZENLAYER
+add address=2404:ff40:4000::/36 list=ZENLAYER
+add address=2404:ff40:5000::/36 list=ZENLAYER
+add address=2404:ff40:6000::/36 list=ZENLAYER
+add address=2404:ff40:7000::/36 list=ZENLAYER
+add address=2404:ff40:8000::/36 list=ZENLAYER
