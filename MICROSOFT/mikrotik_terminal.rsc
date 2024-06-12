@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: MICROSOFT DOCS
 # --------------------------------------------
-# Last Update - Tue Jun 11 06:00:10 +06 2024
+# Last Update - Wed Jun 12 06:00:10 +06 2024
 # --------------------------------------------
-# Total Prefixes: 392
+# Total Prefixes: 400
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -80,19 +80,26 @@ add address=48.222.0.0/15 list=MICROSOFT
 add address=50.20.64.0/19 list=MICROSOFT
 add address=50.20.128.0/18 list=MICROSOFT
 add address=50.85.0.0/16 list=MICROSOFT
+add address=51.1.0.0/16 list=MICROSOFT
 add address=51.4.0.0/15 list=MICROSOFT
 add address=51.8.0.0/16 list=MICROSOFT
 add address=51.10.0.0/15 list=MICROSOFT
 add address=51.12.0.0/15 list=MICROSOFT
 add address=51.18.0.0/16 list=MICROSOFT
+add address=51.42.0.0/16 list=MICROSOFT
 add address=51.51.0.0/16 list=MICROSOFT
 add address=51.53.0.0/16 list=MICROSOFT
+add address=51.54.0.0/15 list=MICROSOFT
+add address=51.56.0.0/14 list=MICROSOFT
 add address=51.103.0.0/16 list=MICROSOFT
 add address=51.104.0.0/15 list=MICROSOFT
 add address=51.107.0.0/16 list=MICROSOFT
+add address=51.109.0.0/16 list=MICROSOFT
+add address=51.111.0.0/16 list=MICROSOFT
 add address=51.116.0.0/16 list=MICROSOFT
 add address=51.120.0.0/16 list=MICROSOFT
 add address=51.124.0.0/16 list=MICROSOFT
+add address=51.126.0.0/16 list=MICROSOFT
 add address=51.132.0.0/16 list=MICROSOFT
 add address=51.136.0.0/15 list=MICROSOFT
 add address=51.138.0.0/16 list=MICROSOFT
@@ -314,6 +321,7 @@ add address=169.138.0.0/16 list=MICROSOFT
 add address=170.165.0.0/16 list=MICROSOFT
 add address=172.128.0.0/11 list=MICROSOFT
 add address=172.160.0.0/11 list=MICROSOFT
+add address=172.192.0.0/13 list=MICROSOFT
 add address=172.200.0.0/13 list=MICROSOFT
 add address=172.208.0.0/13 list=MICROSOFT
 add address=173.200.0.0/16 list=MICROSOFT
