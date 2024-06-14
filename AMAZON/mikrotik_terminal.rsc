@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Jun 13 06:00:03 +06 2024
+# Last Update - Fri Jun 14 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 9029
+# Total Prefixes: 9031
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -958,6 +958,8 @@ add address=13.34.126.32/27 list=AMAZON
 add address=13.34.126.64/27 list=AMAZON
 add address=13.34.126.96/27 list=AMAZON
 add address=13.34.127.0/27 list=AMAZON
+add address=13.34.127.128/27 list=AMAZON
+add address=13.34.127.160/27 list=AMAZON
 add address=13.34.127.32/27 list=AMAZON
 add address=13.34.127.64/27 list=AMAZON
 add address=13.34.127.96/27 list=AMAZON
@@ -4538,7 +4540,6 @@ add address=192.31.212.0/24 list=AMAZON
 add address=192.31.213.0/24 list=AMAZON
 add address=192.43.175.0/24 list=AMAZON
 add address=192.43.184.0/24 list=AMAZON
-add address=193.57.170.0/24 list=AMAZON
 add address=195.17.0.0/24 list=AMAZON
 add address=198.99.2.0/24 list=AMAZON
 add address=199.127.232.0/22 list=AMAZON
@@ -5360,6 +5361,7 @@ add address=2600:9000:3000::/36 list=AMAZON
 add address=2600:9000:4000::/36 list=AMAZON
 add address=2600:9000:5200::/40 list=AMAZON
 add address=2600:9000:5200::/48 list=AMAZON
+add address=2600:9000:5201::/48 list=AMAZON
 add address=2600:9000:5202::/48 list=AMAZON
 add address=2600:9000:5203::/48 list=AMAZON
 add address=2600:9000:5204::/48 list=AMAZON
@@ -5376,6 +5378,7 @@ add address=2600:9000:520e::/48 list=AMAZON
 add address=2600:9000:520f::/48 list=AMAZON
 add address=2600:9000:5210::/48 list=AMAZON
 add address=2600:9000:5211::/48 list=AMAZON
+add address=2600:9000:5212::/48 list=AMAZON
 add address=2600:9000:5300::/45 list=AMAZON
 add address=2600:9000:5308::/45 list=AMAZON
 add address=2600:9000:5310::/44 list=AMAZON
@@ -5542,7 +5545,6 @@ add address=2606:f40:fffe::/48 list=AMAZON
 add address=2606:f40:ffff::/48 list=AMAZON
 add address=2620:107:3000::/48 list=AMAZON
 add address=2620:107:3001::/48 list=AMAZON
-add address=2620:107:3002::/64 list=AMAZON
 add address=2620:107:300f::/48 list=AMAZON
 add address=2620:107:4000:2000::/64 list=AMAZON
 add address=2620:107:4000:2001::/64 list=AMAZON
@@ -7026,7 +7028,7 @@ add address=51.20.0.0/16 list=AMAZON
 add address=51.21.0.0/16 list=AMAZON
 add address=51.224.0.0/15 list=AMAZON
 add address=51.226.0.0/15 list=AMAZON
-add address=51.24.0.0/13 list=AMAZON
+add address=51.24.0.0/16 list=AMAZON
 add address=51.34.0.0/15 list=AMAZON
 add address=51.44.0.0/16 list=AMAZON
 add address=51.45.0.0/16 list=AMAZON
