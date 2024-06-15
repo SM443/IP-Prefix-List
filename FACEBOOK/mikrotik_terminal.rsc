@@ -3,10 +3,18 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri Jun 14 06:00:54 +06 2024
+# Last Update - Sat Jun 15 06:01:02 +06 2024
 # --------------------------------------------
-# Total Prefixes: 0
+# Total Prefixes: 8
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=163.114.128.0/20 list=FACEBOOK
+add address=163.114.128.0/24 list=FACEBOOK
+add address=163.114.130.0/24 list=FACEBOOK
+add address=163.114.131.0/24 list=FACEBOOK
+add address=163.114.132.0/24 list=FACEBOOK
+add address=163.114.133.0/24 list=FACEBOOK
+add address=163.114.134.0/24 list=FACEBOOK
+add address=199.201.64.0/22 list=FACEBOOK

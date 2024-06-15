@@ -3,10 +3,17 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri Jun 14 06:01:12 +06 2024
+# Last Update - Sat Jun 15 06:01:18 +06 2024
 # --------------------------------------------
-# Total Prefixes: 0
+# Total Prefixes: 7
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=2404:efc0::/32 list=BIGO
+add address=2404:efc0:141::/48 list=BIGO
+add address=2404:efc0:142::/48 list=BIGO
+add address=2404:efc0:143::/48 list=BIGO
+add address=2404:efc0:155::/48 list=BIGO
+add address=2404:efc0:235::/48 list=BIGO
+add address=2404:efc0:236::/48 list=BIGO
