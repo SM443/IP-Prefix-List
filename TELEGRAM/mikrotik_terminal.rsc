@@ -3,12 +3,13 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Jun 20 06:01:34 +06 2024
+# Last Update - Fri Jun 21 06:01:04 +06 2024
 # --------------------------------------------
-# Total Prefixes: 2
+# Total Prefixes: 3
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=91.108.20.0/22 list=TELEGRAM
-add address=91.108.20.0/23 list=TELEGRAM
+add address=91.108.12.0/22 list=TELEGRAM
+add address=149.154.172.0/22 list=TELEGRAM
+add address=2001:b28:f23c::/48 list=TELEGRAM
