@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Jun 24 06:00:03 +06 2024
+# Last Update - Tue Jun 25 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 9084
+# Total Prefixes: 9089
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4088,6 +4088,8 @@ add address=162.222.148.0/22 list=AMAZON
 add address=162.250.236.0/24 list=AMAZON
 add address=162.250.237.0/24 list=AMAZON
 add address=162.250.238.0/23 list=AMAZON
+add address=168.185.4.0/24 list=AMAZON
+add address=168.185.5.0/24 list=AMAZON
 add address=172.96.110.0/24 list=AMAZON
 add address=172.96.97.0/24 list=AMAZON
 add address=172.96.98.0/24 list=AMAZON
@@ -5559,6 +5561,7 @@ add address=2606:7b40:10ff:8000::/56 list=AMAZON
 add address=2606:7b40:10ff:9000::/56 list=AMAZON
 add address=2606:7b40:10ff:a000::/56 list=AMAZON
 add address=2606:7b40:10ff:a200::/60 list=AMAZON
+add address=2606:7b40:10ff:a210::/60 list=AMAZON
 add address=2606:7b40:10ff:a220::/60 list=AMAZON
 add address=2606:7b40:10ff:b000::/56 list=AMAZON
 add address=2606:7b40:10ff:c000::/56 list=AMAZON
@@ -5860,7 +5863,7 @@ add address=2a05:d072:9000::/40 list=AMAZON
 add address=2a05:d072:a000::/40 list=AMAZON
 add address=2a05:d072:c000::/40 list=AMAZON
 add address=2a05:d072:e000::/40 list=AMAZON
-add address=2a05:d076:c000::/48 list=AMAZON
+add address=2a05:d076:c000::/56 list=AMAZON
 add address=2a05:d077:6040::/48 list=AMAZON
 add address=2a05:d077:6041::/48 list=AMAZON
 add address=2a05:d077:6080::/48 list=AMAZON
@@ -6797,6 +6800,8 @@ add address=35.94.72.0/22 list=AMAZON
 add address=35.95.152.0/25 list=AMAZON
 add address=35.96.0.0/24 list=AMAZON
 add address=35.96.16.0/20 list=AMAZON
+add address=35.96.32.0/20 list=AMAZON
+add address=35.96.48.0/20 list=AMAZON
 add address=36.103.232.0/25 list=AMAZON
 add address=36.103.232.128/26 list=AMAZON
 add address=40.164.0.0/16 list=AMAZON
