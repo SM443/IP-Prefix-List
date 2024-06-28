@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Jun 27 06:00:03 +06 2024
+# Last Update - Fri Jun 28 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 9101
+# Total Prefixes: 9104
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5584,6 +5584,8 @@ add address=2606:f40:8400::/39 list=AMAZON
 add address=2606:f40:9800::/40 list=AMAZON
 add address=2606:f40::/39 list=AMAZON
 add address=2606:f40:a100::/40 list=AMAZON
+add address=2606:f40:fff8::/48 list=AMAZON
+add address=2606:f40:fff9::/48 list=AMAZON
 add address=2606:f40:fffa::/48 list=AMAZON
 add address=2606:f40:fffb::/48 list=AMAZON
 add address=2606:f40:fffc::/48 list=AMAZON
@@ -6826,6 +6828,7 @@ add address=40.174.0.0/15 list=AMAZON
 add address=40.176.0.0/15 list=AMAZON
 add address=40.176.101.0/26 list=AMAZON
 add address=40.176.101.64/28 list=AMAZON
+add address=40.176.213.168/29 list=AMAZON
 add address=40.176.65.0/24 list=AMAZON
 add address=40.176.82.0/24 list=AMAZON
 add address=40.176.83.0/24 list=AMAZON
