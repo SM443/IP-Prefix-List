@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Jun 28 06:00:03 +06 2024
+# Last Update - Sat Jun 29 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 9104
+# Total Prefixes: 9118
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4885,7 +4885,10 @@ add address=2406:daa0:b000::/40 list=AMAZON
 add address=2406:daa0:c000::/40 list=AMAZON
 add address=2406:daa0:e000::/40 list=AMAZON
 add address=2406:daa0:f000::/40 list=AMAZON
+add address=2406:dab8:1000::/40 list=AMAZON
+add address=2406:dab8:4000::/40 list=AMAZON
 add address=2406:dab8:8000::/40 list=AMAZON
+add address=2406:dab8:9000::/40 list=AMAZON
 add address=2406:dab8:a000::/40 list=AMAZON
 add address=2406:dab8:c000::/40 list=AMAZON
 add address=2406:dab9:c000::/40 list=AMAZON
@@ -4931,8 +4934,11 @@ add address=2406:daf2:c000::/40 list=AMAZON
 add address=2406:daf2:e000::/40 list=AMAZON
 add address=2406:daf2:f000::/40 list=AMAZON
 add address=2406:daf4:c000::/40 list=AMAZON
+add address=2406:daf5:1000::/40 list=AMAZON
+add address=2406:daf5:4000::/40 list=AMAZON
 add address=2406:daf5:8000::/40 list=AMAZON
 add address=2406:daf5:8800::/40 list=AMAZON
+add address=2406:daf5:9000::/40 list=AMAZON
 add address=2406:daf5:a000::/40 list=AMAZON
 add address=2406:daf5:c000::/40 list=AMAZON
 add address=2406:daf6:8800::/40 list=AMAZON
@@ -5842,6 +5848,10 @@ add address=2a05:d050:9000::/40 list=AMAZON
 add address=2a05:d050:a000::/40 list=AMAZON
 add address=2a05:d050:c000::/40 list=AMAZON
 add address=2a05:d050:e000::/40 list=AMAZON
+add address=2a05:d058:2000::/40 list=AMAZON
+add address=2a05:d058:4000::/40 list=AMAZON
+add address=2a05:d058:6000::/40 list=AMAZON
+add address=2a05:d058:e000::/40 list=AMAZON
 add address=2a05:d070:1000::/40 list=AMAZON
 add address=2a05:d070:2000::/40 list=AMAZON
 add address=2a05:d070:4000::/40 list=AMAZON
@@ -5871,6 +5881,10 @@ add address=2a05:d072:9000::/40 list=AMAZON
 add address=2a05:d072:a000::/40 list=AMAZON
 add address=2a05:d072:c000::/40 list=AMAZON
 add address=2a05:d072:e000::/40 list=AMAZON
+add address=2a05:d075:2000::/40 list=AMAZON
+add address=2a05:d075:4000::/40 list=AMAZON
+add address=2a05:d075:6000::/40 list=AMAZON
+add address=2a05:d075:e000::/40 list=AMAZON
 add address=2a05:d076:c000::/56 list=AMAZON
 add address=2a05:d077:6040::/48 list=AMAZON
 add address=2a05:d077:6041::/48 list=AMAZON
