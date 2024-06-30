@@ -3,15 +3,15 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Sat Jun 29 06:01:18 +06 2024
+# Last Update - Sun Jun 30 06:01:12 +06 2024
 # --------------------------------------------
-# Total Prefixes: 3802
+# Total Prefixes: 3814
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805 list=LINODE
-add address=# Last modified: 2024-06-28 10:00:04.264254 list=LINODE
+add address=# Last modified: 2024-06-29 10:00:04.533068 list=LINODE
 add address=# ip_prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c01::/32 list=LINODE
@@ -2939,6 +2939,18 @@ add address=172.236.48.0/24 list=LINODE
 add address=172.236.49.0/24 list=LINODE
 add address=172.236.50.0/24 list=LINODE
 add address=172.236.51.0/24 list=LINODE
+add address=172.236.52.0/24 list=LINODE
+add address=172.236.53.0/24 list=LINODE
+add address=172.236.54.0/24 list=LINODE
+add address=172.236.55.0/24 list=LINODE
+add address=172.236.56.0/24 list=LINODE
+add address=172.236.57.0/24 list=LINODE
+add address=172.236.58.0/24 list=LINODE
+add address=172.236.59.0/24 list=LINODE
+add address=172.236.60.0/24 list=LINODE
+add address=172.236.61.0/24 list=LINODE
+add address=172.236.62.0/24 list=LINODE
+add address=172.236.63.0/24 list=LINODE
 add address=172.236.64.0/24 list=LINODE
 add address=172.236.65.0/24 list=LINODE
 add address=172.236.66.0/24 list=LINODE
