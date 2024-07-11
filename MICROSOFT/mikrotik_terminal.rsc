@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: MICROSOFT DOCS
 # --------------------------------------------
-# Last Update - Wed Jul 10 06:00:14 +06 2024
+# Last Update - Thu Jul 11 06:00:14 +06 2024
 # --------------------------------------------
-# Total Prefixes: 402
+# Total Prefixes: 411
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -228,20 +228,26 @@ add address=135.7.0.0/16 list=MICROSOFT
 add address=135.13.0.0/16 list=MICROSOFT
 add address=135.18.0.0/16 list=MICROSOFT
 add address=135.85.0.0/16 list=MICROSOFT
+add address=135.86.0.0/16 list=MICROSOFT
 add address=135.88.0.0/16 list=MICROSOFT
 add address=135.93.0.0/16 list=MICROSOFT
+add address=135.111.0.0/16 list=MICROSOFT
 add address=135.114.0.0/16 list=MICROSOFT
 add address=135.116.0.0/16 list=MICROSOFT
+add address=135.117.0.0/16 list=MICROSOFT
 add address=135.118.0.0/16 list=MICROSOFT
 add address=135.119.0.0/16 list=MICROSOFT
 add address=135.130.0.0/16 list=MICROSOFT
 add address=135.149.0.0/16 list=MICROSOFT
 add address=135.171.0.0/16 list=MICROSOFT
+add address=135.183.0.0/16 list=MICROSOFT
 add address=135.185.0.0/16 list=MICROSOFT
 add address=135.220.0.0/16 list=MICROSOFT
+add address=135.221.0.0/16 list=MICROSOFT
 add address=135.222.0.0/16 list=MICROSOFT
 add address=135.224.0.0/15 list=MICROSOFT
 add address=135.226.0.0/16 list=MICROSOFT
+add address=135.228.0.0/16 list=MICROSOFT
 add address=135.229.0.0/16 list=MICROSOFT
 add address=135.230.0.0/16 list=MICROSOFT
 add address=135.232.0.0/14 list=MICROSOFT
@@ -249,6 +255,9 @@ add address=135.236.0.0/15 list=MICROSOFT
 add address=135.240.0.0/16 list=MICROSOFT
 add address=135.241.0.0/16 list=MICROSOFT
 add address=135.244.0.0/16 list=MICROSOFT
+add address=135.246.0.0/16 list=MICROSOFT
+add address=135.247.0.0/16 list=MICROSOFT
+add address=135.254.0.0/16 list=MICROSOFT
 add address=135.255.0.0/16 list=MICROSOFT
 add address=137.116.0.0/15 list=MICROSOFT
 add address=137.135.0.0/16 list=MICROSOFT
