@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri Aug 23 06:00:42 +06 2024
+# Last Update - Sat Aug 24 06:00:41 +06 2024
 # --------------------------------------------
-# Total Prefixes: 10290
+# Total Prefixes: 10228
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -138,6 +138,7 @@ add address=172.224.139.0/24 list=AKAMAI
 add address=172.224.140.0/24 list=AKAMAI
 add address=172.224.141.0/24 list=AKAMAI
 add address=172.224.142.0/24 list=AKAMAI
+add address=172.224.144.0/24 list=AKAMAI
 add address=172.224.145.0/24 list=AKAMAI
 add address=172.224.147.0/24 list=AKAMAI
 add address=172.224.148.0/24 list=AKAMAI
@@ -179,6 +180,7 @@ add address=172.224.189.0/24 list=AKAMAI
 add address=172.224.190.0/24 list=AKAMAI
 add address=172.224.191.0/24 list=AKAMAI
 add address=172.224.192.0/24 list=AKAMAI
+add address=172.224.194.0/24 list=AKAMAI
 add address=172.224.224.0/24 list=AKAMAI
 add address=172.224.226.0/24 list=AKAMAI
 add address=172.224.227.0/24 list=AKAMAI
@@ -268,8 +270,6 @@ add address=172.225.77.0/24 list=AKAMAI
 add address=172.225.78.0/24 list=AKAMAI
 add address=172.225.79.0/24 list=AKAMAI
 add address=172.225.80.0/24 list=AKAMAI
-add address=172.225.82.0/24 list=AKAMAI
-add address=172.225.83.0/24 list=AKAMAI
 add address=172.225.84.0/24 list=AKAMAI
 add address=172.225.86.0/24 list=AKAMAI
 add address=172.225.87.0/24 list=AKAMAI
@@ -345,8 +345,6 @@ add address=172.225.196.0/24 list=AKAMAI
 add address=172.225.197.0/24 list=AKAMAI
 add address=172.225.198.0/24 list=AKAMAI
 add address=172.225.199.0/24 list=AKAMAI
-add address=172.225.200.0/24 list=AKAMAI
-add address=172.225.201.0/24 list=AKAMAI
 add address=172.225.202.0/24 list=AKAMAI
 add address=172.225.203.0/24 list=AKAMAI
 add address=172.225.204.0/24 list=AKAMAI
@@ -506,7 +504,6 @@ add address=172.226.168.0/24 list=AKAMAI
 add address=172.226.169.0/24 list=AKAMAI
 add address=172.226.170.0/24 list=AKAMAI
 add address=172.226.171.0/24 list=AKAMAI
-add address=172.226.172.0/24 list=AKAMAI
 add address=172.226.174.0/24 list=AKAMAI
 add address=172.226.175.0/24 list=AKAMAI
 add address=172.226.176.0/24 list=AKAMAI
@@ -1785,6 +1782,7 @@ add address=2.16.128.0/24 list=AKAMAI
 add address=2.16.129.0/24 list=AKAMAI
 add address=2.16.131.0/24 list=AKAMAI
 add address=2.16.132.0/23 list=AKAMAI
+add address=2.16.134.0/24 list=AKAMAI
 add address=2.16.135.0/24 list=AKAMAI
 add address=2.16.136.0/24 list=AKAMAI
 add address=2.16.137.0/24 list=AKAMAI
@@ -1847,6 +1845,7 @@ add address=2.17.15.0/24 list=AKAMAI
 add address=2.17.20.0/23 list=AKAMAI
 add address=2.17.22.0/24 list=AKAMAI
 add address=2.17.23.0/24 list=AKAMAI
+add address=2.17.28.0/22 list=AKAMAI
 add address=2.17.32.0/23 list=AKAMAI
 add address=2.17.34.0/24 list=AKAMAI
 add address=2.17.35.0/24 list=AKAMAI
@@ -1902,6 +1901,8 @@ add address=2.18.30.0/24 list=AKAMAI
 add address=2.18.40.0/24 list=AKAMAI
 add address=2.18.41.0/24 list=AKAMAI
 add address=2.18.42.0/24 list=AKAMAI
+add address=2.18.43.0/24 list=AKAMAI
+add address=2.18.44.0/22 list=AKAMAI
 add address=2.18.60.0/24 list=AKAMAI
 add address=2.18.61.0/24 list=AKAMAI
 add address=2.18.62.0/24 list=AKAMAI
@@ -2005,11 +2006,9 @@ add address=2.19.194.0/23 list=AKAMAI
 add address=2.19.196.0/24 list=AKAMAI
 add address=2.19.197.0/24 list=AKAMAI
 add address=2.19.198.0/24 list=AKAMAI
-add address=2.19.200.0/22 list=AKAMAI
 add address=2.19.204.0/22 list=AKAMAI
 add address=2.19.208.0/24 list=AKAMAI
 add address=2.19.209.0/24 list=AKAMAI
-add address=2.19.210.0/23 list=AKAMAI
 add address=2.19.212.0/24 list=AKAMAI
 add address=2.19.213.0/24 list=AKAMAI
 add address=2.19.214.0/24 list=AKAMAI
@@ -2056,6 +2055,7 @@ add address=2.20.199.0/24 list=AKAMAI
 add address=2.20.245.0/24 list=AKAMAI
 add address=2.20.247.0/24 list=AKAMAI
 add address=2.20.248.0/24 list=AKAMAI
+add address=2.20.250.0/24 list=AKAMAI
 add address=2.20.251.0/24 list=AKAMAI
 add address=2.20.253.0/24 list=AKAMAI
 add address=2.20.254.0/23 list=AKAMAI
@@ -2101,6 +2101,7 @@ add address=2.21.89.0/24 list=AKAMAI
 add address=2.21.90.0/23 list=AKAMAI
 add address=2.21.92.0/24 list=AKAMAI
 add address=2.21.93.0/24 list=AKAMAI
+add address=2.21.96.0/23 list=AKAMAI
 add address=2.21.98.0/24 list=AKAMAI
 add address=2.21.99.0/24 list=AKAMAI
 add address=2.21.108.0/24 list=AKAMAI
@@ -2253,6 +2254,7 @@ add address=23.15.196.0/24 list=AKAMAI
 add address=23.15.197.0/24 list=AKAMAI
 add address=23.15.240.0/24 list=AKAMAI
 add address=23.15.241.0/24 list=AKAMAI
+add address=23.15.244.0/24 list=AKAMAI
 add address=23.32.0.0/11 list=AKAMAI
 add address=23.32.1.0/24 list=AKAMAI
 add address=23.32.3.0/24 list=AKAMAI
@@ -2541,7 +2543,6 @@ add address=23.41.167.0/24 list=AKAMAI
 add address=23.41.178.0/24 list=AKAMAI
 add address=23.41.179.0/24 list=AKAMAI
 add address=23.41.182.0/23 list=AKAMAI
-add address=23.41.184.0/24 list=AKAMAI
 add address=23.41.185.0/24 list=AKAMAI
 add address=23.41.186.0/24 list=AKAMAI
 add address=23.41.187.0/24 list=AKAMAI
@@ -2688,7 +2689,6 @@ add address=23.45.205.0/24 list=AKAMAI
 add address=23.45.206.0/24 list=AKAMAI
 add address=23.45.207.0/24 list=AKAMAI
 add address=23.45.232.0/24 list=AKAMAI
-add address=23.45.233.0/24 list=AKAMAI
 add address=23.45.234.0/24 list=AKAMAI
 add address=23.45.235.0/24 list=AKAMAI
 add address=23.46.4.0/23 list=AKAMAI
@@ -2933,7 +2933,6 @@ add address=23.52.104.0/23 list=AKAMAI
 add address=23.52.106.0/24 list=AKAMAI
 add address=23.52.128.0/24 list=AKAMAI
 add address=23.52.129.0/24 list=AKAMAI
-add address=23.52.130.0/23 list=AKAMAI
 add address=23.52.132.0/24 list=AKAMAI
 add address=23.52.133.0/24 list=AKAMAI
 add address=23.52.134.0/24 list=AKAMAI
@@ -2983,8 +2982,6 @@ add address=23.53.243.0/24 list=AKAMAI
 add address=23.53.248.0/24 list=AKAMAI
 add address=23.53.250.0/23 list=AKAMAI
 add address=23.54.18.0/23 list=AKAMAI
-add address=23.54.20.0/23 list=AKAMAI
-add address=23.54.22.0/23 list=AKAMAI
 add address=23.54.30.0/24 list=AKAMAI
 add address=23.54.31.0/24 list=AKAMAI
 add address=23.54.64.0/24 list=AKAMAI
@@ -3314,8 +3311,6 @@ add address=23.64.112.0/24 list=AKAMAI
 add address=23.64.113.0/24 list=AKAMAI
 add address=23.64.114.0/24 list=AKAMAI
 add address=23.64.115.0/24 list=AKAMAI
-add address=23.64.116.0/24 list=AKAMAI
-add address=23.64.117.0/24 list=AKAMAI
 add address=23.64.118.0/24 list=AKAMAI
 add address=23.64.119.0/24 list=AKAMAI
 add address=23.64.120.0/24 list=AKAMAI
@@ -3629,11 +3624,11 @@ add address=23.199.69.0/24 list=AKAMAI
 add address=23.199.71.0/24 list=AKAMAI
 add address=23.199.72.0/24 list=AKAMAI
 add address=23.199.73.0/24 list=AKAMAI
+add address=23.199.74.0/24 list=AKAMAI
 add address=23.199.75.0/24 list=AKAMAI
 add address=23.199.232.0/24 list=AKAMAI
 add address=23.199.233.0/24 list=AKAMAI
 add address=23.199.234.0/23 list=AKAMAI
-add address=23.199.252.0/24 list=AKAMAI
 add address=23.199.255.0/24 list=AKAMAI
 add address=23.200.0.0/24 list=AKAMAI
 add address=23.200.1.0/24 list=AKAMAI
@@ -3704,6 +3699,7 @@ add address=23.201.34.0/24 list=AKAMAI
 add address=23.201.35.0/24 list=AKAMAI
 add address=23.201.40.0/23 list=AKAMAI
 add address=23.201.42.0/24 list=AKAMAI
+add address=23.201.43.0/24 list=AKAMAI
 add address=23.201.44.0/24 list=AKAMAI
 add address=23.201.45.0/24 list=AKAMAI
 add address=23.201.46.0/24 list=AKAMAI
@@ -3847,7 +3843,6 @@ add address=23.205.115.0/24 list=AKAMAI
 add address=23.205.116.0/24 list=AKAMAI
 add address=23.205.117.0/24 list=AKAMAI
 add address=23.205.119.0/24 list=AKAMAI
-add address=23.205.120.0/24 list=AKAMAI
 add address=23.205.123.0/24 list=AKAMAI
 add address=23.205.127.0/24 list=AKAMAI
 add address=23.205.148.0/23 list=AKAMAI
@@ -3931,7 +3926,6 @@ add address=23.208.12.0/24 list=AKAMAI
 add address=23.208.14.0/23 list=AKAMAI
 add address=23.208.24.0/24 list=AKAMAI
 add address=23.208.25.0/24 list=AKAMAI
-add address=23.208.26.0/24 list=AKAMAI
 add address=23.208.27.0/24 list=AKAMAI
 add address=23.208.28.0/24 list=AKAMAI
 add address=23.208.29.0/24 list=AKAMAI
@@ -3950,6 +3944,7 @@ add address=23.208.142.0/24 list=AKAMAI
 add address=23.208.143.0/24 list=AKAMAI
 add address=23.208.154.0/24 list=AKAMAI
 add address=23.208.155.0/24 list=AKAMAI
+add address=23.208.164.0/24 list=AKAMAI
 add address=23.208.166.0/24 list=AKAMAI
 add address=23.208.167.0/24 list=AKAMAI
 add address=23.209.36.0/22 list=AKAMAI
@@ -4179,7 +4174,6 @@ add address=23.214.95.0/24 list=AKAMAI
 add address=23.214.97.0/24 list=AKAMAI
 add address=23.214.108.0/22 list=AKAMAI
 add address=23.214.112.0/24 list=AKAMAI
-add address=23.214.115.0/24 list=AKAMAI
 add address=23.214.170.0/24 list=AKAMAI
 add address=23.214.171.0/24 list=AKAMAI
 add address=23.214.198.0/24 list=AKAMAI
@@ -4366,7 +4360,6 @@ add address=23.219.156.0/24 list=AKAMAI
 add address=23.219.157.0/24 list=AKAMAI
 add address=23.219.161.0/24 list=AKAMAI
 add address=23.219.162.0/23 list=AKAMAI
-add address=23.219.168.0/23 list=AKAMAI
 add address=23.219.170.0/24 list=AKAMAI
 add address=23.219.171.0/24 list=AKAMAI
 add address=23.219.172.0/24 list=AKAMAI
@@ -4378,7 +4371,6 @@ add address=23.219.206.0/24 list=AKAMAI
 add address=23.219.207.0/24 list=AKAMAI
 add address=23.219.212.0/23 list=AKAMAI
 add address=23.219.214.0/23 list=AKAMAI
-add address=23.219.220.0/22 list=AKAMAI
 add address=23.220.68.0/24 list=AKAMAI
 add address=23.220.69.0/24 list=AKAMAI
 add address=23.220.70.0/24 list=AKAMAI
@@ -4780,6 +4772,7 @@ add address=95.101.134.0/24 list=AKAMAI
 add address=95.101.135.0/24 list=AKAMAI
 add address=95.101.142.0/24 list=AKAMAI
 add address=95.101.143.0/24 list=AKAMAI
+add address=95.101.168.0/23 list=AKAMAI
 add address=95.101.180.0/23 list=AKAMAI
 add address=95.101.228.0/23 list=AKAMAI
 add address=95.101.230.0/23 list=AKAMAI
@@ -4984,7 +4977,6 @@ add address=104.86.191.0/24 list=AKAMAI
 add address=104.88.70.0/24 list=AKAMAI
 add address=104.88.71.0/24 list=AKAMAI
 add address=104.88.192.0/24 list=AKAMAI
-add address=104.88.205.0/24 list=AKAMAI
 add address=104.88.206.0/24 list=AKAMAI
 add address=104.88.207.0/24 list=AKAMAI
 add address=104.89.116.0/24 list=AKAMAI
@@ -5022,7 +5014,6 @@ add address=104.96.202.0/24 list=AKAMAI
 add address=104.96.203.0/24 list=AKAMAI
 add address=104.96.220.0/23 list=AKAMAI
 add address=104.97.2.0/24 list=AKAMAI
-add address=104.97.3.0/24 list=AKAMAI
 add address=104.97.13.0/24 list=AKAMAI
 add address=104.97.14.0/23 list=AKAMAI
 add address=104.97.76.0/24 list=AKAMAI
@@ -5054,7 +5045,6 @@ add address=104.102.28.0/22 list=AKAMAI
 add address=104.102.244.0/24 list=AKAMAI
 add address=104.102.249.0/24 list=AKAMAI
 add address=104.102.250.0/24 list=AKAMAI
-add address=104.102.251.0/24 list=AKAMAI
 add address=104.103.68.0/23 list=AKAMAI
 add address=104.103.70.0/24 list=AKAMAI
 add address=104.103.72.0/23 list=AKAMAI
@@ -5139,7 +5129,6 @@ add address=104.123.214.0/24 list=AKAMAI
 add address=104.123.215.0/24 list=AKAMAI
 add address=104.124.0.0/24 list=AKAMAI
 add address=104.124.1.0/24 list=AKAMAI
-add address=104.124.10.0/24 list=AKAMAI
 add address=104.124.11.0/24 list=AKAMAI
 add address=104.124.54.0/24 list=AKAMAI
 add address=104.124.56.0/22 list=AKAMAI
@@ -5161,7 +5150,6 @@ add address=118.214.167.0/24 list=AKAMAI
 add address=118.214.171.0/24 list=AKAMAI
 add address=118.214.178.0/24 list=AKAMAI
 add address=118.214.181.0/24 list=AKAMAI
-add address=118.214.182.0/24 list=AKAMAI
 add address=118.214.185.0/24 list=AKAMAI
 add address=118.214.186.0/24 list=AKAMAI
 add address=118.214.187.0/24 list=AKAMAI
@@ -5341,7 +5329,6 @@ add address=184.28.144.0/24 list=AKAMAI
 add address=184.28.145.0/24 list=AKAMAI
 add address=184.28.146.0/24 list=AKAMAI
 add address=184.28.156.0/24 list=AKAMAI
-add address=184.28.157.0/24 list=AKAMAI
 add address=184.28.174.0/24 list=AKAMAI
 add address=184.28.175.0/24 list=AKAMAI
 add address=184.28.176.0/24 list=AKAMAI
@@ -5389,6 +5376,7 @@ add address=184.31.9.0/24 list=AKAMAI
 add address=184.31.12.0/24 list=AKAMAI
 add address=184.31.13.0/24 list=AKAMAI
 add address=184.31.14.0/24 list=AKAMAI
+add address=184.31.15.0/24 list=AKAMAI
 add address=184.31.232.0/22 list=AKAMAI
 add address=184.31.236.0/22 list=AKAMAI
 add address=184.50.0.0/15 list=AKAMAI
@@ -5420,7 +5408,6 @@ add address=184.51.121.0/24 list=AKAMAI
 add address=184.51.126.0/24 list=AKAMAI
 add address=184.51.127.0/24 list=AKAMAI
 add address=184.51.129.0/24 list=AKAMAI
-add address=184.51.146.0/24 list=AKAMAI
 add address=184.51.148.0/23 list=AKAMAI
 add address=184.51.192.0/22 list=AKAMAI
 add address=184.51.252.0/24 list=AKAMAI
@@ -5629,6 +5616,7 @@ add address=2.18.160.0/22 list=AKAMAI
 add address=2.18.168.0/22 list=AKAMAI
 add address=2.18.172.0/22 list=AKAMAI
 add address=2.18.184.0/22 list=AKAMAI
+add address=2.18.192.0/20 list=AKAMAI
 add address=2.18.216.0/22 list=AKAMAI
 add address=2.18.220.0/22 list=AKAMAI
 add address=2.18.224.0/22 list=AKAMAI
@@ -5726,7 +5714,6 @@ add address=2.20.239.0/24 list=AKAMAI
 add address=2.20.240.0/23 list=AKAMAI
 add address=2.21.40.0/22 list=AKAMAI
 add address=2.21.44.0/22 list=AKAMAI
-add address=2.21.48.0/20 list=AKAMAI
 add address=2.21.80.0/22 list=AKAMAI
 add address=2.21.84.0/22 list=AKAMAI
 add address=2.21.104.0/22 list=AKAMAI
@@ -5743,6 +5730,8 @@ add address=2.21.188.0/22 list=AKAMAI
 add address=2.21.192.0/20 list=AKAMAI
 add address=2.21.208.0/20 list=AKAMAI
 add address=2.21.224.0/22 list=AKAMAI
+add address=2.21.238.0/23 list=AKAMAI
+add address=2.21.248.0/22 list=AKAMAI
 add address=2.21.252.0/22 list=AKAMAI
 add address=2.22.0.0/22 list=AKAMAI
 add address=2.22.4.0/22 list=AKAMAI
@@ -5795,6 +5784,7 @@ add address=2.23.29.0/24 list=AKAMAI
 add address=2.23.30.0/24 list=AKAMAI
 add address=2.23.31.0/24 list=AKAMAI
 add address=2.23.64.0/20 list=AKAMAI
+add address=2.23.108.0/22 list=AKAMAI
 add address=2.23.112.0/21 list=AKAMAI
 add address=2.23.120.0/21 list=AKAMAI
 add address=2.23.136.0/21 list=AKAMAI
@@ -5839,11 +5829,9 @@ add address=23.2.72.0/22 list=AKAMAI
 add address=23.2.80.0/22 list=AKAMAI
 add address=23.2.84.0/22 list=AKAMAI
 add address=23.2.88.0/21 list=AKAMAI
-add address=23.2.96.0/20 list=AKAMAI
 add address=23.2.176.0/20 list=AKAMAI
 add address=23.2.208.0/20 list=AKAMAI
 add address=23.2.224.0/20 list=AKAMAI
-add address=23.3.80.0/22 list=AKAMAI
 add address=23.3.84.0/22 list=AKAMAI
 add address=23.3.108.0/22 list=AKAMAI
 add address=23.3.138.0/23 list=AKAMAI
@@ -5892,6 +5880,7 @@ add address=23.10.128.0/18 list=AKAMAI
 add address=23.10.192.0/19 list=AKAMAI
 add address=23.10.224.0/20 list=AKAMAI
 add address=23.11.80.0/20 list=AKAMAI
+add address=23.11.160.0/19 list=AKAMAI
 add address=23.11.196.0/22 list=AKAMAI
 add address=23.11.208.0/22 list=AKAMAI
 add address=23.11.224.0/22 list=AKAMAI
@@ -6038,6 +6027,7 @@ add address=23.34.180.0/22 list=AKAMAI
 add address=23.34.184.0/21 list=AKAMAI
 add address=23.34.192.0/20 list=AKAMAI
 add address=23.34.208.0/20 list=AKAMAI
+add address=23.34.232.0/22 list=AKAMAI
 add address=23.34.248.0/22 list=AKAMAI
 add address=23.35.28.0/22 list=AKAMAI
 add address=23.35.66.0/23 list=AKAMAI
@@ -6342,7 +6332,6 @@ add address=23.46.200.0/22 list=AKAMAI
 add address=23.46.212.0/22 list=AKAMAI
 add address=23.46.218.0/23 list=AKAMAI
 add address=23.46.224.0/22 list=AKAMAI
-add address=23.46.232.0/22 list=AKAMAI
 add address=23.46.240.0/22 list=AKAMAI
 add address=23.46.244.0/22 list=AKAMAI
 add address=23.46.248.0/22 list=AKAMAI
@@ -6400,6 +6389,7 @@ add address=23.48.176.0/20 list=AKAMAI
 add address=23.48.192.0/22 list=AKAMAI
 add address=23.48.196.0/22 list=AKAMAI
 add address=23.48.204.0/22 list=AKAMAI
+add address=23.48.208.0/22 list=AKAMAI
 add address=23.48.216.0/22 list=AKAMAI
 add address=23.48.220.0/22 list=AKAMAI
 add address=23.48.228.0/22 list=AKAMAI
@@ -6460,7 +6450,6 @@ add address=23.50.173.0/24 list=AKAMAI
 add address=23.50.174.0/24 list=AKAMAI
 add address=23.50.175.0/24 list=AKAMAI
 add address=23.50.192.0/20 list=AKAMAI
-add address=23.50.208.0/20 list=AKAMAI
 add address=23.50.226.0/23 list=AKAMAI
 add address=23.50.228.0/22 list=AKAMAI
 add address=23.50.240.0/22 list=AKAMAI
@@ -6641,6 +6630,7 @@ add address=23.58.148.0/22 list=AKAMAI
 add address=23.58.152.0/22 list=AKAMAI
 add address=23.58.160.0/19 list=AKAMAI
 add address=23.58.192.0/22 list=AKAMAI
+add address=23.58.196.0/22 list=AKAMAI
 add address=23.58.200.0/21 list=AKAMAI
 add address=23.58.216.0/22 list=AKAMAI
 add address=23.58.224.0/19 list=AKAMAI
@@ -6818,7 +6808,6 @@ add address=23.77.128.0/20 list=AKAMAI
 add address=23.77.144.0/20 list=AKAMAI
 add address=23.77.160.0/22 list=AKAMAI
 add address=23.77.164.0/22 list=AKAMAI
-add address=23.77.192.0/23 list=AKAMAI
 add address=23.77.198.0/23 list=AKAMAI
 add address=23.77.208.0/22 list=AKAMAI
 add address=23.77.212.0/23 list=AKAMAI
@@ -6826,7 +6815,6 @@ add address=23.77.240.0/22 list=AKAMAI
 add address=23.77.248.0/22 list=AKAMAI
 add address=23.78.8.0/22 list=AKAMAI
 add address=23.78.12.0/22 list=AKAMAI
-add address=23.78.16.0/20 list=AKAMAI
 add address=23.78.32.0/19 list=AKAMAI
 add address=23.78.216.0/22 list=AKAMAI
 add address=23.79.16.0/20 list=AKAMAI
@@ -6905,7 +6893,6 @@ add address=23.195.244.0/22 list=AKAMAI
 add address=23.195.248.0/22 list=AKAMAI
 add address=23.195.254.0/23 list=AKAMAI
 add address=23.196.8.0/23 list=AKAMAI
-add address=23.196.16.0/20 list=AKAMAI
 add address=23.196.32.0/22 list=AKAMAI
 add address=23.196.36.0/22 list=AKAMAI
 add address=23.196.44.0/23 list=AKAMAI
@@ -7081,6 +7068,7 @@ add address=23.202.144.0/22 list=AKAMAI
 add address=23.202.152.0/22 list=AKAMAI
 add address=23.202.164.0/22 list=AKAMAI
 add address=23.202.168.0/22 list=AKAMAI
+add address=23.202.172.0/22 list=AKAMAI
 add address=23.202.176.0/22 list=AKAMAI
 add address=23.202.180.0/22 list=AKAMAI
 add address=23.202.184.0/22 list=AKAMAI
@@ -7134,7 +7122,6 @@ add address=23.204.224.0/20 list=AKAMAI
 add address=23.204.242.0/23 list=AKAMAI
 add address=23.204.244.0/22 list=AKAMAI
 add address=23.204.248.0/22 list=AKAMAI
-add address=23.204.254.0/23 list=AKAMAI
 add address=23.205.0.0/19 list=AKAMAI
 add address=23.205.32.0/22 list=AKAMAI
 add address=23.205.36.0/22 list=AKAMAI
@@ -7252,7 +7239,6 @@ add address=23.209.88.0/24 list=AKAMAI
 add address=23.209.89.0/24 list=AKAMAI
 add address=23.209.90.0/24 list=AKAMAI
 add address=23.209.91.0/24 list=AKAMAI
-add address=23.209.108.0/22 list=AKAMAI
 add address=23.209.128.0/19 list=AKAMAI
 add address=23.209.176.0/22 list=AKAMAI
 add address=23.209.184.0/22 list=AKAMAI
@@ -7353,6 +7339,7 @@ add address=23.213.208.0/21 list=AKAMAI
 add address=23.213.216.0/21 list=AKAMAI
 add address=23.213.224.0/22 list=AKAMAI
 add address=23.213.248.0/21 list=AKAMAI
+add address=23.214.0.0/19 list=AKAMAI
 add address=23.214.32.0/19 list=AKAMAI
 add address=23.214.64.0/22 list=AKAMAI
 add address=23.214.68.0/23 list=AKAMAI
@@ -7529,12 +7516,9 @@ add address=23.221.248.0/22 list=AKAMAI
 add address=23.221.252.0/22 list=AKAMAI
 add address=23.222.8.0/22 list=AKAMAI
 add address=23.222.18.0/23 list=AKAMAI
-add address=23.222.20.0/23 list=AKAMAI
 add address=23.222.32.0/19 list=AKAMAI
 add address=23.222.64.0/22 list=AKAMAI
 add address=23.222.68.0/22 list=AKAMAI
-add address=23.222.80.0/20 list=AKAMAI
-add address=23.222.96.0/20 list=AKAMAI
 add address=23.222.112.0/22 list=AKAMAI
 add address=23.222.116.0/22 list=AKAMAI
 add address=23.222.124.0/22 list=AKAMAI
@@ -7613,7 +7597,6 @@ add address=72.247.136.0/22 list=AKAMAI
 add address=72.247.146.0/23 list=AKAMAI
 add address=72.247.160.0/22 list=AKAMAI
 add address=72.247.164.0/22 list=AKAMAI
-add address=72.247.168.0/22 list=AKAMAI
 add address=72.247.196.0/22 list=AKAMAI
 add address=72.247.200.0/21 list=AKAMAI
 add address=72.247.208.0/23 list=AKAMAI
@@ -7641,7 +7624,6 @@ add address=88.221.152.0/21 list=AKAMAI
 add address=88.221.164.0/22 list=AKAMAI
 add address=88.221.168.0/22 list=AKAMAI
 add address=88.221.176.0/21 list=AKAMAI
-add address=88.221.224.0/21 list=AKAMAI
 add address=88.221.236.0/22 list=AKAMAI
 add address=88.221.240.0/21 list=AKAMAI
 add address=88.221.248.0/22 list=AKAMAI
@@ -7651,7 +7633,6 @@ add address=92.122.12.0/22 list=AKAMAI
 add address=92.122.16.0/22 list=AKAMAI
 add address=92.122.20.0/22 list=AKAMAI
 add address=92.122.24.0/22 list=AKAMAI
-add address=92.122.32.0/21 list=AKAMAI
 add address=92.122.44.0/22 list=AKAMAI
 add address=92.122.60.0/22 list=AKAMAI
 add address=92.122.64.0/22 list=AKAMAI
@@ -7664,7 +7645,6 @@ add address=92.122.108.0/22 list=AKAMAI
 add address=92.122.144.0/22 list=AKAMAI
 add address=92.122.148.0/22 list=AKAMAI
 add address=92.122.160.0/22 list=AKAMAI
-add address=92.122.246.0/23 list=AKAMAI
 add address=92.122.248.0/24 list=AKAMAI
 add address=92.122.249.0/24 list=AKAMAI
 add address=92.122.250.0/24 list=AKAMAI
@@ -7830,10 +7810,6 @@ add address=104.69.112.0/20 list=AKAMAI
 add address=104.69.128.0/20 list=AKAMAI
 add address=104.69.144.0/20 list=AKAMAI
 add address=104.69.160.0/20 list=AKAMAI
-add address=104.69.216.0/22 list=AKAMAI
-add address=104.69.220.0/23 list=AKAMAI
-add address=104.70.48.0/20 list=AKAMAI
-add address=104.70.64.0/20 list=AKAMAI
 add address=104.70.80.0/20 list=AKAMAI
 add address=104.70.124.0/23 list=AKAMAI
 add address=104.70.236.0/22 list=AKAMAI
@@ -7858,6 +7834,7 @@ add address=104.72.156.0/22 list=AKAMAI
 add address=104.73.8.0/22 list=AKAMAI
 add address=104.73.16.0/20 list=AKAMAI
 add address=104.73.64.0/20 list=AKAMAI
+add address=104.73.92.0/22 list=AKAMAI
 add address=104.73.164.0/22 list=AKAMAI
 add address=104.73.168.0/22 list=AKAMAI
 add address=104.73.176.0/21 list=AKAMAI
@@ -7886,7 +7863,6 @@ add address=104.76.100.0/22 list=AKAMAI
 add address=104.76.104.0/22 list=AKAMAI
 add address=104.76.128.0/20 list=AKAMAI
 add address=104.76.200.0/22 list=AKAMAI
-add address=104.76.224.0/19 list=AKAMAI
 add address=104.77.2.0/23 list=AKAMAI
 add address=104.77.8.0/22 list=AKAMAI
 add address=104.77.14.0/23 list=AKAMAI
@@ -8024,8 +8000,6 @@ add address=104.89.118.0/23 list=AKAMAI
 add address=104.89.120.0/22 list=AKAMAI
 add address=104.89.172.0/22 list=AKAMAI
 add address=104.89.224.0/21 list=AKAMAI
-add address=104.89.244.0/22 list=AKAMAI
-add address=104.90.0.0/22 list=AKAMAI
 add address=104.90.8.0/22 list=AKAMAI
 add address=104.90.16.0/21 list=AKAMAI
 add address=104.90.24.0/22 list=AKAMAI
@@ -8072,9 +8046,6 @@ add address=104.96.172.0/22 list=AKAMAI
 add address=104.96.184.0/22 list=AKAMAI
 add address=104.96.192.0/22 list=AKAMAI
 add address=104.96.204.0/22 list=AKAMAI
-add address=104.96.214.0/23 list=AKAMAI
-add address=104.96.216.0/22 list=AKAMAI
-add address=104.96.224.0/19 list=AKAMAI
 add address=104.97.4.0/22 list=AKAMAI
 add address=104.97.16.0/22 list=AKAMAI
 add address=104.97.24.0/22 list=AKAMAI
@@ -8175,10 +8146,6 @@ add address=104.106.124.0/24 list=AKAMAI
 add address=104.106.125.0/24 list=AKAMAI
 add address=104.106.126.0/24 list=AKAMAI
 add address=104.106.127.0/24 list=AKAMAI
-add address=104.107.16.0/20 list=AKAMAI
-add address=104.107.32.0/20 list=AKAMAI
-add address=104.107.48.0/22 list=AKAMAI
-add address=104.107.52.0/23 list=AKAMAI
 add address=104.107.104.0/22 list=AKAMAI
 add address=104.107.112.0/22 list=AKAMAI
 add address=104.107.128.0/20 list=AKAMAI
@@ -8188,7 +8155,6 @@ add address=104.107.176.0/20 list=AKAMAI
 add address=104.107.224.0/20 list=AKAMAI
 add address=104.108.64.0/22 list=AKAMAI
 add address=104.108.80.0/20 list=AKAMAI
-add address=104.108.96.0/19 list=AKAMAI
 add address=104.108.144.0/22 list=AKAMAI
 add address=104.108.158.0/23 list=AKAMAI
 add address=104.108.224.0/19 list=AKAMAI
@@ -8204,12 +8170,8 @@ add address=104.110.176.0/22 list=AKAMAI
 add address=104.110.248.0/22 list=AKAMAI
 add address=104.111.192.0/21 list=AKAMAI
 add address=104.111.200.0/21 list=AKAMAI
-add address=104.111.220.0/22 list=AKAMAI
-add address=104.112.0.0/23 list=AKAMAI
 add address=104.112.8.0/22 list=AKAMAI
 add address=104.112.12.0/22 list=AKAMAI
-add address=104.112.16.0/20 list=AKAMAI
-add address=104.112.32.0/20 list=AKAMAI
 add address=104.112.112.0/20 list=AKAMAI
 add address=104.112.128.0/20 list=AKAMAI
 add address=104.112.144.0/22 list=AKAMAI
@@ -8227,7 +8189,6 @@ add address=104.114.68.0/22 list=AKAMAI
 add address=104.114.80.0/20 list=AKAMAI
 add address=104.114.96.0/20 list=AKAMAI
 add address=104.114.164.0/22 list=AKAMAI
-add address=104.114.176.0/20 list=AKAMAI
 add address=104.115.32.0/22 list=AKAMAI
 add address=104.115.88.0/22 list=AKAMAI
 add address=104.115.168.0/22 list=AKAMAI
@@ -8778,7 +8739,6 @@ add address=2a02:26f7:f0::/48 list=AKAMAI
 add address=2a02:26f7:f3::/48 list=AKAMAI
 add address=2a02:26f7:f4::/48 list=AKAMAI
 add address=2a02:26f7:f8::/48 list=AKAMAI
-add address=2a02:26f7:f9::/48 list=AKAMAI
 add address=2a02:26f7:fa::/48 list=AKAMAI
 add address=2a02:26f7:fc::/48 list=AKAMAI
 add address=2a02:26f7:fe::/48 list=AKAMAI
@@ -8797,6 +8757,7 @@ add address=2a02:26f7:112::/48 list=AKAMAI
 add address=2a02:26f7:114::/48 list=AKAMAI
 add address=2a02:26f7:116::/48 list=AKAMAI
 add address=2a02:26f7:117::/48 list=AKAMAI
+add address=2a02:26f7:11a::/48 list=AKAMAI
 add address=2a02:26f7:120::/48 list=AKAMAI
 add address=2a02:26f7:122::/48 list=AKAMAI
 add address=2a02:26f7:123::/48 list=AKAMAI
@@ -8903,7 +8864,6 @@ add address=2a02:26f7:b6c0::/48 list=AKAMAI
 add address=2a02:26f7:b6c4::/48 list=AKAMAI
 add address=2a02:26f7:b6c8::/48 list=AKAMAI
 add address=2a02:26f7:b6cc::/48 list=AKAMAI
-add address=2a02:26f7:b708::/48 list=AKAMAI
 add address=2a02:26f7:b740::/48 list=AKAMAI
 add address=2a02:26f7:b744::/48 list=AKAMAI
 add address=2a02:26f7:b745::/48 list=AKAMAI
@@ -9122,7 +9082,6 @@ add address=2a02:26f7:c3c9::/48 list=AKAMAI
 add address=2a02:26f7:c3cc::/48 list=AKAMAI
 add address=2a02:26f7:c3d0::/48 list=AKAMAI
 add address=2a02:26f7:c3dc::/48 list=AKAMAI
-add address=2a02:26f7:c3e0::/48 list=AKAMAI
 add address=2a02:26f7:c3e4::/48 list=AKAMAI
 add address=2a02:26f7:c3e5::/48 list=AKAMAI
 add address=2a02:26f7:c400::/48 list=AKAMAI
@@ -9259,7 +9218,6 @@ add address=2a02:26f7:cb02::/48 list=AKAMAI
 add address=2a02:26f7:cb04::/48 list=AKAMAI
 add address=2a02:26f7:cb0c::/48 list=AKAMAI
 add address=2a02:26f7:cb10::/48 list=AKAMAI
-add address=2a02:26f7:cb48::/48 list=AKAMAI
 add address=2a02:26f7:cb84::/48 list=AKAMAI
 add address=2a02:26f7:cb88::/48 list=AKAMAI
 add address=2a02:26f7:cbc2::/48 list=AKAMAI
@@ -9293,24 +9251,18 @@ add address=2a02:26f7:cd80::/48 list=AKAMAI
 add address=2a02:26f7:cd84::/48 list=AKAMAI
 add address=2a02:26f7:cd88::/48 list=AKAMAI
 add address=2a02:26f7:cd8c::/48 list=AKAMAI
-add address=2a02:26f7:cdc0::/48 list=AKAMAI
 add address=2a02:26f7:cdc4::/48 list=AKAMAI
 add address=2a02:26f7:cdc8::/48 list=AKAMAI
-add address=2a02:26f7:ce00::/48 list=AKAMAI
 add address=2a02:26f7:ce04::/48 list=AKAMAI
 add address=2a02:26f7:ce08::/48 list=AKAMAI
-add address=2a02:26f7:ce40::/48 list=AKAMAI
 add address=2a02:26f7:ce44::/48 list=AKAMAI
 add address=2a02:26f7:ce48::/48 list=AKAMAI
-add address=2a02:26f7:ce80::/48 list=AKAMAI
 add address=2a02:26f7:ce88::/48 list=AKAMAI
 add address=2a02:26f7:ce8c::/48 list=AKAMAI
-add address=2a02:26f7:cec0::/48 list=AKAMAI
 add address=2a02:26f7:cec8::/48 list=AKAMAI
 add address=2a02:26f7:cec9::/48 list=AKAMAI
 add address=2a02:26f7:cecc::/48 list=AKAMAI
 add address=2a02:26f7:ced0::/48 list=AKAMAI
-add address=2a02:26f7:cf00::/48 list=AKAMAI
 add address=2a02:26f7:cf08::/48 list=AKAMAI
 add address=2a02:26f7:cf09::/48 list=AKAMAI
 add address=2a02:26f7:cf0c::/48 list=AKAMAI
@@ -9404,7 +9356,6 @@ add address=2a02:26f7:d3c8::/48 list=AKAMAI
 add address=2a02:26f7:d3c9::/48 list=AKAMAI
 add address=2a02:26f7:d400::/48 list=AKAMAI
 add address=2a02:26f7:d408::/48 list=AKAMAI
-add address=2a02:26f7:d40c::/48 list=AKAMAI
 add address=2a02:26f7:d440::/48 list=AKAMAI
 add address=2a02:26f7:d444::/48 list=AKAMAI
 add address=2a02:26f7:d448::/48 list=AKAMAI
@@ -9419,7 +9370,6 @@ add address=2a02:26f7:d4c9::/48 list=AKAMAI
 add address=2a02:26f7:d4cc::/48 list=AKAMAI
 add address=2a02:26f7:d4d0::/48 list=AKAMAI
 add address=2a02:26f7:d500::/48 list=AKAMAI
-add address=2a02:26f7:d504::/48 list=AKAMAI
 add address=2a02:26f7:d510::/48 list=AKAMAI
 add address=2a02:26f7:d540::/48 list=AKAMAI
 add address=2a02:26f7:d544::/48 list=AKAMAI
@@ -9446,8 +9396,6 @@ add address=2a02:26f7:d688::/48 list=AKAMAI
 add address=2a02:26f7:d68c::/48 list=AKAMAI
 add address=2a02:26f7:d6c0::/48 list=AKAMAI
 add address=2a02:26f7:d6c1::/48 list=AKAMAI
-add address=2a02:26f7:d6c4::/48 list=AKAMAI
-add address=2a02:26f7:d6c5::/48 list=AKAMAI
 add address=2a02:26f7:d6c6::/48 list=AKAMAI
 add address=2a02:26f7:d6cc::/48 list=AKAMAI
 add address=2a02:26f7:d6d0::/48 list=AKAMAI
@@ -9475,21 +9423,15 @@ add address=2a02:26f7:d848::/48 list=AKAMAI
 add address=2a02:26f7:d84c::/48 list=AKAMAI
 add address=2a02:26f7:d84d::/48 list=AKAMAI
 add address=2a02:26f7:d850::/48 list=AKAMAI
-add address=2a02:26f7:d888::/48 list=AKAMAI
 add address=2a02:26f7:d90c::/48 list=AKAMAI
-add address=2a02:26f7:d948::/48 list=AKAMAI
-add address=2a02:26f7:d94c::/48 list=AKAMAI
-add address=2a02:26f7:d988::/48 list=AKAMAI
 add address=2a02:26f7:da00::/48 list=AKAMAI
 add address=2a02:26f7:da04::/48 list=AKAMAI
 add address=2a02:26f7:da08::/48 list=AKAMAI
 add address=2a02:26f7:da0c::/48 list=AKAMAI
 add address=2a02:26f7:da10::/48 list=AKAMAI
 add address=2a02:26f7:da40::/48 list=AKAMAI
-add address=2a02:26f7:da44::/48 list=AKAMAI
 add address=2a02:26f7:da48::/48 list=AKAMAI
 add address=2a02:26f7:da80::/48 list=AKAMAI
-add address=2a02:26f7:da84::/48 list=AKAMAI
 add address=2a02:26f7:da88::/48 list=AKAMAI
 add address=2a02:26f7:db00::/48 list=AKAMAI
 add address=2a02:26f7:db04::/48 list=AKAMAI
@@ -9543,7 +9485,6 @@ add address=2a02:26f7:de40::/48 list=AKAMAI
 add address=2a02:26f7:de44::/48 list=AKAMAI
 add address=2a02:26f7:de48::/48 list=AKAMAI
 add address=2a02:26f7:de80::/48 list=AKAMAI
-add address=2a02:26f7:de84::/48 list=AKAMAI
 add address=2a02:26f7:de88::/48 list=AKAMAI
 add address=2a02:26f7:de8c::/48 list=AKAMAI
 add address=2a02:26f7:de90::/48 list=AKAMAI
@@ -9635,10 +9576,8 @@ add address=2a02:26f7:e484::/48 list=AKAMAI
 add address=2a02:26f7:e488::/48 list=AKAMAI
 add address=2a02:26f7:e48c::/48 list=AKAMAI
 add address=2a02:26f7:e490::/48 list=AKAMAI
-add address=2a02:26f7:e514::/48 list=AKAMAI
 add address=2a02:26f7:e52c::/48 list=AKAMAI
 add address=2a02:26f7:e530::/48 list=AKAMAI
-add address=2a02:26f7:e548::/48 list=AKAMAI
 add address=2a02:26f7:e5c0::/48 list=AKAMAI
 add address=2a02:26f7:e5c2::/48 list=AKAMAI
 add address=2a02:26f7:e5c4::/48 list=AKAMAI
@@ -9952,7 +9891,6 @@ add address=2a02:26f7:f904::/48 list=AKAMAI
 add address=2a02:26f7:f908::/48 list=AKAMAI
 add address=2a02:26f7:f90c::/48 list=AKAMAI
 add address=2a02:26f7:f940::/48 list=AKAMAI
-add address=2a02:26f7:f944::/48 list=AKAMAI
 add address=2a02:26f7:f94c::/48 list=AKAMAI
 add address=2a02:26f7:f950::/48 list=AKAMAI
 add address=2a02:26f7:f980::/48 list=AKAMAI
