@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Fri Aug 30 06:00:57 +06 2024
+# Last Update - Sat Aug 31 06:00:52 +06 2024
 # --------------------------------------------
 # Total Prefixes: 3984
 # --------------------------------------------
@@ -11,7 +11,7 @@
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805 list=LINODE
-add address=# Last modified: 2024-08-29 10:00:05.430870 list=LINODE
+add address=# Last modified: 2024-08-30 10:00:05.277924 list=LINODE
 add address=# ip_prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c0f:2::/48 list=LINODE
