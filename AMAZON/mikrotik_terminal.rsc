@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Sep  3 06:00:03 +06 2024
+# Last Update - Wed Sep  4 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 7397
+# Total Prefixes: 7467
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -109,7 +109,71 @@ add address=108.138.0.0/15 list=AMAZON
 add address=108.156.0.0/14 list=AMAZON
 add address=108.166.224.0/21 list=AMAZON
 add address=108.166.232.0/21 list=AMAZON
-add address=108.166.240.0/21 list=AMAZON
+add address=108.166.240.0/22 list=AMAZON
+add address=108.166.244.0/32 list=AMAZON
+add address=108.166.244.1/32 list=AMAZON
+add address=108.166.244.10/32 list=AMAZON
+add address=108.166.244.11/32 list=AMAZON
+add address=108.166.244.12/32 list=AMAZON
+add address=108.166.244.13/32 list=AMAZON
+add address=108.166.244.14/32 list=AMAZON
+add address=108.166.244.15/32 list=AMAZON
+add address=108.166.244.16/32 list=AMAZON
+add address=108.166.244.17/32 list=AMAZON
+add address=108.166.244.18/32 list=AMAZON
+add address=108.166.244.19/32 list=AMAZON
+add address=108.166.244.2/32 list=AMAZON
+add address=108.166.244.20/32 list=AMAZON
+add address=108.166.244.21/32 list=AMAZON
+add address=108.166.244.22/32 list=AMAZON
+add address=108.166.244.23/32 list=AMAZON
+add address=108.166.244.24/32 list=AMAZON
+add address=108.166.244.25/32 list=AMAZON
+add address=108.166.244.26/32 list=AMAZON
+add address=108.166.244.27/32 list=AMAZON
+add address=108.166.244.28/32 list=AMAZON
+add address=108.166.244.29/32 list=AMAZON
+add address=108.166.244.3/32 list=AMAZON
+add address=108.166.244.30/32 list=AMAZON
+add address=108.166.244.31/32 list=AMAZON
+add address=108.166.244.32/32 list=AMAZON
+add address=108.166.244.33/32 list=AMAZON
+add address=108.166.244.34/32 list=AMAZON
+add address=108.166.244.35/32 list=AMAZON
+add address=108.166.244.36/32 list=AMAZON
+add address=108.166.244.37/32 list=AMAZON
+add address=108.166.244.38/32 list=AMAZON
+add address=108.166.244.39/32 list=AMAZON
+add address=108.166.244.4/32 list=AMAZON
+add address=108.166.244.40/32 list=AMAZON
+add address=108.166.244.41/32 list=AMAZON
+add address=108.166.244.42/32 list=AMAZON
+add address=108.166.244.43/32 list=AMAZON
+add address=108.166.244.44/32 list=AMAZON
+add address=108.166.244.45/32 list=AMAZON
+add address=108.166.244.46/32 list=AMAZON
+add address=108.166.244.47/32 list=AMAZON
+add address=108.166.244.48/32 list=AMAZON
+add address=108.166.244.49/32 list=AMAZON
+add address=108.166.244.5/32 list=AMAZON
+add address=108.166.244.50/32 list=AMAZON
+add address=108.166.244.51/32 list=AMAZON
+add address=108.166.244.52/32 list=AMAZON
+add address=108.166.244.53/32 list=AMAZON
+add address=108.166.244.54/32 list=AMAZON
+add address=108.166.244.55/32 list=AMAZON
+add address=108.166.244.56/32 list=AMAZON
+add address=108.166.244.57/32 list=AMAZON
+add address=108.166.244.58/32 list=AMAZON
+add address=108.166.244.59/32 list=AMAZON
+add address=108.166.244.6/32 list=AMAZON
+add address=108.166.244.60/32 list=AMAZON
+add address=108.166.244.61/32 list=AMAZON
+add address=108.166.244.62/32 list=AMAZON
+add address=108.166.244.63/32 list=AMAZON
+add address=108.166.244.7/32 list=AMAZON
+add address=108.166.244.8/32 list=AMAZON
+add address=108.166.244.9/32 list=AMAZON
 add address=108.166.248.0/21 list=AMAZON
 add address=108.175.48.0/22 list=AMAZON
 add address=108.175.52.0/22 list=AMAZON
@@ -984,6 +1048,12 @@ add address=15.230.121.4/32 list=AMAZON
 add address=15.230.121.5/32 list=AMAZON
 add address=15.230.121.6/31 list=AMAZON
 add address=15.230.121.8/31 list=AMAZON
+add address=15.230.122.0/32 list=AMAZON
+add address=15.230.122.1/32 list=AMAZON
+add address=15.230.122.2/32 list=AMAZON
+add address=15.230.122.3/32 list=AMAZON
+add address=15.230.122.4/31 list=AMAZON
+add address=15.230.122.6/31 list=AMAZON
 add address=15.230.129.0/24 list=AMAZON
 add address=15.230.130.0/24 list=AMAZON
 add address=15.230.131.0/24 list=AMAZON
