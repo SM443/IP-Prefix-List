@@ -3,11 +3,11 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Sep  5 06:01:01 +06 2024
+# Last Update - Fri Sep  6 06:00:59 +06 2024
 # --------------------------------------------
 # Total Prefixes: 1
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=2a0a:f280:203::/48 list=TELEGRAM
+add address=2001:67c:4e8::/48 list=TELEGRAM
