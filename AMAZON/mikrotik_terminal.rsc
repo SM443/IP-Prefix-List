@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Sep 12 06:00:03 +06 2024
+# Last Update - Fri Sep 13 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 7584
+# Total Prefixes: 7601
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -831,6 +831,7 @@ add address=15.188.210.206/31 list=AMAZON
 add address=15.188.210.32/27 list=AMAZON
 add address=15.188.210.64/27 list=AMAZON
 add address=15.190.0.0/22 list=AMAZON
+add address=15.190.128.0/20 list=AMAZON
 add address=15.190.16.0/20 list=AMAZON
 add address=15.190.240.0/22 list=AMAZON
 add address=15.190.32.0/20 list=AMAZON
@@ -2702,6 +2703,8 @@ add address=216.39.160.0/21 list=AMAZON
 add address=216.39.168.0/21 list=AMAZON
 add address=23.160.0.0/24 list=AMAZON
 add address=23.20.0.0/14 list=AMAZON
+add address=23.254.12.0/24 list=AMAZON
+add address=23.254.8.0/22 list=AMAZON
 add address=2400:6500:0:7000::/56 list=AMAZON
 add address=2400:6500:0:7100::/56 list=AMAZON
 add address=2400:6500:0:7200::/56 list=AMAZON
@@ -2788,6 +2791,7 @@ add address=2406:da00:e000::/40 list=AMAZON
 add address=2406:da00:f000::/40 list=AMAZON
 add address=2406:da00:ff00::/48 list=AMAZON
 add address=2406:da10:8000::/36 list=AMAZON
+add address=2406:da11:700:3b00::/56 list=AMAZON
 add address=2406:da11::/36 list=AMAZON
 add address=2406:da12:1e1:d900::/56 list=AMAZON
 add address=2406:da12:8000::/36 list=AMAZON
@@ -2798,24 +2802,30 @@ add address=2406:da14:7ff:f800::/56 list=AMAZON
 add address=2406:da14::/35 list=AMAZON
 add address=2406:da14:fff:f800::/56 list=AMAZON
 add address=2406:da15::/36 list=AMAZON
+add address=2406:da16:856:a500::/56 list=AMAZON
 add address=2406:da16::/36 list=AMAZON
+add address=2406:da17:1db:b00::/56 list=AMAZON
 add address=2406:da17::/36 list=AMAZON
 add address=2406:da18:752:6600::/56 list=AMAZON
 add address=2406:da18:7ff:f800::/56 list=AMAZON
 add address=2406:da18:8000::/36 list=AMAZON
 add address=2406:da18::/36 list=AMAZON
 add address=2406:da18:fff:f800::/56 list=AMAZON
+add address=2406:da19:14b:8c00::/56 list=AMAZON
 add address=2406:da19::/36 list=AMAZON
 add address=2406:da1a:74a:4b00::/56 list=AMAZON
 add address=2406:da1a::/36 list=AMAZON
 add address=2406:da1b::/36 list=AMAZON
+add address=2406:da1b:d1d:8800::/56 list=AMAZON
 add address=2406:da1c:7ff:f800::/56 list=AMAZON
 add address=2406:da1c:90e:4a00::/56 list=AMAZON
 add address=2406:da1c::/36 list=AMAZON
 add address=2406:da1c:fff:f800::/56 list=AMAZON
 add address=2406:da1d::/36 list=AMAZON
 add address=2406:da1e::/32 list=AMAZON
+add address=2406:da1e:da1:3c00::/56 list=AMAZON
 add address=2406:da1f::/36 list=AMAZON
+add address=2406:da1f:b4f:4600::/56 list=AMAZON
 add address=2406:da20:8000::/36 list=AMAZON
 add address=2406:da21::/36 list=AMAZON
 add address=2406:da22:8000::/36 list=AMAZON
@@ -3310,6 +3320,7 @@ add address=2600:1f18::/33 list=AMAZON
 add address=2600:1f19:4000::/36 list=AMAZON
 add address=2600:1f19:8000::/36 list=AMAZON
 add address=2600:1f1a:4000::/36 list=AMAZON
+add address=2600:1f1a:4ff6:d500::/56 list=AMAZON
 add address=2600:1f1a:8000::/36 list=AMAZON
 add address=2600:1f1b:4000::/36 list=AMAZON
 add address=2600:1f1b:8000::/36 list=AMAZON
@@ -4016,6 +4027,7 @@ add address=2a05:d000:a000::/40 list=AMAZON
 add address=2a05:d000:c000::/40 list=AMAZON
 add address=2a05:d000:e000::/40 list=AMAZON
 add address=2a05:d011::/36 list=AMAZON
+add address=2a05:d011:cbe:f700::/56 list=AMAZON
 add address=2a05:d012::/36 list=AMAZON
 add address=2a05:d012:c9e:d600::/56 list=AMAZON
 add address=2a05:d013::/36 list=AMAZON
@@ -4029,18 +4041,22 @@ add address=2a05:d018:403:4e00::/56 list=AMAZON
 add address=2a05:d018:7ff:f800::/56 list=AMAZON
 add address=2a05:d018::/35 list=AMAZON
 add address=2a05:d018:fff:f800::/56 list=AMAZON
+add address=2a05:d019:1d6:2100::/56 list=AMAZON
 add address=2a05:d019::/36 list=AMAZON
 add address=2a05:d01a::/36 list=AMAZON
+add address=2a05:d01a:c03:4a00::/56 list=AMAZON
 add address=2a05:d01b::/36 list=AMAZON
 add address=2a05:d01c:4ac:3100::/56 list=AMAZON
 add address=2a05:d01c::/36 list=AMAZON
 add address=2a05:d01d::/36 list=AMAZON
+add address=2a05:d01e:27f:ac00::/56 list=AMAZON
 add address=2a05:d01e::/36 list=AMAZON
 add address=2a05:d021::/36 list=AMAZON
 add address=2a05:d022::/36 list=AMAZON
 add address=2a05:d023::/36 list=AMAZON
 add address=2a05:d024::/36 list=AMAZON
 add address=2a05:d025:1000::/36 list=AMAZON
+add address=2a05:d025:451:7d00::/56 list=AMAZON
 add address=2a05:d025::/36 list=AMAZON
 add address=2a05:d026::/36 list=AMAZON
 add address=2a05:d027::/36 list=AMAZON
@@ -7312,6 +7328,7 @@ add address=79.125.0.0/17 list=AMAZON
 add address=83.118.240.0/21 list=AMAZON
 add address=83.118.240.0/22 list=AMAZON
 add address=83.119.128.0/18 list=AMAZON
+add address=83.119.64.0/18 list=AMAZON
 add address=87.238.80.0/21 list=AMAZON
 add address=96.0.0.0/21 list=AMAZON
 add address=96.0.100.0/23 list=AMAZON

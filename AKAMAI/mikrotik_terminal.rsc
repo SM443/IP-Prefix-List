@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Sep 12 06:01:11 +06 2024
+# Last Update - Fri Sep 13 06:00:41 +06 2024
 # --------------------------------------------
-# Total Prefixes: 10096
+# Total Prefixes: 10157
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -10106,3 +10106,64 @@ add address=2605:2fc0:1000::/40 list=AKAMAI
 add address=2605:2fc0:1100::/40 list=AKAMAI
 add address=2a02:26f0:1c::/48 list=AKAMAI
 add address=2a02:26f0:3d::/48 list=AKAMAI
+add address=2001:57a:102::/48 list=AKAMAI
+add address=2001:57a:103::/48 list=AKAMAI
+add address=2620:104:a000::/44 list=AKAMAI
+add address=2620:104:a003::/48 list=AKAMAI
+add address=2620:104:a004::/48 list=AKAMAI
+add address=2620:104:a00a::/48 list=AKAMAI
+add address=2620:104:a00b::/48 list=AKAMAI
+add address=2620:104:a00f::/48 list=AKAMAI
+add address=2600:140b:3::/48 list=AKAMAI
+add address=2600:140b:5::/48 list=AKAMAI
+add address=2600:140b:14::/48 list=AKAMAI
+add address=2600:140b:1800::/48 list=AKAMAI
+add address=2600:140b:2800::/48 list=AKAMAI
+add address=2600:140b:6800::/48 list=AKAMAI
+add address=2600:140b:7800::/48 list=AKAMAI
+add address=2600:140b:9800::/48 list=AKAMAI
+add address=2600:140b:9c00::/48 list=AKAMAI
+add address=2600:140b:a400::/48 list=AKAMAI
+add address=2600:140b:b400::/48 list=AKAMAI
+add address=2600:140b:bc00::/48 list=AKAMAI
+add address=2600:140b:cc00::/48 list=AKAMAI
+add address=2600:140b:e800::/48 list=AKAMAI
+add address=2600:140e:2::/48 list=AKAMAI
+add address=2600:140f:c800::/48 list=AKAMAI
+add address=2600:140f:f800::/48 list=AKAMAI
+add address=2600:1411:1::/48 list=AKAMAI
+add address=2600:1413:1000::/48 list=AKAMAI
+add address=2600:1413:2000::/48 list=AKAMAI
+add address=2600:1413:3000::/48 list=AKAMAI
+add address=2600:1413:8000::/48 list=AKAMAI
+add address=2600:1413:c000::/48 list=AKAMAI
+add address=2600:1413:e000::/48 list=AKAMAI
+add address=2600:1415:a::/48 list=AKAMAI
+add address=2600:1415:15::/48 list=AKAMAI
+add address=2600:1415:400::/48 list=AKAMAI
+add address=2600:1415:c00::/48 list=AKAMAI
+add address=2600:1415:e800::/48 list=AKAMAI
+add address=2600:1415:f800::/48 list=AKAMAI
+add address=2600:1417:2::/48 list=AKAMAI
+add address=2600:1417:1a::/48 list=AKAMAI
+add address=2600:1417:1d::/48 list=AKAMAI
+add address=2600:1417:2a::/48 list=AKAMAI
+add address=2600:1417:2b::/48 list=AKAMAI
+add address=2600:1417:30::/48 list=AKAMAI
+add address=2600:1417:31::/48 list=AKAMAI
+add address=2600:1417:32::/48 list=AKAMAI
+add address=2600:1417:33::/48 list=AKAMAI
+add address=2600:1417:38::/48 list=AKAMAI
+add address=2600:1417:3c::/48 list=AKAMAI
+add address=2600:1417:41::/48 list=AKAMAI
+add address=2600:1417:4c::/48 list=AKAMAI
+add address=2600:1417:4d::/48 list=AKAMAI
+add address=2600:1417:52::/48 list=AKAMAI
+add address=2600:1417:61::/48 list=AKAMAI
+add address=2600:1417:63::/48 list=AKAMAI
+add address=2600:1417:66::/48 list=AKAMAI
+add address=2600:1417:67::/48 list=AKAMAI
+add address=2600:1417:800::/48 list=AKAMAI
+add address=2600:1417:3800::/48 list=AKAMAI
+add address=2600:1417:c000::/48 list=AKAMAI
+add address=2600:1417:f000::/48 list=AKAMAI
