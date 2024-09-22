@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: GOOGLE DOCS
 # --------------------------------------------
-# Last Update - Sat Sep 21 06:00:09 +06 2024
+# Last Update - Sun Sep 22 06:00:08 +06 2024
 # --------------------------------------------
-# Total Prefixes: 98
+# Total Prefixes: 99
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -102,6 +102,7 @@ add address=2600:1900::/28 list=GOOGLE
 add address=2605:ef80::/32 list=GOOGLE
 add address=2606:40::/32 list=GOOGLE
 add address=2606:73c0::/32 list=GOOGLE
+add address=2607:1c0:300::/40 list=GOOGLE
 add address=2607:f8b0::/32 list=GOOGLE
 add address=2620:11a:a000::/40 list=GOOGLE
 add address=2620:120:e000::/40 list=GOOGLE
