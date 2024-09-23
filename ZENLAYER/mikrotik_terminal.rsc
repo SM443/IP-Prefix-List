@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sun Sep 22 06:03:07 +06 2024
+# Last Update - Mon Sep 23 06:03:07 +06 2024
 # --------------------------------------------
-# Total Prefixes: 54
+# Total Prefixes: 83
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -58,9 +58,38 @@ add address=128.14.70.0/24 list=ZENLAYER
 add address=128.14.71.0/24 list=ZENLAYER
 add address=128.14.82.0/24 list=ZENLAYER
 add address=150.107.0.0/24 list=ZENLAYER
+add address=150.129.42.0/24 list=ZENLAYER
 add address=156.59.73.0/24 list=ZENLAYER
 add address=156.59.123.0/24 list=ZENLAYER
 add address=156.59.184.0/24 list=ZENLAYER
 add address=156.59.223.0/24 list=ZENLAYER
 add address=172.81.127.0/24 list=ZENLAYER
 add address=198.44.171.0/24 list=ZENLAYER
+add address=23.91.109.0/24 list=ZENLAYER
+add address=23.91.110.0/23 list=ZENLAYER
+add address=98.98.98.0/24 list=ZENLAYER
+add address=98.98.230.0/23 list=ZENLAYER
+add address=103.140.146.0/23 list=ZENLAYER
+add address=129.227.160.0/21 list=ZENLAYER
+add address=129.227.160.0/24 list=ZENLAYER
+add address=129.227.161.0/24 list=ZENLAYER
+add address=129.227.163.0/24 list=ZENLAYER
+add address=129.227.164.0/24 list=ZENLAYER
+add address=129.227.165.0/24 list=ZENLAYER
+add address=129.227.166.0/24 list=ZENLAYER
+add address=129.227.167.0/24 list=ZENLAYER
+add address=162.128.0.0/23 list=ZENLAYER
+add address=162.128.2.0/23 list=ZENLAYER
+add address=98.98.108.0/23 list=ZENLAYER
+add address=103.167.50.0/23 list=ZENLAYER
+add address=2404:ff40::/32 list=ZENLAYER
+add address=2404:ff40::/36 list=ZENLAYER
+add address=2404:ff40:1000::/36 list=ZENLAYER
+add address=2404:ff40:2000::/36 list=ZENLAYER
+add address=2404:ff40:3000::/36 list=ZENLAYER
+add address=2404:ff40:4000::/36 list=ZENLAYER
+add address=2404:ff40:5000::/36 list=ZENLAYER
+add address=2404:ff40:6000::/36 list=ZENLAYER
+add address=2404:ff40:7000::/36 list=ZENLAYER
+add address=2404:ff40:8000::/36 list=ZENLAYER
+add address=2407:62c0::/32 list=ZENLAYER
