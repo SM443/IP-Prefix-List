@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Oct 30 06:00:06 +06 2024
+# Last Update - Thu Oct 31 06:00:05 +06 2024
 # --------------------------------------------
 # Total Prefixes: 317
 # --------------------------------------------
@@ -83,7 +83,7 @@ add address=16.12.81.0/24 list=AWS_S3
 add address=16.12.82.0/23 list=AWS_S3
 add address=16.12.9.0/24 list=AWS_S3
 add address=16.15.0.0/21 list=AWS_S3
-add address=16.15.12.0/23 list=AWS_S3
+add address=16.15.12.0/22 list=AWS_S3
 add address=16.15.176.0/20 list=AWS_S3
 add address=16.15.192.0/18 list=AWS_S3
 add address=16.15.8.0/22 list=AWS_S3
