@@ -3,15 +3,15 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Fri Nov  1 06:00:55 +06 2024
+# Last Update - Sat Nov  2 06:00:58 +06 2024
 # --------------------------------------------
-# Total Prefixes: 4006
+# Total Prefixes: 4028
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805 list=LINODE
-add address=# Last modified: 2024-10-31 10:00:04.903070 list=LINODE
+add address=# Last modified: 2024-11-01 10:00:04.325060 list=LINODE
 add address=# ip_prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c0f:2::/48 list=LINODE
@@ -3840,6 +3840,28 @@ add address=172.237.6.0/24 list=LINODE
 add address=172.237.7.0/24 list=LINODE
 add address=172.237.8.0/24 list=LINODE
 add address=172.237.9.0/24 list=LINODE
+add address=172.237.10.0/24 list=LINODE
+add address=172.237.11.0/24 list=LINODE
+add address=172.237.12.0/24 list=LINODE
+add address=172.237.13.0/24 list=LINODE
+add address=172.237.14.0/24 list=LINODE
+add address=172.237.15.0/24 list=LINODE
+add address=172.237.16.0/24 list=LINODE
+add address=172.237.17.0/24 list=LINODE
+add address=172.237.18.0/24 list=LINODE
+add address=172.237.19.0/24 list=LINODE
+add address=172.237.20.0/24 list=LINODE
+add address=172.237.21.0/24 list=LINODE
+add address=172.237.22.0/24 list=LINODE
+add address=172.237.23.0/24 list=LINODE
+add address=172.237.24.0/24 list=LINODE
+add address=172.237.25.0/24 list=LINODE
+add address=172.237.26.0/24 list=LINODE
+add address=172.237.27.0/24 list=LINODE
+add address=172.237.28.0/24 list=LINODE
+add address=172.237.29.0/24 list=LINODE
+add address=172.237.30.0/24 list=LINODE
+add address=172.237.31.0/24 list=LINODE
 add address=69.164.223.0/24 list=LINODE
 add address=178.79.175.0/24 list=LINODE
 add address=66.228.63.0/24 list=LINODE
