@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Nov 20 06:00:03 +06 2024
+# Last Update - Thu Nov 21 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8010
+# Total Prefixes: 8011
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2659,6 +2659,7 @@ add address=18.96.2.0/24 list=AMAZON
 add address=18.96.224.0/19 list=AMAZON
 add address=18.96.32.0/19 list=AMAZON
 add address=18.96.64.0/19 list=AMAZON
+add address=18.96.8.0/21 list=AMAZON
 add address=18.96.96.0/19 list=AMAZON
 add address=18.97.0.0/18 list=AMAZON
 add address=18.97.128.0/18 list=AMAZON
