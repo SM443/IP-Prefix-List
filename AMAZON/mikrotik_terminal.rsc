@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Nov 23 06:00:03 +06 2024
+# Last Update - Sun Nov 24 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8027
+# Total Prefixes: 8028
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5633,6 +5633,7 @@ add address=35.96.6.0/24 list=AMAZON
 add address=35.96.64.0/20 list=AMAZON
 add address=35.96.8.0/24 list=AMAZON
 add address=35.96.80.0/20 list=AMAZON
+add address=35.96.9.0/24 list=AMAZON
 add address=35.96.96.0/20 list=AMAZON
 add address=36.103.232.0/25 list=AMAZON
 add address=36.103.232.128/26 list=AMAZON
