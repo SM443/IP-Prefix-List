@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sun Nov 24 06:00:03 +06 2024
+# Last Update - Mon Nov 25 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8028
+# Total Prefixes: 8031
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4286,6 +4286,9 @@ add address=2a01:578:0:7400::/56 list=AMAZON
 add address=2a01:578:0:7500::1/128 list=AMAZON
 add address=2a01:578:0:7501::1/128 list=AMAZON
 add address=2a01:578:0:7502::1/128 list=AMAZON
+add address=2a01:578:0:7600::1/128 list=AMAZON
+add address=2a01:578:0:7601::1/128 list=AMAZON
+add address=2a01:578:0:7602::1/128 list=AMAZON
 add address=2a01:578:0:7700::/56 list=AMAZON
 add address=2a01:578:0:7800::/56 list=AMAZON
 add address=2a01:578:0:7900::/56 list=AMAZON
