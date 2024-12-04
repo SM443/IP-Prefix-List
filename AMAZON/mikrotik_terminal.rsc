@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Dec  3 06:00:02 +06 2024
+# Last Update - Wed Dec  4 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8033
+# Total Prefixes: 8037
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2164,7 +2164,9 @@ add address=16.51.30.0/23 list=AMAZON
 add address=16.51.32.0/22 list=AMAZON
 add address=16.51.86.16/29 list=AMAZON
 add address=16.51.86.8/29 list=AMAZON
-add address=16.52.0.0/14 list=AMAZON
+add address=16.52.0.0/16 list=AMAZON
+add address=16.53.0.0/16 list=AMAZON
+add address=16.54.0.0/15 list=AMAZON
 add address=16.56.0.0/18 list=AMAZON
 add address=16.56.128.0/18 list=AMAZON
 add address=16.57.0.0/18 list=AMAZON
@@ -2710,6 +2712,7 @@ add address=185.143.16.0/24 list=AMAZON
 add address=185.42.204.0/22 list=AMAZON
 add address=185.48.120.0/22 list=AMAZON
 add address=192.108.239.0/24 list=AMAZON
+add address=192.157.36.0/24 list=AMAZON
 add address=192.157.72.0/23 list=AMAZON
 add address=192.16.64.0/21 list=AMAZON
 add address=192.189.197.0/24 list=AMAZON
@@ -4274,7 +4277,7 @@ add address=2620:108:700f::/64 list=AMAZON
 add address=2620:108:d000::/44 list=AMAZON
 add address=2620:108:d00f::/64 list=AMAZON
 add address=27.0.0.0/22 list=AMAZON
-add address=2804:800:0:7000::/56 list=AMAZON
+add address=2804:800::/48 list=AMAZON
 add address=2804:800:ff00::/48 list=AMAZON
 add address=2a01:578:0:13::/64 list=AMAZON
 add address=2a01:578:0:7000::/56 list=AMAZON
@@ -5986,7 +5989,8 @@ add address=51.21.0.0/16 list=AMAZON
 add address=51.224.0.0/15 list=AMAZON
 add address=51.226.0.0/15 list=AMAZON
 add address=51.24.0.0/16 list=AMAZON
-add address=51.34.0.0/15 list=AMAZON
+add address=51.34.0.0/16 list=AMAZON
+add address=51.35.0.0/16 list=AMAZON
 add address=51.44.0.0/16 list=AMAZON
 add address=51.44.72.0/22 list=AMAZON
 add address=51.45.0.0/16 list=AMAZON
