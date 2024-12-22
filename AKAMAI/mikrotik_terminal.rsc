@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Dec 21 06:00:43 +06 2024
+# Last Update - Sun Dec 22 06:00:42 +06 2024
 # --------------------------------------------
-# Total Prefixes: 10377
+# Total Prefixes: 10370
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -10380,10 +10380,3 @@ add address=2605:2fc0:1000::/40 list=AKAMAI
 add address=2605:2fc0:1100::/40 list=AKAMAI
 add address=2a02:26f0:1c::/48 list=AKAMAI
 add address=2a02:26f0:3d::/48 list=AKAMAI
-add address=2001:57a:102::/48 list=AKAMAI
-add address=2001:57a:103::/48 list=AKAMAI
-add address=2620:104:a000::/44 list=AKAMAI
-add address=2620:104:a003::/48 list=AKAMAI
-add address=2620:104:a004::/48 list=AKAMAI
-add address=2620:104:a00a::/48 list=AKAMAI
-add address=2620:104:a00b::/48 list=AKAMAI

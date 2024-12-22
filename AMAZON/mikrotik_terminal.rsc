@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Dec 21 06:00:03 +06 2024
+# Last Update - Sun Dec 22 06:00:03 +06 2024
 # --------------------------------------------
-# Total Prefixes: 8031
+# Total Prefixes: 8038
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2846,9 +2846,11 @@ add address=2400:6500:100:7200::/56 list=AMAZON
 add address=2400:6500:ff00::/48 list=AMAZON
 add address=2400:6700::/48 list=AMAZON
 add address=2400:6700:ff00::/48 list=AMAZON
+add address=2400:7fc0:2000::/40 list=AMAZON
 add address=2400:7fc0:200::/40 list=AMAZON
 add address=2400:7fc0:2100::/40 list=AMAZON
 add address=2400:7fc0:2200::/40 list=AMAZON
+add address=2400:7fc0:2300::/40 list=AMAZON
 add address=2400:7fc0:2400::/40 list=AMAZON
 add address=2400:7fc0:2600::/40 list=AMAZON
 add address=2400:7fc0:2800::/40 list=AMAZON
@@ -2872,9 +2874,11 @@ add address=2400:7fc0::/40 list=AMAZON
 add address=2400:7fc0:a000::/36 list=AMAZON
 add address=2400:7fc0:c000::/36 list=AMAZON
 add address=2403:b300:ff00::/48 list=AMAZON
+add address=2404:c2c0:2000::/40 list=AMAZON
 add address=2404:c2c0:200::/40 list=AMAZON
 add address=2404:c2c0:2100::/40 list=AMAZON
 add address=2404:c2c0:2200::/40 list=AMAZON
+add address=2404:c2c0:2300::/40 list=AMAZON
 add address=2404:c2c0:2400::/40 list=AMAZON
 add address=2404:c2c0:2600::/40 list=AMAZON
 add address=2404:c2c0:2800::/40 list=AMAZON
@@ -4126,6 +4130,7 @@ add address=2606:7b40:10ff:d200::/60 list=AMAZON
 add address=2606:7b40:10ff:d210::/60 list=AMAZON
 add address=2606:7b40:10ff:d220::/60 list=AMAZON
 add address=2606:7b40:10ff:d230::/60 list=AMAZON
+add address=2606:7b40:10ff:d240::/60 list=AMAZON
 add address=2606:7b40:10ff:d250::/60 list=AMAZON
 add address=2606:7b40:10ff:d270::/60 list=AMAZON
 add address=2606:7b40:10ff:d280::/60 list=AMAZON
@@ -5974,6 +5979,8 @@ add address=51.17.72.0/22 list=AMAZON
 add address=51.20.0.0/16 list=AMAZON
 add address=51.200.0.0/15 list=AMAZON
 add address=51.202.0.0/15 list=AMAZON
+add address=51.204.0.0/15 list=AMAZON
+add address=51.206.0.0/15 list=AMAZON
 add address=51.21.0.0/16 list=AMAZON
 add address=51.224.0.0/15 list=AMAZON
 add address=51.226.0.0/15 list=AMAZON
